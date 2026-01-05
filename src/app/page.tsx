@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import CopyButton from "./CopyButton";
 
 interface PromoCode {
   id: string;
