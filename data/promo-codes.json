@@ -1,0 +1,35 @@
+{
+  "lastUpdated": "2026-01-06T05:00:00Z",
+  "codes": [
+    {
+      "id": "1",
+      "code": "KRSITE03",
+      "title": "한국 사이트 신규 할인",
+      "discountAmount": "$3",
+      "minPurchase": "$30",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-31",
+      "category": "신규회원"
+    },
+    {
+      "id": "2",
+      "code": "CHOICEKR03",
+      "title": "초이스데이 3달러 할인",
+      "discountAmount": "$3",
+      "minPurchase": "$4",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-31",
+      "category": "Choice"
+    },
+    {
+      "id": "3",
+      "code": "SUPERDEAL10",
+      "title": "슈퍼딜 10% 할인",
+      "discountAmount": "10%",
+      "minPurchase": "$20",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-15",
+      "category": "슈퍼딜"
+    }
+  ]
+}
