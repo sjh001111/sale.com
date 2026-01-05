@@ -24,17 +24,6 @@ function getPromoCodes(): PromoData {
   return JSON.parse(fileContents);
 }
 
-function CopyButton({ code }: { code: string }) {
-  return (
-    <button
-      onClick={() => navigator.clipboard.writeText(code)}
-      className="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg font-bold transition-colors"
-    >
-      {code} 복사
-    </button>
-  );
-}
-
 export default function Home() {
   const data = getPromoCodes();
 
@@ -83,9 +72,7 @@ export default function Home() {
                 <code className="font-mono text-lg font-bold text-gray-800">
                   {promo.code}
                 </code>
-                <button className="bg-orange-500 hover:bg-orange-600 text-white px-4 py-2 rounded-lg text-sm font-bold transition-colors">
-                  복사
-                </button>
+                <CopyButton code={promo.code} />
               </div>
             </div>
           ))}
