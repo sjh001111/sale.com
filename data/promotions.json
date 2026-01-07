@@ -1,0 +1,45 @@
+{
+  "lastUpdated": "2026-01-05T19:27:56.959414Z",
+  "codes": [
+    {
+      "id": "KR2026-NEW-01",
+      "code": "KRNEW26",
+      "title": "신규 회원 첫 구매 특별 할인",
+      "discountAmount": "$5",
+      "minPurchase": "$20",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-31",
+      "category": "신규회원"
+    },
+    {
+      "id": "KR2026-CHOICE-01",
+      "code": "CHOICE2601",
+      "title": "1월 초이스 데이 셀렉트 할인",
+      "discountAmount": "$3",
+      "minPurchase": "$30",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-05",
+      "category": "Choice"
+    },
+    {
+      "id": "KR2026-SALE-08",
+      "code": "AEKR0108",
+      "title": "1월 윈터 시즌 프로모션 코드",
+      "discountAmount": "$8",
+      "minPurchase": "$60",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-31",
+      "category": "프로모션"
+    },
+    {
+      "id": "KR2026-SUPER-20",
+      "code": "KRA120",
+      "title": "슈퍼딜 고액 구매 할인 쿠폰",
+      "discountAmount": "$20",
+      "minPurchase": "$150",
+      "validFrom": "2026-01-01",
+      "validUntil": "2026-01-31",
+      "category": "슈퍼딜"
+    }
+  ]
+}
