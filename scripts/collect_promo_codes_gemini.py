@@ -1,56 +1,30 @@
-import os
 import json
-from datetime import datetime
+import os
 from pathlib import Path
+
 from dotenv import load_dotenv
+from models import Promotions
 from google import genai
+from google.genai import types
 
 # .env.local 파일 로드
 env_path = Path(__file__).parent.parent / ".env.local"
 load_dotenv(env_path)
 
 PROMPT = """
-알리익스프레스 한국 사이트에서 현재 사용 가능한 프로모션 코드를 찾아주세요.
+현재 한국에서 사용 가능한 알리익스프레스(AliExpress) 프로모션 정보, 프로모션 코드,
+그리고 향후 예정된 프로모션 일정을 검색해서 정리해 주세요.
+날짜와 시간은 KST 기준입니다.
 
-검색할 내용:
-- 알리익스프레스 프로모션 코드
-- AliExpress Korea 쿠폰 코드
-- 알리 할인 코드 2026년 1월
-
-다음 JSON 형식으로만 응답해주세요 (다른 텍스트 없이):
-{
-  "codes": [
-    {
-      "id": "고유ID",
-      "code": "프로모션코드",
-      "title": "한글 제목",
-      "discountAmount": "할인금액 (예: $3, 10%)",
-      "minPurchase": "최소구매금액 (예: $30)",
-      "validFrom": "시작일 YYYY-MM-DD",
-      "validUntil": "종료일 YYYY-MM-DD",
-      "category": "카테고리 (예: 신규회원, Choice, 슈퍼딜)"
-    }
-  ]
-}
-
-규칙:
-- 확실한 코드만 포함
-- 날짜를 모르면 이번 달 말일로 설정
-- 최소 3개 이상의 코드 찾기
+# 주의사항
+- 검색결과에 기반하지 않은 정보는 사용하지 말아야합니다.
+- 프로모션 만료일이 현재 시각 이전이라면 포함하지 말아야합니다.
 """
 
-# To run this code you need to install the following dependencies:
-# pip install google-genai
 
-import base64
-import os
-from google import genai
-from google.genai import types
-
-
-def generate():
+def get_promotions():
     client = genai.Client(
-        api_key="REMOVED", #os.environ.get("GEMINI_API_KEY"),
+        api_key=os.environ.get("GEMINI_API_KEY"),
     )
 
     model = "gemini-3-flash-preview"
@@ -63,71 +37,40 @@ def generate():
         ),
     ]
     tools = [
-        types.Tool(googleSearch=types.GoogleSearch(
-        )),
+        types.Tool(googleSearch=types.GoogleSearch()),
     ]
     generate_content_config = types.GenerateContentConfig(
         # thinking_config=types.ThinkingConfig(
         #     thinking_level="HIGH",
         # ),
-        # tools=tools,
         response_mime_type="application/json",
+        response_schema=Promotions.model_json_schema(),
+        tools=tools,
     )
 
-    for chunk in client.models.generate_content_stream(
+    response = client.models.generate_content(
         model=model,
         contents=contents,
         config=generate_content_config,
-    ):
-        print(chunk.text, end="")
+    )
+    promotions = Promotions.model_validate_json(response.text)
+    print(promotions)
+    return promotions
+
+
+def save(data: Promotions):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(script_dir, "..", "data", "promotions.json")
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(data.model_dump(mode="json"), f, ensure_ascii=False, indent=2)
+
+    code_count = sum(len(promo.codes) for promo in data.active_code_promotions)
+    print(f"저장 완료: {output_path}")
+    print(f"수집된 코드 프로모션 수: {len(data.active_code_promotions)}")
+    print(f"수집된 코드 수: {code_count}")
+
 
 if __name__ == "__main__":
-    generate()
-
-
-# def collect_codes():
-#     print("Gemini API 호출 중...")
-#
-#     response = client.models.generate_content(
-#         model = "gemini-3-flash-preview",
-#         contents=PROMPT
-#     )
-#
-#     # JSON 파싱
-#     text = response.text.strip()
-#
-#     # ```json ... ``` 형식이면 추출
-#     if text.startswith("```"):
-#         text = text.split("```")[1]
-#         if text.startswith("json"):
-#             text = text[4:]
-#
-#     data = json.loads(text)
-#
-#     # 메타데이터 추가
-#     result = {
-#         "lastUpdated": datetime.utcnow().isoformat() + "Z",
-#         "codes": data["codes"]
-#     }
-#
-#     return result
-#
-# def save_codes(data):
-#     script_dir = os.path.dirname(os.path.abspath(__file__))
-#     output_path = os.path.join(script_dir, "..", "data", "promo-codes.json")
-#
-#     with open(output_path, "w", encoding="utf-8") as f:
-#         json.dump(data, f, ensure_ascii=False, indent=2)
-#
-#     print(f"저장 완료: {output_path}")
-#     print(f"수집된 코드 수: {len(data['codes'])}")
-#
-# if __name__ == "__main__":
-#     try:
-#         codes = collect_codes()
-#         print(codes)
-#         # save_codes(codes)
-#         print("성공!")
-#     except Exception as e:
-#         print(f"에러: {e}")
-#         exit(1)
+    promotions = get_promotions()
+    save(promotions)
