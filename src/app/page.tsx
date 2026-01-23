@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import CopyButton from "./CopyButton";
+import { AffiliateButtonHeader, AffiliateButtonFloating } from "./AffiliateButton";
 
 // Types matching models.py
 interface Code {
@@ -45,6 +46,7 @@ function getPromotions(): Promotions {
 function formatDateTime(dateStr: string): string {
   const date = new Date(dateStr);
   return date.toLocaleDateString("ko-KR", {
+    timeZone: "Asia/Seoul",
     year: "numeric",
     month: "long",
     day: "numeric",
@@ -71,7 +73,11 @@ export default function Home() {
             </div>
           )}
 
-          <p className="mt-4 text-white/70 text-sm">
+          <div className="mt-4">
+            <AffiliateButtonHeader />
+          </div>
+
+          <p className="mt-3 text-white/70 text-sm">
             마지막 업데이트: {formatDateTime(data.last_updated)}
           </p>
         </div>
@@ -86,11 +92,8 @@ export default function Home() {
               <div className="bg-red-50 border border-red-200 rounded-t-2xl p-6">
                 <h2 className="text-xl font-bold text-gray-800 mb-4 border-l-4 border-red-500 pl-3">진행 중인 이벤트</h2>
                 <h3 className="text-xl font-bold text-red-500 mb-3">{promo.name}</h3>
-                <p className="text-gray-700 mb-1">
-                  📅 기간: {promo.valid_from.split("T")[0]} ~ {promo.valid_until.split("T")[0]}
-                </p>
                 <p className="text-gray-700 mb-3">
-                  🎁 내용: 초이스 상품 최대 60% 할인 및 무료 배송
+                  📅 기간: {promo.valid_from.split("T")[0]} ~ {promo.valid_until.split("T")[0]}
                 </p>
                 <p className="text-red-500 font-medium">
                   ⏳ 종료까지 약 {Math.ceil((new Date(promo.valid_until).getTime() - new Date().getTime()) / (1000 * 60 * 60 * 24))}일 남았습니다!
@@ -144,7 +147,7 @@ export default function Home() {
                     key={idx}
                     className="flex items-center gap-3 py-3 border-b last:border-b-0 border-gray-100"
                   >
-                    <span className="bg-green-500 text-white font-bold px-3 py-1 rounded text-sm min-w-[100px] text-center">
+                    <span className="bg-green-500 text-white font-bold px-3 py-1 rounded text-sm min-w-25 text-center">
                       {payment.payment_method}
                     </span>
                     <span className="text-gray-700">
@@ -171,7 +174,7 @@ export default function Home() {
                 {data.upcoming_promotions.map((upcoming, idx) => (
                   <div key={idx} className="relative">
                     {/* Timeline dot */}
-                    <div className="absolute -left-[31px] top-1 w-3 h-3 bg-orange-500 rounded-full ring-2 ring-white shadow" />
+                    <div className="absolute -left-8 top-1 w-3 h-3 bg-orange-500 rounded-full ring-2 ring-white shadow" />
 
                     <p className="text-sm text-gray-500 font-medium">
                       {upcoming.valid_from.split("T")[0].replace(/-/g, ".")} ~ {upcoming.valid_until.split("T")[0].slice(5).replace(/-/g, ".")}
@@ -189,6 +192,8 @@ export default function Home() {
       <footer className="bg-gray-100 py-10 text-center text-gray-400 text-sm">
         <p>© 2026 세일닷컴</p>
       </footer>
+
+      <AffiliateButtonFloating />
     </div>
   );
 }
