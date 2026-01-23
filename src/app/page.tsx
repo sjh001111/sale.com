@@ -42,11 +42,6 @@ function getPromotions(): Promotions {
   return JSON.parse(fileContents);
 }
 
-function formatDate(dateStr: string): string {
-  const date = new Date(dateStr);
-  return date.toLocaleDateString("ko-KR", { month: "long", day: "numeric" });
-}
-
 function formatDateTime(dateStr: string): string {
   const date = new Date(dateStr);
   return date.toLocaleDateString("ko-KR", {
@@ -84,38 +79,44 @@ export default function Home() {
 
       <main className="max-w-5xl mx-auto px-4 py-8">
         {/* Code Promotions */}
-        <h2 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-          🎫 프로모션 코드
-          <span className="text-sm font-normal text-gray-500">
-            (클릭하여 코드 복사)
-          </span>
-        </h2>
-
         {data.active_code_promotions.map((promo, promoIdx) => (
-          <section key={promoIdx} className="mb-10">
-            <div className="bg-white rounded-2xl shadow-lg overflow-hidden border-l-8 border-red-500">
+          <section key={promoIdx} className="mb-6">
+            {/* 진행 중인 이벤트 - 이벤트 정보 */}
+            <div className="bg-white rounded-2xl shadow-md overflow-hidden">
+              <div className="bg-red-50 border border-red-200 rounded-t-2xl p-6">
+                <h2 className="text-xl font-bold text-gray-800 mb-4 border-l-4 border-red-500 pl-3">진행 중인 이벤트</h2>
+                <h3 className="text-xl font-bold text-red-500 mb-3">{promo.name}</h3>
+                <p className="text-gray-700 mb-1">
+                  📅 기간: {promo.valid_from.split("T")[0]} ~ {promo.valid_until.split("T")[0]}
+                </p>
+                <p className="text-gray-700 mb-3">
+                  🎁 내용: 초이스 상품 최대 60% 할인 및 무료 배송
+                </p>
+                <p className="text-red-500 font-medium">
+                  ⏳ 종료까지 약 {Math.ceil((new Date(promo.valid_until).getTime() - new Date().getTime()) / (1000 * 60 * 60 * 24))}일 남았습니다!
+                </p>
+              </div>
+
+              {/* 프로모션 코드 */}
               <div className="p-6">
-                <div className="flex flex-wrap items-center gap-2 mb-2">
-                  <span className="bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full">
-                    진행중
-                  </span>
-                  <span className="text-gray-500 text-sm">
-                    {formatDate(promo.valid_from)} ~ {formatDate(promo.valid_until)}
-                  </span>
-                </div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-4">{promo.name}</h3>
+                <h2 className="text-xl font-bold text-gray-800 mb-1 border-l-4 border-red-500 pl-3">
+                  🎫 프로모션 코드
+                </h2>
+                <p className="text-sm text-gray-500 mb-4">
+                  클릭하여 코드 복사
+                </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                   {promo.codes.map((code, codeIdx) => (
                     <div
                       key={codeIdx}
-                      className="border-2 border-dashed border-gray-200 rounded-xl p-4 hover:border-orange-400 transition-colors bg-white"
+                      className="border-2 border-dashed border-gray-200 rounded-xl p-4 hover:border-red-400 hover:shadow-md transition-all bg-white"
                     >
-                      <p className="text-sm text-gray-500 mb-1">
-                        {code.min_purchase} 이상 구매 시
-                      </p>
-                      <p className="text-2xl font-black text-red-600 mb-3">
+                      <p className="text-2xl font-black text-red-500 mb-1">
                         {code.discount_amount} 할인
+                      </p>
+                      <p className="text-sm text-gray-500 mb-3">
+                        {code.min_purchase} 이상 구매 시
                       </p>
                       <div className="flex flex-wrap gap-2">
                         {code.codes.map((c, idx) => (
@@ -132,52 +133,51 @@ export default function Home() {
 
         {/* Payment Promotions */}
         {data.active_payment_promotions.length > 0 && (
-          <section className="mb-10">
-            <h2 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-              💳 결제 혜택
-            </h2>
-            <div className="bg-white rounded-xl shadow-md overflow-hidden">
-              {data.active_payment_promotions.map((payment, idx) => (
-                <div
-                  key={idx}
-                  className="flex items-center gap-4 p-4 border-b last:border-b-0 border-gray-100"
-                >
-                  <span className="bg-blue-600 text-white font-bold px-3 py-1 rounded text-sm min-w-[90px] text-center">
-                    {payment.payment_method}
-                  </span>
-                  <span className="text-gray-700">
-                    {payment.min_purchase} 이상 결제 시{" "}
-                    <strong className="text-blue-600">{payment.discount_amount} 할인</strong>
-                  </span>
-                </div>
-              ))}
+          <section className="mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-xl font-bold text-gray-800 mb-4 border-l-4 border-red-500 pl-3">
+                💳 결제 혜택
+              </h2>
+              <ul>
+                {data.active_payment_promotions.map((payment, idx) => (
+                  <li
+                    key={idx}
+                    className="flex items-center gap-3 py-3 border-b last:border-b-0 border-gray-100"
+                  >
+                    <span className="bg-green-500 text-white font-bold px-3 py-1 rounded text-sm min-w-[100px] text-center">
+                      {payment.payment_method}
+                    </span>
+                    <span className="text-gray-700">
+                      {payment.min_purchase} 이상 결제 시{" "}
+                      <strong className="text-red-500">{payment.discount_amount} 할인</strong>
+                    </span>
+                  </li>
+                ))}
+              </ul>
             </div>
           </section>
         )}
 
-        {/* Upcoming Promotions */}
+        {/* Upcoming Promotions - Timeline Style */}
         {data.upcoming_promotions.length > 0 && (
-          <section className="mb-10">
-            <h2 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-              📅 다가오는 프로모션
-            </h2>
-            <div className="bg-gray-900 rounded-2xl p-6 shadow-lg">
-              <div className="space-y-6">
+          <section className="mb-6">
+            <div className="bg-white rounded-2xl shadow-md p-6">
+              <h2 className="text-xl font-bold text-gray-800 mb-6 border-l-4 border-red-500 pl-3">
+                📅 다가오는 세일 일정
+              </h2>
+
+              {/* Timeline */}
+              <div className="border-l-2 border-gray-200 ml-2 pl-6 space-y-6">
                 {data.upcoming_promotions.map((upcoming, idx) => (
-                  <div key={idx} className="flex items-start gap-4">
-                    <div className="bg-orange-500 text-white px-3 py-2 rounded-lg font-bold text-center min-w-[80px] text-sm">
-                      {new Date(upcoming.valid_from).toLocaleDateString("ko-KR", {
-                        month: "2-digit",
-                        day: "2-digit",
-                      })}
-                    </div>
-                    <div>
-                      <h3 className="text-white font-bold text-lg">{upcoming.name}</h3>
-                      <p className="text-gray-400 text-sm mt-1">{upcoming.description}</p>
-                      <p className="text-gray-500 text-xs mt-1">
-                        {formatDate(upcoming.valid_from)} ~ {formatDate(upcoming.valid_until)}
-                      </p>
-                    </div>
+                  <div key={idx} className="relative">
+                    {/* Timeline dot */}
+                    <div className="absolute -left-[31px] top-1 w-3 h-3 bg-orange-500 rounded-full ring-2 ring-white shadow" />
+
+                    <p className="text-sm text-gray-500 font-medium">
+                      {upcoming.valid_from.split("T")[0].replace(/-/g, ".")} ~ {upcoming.valid_until.split("T")[0].slice(5).replace(/-/g, ".")}
+                    </p>
+                    <h3 className="font-bold text-gray-800 mt-1">{upcoming.name}</h3>
+                    <p className="text-sm text-gray-500 mt-1">{upcoming.description}</p>
                   </div>
                 ))}
               </div>
@@ -186,10 +186,8 @@ export default function Home() {
         )}
       </main>
 
-      <footer className="bg-gray-100 py-10 text-center text-gray-500 text-sm">
-        <p>AI가 자동으로 수집한 프로모션 정보입니다.</p>
-        <p className="mt-1">실제 혜택은 알리익스프레스 상황에 따라 변동될 수 있습니다.</p>
-        <p className="mt-4 text-gray-400">© 2026 세일닷컴</p>
+      <footer className="bg-gray-100 py-10 text-center text-gray-400 text-sm">
+        <p>© 2026 세일닷컴</p>
       </footer>
     </div>
   );

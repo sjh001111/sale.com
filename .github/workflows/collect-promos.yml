@@ -1,0 +1,40 @@
+name: Collect Promo Codes
+
+on:
+  schedule:
+    # 매 6시간마다 실행 (UTC 기준: 0, 6, 12, 18시 = KST 9, 15, 21, 3시)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Run collection script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python scripts/collect_promo_codes_gemini.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/promotions.json
+          git diff --staged --quiet || git commit -m "chore: update promotions data [skip ci]"
+          git push
