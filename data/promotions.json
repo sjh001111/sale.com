@@ -1,51 +1,107 @@
 {
-  "last_updated": "2026-01-23T18:55:00+09:00",
+  "last_updated": "2026-01-25T18:40:00+09:00",
   "active_code_promotions": [
     {
-      "name": "1월 브랜드 특가전 및 상시 할인",
-      "valid_from": "2026-01-19T00:00:00+09:00",
-      "valid_until": "2026-01-31T23:59:59+09:00",
+      "name": "겨울 시즌 피날레 (Winter Season Finale)",
+      "valid_from": "2026-01-25T00:00:00+09:00",
+      "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$29",
+          "min_purchase": "$10",
+          "discount_amount": "$1",
+          "codes": [
+            "FSKR01"
+          ]
+        },
+        {
+          "min_purchase": "$25",
           "discount_amount": "$3",
           "codes": [
-            "AEKA03",
-            "CHOICEKR03",
-            "IFPH4S4F",
-            "IFPRX2MQ"
+            "FSKR03"
           ]
         },
         {
-          "min_purchase": "$59",
-          "discount_amount": "$6",
+          "min_purchase": "$65",
+          "discount_amount": "$7",
           "codes": [
-            "IFP5JCR2",
-            "IFPTPUHP"
+            "FSKR07"
           ]
         },
         {
-          "min_purchase": "$89",
-          "discount_amount": "$9",
-          "codes": [
-            "IFPEWMWD",
-            "IFPKSDVR"
-          ]
-        },
-        {
-          "min_purchase": "$149",
+          "min_purchase": "$139",
           "discount_amount": "$16",
           "codes": [
-            "IFPLMLO8",
-            "IFPBAVSC"
+            "FSKR16"
           ]
         },
         {
-          "min_purchase": "$199",
-          "discount_amount": "$23",
+          "min_purchase": "$209",
+          "discount_amount": "$25",
           "codes": [
-            "IFPGQJHW",
-            "IFPRVGND"
+            "FSKR25"
+          ]
+        },
+        {
+          "min_purchase": "130,000 KRW",
+          "discount_amount": "15,000 KRW",
+          "codes": [
+            "AEKA10"
+          ]
+        },
+        {
+          "min_purchase": "200,000 KRW",
+          "discount_amount": "23,000 KRW",
+          "codes": [
+            "AEKA16"
+          ]
+        },
+        {
+          "min_purchase": "350,000 KRW",
+          "discount_amount": "40,000 KRW",
+          "codes": [
+            "AEKA27"
+          ]
+        },
+        {
+          "min_purchase": "500,000 KRW",
+          "discount_amount": "55,000 KRW",
+          "codes": [
+            "AEKA38"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1월 알급날 (2026 어서오세일)",
+      "valid_from": "2026-01-26T00:00:00+09:00",
+      "valid_until": "2026-01-29T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "PAYDAY02",
+            "HNYPD01",
+            "PPOM0102",
+            "CLIEN0102"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$6",
+          "codes": [
+            "PAYDAY06",
+            "PPOM0106",
+            "CLIEN0106"
+          ]
+        },
+        {
+          "min_purchase": "$135",
+          "discount_amount": "$14",
+          "codes": [
+            "PAYDAY14",
+            "PPOM0114",
+            "CLIEN0114"
           ]
         }
       ]
@@ -53,40 +109,23 @@
   ],
   "active_payment_promotions": [
     {
-      "payment_method": "네이버페이 (Naver Pay)",
-      "min_purchase": "$70",
-      "discount_amount": "$4"
-    },
-    {
-      "payment_method": "카카오페이 / 토스페이",
-      "min_purchase": "$60",
-      "discount_amount": "$5"
+      "payment_method": "롯데카드 (국내 발송 상품)",
+      "min_purchase": "500,000 KRW",
+      "discount_amount": "30,000 KRW"
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "라스트 시즌 세일 (Final Season Savings)",
-      "description": "겨울 시즌 마감 클리어런스 세일 및 전자제품 특가",
-      "valid_from": "2026-01-25T00:00:00+09:00",
-      "valid_until": "2026-01-29T23:59:59+09:00"
-    },
-    {
       "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 및 무료 배송 혜택",
+      "description": "매월 초 진행되는 초이스 등급 상품 정기 할인 행사",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
     },
     {
-      "name": "발렌타인데이 세일",
-      "description": "선물용 귀금속, 패션 및 뷰티 상품 집중 할인",
-      "valid_from": "2026-02-10T00:00:00+09:00",
-      "valid_until": "2026-02-14T23:59:59+09:00"
-    },
-    {
-      "name": "설날 맞이 프로모션 (Chinese New Year Sale)",
-      "description": "2026년 설 연휴 대비 가전 및 의류 대규모 할인",
-      "valid_from": "2026-02-14T00:00:00+09:00",
-      "valid_until": "2026-02-21T23:59:59+09:00"
+      "name": "봄맞이 세일 (Spring Sale)",
+      "description": "신학기 및 봄 시즌 대비 가전, 패션 품목 집중 할인",
+      "valid_from": "2026-02-17T00:00:00+09:00",
+      "valid_until": "2026-02-23T23:59:59+09:00"
     }
   ]
 }
