@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-01-26T10:43:00+09:00",
+  "last_updated": "2026-01-26T15:33:00+09:00",
   "active_code_promotions": [
     {
-      "name": "1월 알급날 (2026 어서오세일)",
+      "name": "알급날 2026 어서오세일 (Payday Sale)",
       "valid_from": "2026-01-26T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -11,9 +11,9 @@
           "discount_amount": "$2",
           "codes": [
             "PAYDAY02",
+            "HNYPD01",
             "PPOM0102",
-            "CLIEN0102",
-            "HNYPD01"
+            "CLIEN0102"
           ]
         },
         {
@@ -21,26 +21,23 @@
           "discount_amount": "$6",
           "codes": [
             "PAYDAY06",
+            "HNYPD02",
             "PPOM0106",
-            "CLIEN0106",
-            "HNYPD02"
+            "CLIEN0106"
           ]
         },
         {
           "min_purchase": "$135",
           "discount_amount": "$14",
           "codes": [
-            "PAYDAY14",
-            "PPOM0114",
-            "CLIEN0114",
-            "HNYPD03"
+            "PAYDAY14"
           ]
         }
       ]
     },
     {
       "name": "겨울 시즌 피날레 (Winter Season Finale)",
-      "valid_from": "2026-01-25T00:00:00+09:00",
+      "valid_from": "2026-01-26T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
         {
@@ -79,63 +76,64 @@
           ]
         }
       ]
-    },
-    {
-      "name": "1월 브랜드 특가전",
-      "valid_from": "2026-01-01T00:00:00+09:00",
-      "valid_until": "2026-01-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$35",
-          "discount_amount": "$4",
-          "codes": [
-            "BRAND0104"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "BRAND0108"
-          ]
-        },
-        {
-          "min_purchase": "$102",
-          "discount_amount": "$11",
-          "codes": [
-            "BRAND0111"
-          ]
-        },
-        {
-          "min_purchase": "$203",
-          "discount_amount": "$24",
-          "codes": [
-            "BRAND0124"
-          ]
-        },
-        {
-          "min_purchase": "$340",
-          "discount_amount": "$40",
-          "codes": [
-            "BRAND0140"
-          ]
-        }
-      ]
     }
   ],
   "active_payment_promotions": [
     {
-      "payment_method": "네이버페이 (Naver Pay)",
-      "min_purchase": "$70",
-      "discount_amount": "$4"
+      "payment_method": "네이버페이 머니카드 (Naver Pay Moneycard)",
+      "min_purchase": "$100",
+      "discount_amount": "$22"
+    },
+    {
+      "payment_method": "삼성 iD Global 카드 (Samsung iD Global Card)",
+      "min_purchase": "$300",
+      "discount_amount": "$60"
+    },
+    {
+      "payment_method": "KB국민 카드 (KB Kookmin Card)",
+      "min_purchase": "$100",
+      "discount_amount": "$16"
+    },
+    {
+      "payment_method": "토스페이 (Toss Pay)",
+      "min_purchase": "$100",
+      "discount_amount": "$11"
+    },
+    {
+      "payment_method": "카카오페이 (Kakao Pay)",
+      "min_purchase": "$100",
+      "discount_amount": "$12"
+    },
+    {
+      "payment_method": "IBK기업은행 마스터카드 (IBK Mastercard)",
+      "min_purchase": "$100",
+      "discount_amount": "$16"
     }
   ],
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 행사로 초이스 상품 대상 혜택 제공",
+      "description": "매월 초 진행되는 정기 할인 행사로 빠른 배송과 가성비 상품 위주 할인",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
+    },
+    {
+      "name": "발렌타인 데이 세일 (Valentine's Day Sale)",
+      "description": "선물용 액세서리, 뷰티, 패션 잡화 중심의 특별 할인",
+      "valid_from": "2026-02-10T00:00:00+09:00",
+      "valid_until": "2026-02-14T23:59:59+09:00"
+    },
+    {
+      "name": "설날 맞이 프로모션 (Lunar New Year Sale)",
+      "description": "한국 명절 설날을 맞이한 대규모 할인 및 K-Venue 전용 혜택 제공",
+      "valid_from": "2026-02-14T00:00:00+09:00",
+      "valid_until": "2026-02-21T23:59:59+09:00"
+    },
+    {
+      "name": "알리익스프레스 애니버서리 (AliExpress Anniversary)",
+      "description": "창립 기념일 맞이 상반기 최대 규모 정기 세일",
+      "valid_from": "2026-03-17T00:00:00+09:00",
+      "valid_until": "2026-03-26T23:59:59+09:00"
     }
   ]
 }
