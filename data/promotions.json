@@ -1,8 +1,12 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-01-27T04:35:00+09:00",
+=======
+  "last_updated": "2026-01-26T18:31:00+09:00",
+>>>>>>> 705a02c4a641c51783b36d5228d3dc40912a91cb
   "active_code_promotions": [
     {
-      "name": "알급날 2026 어서오세일 (Payday Sale)",
+      "name": "1월 알급날 (Pay Day)",
       "valid_from": "2026-01-26T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -11,7 +15,6 @@
           "discount_amount": "$2",
           "codes": [
             "PAYDAY02",
-            "HNYPD01",
             "PPOM0102",
             "CLIEN0102",
             "KRPD02"
@@ -22,7 +25,6 @@
           "discount_amount": "$6",
           "codes": [
             "PAYDAY06",
-            "HNYPD02",
             "PPOM0106",
             "CLIEN0106"
           ]
@@ -39,7 +41,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "name": "겨울 시즌 피날레 (Winter Season Finale)",
+=======
+      "name": "겨울 시즌 피날레 (Final Season Savings)",
+>>>>>>> 705a02c4a641c51783b36d5228d3dc40912a91cb
       "valid_from": "2026-01-25T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -83,6 +89,7 @@
   ],
   "active_payment_promotions": [
     {
+<<<<<<< HEAD
       "payment_method": "네이버페이 머니카드 (Naver Pay Moneycard)",
       "min_purchase": "$100",
       "discount_amount": "$22"
@@ -121,32 +128,19 @@
       "payment_method": "IBK기업은행 마스터카드 (IBK Mastercard)",
       "min_purchase": "$100",
       "discount_amount": "$16"
+=======
+      "payment_method": "롯데카드 (국내 배송 상품 전용)",
+      "min_purchase": "500,000원",
+      "discount_amount": "30,000원"
+>>>>>>> 705a02c4a641c51783b36d5228d3dc40912a91cb
     }
   ],
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 행사로 빠른 배송과 가성비 상품 위주 할인",
+      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 높은 할인율과 무료 배송 혜택을 제공합니다.",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
-    },
-    {
-      "name": "발렌타인 데이 세일 (Valentine's Day Sale)",
-      "description": "선물용 액세서리, 뷰티, 패션 잡화 중심의 특별 할인",
-      "valid_from": "2026-02-10T00:00:00+09:00",
-      "valid_until": "2026-02-14T23:59:59+09:00"
-    },
-    {
-      "name": "설날 맞이 프로모션 (Lunar New Year Sale)",
-      "description": "한국 명절 설날을 맞이한 대규모 할인 및 K-Venue 전용 혜택 제공",
-      "valid_from": "2026-02-14T00:00:00+09:00",
-      "valid_until": "2026-02-21T23:59:59+09:00"
-    },
-    {
-      "name": "알리익스프레스 애니버서리 (AliExpress Anniversary)",
-      "description": "창립 기념일 맞이 상반기 최대 규모 정기 세일",
-      "valid_from": "2026-03-17T00:00:00+09:00",
-      "valid_until": "2026-03-26T23:59:59+09:00"
     }
   ]
 }
