@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-26T15:33:00+09:00",
+  "last_updated": "2026-01-27T04:35:00+09:00",
   "active_code_promotions": [
     {
       "name": "알급날 2026 어서오세일 (Payday Sale)",
@@ -13,7 +13,8 @@
             "PAYDAY02",
             "HNYPD01",
             "PPOM0102",
-            "CLIEN0102"
+            "CLIEN0102",
+            "KRPD02"
           ]
         },
         {
@@ -30,14 +31,16 @@
           "min_purchase": "$135",
           "discount_amount": "$14",
           "codes": [
-            "PAYDAY14"
+            "PAYDAY14",
+            "PPOM0114",
+            "CLIEN0114"
           ]
         }
       ]
     },
     {
       "name": "겨울 시즌 피날레 (Winter Season Finale)",
-      "valid_from": "2026-01-26T00:00:00+09:00",
+      "valid_from": "2026-01-25T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
         {
@@ -90,6 +93,11 @@
       "discount_amount": "$60"
     },
     {
+      "payment_method": "롯데카드 (Lotte Card)",
+      "min_purchase": "500,000원",
+      "discount_amount": "30,000원"
+    },
+    {
       "payment_method": "KB국민 카드 (KB Kookmin Card)",
       "min_purchase": "$100",
       "discount_amount": "$16"
@@ -103,6 +111,11 @@
       "payment_method": "카카오페이 (Kakao Pay)",
       "min_purchase": "$100",
       "discount_amount": "$12"
+    },
+    {
+      "payment_method": "BC카드 마스터카드 (BC Mastercard)",
+      "min_purchase": "$50",
+      "discount_amount": "$8"
     },
     {
       "payment_method": "IBK기업은행 마스터카드 (IBK Mastercard)",
