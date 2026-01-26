@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "last_updated": "2026-01-27T04:35:00+09:00",
+=======
+  "last_updated": "2026-01-27T04:47:00+09:00",
+>>>>>>> 515b2ad57f3638862f543c0d7ce2c135c4401c1c
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day)",
@@ -13,7 +17,8 @@
             "PAYDAY02",
             "PPOM0102",
             "CLIEN0102",
-            "KRPD02"
+            "KRPD02",
+            "HNYPD01"
           ]
         },
         {
@@ -22,7 +27,9 @@
           "codes": [
             "PAYDAY06",
             "PPOM0106",
-            "CLIEN0106"
+            "CLIEN0106",
+            "KRPD06",
+            "HNYPD02"
           ]
         },
         {
@@ -31,7 +38,8 @@
           "codes": [
             "PAYDAY14",
             "PPOM0114",
-            "CLIEN0114"
+            "CLIEN0114",
+            "KRPD14"
           ]
         }
       ]
@@ -91,7 +99,7 @@
       "discount_amount": "$60"
     },
     {
-      "payment_method": "롯데카드 (Lotte Card)",
+      "payment_method": "롯데카드 (Lotte Card) - 국내 발송 전용",
       "min_purchase": "500,000원",
       "discount_amount": "30,000원"
     },
