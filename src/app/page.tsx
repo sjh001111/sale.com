@@ -141,22 +141,26 @@ export default function Home() {
               <h2 className="text-xl font-bold text-gray-800 mb-4 border-l-4 border-red-500 pl-3">
                 💳 결제 혜택
               </h2>
-              <ul>
-                {data.active_payment_promotions.map((payment, idx) => (
-                  <li
-                    key={idx}
-                    className="flex items-center gap-3 py-3 border-b last:border-b-0 border-gray-100"
-                  >
-                    <span className="bg-green-500 text-white font-bold px-3 py-1 rounded text-sm min-w-25 text-center">
-                      {payment.payment_method}
-                    </span>
-                    <span className="text-gray-700">
-                      {payment.min_purchase} 이상 결제 시{" "}
-                      <strong className="text-red-500">{payment.discount_amount} 할인</strong>
-                    </span>
-                  </li>
-                ))}
-              </ul>
+              <div className="overflow-x-auto">
+                <table className="w-full">
+                  <thead>
+                    <tr className="border-b border-gray-200">
+                      <th className="text-left py-2 text-sm text-gray-500 font-medium">결제수단</th>
+                      <th className="text-left py-2 text-sm text-gray-500 font-medium">조건</th>
+                      <th className="text-right py-2 text-sm text-gray-500 font-medium">할인</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {data.active_payment_promotions.map((payment, idx) => (
+                      <tr key={idx} className="border-b last:border-b-0 border-gray-100">
+                        <td className="py-3 font-medium text-gray-800">{payment.payment_method}</td>
+                        <td className="py-3 text-gray-600">{payment.min_purchase} 이상</td>
+                        <td className="py-3 text-right font-bold text-red-500">{payment.discount_amount}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
             </div>
           </section>
         )}

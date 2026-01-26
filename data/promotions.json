@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "last_updated": "2026-01-27T04:35:00+09:00",
-=======
-  "last_updated": "2026-01-26T18:31:00+09:00",
->>>>>>> 705a02c4a641c51783b36d5228d3dc40912a91cb
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day)",
@@ -41,11 +37,7 @@
       ]
     },
     {
-<<<<<<< HEAD
       "name": "겨울 시즌 피날레 (Winter Season Finale)",
-=======
-      "name": "겨울 시즌 피날레 (Final Season Savings)",
->>>>>>> 705a02c4a641c51783b36d5228d3dc40912a91cb
       "valid_from": "2026-01-25T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -89,7 +81,6 @@
   ],
   "active_payment_promotions": [
     {
-<<<<<<< HEAD
       "payment_method": "네이버페이 머니카드 (Naver Pay Moneycard)",
       "min_purchase": "$100",
       "discount_amount": "$22"
@@ -128,11 +119,6 @@
       "payment_method": "IBK기업은행 마스터카드 (IBK Mastercard)",
       "min_purchase": "$100",
       "discount_amount": "$16"
-=======
-      "payment_method": "롯데카드 (국내 배송 상품 전용)",
-      "min_purchase": "500,000원",
-      "discount_amount": "30,000원"
->>>>>>> 705a02c4a641c51783b36d5228d3dc40912a91cb
     }
   ],
   "upcoming_promotions": [
