@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-01-26T21:42:00+09:00",
+  "last_updated": "2026-01-26T18:31:00+09:00",
   "active_code_promotions": [
     {
-      "name": "1월 알급날 (어서오세일)",
+      "name": "1월 알급날 (Pay Day)",
       "valid_from": "2026-01-26T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -12,8 +12,7 @@
           "codes": [
             "PAYDAY02",
             "PPOM0102",
-            "CLIEN0102",
-            "HNYPD01"
+            "CLIEN0102"
           ]
         },
         {
@@ -22,8 +21,7 @@
           "codes": [
             "PAYDAY06",
             "PPOM0106",
-            "CLIEN0106",
-            "HNYPD02"
+            "CLIEN0106"
           ]
         },
         {
@@ -38,10 +36,17 @@
       ]
     },
     {
-      "name": "겨울 시즌 피날레 (Winter Finale)",
+      "name": "겨울 시즌 피날레 (Final Season Savings)",
       "valid_from": "2026-01-25T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$10",
+          "discount_amount": "$1",
+          "codes": [
+            "FSKR01"
+          ]
+        },
         {
           "min_purchase": "$25",
           "discount_amount": "$3",
@@ -75,45 +80,17 @@
   ],
   "active_payment_promotions": [
     {
-      "payment_method": "네이버페이 (Naver Pay)",
-      "min_purchase": "$70",
-      "discount_amount": "$4"
-    },
-    {
-      "payment_method": "토스페이 (Toss Pay)",
-      "min_purchase": "$60",
-      "discount_amount": "$4"
-    },
-    {
-      "payment_method": "카카오페이 (Kakao Pay)",
-      "min_purchase": "$100",
-      "discount_amount": "$7"
+      "payment_method": "롯데카드 (국내 배송 상품 전용)",
+      "min_purchase": "500,000원",
+      "discount_amount": "30,000원"
     }
   ],
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매달 초 진행되는 정기 할인 행사로 빠른 배송과 특가 혜택 제공",
+      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 높은 할인율과 무료 배송 혜택을 제공합니다.",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
-    },
-    {
-      "name": "발렌타인 데이 세일",
-      "description": "선물용 액세서리, 뷰티, 패션 아이템 중심의 테마 할인",
-      "valid_from": "2026-02-10T00:00:00+09:00",
-      "valid_until": "2026-02-14T23:59:59+09:00"
-    },
-    {
-      "name": "설날 빅세일 (Lunar New Year)",
-      "description": "2026년 설날 맞이 대규모 시즌 할인 및 전자제품 특가",
-      "valid_from": "2026-02-14T00:00:00+09:00",
-      "valid_until": "2026-02-21T23:59:59+09:00"
-    },
-    {
-      "name": "2월 A+ 세일",
-      "description": "월말 가전 및 브랜드 제품 중심의 추가 프로모션",
-      "valid_from": "2026-02-24T00:00:00+09:00",
-      "valid_until": "2026-02-26T23:59:59+09:00"
     }
   ]
 }
