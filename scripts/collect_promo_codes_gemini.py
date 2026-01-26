@@ -84,7 +84,7 @@ def get_promotions():
     print(prompt)
     print("=" * 50)
 
-    model = "gemini-3-pro-preview"
+    model = "gemini-3-flash-preview"
     contents = [
         types.Content(
             role="user",
