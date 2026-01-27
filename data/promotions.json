@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T15:31:00+09:00",
+  "last_updated": "2026-01-27T21:42:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - K-Venue 전용",
@@ -43,7 +43,9 @@
           "min_purchase": "$348",
           "discount_amount": "$35",
           "codes": [
-            "HNYPD04"
+            "HNYPD04",
+            "PAYDAY35",
+            "KRPD35"
           ]
         }
       ]
@@ -142,7 +144,7 @@
     },
     {
       "name": "2월 설날 프로모션 (Lunar New Year Sale)",
-      "description": "설 연휴를 맞이하여 진행되는 대규모 할인 행사입니다.",
+      "description": "설 연휴를 맞이하여 진행되는 대규모 할인 행사입니다. '2026 어서오세일' 메인 테마와 연결됩니다.",
       "valid_from": "2026-02-10T00:00:00+09:00",
       "valid_until": "2026-02-16T23:59:59+09:00"
     }
