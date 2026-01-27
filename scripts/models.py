@@ -18,13 +18,6 @@ class CurrentCodePromotion(BaseModel):
     codes: List[Code]  # 코드 리스트
 
 
-class CurrentPaymentPromotion(BaseModel):
-    """진행중인 결제 프로모션"""
-    payment_method: str  # 결제수단
-    min_purchase: str  # 구매 조건
-    discount_amount: str  # 할인액
-
-
 class UpcomingPromotion(BaseModel):
     """향후 프로모션"""
     name: str  # 이름
@@ -37,5 +30,4 @@ class Promotions(BaseModel):
     """전체 프로모션 데이터"""
     last_updated: datetime  # 업데이트 일시
     active_code_promotions: List[CurrentCodePromotion]  # 진행중인 코드 프로모션
-    active_payment_promotions: List[CurrentPaymentPromotion]  # 진행중인 결제 프로모션
     upcoming_promotions: List[UpcomingPromotion]  # 향후 프로모션

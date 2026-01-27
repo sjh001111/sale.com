@@ -83,48 +83,6 @@
       ]
     }
   ],
-  "active_payment_promotions": [
-    {
-      "payment_method": "네이버페이 머니카드 (Naver Pay Moneycard)",
-      "min_purchase": "$100",
-      "discount_amount": "$22"
-    },
-    {
-      "payment_method": "삼성 iD Global 카드 (Samsung iD Global Card)",
-      "min_purchase": "$300",
-      "discount_amount": "$60"
-    },
-    {
-      "payment_method": "롯데카드 (Lotte Card) - 국내 발송 전용",
-      "min_purchase": "500,000원",
-      "discount_amount": "30,000원"
-    },
-    {
-      "payment_method": "KB국민 카드 (KB Kookmin Card)",
-      "min_purchase": "$100",
-      "discount_amount": "$16"
-    },
-    {
-      "payment_method": "토스페이 (Toss Pay)",
-      "min_purchase": "$100",
-      "discount_amount": "$11"
-    },
-    {
-      "payment_method": "카카오페이 (Kakao Pay)",
-      "min_purchase": "$100",
-      "discount_amount": "$12"
-    },
-    {
-      "payment_method": "BC카드 마스터카드 (BC Mastercard)",
-      "min_purchase": "$50",
-      "discount_amount": "$8"
-    },
-    {
-      "payment_method": "IBK기업은행 마스터카드 (IBK Mastercard)",
-      "min_purchase": "$100",
-      "discount_amount": "$16"
-    }
-  ],
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day)",
