@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-01-27T04:47:00+09:00",
+  "last_updated": "2026-01-27T21:42:00+09:00",
   "active_code_promotions": [
     {
-      "name": "1월 알급날 (Pay Day)",
+      "name": "1월 알급날 (Pay Day) - K-Venue 전용",
       "valid_from": "2026-01-26T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -35,7 +35,17 @@
             "PAYDAY14",
             "PPOM0114",
             "CLIEN0114",
-            "KRPD14"
+            "KRPD14",
+            "HNYPD03"
+          ]
+        },
+        {
+          "min_purchase": "$348",
+          "discount_amount": "$35",
+          "codes": [
+            "HNYPD04",
+            "PAYDAY35",
+            "KRPD35"
           ]
         }
       ]
@@ -83,12 +93,63 @@
       ]
     }
   ],
+<<<<<<< HEAD
+=======
+  "active_payment_promotions": [
+    {
+      "payment_method": "네이버페이 머니카드 (Naver Pay Moneycard)",
+      "min_purchase": "$100",
+      "discount_amount": "$22"
+    },
+    {
+      "payment_method": "삼성 iD Global 카드 (Samsung iD Global Card)",
+      "min_purchase": "$300",
+      "discount_amount": "$60"
+    },
+    {
+      "payment_method": "롯데카드 (Lotte Card) - 국내 발송(K-Venue) 전용",
+      "min_purchase": "500,000원",
+      "discount_amount": "30,000원"
+    },
+    {
+      "payment_method": "KB국민 카드 (KB Kookmin Card)",
+      "min_purchase": "$100",
+      "discount_amount": "$16"
+    },
+    {
+      "payment_method": "토스페이 (Toss Pay)",
+      "min_purchase": "$100",
+      "discount_amount": "$11"
+    },
+    {
+      "payment_method": "카카오페이 (Kakao Pay)",
+      "min_purchase": "$100",
+      "discount_amount": "$12"
+    },
+    {
+      "payment_method": "BC카드 마스터카드 (BC Mastercard)",
+      "min_purchase": "$50",
+      "discount_amount": "$8"
+    },
+    {
+      "payment_method": "IBK기업은행 마스터카드 (IBK Mastercard)",
+      "min_purchase": "$100",
+      "discount_amount": "$16"
+    }
+  ],
+>>>>>>> ce8af588b1ac1997bf8e682a9f3963d3d115fea5
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 높은 할인율과 무료 배송 혜택을 제공합니다.",
+      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 무료 배송 및 전용 할인을 제공합니다.",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
+    },
+    {
+      "name": "2월 설날 프로모션 (Lunar New Year Sale)",
+      "description": "설 연휴를 맞이하여 진행되는 대규모 할인 행사입니다. '2026 어서오세일' 메인 테마와 연결됩니다.",
+      "valid_from": "2026-02-10T00:00:00+09:00",
+      "valid_until": "2026-02-16T23:59:59+09:00"
     }
   ]
 }
