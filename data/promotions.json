@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T04:47:00+09:00",
+  "last_updated": "2026-01-27T10:41:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day)",
@@ -35,7 +35,15 @@
             "PAYDAY14",
             "PPOM0114",
             "CLIEN0114",
-            "KRPD14"
+            "KRPD14",
+            "HNYPD03"
+          ]
+        },
+        {
+          "min_purchase": "$348",
+          "discount_amount": "$35",
+          "codes": [
+            "HNYPD04"
           ]
         }
       ]
