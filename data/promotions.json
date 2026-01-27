@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T21:42:00+09:00",
+  "last_updated": "2026-01-28T03:35:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - K-Venue 전용",
@@ -91,6 +91,48 @@
           ]
         }
       ]
+    },
+    {
+      "name": "1월 브랜드 특가전 (Brand Day Sale)",
+      "valid_from": "2026-01-26T00:00:00+09:00",
+      "valid_until": "2026-01-29T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$35",
+          "discount_amount": "$4",
+          "codes": [
+            "BRAND0104"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "BRAND0108"
+          ]
+        },
+        {
+          "min_purchase": "$102",
+          "discount_amount": "$11",
+          "codes": [
+            "BRAND0111"
+          ]
+        },
+        {
+          "min_purchase": "$203",
+          "discount_amount": "$24",
+          "codes": [
+            "BRAND0124"
+          ]
+        },
+        {
+          "min_purchase": "$340",
+          "discount_amount": "$40",
+          "codes": [
+            "BRAND0140"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
@@ -102,9 +144,15 @@
     },
     {
       "name": "2월 설날 프로모션 (Lunar New Year Sale)",
-      "description": "설 연휴를 맞이하여 진행되는 대규모 할인 행사입니다. '2026 어서오세일' 메인 테마와 연결됩니다.",
+      "description": "설 연휴를 맞이하여 진행되는 '2026 어서오세일' 메인 테마의 대규모 할인 행사입니다.",
       "valid_from": "2026-02-10T00:00:00+09:00",
       "valid_until": "2026-02-16T23:59:59+09:00"
+    },
+    {
+      "name": "2월 봄맞이 세일 (Spring Sale)",
+      "description": "겨울 시즌 종료 후 새로운 시즌 상품들을 대상으로 진행되는 할인 프로모션입니다.",
+      "valid_from": "2026-02-17T00:00:00+09:00",
+      "valid_until": "2026-02-23T23:59:59+09:00"
     }
   ]
 }
