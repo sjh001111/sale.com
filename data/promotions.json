@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-01-27T10:41:00+09:00",
+  "last_updated": "2026-01-27T15:31:00+09:00",
   "active_code_promotions": [
     {
-      "name": "1월 알급날 (Pay Day)",
+      "name": "1월 알급날 (Pay Day) - K-Venue 전용",
       "valid_from": "2026-01-26T00:00:00+09:00",
       "valid_until": "2026-01-29T23:59:59+09:00",
       "codes": [
@@ -103,7 +103,7 @@
       "discount_amount": "$60"
     },
     {
-      "payment_method": "롯데카드 (Lotte Card) - 국내 발송 전용",
+      "payment_method": "롯데카드 (Lotte Card) - 국내 발송(K-Venue) 전용",
       "min_purchase": "500,000원",
       "discount_amount": "30,000원"
     },
@@ -136,9 +136,15 @@
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 높은 할인율과 무료 배송 혜택을 제공합니다.",
+      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 무료 배송 및 전용 할인을 제공합니다.",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
+    },
+    {
+      "name": "2월 설날 프로모션 (Lunar New Year Sale)",
+      "description": "설 연휴를 맞이하여 진행되는 대규모 할인 행사입니다.",
+      "valid_from": "2026-02-10T00:00:00+09:00",
+      "valid_until": "2026-02-16T23:59:59+09:00"
     }
   ]
 }
