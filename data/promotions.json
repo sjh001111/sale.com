@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T15:32:00+09:00",
+  "last_updated": "2026-01-28T21:43:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - K-Venue 전용",
@@ -16,7 +16,9 @@
             "KRPD02",
             "HNYPD01",
             "AEPD02",
-            "AEPAY02"
+            "AEPAY02",
+            "AEKRPD02",
+            "ALISALE02"
           ]
         },
         {
@@ -29,7 +31,9 @@
             "KRPD06",
             "HNYPD02",
             "AEPD06",
-            "AEPAY06"
+            "AEPAY06",
+            "AEKRPD06",
+            "ALISALE06"
           ]
         },
         {
@@ -42,7 +46,9 @@
             "KRPD14",
             "HNYPD03",
             "AEPD14",
-            "AEPAY14"
+            "AEPAY14",
+            "AEKRPD14",
+            "ALISALE14"
           ]
         },
         {
@@ -53,7 +59,9 @@
             "PAYDAY35",
             "KRPD35",
             "AEPD35",
-            "AEPAY35"
+            "AEPAY35",
+            "AEKRPD35",
+            "ALISALE35"
           ]
         }
       ]
