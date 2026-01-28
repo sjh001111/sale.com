@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28T03:35:00+09:00",
+  "last_updated": "2026-01-28T10:28:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - K-Venue 전용",
@@ -14,7 +14,8 @@
             "PPOM0102",
             "CLIEN0102",
             "KRPD02",
-            "HNYPD01"
+            "HNYPD01",
+            "AEPD02"
           ]
         },
         {
@@ -25,7 +26,8 @@
             "PPOM0106",
             "CLIEN0106",
             "KRPD06",
-            "HNYPD02"
+            "HNYPD02",
+            "AEPD06"
           ]
         },
         {
@@ -36,7 +38,8 @@
             "PPOM0114",
             "CLIEN0114",
             "KRPD14",
-            "HNYPD03"
+            "HNYPD03",
+            "AEPD14"
           ]
         },
         {
@@ -45,7 +48,8 @@
           "codes": [
             "HNYPD04",
             "PAYDAY35",
-            "KRPD35"
+            "KRPD35",
+            "AEPD35"
           ]
         }
       ]
@@ -153,6 +157,12 @@
       "description": "겨울 시즌 종료 후 새로운 시즌 상품들을 대상으로 진행되는 할인 프로모션입니다.",
       "valid_from": "2026-02-17T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
+    },
+    {
+      "name": "2월 알급날 (Pay Day)",
+      "description": "2월 말 진행되는 한국 전용 K-Venue 상품 할인 프로모션입니다.",
+      "valid_from": "2026-02-24T00:00:00+09:00",
+      "valid_until": "2026-02-28T23:59:59+09:00"
     }
   ]
 }
