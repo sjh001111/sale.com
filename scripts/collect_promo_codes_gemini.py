@@ -59,6 +59,7 @@ def build_prompt(existing_data: str, current_time: str) -> str:
 
 ### 4. 향후 프로모션 일정
 - 예정된 세일 일정(초이스데이, 브랜드데이, 페이데이 등)도 검색
+- description에는 행사 설명만 작성하고, 프로모션 코드는 포함하지 마세요
 
 ## 주의사항
 - 검색 결과에 기반한 정보만 사용 (추측 금지)
