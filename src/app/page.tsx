@@ -155,8 +155,9 @@ export default function Home() {
         )}
       </main>
 
-      <footer className="bg-gray-100 py-10 text-center text-gray-400 text-sm">
+      <footer className="bg-gray-100 py-10 text-center text-gray-400 text-sm space-y-1">
         <p>© 2026 세일닷컴</p>
+        <p>일부 링크를 통해 구매 시 사이트 운영에 도움이 되는 수수료를 받을 수 있습니다.</p>
       </footer>
 
       <AffiliateButtonFloating />
