@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T21:42:00+09:00",
+  "last_updated": "2026-01-29T21:52:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - K-Venue 전용",
@@ -14,7 +14,11 @@
             "PPOM0102",
             "CLIEN0102",
             "KRPD02",
-            "HNYPD01"
+            "HNYPD01",
+            "AEPD02",
+            "AEPAY02",
+            "AEKRPD02",
+            "ALISALE02"
           ]
         },
         {
@@ -25,7 +29,11 @@
             "PPOM0106",
             "CLIEN0106",
             "KRPD06",
-            "HNYPD02"
+            "HNYPD02",
+            "AEPD06",
+            "AEPAY06",
+            "AEKRPD06",
+            "ALISALE06"
           ]
         },
         {
@@ -36,16 +44,26 @@
             "PPOM0114",
             "CLIEN0114",
             "KRPD14",
-            "HNYPD03"
+            "HNYPD03",
+            "AEPD14",
+            "AEPAY14",
+            "AEKRPD14",
+            "ALISALE14"
           ]
         },
         {
           "min_purchase": "$348",
           "discount_amount": "$35",
           "codes": [
-            "HNYPD04",
             "PAYDAY35",
-            "KRPD35"
+            "PPOM0135",
+            "CLIEN0135",
+            "KRPD35",
+            "HNYPD04",
+            "AEPD35",
+            "AEPAY35",
+            "AEKRPD35",
+            "ALISALE35"
           ]
         }
       ]
@@ -89,22 +107,41 @@
           "codes": [
             "FSKR25"
           ]
+        },
+        {
+          "min_purchase": "$559",
+          "discount_amount": "$60",
+          "codes": [
+            "WINTER60"
+          ]
         }
       ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "2월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 행사로, Choice 카테고리 상품 대상 무료 배송 및 전용 할인을 제공합니다.",
+      "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
+      "description": "매월 초 정기 할인 행사로, 초이스 카테고리 무료 배송 및 전용 할인 코드가 제공됩니다.",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
     },
     {
-      "name": "2월 설날 프로모션 (Lunar New Year Sale)",
-      "description": "설 연휴를 맞이하여 진행되는 대규모 할인 행사입니다. '2026 어서오세일' 메인 테마와 연결됩니다.",
-      "valid_from": "2026-02-10T00:00:00+09:00",
-      "valid_until": "2026-02-16T23:59:59+09:00"
+      "name": "2월 발렌타인 세일 (Valentine's Sale)",
+      "description": "발렌타인데이를 기념하여 선물용 가전 및 뷰티 상품 위주로 진행되는 할인 행사입니다.",
+      "valid_from": "2026-02-09T00:00:00+09:00",
+      "valid_until": "2026-02-14T23:59:59+09:00"
+    },
+    {
+      "name": "2월 미리 만나는 봄 (Spring Sale)",
+      "description": "설날 연휴 및 봄 시즌 전환을 겨냥한 패션, 리빙 카테고리 대규모 프로모션입니다.",
+      "valid_from": "2026-02-15T00:00:00+09:00",
+      "valid_until": "2026-02-23T23:59:59+09:00"
+    },
+    {
+      "name": "2월 알급날 (Pay Day)",
+      "description": "2월 말 진행되는 한국 전용 K-Venue 상품 대상 결산 할인 프로모션입니다.",
+      "valid_from": "2026-02-24T00:00:00+09:00",
+      "valid_until": "2026-02-28T23:59:59+09:00"
     }
   ]
 }
