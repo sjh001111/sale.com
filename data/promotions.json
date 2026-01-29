@@ -1,13 +1,103 @@
 {
-  "last_updated": "2026-01-30T03:51:00+09:00",
-  "active_code_promotions": [],
-  "upcoming_promotions": [
+  "last_updated": "2026-01-30T03:54:00+09:00",
+  "active_code_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
-      "description": "2월의 첫 정기 세일로, '사랑가득 선물대전' 테마로 진행됩니다. 주요 코드: LOVEKR02 ($19/$2), LOVEKR04 ($34/$4), LOVEKR06 ($53/$6), LOVEKR09 ($86/$9), LOVEKR15 ($139/$15), LOVEKR26 ($239/$26), LOVEKR34 ($332/$34), LOVEKR54 ($529/$54).",
       "valid_from": "2026-02-01T00:00:00+09:00",
-      "valid_until": "2026-02-07T23:59:59+09:00"
-    },
+      "valid_until": "2026-02-07T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$19",
+          "discount_amount": "$2",
+          "codes": [
+            "LOVEKR02",
+            "FEBKR02",
+            "KRCD02",
+            "AECLIEN02",
+            "PPOMKR02"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "LOVEKR04",
+            "FEBKR04",
+            "KRCD04",
+            "AECLIEN04",
+            "PPOMKR04"
+          ]
+        },
+        {
+          "min_purchase": "$53",
+          "discount_amount": "$6",
+          "codes": [
+            "LOVEKR06",
+            "FEBKR06",
+            "KRCD06",
+            "AECLIEN06",
+            "PPOMKR06"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$9",
+          "codes": [
+            "LOVEKR09",
+            "FEBKR09",
+            "KRCD09",
+            "AECLIEN09",
+            "PPOMKR09"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "LOVEKR15",
+            "FEBKR15",
+            "KRCD15",
+            "AECLIEN15",
+            "PPOMKR15"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "LOVEKR26",
+            "FEBKR26",
+            "KRCD26",
+            "AECLIEN26",
+            "PPOMKR26"
+          ]
+        },
+        {
+          "min_purchase": "$332",
+          "discount_amount": "$34",
+          "codes": [
+            "LOVEKR34",
+            "FEBKR34",
+            "KRCD34",
+            "AECLIEN34",
+            "PPOMKR34"
+          ]
+        },
+        {
+          "min_purchase": "$529",
+          "discount_amount": "$54",
+          "codes": [
+            "LOVEKR54",
+            "FEBKR54",
+            "KRCD54",
+            "AECLIEN54",
+            "PPOMKR54"
+          ]
+        }
+      ]
+    }
+  ],
+  "upcoming_promotions": [
     {
       "name": "2월 A+ 세일 (설날 및 봄맞이 통합 프로모션)",
       "description": "설날 연휴와 봄 시즌 준비를 위한 대규모 할인 행사입니다. 기존 설날 프로모션과 봄맞이 세일을 통합하여 진행하며, 다양한 K-Venue 상품 및 글로벌 상품 할인이 제공됩니다.",
@@ -16,7 +106,7 @@
     },
     {
       "name": "2월 알급날 (Pay Day)",
-      "description": "2월 말 진행되는 한국 전용 K-Venue 상품 대상 월말 결산 할인 프로모션입니다. PAYDAY 시리즈 코드가 발행될 예정입니다.",
+      "description": "2월 말 진행되는 한국 전용 K-Venue 상품 대상 월말 결산 할인 프로모션입니다. 국내 발송 상품에 대한 높은 할인율과 전용 결제 혜택이 제공될 예정입니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-28T23:59:59+09:00"
     }
