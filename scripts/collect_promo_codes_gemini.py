@@ -51,7 +51,7 @@ def build_prompt(existing_data: str, current_time: str) -> str:
 - valid_until이 현재 시각 이전인 프로모션은 제거
 - 여전히 유효한 프로모션은 유지
 - 기존에 없던 새로운 코드가 있으면 추가
-- 기존 코드가 실제로 유효한지 웹 검색으로 재검증하고, 존재 확인이 안 되는 코드는 제거
+- 기존 코드는 기본적으로 유지하되, 허위/무효로 확인된 코드만 제거
 
 ### 3. 한국 전용 코드만 포함
 - 한국 사용자 전용 코드: PAYDAY, HNYPD, FSKR, CLIEN, PPOM, KR 접미사 등
