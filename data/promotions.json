@@ -1,82 +1,30 @@
 {
-  "last_updated": "2026-01-30T03:44:00+09:00",
-  "active_code_promotions": [
-    {
-      "name": "1월 알급날 (Pay Day) & 라스트 미닛 클리어런스",
-      "valid_from": "2026-01-24T00:00:00+09:00",
-      "valid_until": "2026-01-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "PAYDAY192",
-            "JANPD02",
-            "KR2601",
-            "PPOM0102",
-            "AECLIEN0102"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$6",
-          "codes": [
-            "PAYDAY566",
-            "JANPD06",
-            "KR2602",
-            "PPOM0106",
-            "AECLIEN0106"
-          ]
-        },
-        {
-          "min_purchase": "$135",
-          "discount_amount": "$14",
-          "codes": [
-            "PAYDAY135",
-            "JANPD14",
-            "KR2603",
-            "PPOM0114",
-            "AECLIEN0114"
-          ]
-        },
-        {
-          "min_purchase": "$348",
-          "discount_amount": "$35",
-          "codes": [
-            "PAYDAY348",
-            "JANPD35",
-            "KR2604",
-            "PPOM0135",
-            "AECLIEN0135"
-          ]
-        }
-      ]
-    }
-  ],
+  "last_updated": "2026-01-30T03:46:00+09:00",
+  "active_code_promotions": [],
   "upcoming_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
-      "description": "매월 초 정기 할인 행사로, 초이스 카테고리 무료 배송 및 전용 할인 코드가 제공됩니다. 할인 구간별 코드: $19/$2(LOVEKR02, PPOMKR02, AECLIEN02), $34/$4(LOVEKR04, PPOMKR04, AECLIEN04), $53/$6(LOVEKR06, PPOMKR06, AECLIEN06), $86/$9(LOVEKR09, PPOMKR09, AECLIEN09), $139/$15(LOVEKR15, PPOMKR15, AECLIEN15), $239/$26(LOVEKR26, PPOMKR26, AECLIEN26), $332/$34(LOVEKR34, PPOMKR34, AECLIEN34), $529/$54(LOVEKR54, PPOMKR54, AECLIEN54).",
+      "description": "매월 초 진행되는 알리익스프레스의 대표 정기 할인 행사입니다. 초이스 태그 상품에 대해 최대 60% 할인 및 $10 이상 구매 시 무료 배송 혜택이 제공됩니다. 주요 할인 코드 구간: $19/$2(LOVEKR02, PPOMKR02, AECLIEN02), $34/$4(LOVEKR04, PPOMKR04, AECLIEN04), $53/$6(LOVEKR06, PPOMKR06, AECLIEN06), $86/$9(LOVEKR09, PPOMKR09, AECLIEN09), $139/$15(LOVEKR15, PPOMKR15, AECLIEN15), $239/$26(LOVEKR26, PPOMKR26, AECLIEN26), $332/$34(LOVEKR34, PPOMKR34, AECLIEN34), $529/$54(LOVEKR54, PPOMKR54, AECLIEN54).",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00"
     },
     {
       "name": "2월 발렌타인 세일 (Valentine's Sale)",
-      "description": "발렌타인데이를 기념하여 선물용 가전 및 뷰티 상품 위주로 진행되는 할인 행사입니다.",
+      "description": "발렌타인데이를 맞아 선물용 전자기기, 뷰티, 액세서리 품목에 집중된 할인 행사입니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
       "valid_until": "2026-02-14T23:59:59+09:00"
     },
     {
-      "name": "2월 봄 맞이 세일 (Spring Sale)",
-      "description": "봄 시즌 전환을 겨냥한 패션, 리빙 카테고리 대규모 프로모션으로 겨울 클리어런스 혜택이 포함될 수 있습니다.",
+      "name": "2월 봄 맞이 세일 (미리 만나는 봄)",
+      "description": "봄 시즌 신상 패션 및 리빙 아이템을 대상으로 하는 대규모 프로모션입니다.",
       "valid_from": "2026-02-15T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
     },
     {
       "name": "2월 알급날 (Pay Day)",
-      "description": "2월 말 진행되는 한국 전용 K-Venue 상품 대상 결산 할인 프로모션입니다.",
+      "description": "월말 한국 전용 K-Venue 상품 및 국내 발송 상품 대상 결산 프로모션입니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
-      "valid_until": "2026-02-28T23:59:59+09:00"
+      "valid_until": "2026-02-26T23:59:59+09:00"
     }
   ]
 }
