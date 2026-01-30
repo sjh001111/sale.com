@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T15:43:00+09:00",
+  "last_updated": "2026-01-30T21:49:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - 한국 전용 막판 세일",
@@ -13,7 +13,8 @@
             "PAYDAY0102",
             "AECLIEN0102",
             "PPOM0102",
-            "KR0102"
+            "KR0102",
+            "PAYDAY02"
           ]
         },
         {
@@ -23,7 +24,8 @@
             "PAYDAY0106",
             "AECLIEN0106",
             "PPOM0106",
-            "KR0106"
+            "KR0106",
+            "PAYDAY06"
           ]
         },
         {
@@ -33,7 +35,8 @@
             "PAYDAY0114",
             "AECLIEN0114",
             "PPOM0114",
-            "KR0114"
+            "KR0114",
+            "PAYDAY14"
           ]
         },
         {
@@ -58,13 +61,11 @@
           "discount_amount": "$2",
           "codes": [
             "LOVEKR02",
-            "FEBKR02",
             "KRCD02",
+            "FEBKR02",
             "AECLIEN02",
             "PPOMKR02",
-            "PAYDAY02",
-            "PPOM0102",
-            "CLIEN0102"
+            "PAYDAY02"
           ]
         },
         {
@@ -72,8 +73,8 @@
           "discount_amount": "$4",
           "codes": [
             "LOVEKR04",
-            "FEBKR04",
             "KRCD04",
+            "FEBKR04",
             "AECLIEN04",
             "PPOMKR04"
           ]
@@ -83,13 +84,11 @@
           "discount_amount": "$6",
           "codes": [
             "LOVEKR06",
-            "FEBKR06",
             "KRCD06",
+            "FEBKR06",
             "AECLIEN06",
             "PPOMKR06",
-            "PAYDAY06",
-            "PPOM0106",
-            "CLIEN0106"
+            "PAYDAY06"
           ]
         },
         {
@@ -97,8 +96,8 @@
           "discount_amount": "$9",
           "codes": [
             "LOVEKR09",
-            "FEBKR09",
             "KRCD09",
+            "FEBKR09",
             "AECLIEN09",
             "PPOMKR09"
           ]
@@ -108,11 +107,11 @@
           "discount_amount": "$15",
           "codes": [
             "LOVEKR15",
-            "FEBKR15",
             "KRCD15",
+            "FEBKR15",
             "AECLIEN15",
             "PPOMKR15",
-            "PAYDAY14"
+            "PAYDAY15"
           ]
         },
         {
@@ -120,8 +119,8 @@
           "discount_amount": "$26",
           "codes": [
             "LOVEKR26",
-            "FEBKR26",
             "KRCD26",
+            "FEBKR26",
             "AECLIEN26",
             "PPOMKR26"
           ]
@@ -131,8 +130,8 @@
           "discount_amount": "$34",
           "codes": [
             "LOVEKR34",
-            "FEBKR34",
             "KRCD34",
+            "FEBKR34",
             "AECLIEN34",
             "PPOMKR34"
           ]
@@ -142,8 +141,8 @@
           "discount_amount": "$54",
           "codes": [
             "LOVEKR54",
-            "FEBKR54",
             "KRCD54",
+            "FEBKR54",
             "AECLIEN54",
             "PPOMKR54"
           ]
@@ -153,14 +152,14 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "2월 A+ 세일 (설날 및 봄맞이 통합 프로모션)",
-      "description": "2026년 설날 연휴와 봄 시즌 준비를 위한 대규모 할인 행사입니다. K-Venue 상품의 빠른 배송과 글로벌 직구 상품의 시즌 클리어런스 혜택이 결합된 통합 프로모션으로 진행됩니다.",
+      "name": "2월 발렌타인 세일 & A+ 봄맞이 대전",
+      "description": "발렌타인 데이 선물 준비와 봄 시즌 신상을 위한 메인 프로모션입니다. 전 품목 최대 60% 할인과 함께 대규모 결제 할인 및 한국 전용 프로모션 코드가 제공될 예정입니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
     },
     {
       "name": "2월 알급날 (Pay Day)",
-      "description": "2월 말 진행되는 한국 전용 K-Venue 상품 대상 월말 결산 할인 프로모션입니다. 국내 발송 가전 및 생활 용품에 대해 높은 카드사 즉시 할인과 전용 코드가 제공될 예정입니다.",
+      "description": "2월의 마지막 결산 세일로, 국내 발송 K-Venue 상품에 특화된 높은 결제 할인 혜택과 전용 할인 코드가 제공되는 한국 전용 행사입니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-28T23:59:59+09:00"
     }
