@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31T03:38:00+09:00",
+  "last_updated": "2026-01-31T10:45:00+09:00",
   "active_code_promotions": [
     {
       "name": "1월 알급날 (Pay Day) - 한국 전용 막판 세일",
@@ -14,39 +14,46 @@
             "AECLIEN0102",
             "PPOM0102",
             "KR0102",
-            "PAYDAY02"
+            "PAYDAY02",
+            "CLIEN0102",
+            "HNYPD01"
           ]
         },
         {
-          "min_purchase": "$60",
+          "min_purchase": "$56",
           "discount_amount": "$6",
           "codes": [
             "PAYDAY0106",
             "AECLIEN0106",
             "PPOM0106",
             "KR0106",
-            "PAYDAY06"
+            "PAYDAY06",
+            "CLIEN0106",
+            "HNYPD02"
           ]
         },
         {
-          "min_purchase": "$140",
+          "min_purchase": "$135",
           "discount_amount": "$14",
           "codes": [
             "PAYDAY0114",
             "AECLIEN0114",
             "PPOM0114",
             "KR0114",
-            "PAYDAY14"
+            "PAYDAY14",
+            "CLIEN0114",
+            "HNYPD03"
           ]
         },
         {
-          "min_purchase": "$350",
+          "min_purchase": "$348",
           "discount_amount": "$35",
           "codes": [
             "PAYDAY0135",
             "AECLIEN0135",
             "PPOM0135",
-            "KR0135"
+            "KR0135",
+            "HNYPD04"
           ]
         }
       ]
@@ -153,19 +160,19 @@
   "upcoming_promotions": [
     {
       "name": "2월 발렌타인 세일 (Valentine's Day Sale)",
-      "description": "발렌타인 데이 시즌을 맞아 초콜릿, 액세서리, 디지털 기기 등 선물용 상품에 특화된 최대 60% 할인 프로모션입니다.",
+      "description": "발렌타인 데이 시즌을 대비한 2월의 첫 번째 메인 프로모션으로, 선물용 인기 상품군에 대해 최대 60% 할인이 적용됩니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
       "valid_until": "2026-02-14T23:59:59+09:00"
     },
     {
       "name": "2월 미리 만나는 봄 (Spring Sale)",
-      "description": "봄 시즌 신상 의류 및 리빙 상품을 중심으로 진행되는 2월의 두 번째 메인 세일입니다. 대규모 결제 할인 혜택이 함께 제공됩니다.",
+      "description": "봄 시즌 신상 의류 및 리빙 카테고리를 중심으로 진행되는 대규모 할인 행사입니다.",
       "valid_from": "2026-02-15T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
     },
     {
       "name": "2월 알급날 (Pay Day)",
-      "description": "2월의 마지막 결산 세일로, 국내 발송 K-Venue 상품에 특화된 높은 결제 할인 혜택과 전용 할인 코드가 제공되는 한국 전용 행사입니다.",
+      "description": "2월의 마지막을 장식하는 한국 전용 세일로, K-Venue 상품 및 국내 발송 상품에 특화된 혜택이 제공됩니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     }
