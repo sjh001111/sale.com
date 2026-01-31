@@ -1,63 +1,6 @@
 {
-  "last_updated": "2026-01-31T21:40:00+09:00",
+  "last_updated": "2026-02-01T03:28:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "1월 알급날 (Pay Day) - 한국 전용 막판 세일",
-      "valid_from": "2026-01-24T00:00:00+09:00",
-      "valid_until": "2026-01-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "PAYDAY0102",
-            "AECLIEN0102",
-            "PPOM0102",
-            "KR0102",
-            "PAYDAY02",
-            "CLIEN0102",
-            "HNYPD01"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$6",
-          "codes": [
-            "PAYDAY0106",
-            "AECLIEN0106",
-            "PPOM0106",
-            "KR0106",
-            "PAYDAY06",
-            "CLIEN0106",
-            "HNYPD02"
-          ]
-        },
-        {
-          "min_purchase": "$135",
-          "discount_amount": "$14",
-          "codes": [
-            "PAYDAY0114",
-            "AECLIEN0114",
-            "PPOM0114",
-            "KR0114",
-            "PAYDAY14",
-            "CLIEN0114",
-            "HNYPD03"
-          ]
-        },
-        {
-          "min_purchase": "$348",
-          "discount_amount": "$35",
-          "codes": [
-            "PAYDAY0135",
-            "AECLIEN0135",
-            "PPOM0135",
-            "KR0135",
-            "HNYPD04"
-          ]
-        }
-      ]
-    },
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
       "valid_from": "2026-02-01T00:00:00+09:00",
