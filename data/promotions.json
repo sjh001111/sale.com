@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-02-01T11:04:00+09:00",
+  "last_updated": "2026-02-01T15:44:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-07T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$10",
+          "discount_amount": "$1",
+          "codes": [
+            "FSKR01"
+          ]
+        },
         {
           "min_purchase": "$19",
           "discount_amount": "$2",
@@ -16,6 +23,13 @@
             "AECLIEN02",
             "PPOMKR02",
             "PAYDAY02"
+          ]
+        },
+        {
+          "min_purchase": "$25",
+          "discount_amount": "$3",
+          "codes": [
+            "FSKR03"
           ]
         },
         {
@@ -42,6 +56,13 @@
           ]
         },
         {
+          "min_purchase": "$65",
+          "discount_amount": "$7",
+          "codes": [
+            "FSKR07"
+          ]
+        },
+        {
           "min_purchase": "$86",
           "discount_amount": "$9",
           "codes": [
@@ -62,6 +83,13 @@
             "AECLIEN15",
             "PPOMKR15",
             "PAYDAY15"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$16",
+          "codes": [
+            "FSKR16"
           ]
         },
         {
@@ -95,6 +123,20 @@
             "FEBKR54",
             "AECLIEN54",
             "PPOMKR54"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2월 천원마트 전용 프로모션",
+      "valid_from": "2026-02-01T00:00:00+09:00",
+      "valid_until": "2026-02-28T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$13",
+          "discount_amount": "$1.8",
+          "codes": [
+            "NNCODE"
           ]
         }
       ]
