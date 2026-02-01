@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-01T21:42:00+09:00",
+  "last_updated": "2026-02-02T03:31:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
@@ -23,7 +23,9 @@
             "AECLIEN02",
             "PPOMKR02",
             "PAYDAY02",
-            "ALICOU02"
+            "ALICOU02",
+            "AEPP02",
+            "AELP02"
           ]
         },
         {
@@ -42,7 +44,9 @@
             "FEBKR04",
             "AECLIEN04",
             "PPOMKR04",
-            "ALICOU04"
+            "ALICOU04",
+            "AEPP04",
+            "AELP04"
           ]
         },
         {
@@ -55,7 +59,9 @@
             "AECLIEN06",
             "PPOMKR06",
             "PAYDAY06",
-            "ALICOU06"
+            "ALICOU06",
+            "AEPP06",
+            "AELP06"
           ]
         },
         {
@@ -74,7 +80,9 @@
             "FEBKR09",
             "AECLIEN09",
             "PPOMKR09",
-            "ALICOU09"
+            "ALICOU09",
+            "AEPP09",
+            "AELP09"
           ]
         },
         {
@@ -87,7 +95,9 @@
             "AECLIEN15",
             "PPOMKR15",
             "PAYDAY15",
-            "ALICOU15"
+            "ALICOU15",
+            "AEPP15",
+            "AELP15"
           ]
         },
         {
@@ -106,7 +116,9 @@
             "FEBKR26",
             "AECLIEN26",
             "PPOMKR26",
-            "ALICOU26"
+            "ALICOU26",
+            "AEPP26",
+            "AELP26"
           ]
         },
         {
@@ -118,7 +130,9 @@
             "FEBKR34",
             "AECLIEN34",
             "PPOMKR34",
-            "ALICOU34"
+            "ALICOU34",
+            "AEPP34",
+            "AELP34"
           ]
         },
         {
@@ -130,7 +144,9 @@
             "FEBKR54",
             "AECLIEN54",
             "PPOMKR54",
-            "ALICOU54"
+            "ALICOU54",
+            "AEPP54",
+            "AELP54"
           ]
         }
       ]
@@ -153,25 +169,25 @@
   "upcoming_promotions": [
     {
       "name": "2월 발렌타인 세일 (Valentine's Day Sale)",
-      "description": "발렌타인 데이와 졸업 시즌을 대비한 선물용 카테고리(주얼리, 전자기기, 초콜릿 등) 대상 메인 세일입니다.",
+      "description": "발렌타인 데이와 졸업 시즌을 대비한 선물용 카테고리인 주얼리, 전자기기, 초콜릿 등을 대상으로 진행되는 메인 프로모션입니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
       "valid_until": "2026-02-14T23:59:59+09:00"
     },
     {
       "name": "2월 미리 만나는 봄 (Spring Sale)",
-      "description": "봄 시즌 신상 의류, 아웃도어 캠핑 용품 및 리빙 카테고리를 중심으로 진행되는 대규모 할인 행사입니다.",
+      "description": "봄 시즌 신상 의류, 아웃도어 캠핑 용품 및 리빙 카테고리를 중심으로 진행되는 2월의 두 번째 대규모 할인 행사입니다.",
       "valid_from": "2026-02-15T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
     },
     {
       "name": "2월 알급날 (Pay Day)",
-      "description": "월말 월급날 시즌에 맞춘 한국 전용 세일로, 국내 발송 K-Venue 상품에 대한 높은 할인율의 코드가 제공됩니다.",
+      "description": "월말 월급날 시즌에 맞춘 한국 전용 세일로, 국내 발송 상품인 K-Venue 전용 할인 코드와 결제 혜택이 집중적으로 제공됩니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 세일 (Anniversary Sale)",
-      "description": "알리익스프레스 연중 최대 규모 행사 중 하나로, 전 상품군에 걸친 파격 할인과 대규모 프로모션 코드가 배포됩니다.",
+      "description": "알리익스프레스 연중 최대 규모 행사 중 하나로, 전 상품군에 걸친 파격 할인과 역대급 규모의 프로모션 코드가 배포될 예정입니다.",
       "valid_from": "2026-03-18T00:00:00+09:00",
       "valid_until": "2026-03-27T23:59:59+09:00"
     }
