@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T21:54:00+09:00",
+  "last_updated": "2026-02-04T03:53:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
@@ -265,7 +265,7 @@
   "upcoming_promotions": [
     {
       "name": "2월 발렌타인 세일 (Valentine's Day Sale)",
-      "description": "발렌타인 데이와 졸업 시즌을 대비한 선물용 카테고리를 대상으로 진행되는 2월의 첫 번째 메인 프로모션입니다.",
+      "description": "발렌타인 데이와 졸업 시즌을 대비한 선물용 카테고리를 대상으로 진행되는 2월의 메인 프로모션입니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
       "valid_until": "2026-02-14T23:59:59+09:00"
     },
