@@ -2,8 +2,8 @@ name: Collect Promo Codes
 
 on:
   schedule:
-    # 매 6시간마다 실행 (UTC 기준: 0, 6, 12, 18시 = KST 9, 15, 21, 3시)
-    - cron: "0 */6 * * *"
+    # 매 12시간마다 실행 (UTC 기준: 0, 12시 = KST 9, 21시)
+    - cron: "0 */12 * * *"
   workflow_dispatch: # 수동 실행 가능
 
 jobs:
