@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-06T12:47:00+09:00",
+  "last_updated": "2026-02-06T22:13:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
@@ -21,6 +21,7 @@
           "discount_amount": "$4",
           "codes": [
             "LOVEKR04",
+            "KRCD04",
             "PPOMKR04",
             "AECLIEN04"
           ]
@@ -30,6 +31,7 @@
           "discount_amount": "$6",
           "codes": [
             "LOVEKR06",
+            "KRCD06",
             "PPOMKR06",
             "AECLIEN06"
           ]
@@ -39,6 +41,7 @@
           "discount_amount": "$9",
           "codes": [
             "LOVEKR09",
+            "KRCD09",
             "PPOMKR09",
             "AECLIEN09"
           ]
@@ -48,6 +51,7 @@
           "discount_amount": "$15",
           "codes": [
             "LOVEKR15",
+            "KRCD15",
             "PPOMKR15",
             "AECLIEN15"
           ]
@@ -57,6 +61,7 @@
           "discount_amount": "$26",
           "codes": [
             "LOVEKR26",
+            "KRCD26",
             "PPOMKR26",
             "AECLIEN26"
           ]
@@ -66,6 +71,7 @@
           "discount_amount": "$34",
           "codes": [
             "LOVEKR34",
+            "KRCD34",
             "PPOMKR34",
             "AECLIEN34"
           ]
@@ -75,6 +81,7 @@
           "discount_amount": "$54",
           "codes": [
             "LOVEKR54",
+            "KRCD54",
             "PPOMKR54",
             "AECLIEN54"
           ]
@@ -100,25 +107,31 @@
   "upcoming_promotions": [
     {
       "name": "2월 발렌타인 세일 (Valentine's Day Sale)",
-      "description": "중국 춘절(설날) 연휴와 겹쳐 장기간 진행되는 2월의 주요 세일로, 선물용 제품 및 봄 시즌 상품에 대해 높은 할인율이 적용됩니다.",
+      "description": "발렌타인 데이를 기념하여 선물용 가전, 액세서리, 뷰티 제품 등을 대상으로 진행되는 할인 행사입니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
+      "valid_until": "2026-02-14T23:59:59+09:00"
+    },
+    {
+      "name": "2월 미리 만나는 봄 (Spring Sale)",
+      "description": "중국 춘절 연휴 기간과 연계하여 진행되는 장기 프로모션으로, 다가오는 봄 시즌 의류 및 리빙 상품에 대한 높은 할인 혜택을 제공합니다.",
+      "valid_from": "2026-02-15T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
     },
     {
       "name": "2월 알급날 (Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 프로모션으로 국내 배송 상품(K-Venue) 및 인기 가전 브랜드 제품에 대한 카드사 결제 할인과 전용 코드가 제공됩니다.",
+      "description": "매월 말 진행되는 한국 전용 프로모션으로 K-Venue 상품 및 브랜드 가전 제품에 대한 카드사 결제 할인과 전용 코드가 제공됩니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 1일부터 시작되는 정기 세일로 알리익스프레스 초이스 상품군에 대해 무료 배송 및 빠른 배송 혜택을 제공합니다.",
+      "description": "매월 초 정기적으로 진행되는 가성비 테마 세일로 초이스 상품 무료 배송 및 빠른 배송 혜택이 집중됩니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 연간 최대 규모의 세일 중 하나로, 상반기 중 가장 강력한 할인 코드와 광범위한 결제 혜택이 집중되는 행사입니다.",
+      "description": "알리익스프레스 창립 16주년을 기념하는 연간 최대 규모의 세일 행사로 상반기 중 가장 강력한 할인 코드와 카드사 혜택이 제공됩니다.",
       "valid_from": "2026-03-18T00:00:00+09:00",
       "valid_until": "2026-03-27T23:59:59+09:00"
     }
