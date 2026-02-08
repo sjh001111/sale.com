@@ -1,93 +1,6 @@
 {
-  "last_updated": "2026-02-07T22:02:00+09:00",
+  "last_updated": "2026-02-08T12:17:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "2월 초이스 데이 (Choice Day) - 사랑가득 선물대전",
-      "valid_from": "2026-02-01T00:00:00+09:00",
-      "valid_until": "2026-02-07T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "LOVEKR02",
-            "KRCD02",
-            "PPOMKR02",
-            "AECLIEN02"
-          ]
-        },
-        {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "LOVEKR04",
-            "KRCD04",
-            "PPOMKR04",
-            "AECLIEN04"
-          ]
-        },
-        {
-          "min_purchase": "$53",
-          "discount_amount": "$6",
-          "codes": [
-            "LOVEKR06",
-            "KRCD06",
-            "PPOMKR06",
-            "AECLIEN06"
-          ]
-        },
-        {
-          "min_purchase": "$86",
-          "discount_amount": "$9",
-          "codes": [
-            "LOVEKR09",
-            "KRCD09",
-            "PPOMKR09",
-            "AECLIEN09"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$15",
-          "codes": [
-            "LOVEKR15",
-            "KRCD15",
-            "PPOMKR15",
-            "AECLIEN15"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
-          "codes": [
-            "LOVEKR26",
-            "KRCD26",
-            "PPOMKR26",
-            "AECLIEN26"
-          ]
-        },
-        {
-          "min_purchase": "$332",
-          "discount_amount": "$34",
-          "codes": [
-            "LOVEKR34",
-            "KRCD34",
-            "PPOMKR34",
-            "AECLIEN34"
-          ]
-        },
-        {
-          "min_purchase": "$529",
-          "discount_amount": "$54",
-          "codes": [
-            "LOVEKR54",
-            "KRCD54",
-            "PPOMKR54",
-            "AECLIEN54"
-          ]
-        }
-      ]
-    },
     {
       "name": "2월 천원마트 전용 프로모션",
       "valid_from": "2026-02-01T00:00:00+09:00",
@@ -103,36 +16,93 @@
           ]
         }
       ]
+    },
+    {
+      "name": "2월 꽁돈대첩(Super Deals) 상시 할인",
+      "valid_from": "2026-02-01T00:00:00+09:00",
+      "valid_until": "2026-02-28T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$15",
+          "discount_amount": "$2",
+          "codes": [
+            "KRPD02"
+          ]
+        },
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$3",
+          "codes": [
+            "KRPD03"
+          ]
+        },
+        {
+          "min_purchase": "$39",
+          "discount_amount": "$5",
+          "codes": [
+            "KRPD05"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "KRPD08"
+          ]
+        },
+        {
+          "min_purchase": "$40",
+          "discount_amount": "$4",
+          "codes": [
+            "KR905"
+          ]
+        },
+        {
+          "min_purchase": "$60",
+          "discount_amount": "$6",
+          "codes": [
+            "KR906"
+          ]
+        },
+        {
+          "min_purchase": "$80",
+          "discount_amount": "$8",
+          "codes": [
+            "KR907"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$10",
+          "codes": [
+            "KR908"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "2월 발렌타인 세일 (Valentine's Day Sale)",
-      "description": "발렌타인 데이와 설레는 특가전 테마로 진행되며, 선물용 소형 가전 및 뷰티 제품에 대한 대규모 할인이 제공됩니다.",
+      "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
+      "description": "설날과 발렌타인 데이를 기념하는 2월의 메인 프로모션으로, 한국 전용 코드와 카드사 결제 할인 혜택이 집중되는 대규모 행사입니다. 중국 춘절 연휴를 고려하여 보름간 장기 진행됩니다.",
       "valid_from": "2026-02-09T00:00:00+09:00",
-      "valid_until": "2026-02-14T23:59:59+09:00"
-    },
-    {
-      "name": "2월 미리 만나는 봄 (Spring Sale)",
-      "description": "춘절 연휴와 연계된 장기 프로모션으로 봄 시즌 의류, 리빙, 아웃도어 용품을 대상으로 높은 할인율이 적용됩니다.",
-      "valid_from": "2026-02-15T00:00:00+09:00",
       "valid_until": "2026-02-23T23:59:59+09:00"
     },
     {
-      "name": "2월 알급날 (Pay Day)",
-      "description": "한국 전용 K-Venue 상품과 브랜드 가전 대상 결제 할인 및 전용 코드가 발급되는 월말 정기 행사입니다.",
+      "name": "2월 알급날 (AliExpress Pay Day)",
+      "description": "매월 말 진행되는 한국 시장 전용 프로모션으로, K-Venue 국내 배송 상품과 인기 브랜드 가전 제품에 대한 강력한 결제 할인 및 전용 코드가 제공됩니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 직구 상품 특화 세일로 무료 배송 및 빠른 배송 혜택이 강화된 프로모션입니다.",
+      "description": "매월 초 정기적으로 진행되는 알리익스프레스의 대표적인 가성비 쇼핑 행사로, 직구 상품 대상 무료 배송 혜택과 공용 할인 코드가 배포됩니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 연간 최대 행사 중 하나로, 상반기 가장 큰 할인 폭과 카드사 협업 혜택이 집중되는 시기입니다.",
+      "description": "알리익스프레스의 창립 기념일을 맞이하여 1년 중 가장 큰 할인 폭과 혜택을 제공하는 상반기 최대 규모의 쇼핑 축제입니다.",
       "valid_from": "2026-03-18T00:00:00+09:00",
       "valid_until": "2026-03-27T23:59:59+09:00"
     }
