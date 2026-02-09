@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-02-08T22:03:00+09:00",
+  "last_updated": "2026-02-09T11:46:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
+      "valid_from": "2026-02-09T00:00:00+09:00",
+      "valid_until": "2026-02-23T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$19",
+          "discount_amount": "$2",
+          "codes": [
+            "SEOL02",
+            "AEKP02",
+            "AEPPOM02",
+            "CLIENKR02"
+          ]
+        },
+        {
+          "min_purchase": "$32",
+          "discount_amount": "$4",
+          "codes": [
+            "SEOL04",
+            "AEKP04",
+            "AEPPOM04",
+            "CLIENKR04"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "SEOL07",
+            "AEKP07",
+            "AEPPOM07",
+            "CLIENKR07"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$9",
+          "codes": [
+            "SEOL09",
+            "AEKP09"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "SEOL15",
+            "AEKP15"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "SEOL26",
+            "AEKP26"
+          ]
+        },
+        {
+          "min_purchase": "$332",
+          "discount_amount": "$34",
+          "codes": [
+            "SEOL34",
+            "AEKP34"
+          ]
+        },
+        {
+          "min_purchase": "$529",
+          "discount_amount": "$54",
+          "codes": [
+            "SEOL54",
+            "AEKP54"
+          ]
+        }
+      ]
+    },
     {
       "name": "2월 천원마트 전용 프로모션",
       "valid_from": "2026-02-01T00:00:00+09:00",
@@ -13,6 +90,13 @@
             "CHOICE777",
             "KR1000MART",
             "NNCODE"
+          ]
+        },
+        {
+          "min_purchase": "$18",
+          "discount_amount": "$2",
+          "codes": [
+            "NNCODE1"
           ]
         }
       ]
@@ -40,20 +124,7 @@
           "min_purchase": "$39",
           "discount_amount": "$5",
           "codes": [
-            "KRPD05"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "KRPD08"
-          ]
-        },
-        {
-          "min_purchase": "$40",
-          "discount_amount": "$4",
-          "codes": [
+            "KRPD05",
             "KR905"
           ]
         },
@@ -62,6 +133,13 @@
           "discount_amount": "$6",
           "codes": [
             "KR906"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "KRPD08"
           ]
         },
         {
@@ -82,12 +160,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
-      "description": "설날과 발렌타인 데이를 기념하는 2월의 메인 프로모션으로, 한국 전용 코드와 카드사 결제 할인 혜택이 집중되는 대규모 행사입니다. 중국 춘절 연휴를 고려하여 보름간 장기 진행됩니다.",
-      "valid_from": "2026-02-09T00:00:00+09:00",
-      "valid_until": "2026-02-23T23:59:59+09:00"
-    },
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
       "description": "매월 말 진행되는 한국 시장 전용 프로모션으로, K-Venue 국내 배송 상품과 인기 브랜드 가전 제품에 대한 강력한 결제 할인 및 전용 코드가 제공됩니다.",
