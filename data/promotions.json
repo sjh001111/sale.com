@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-09T22:23:00+09:00",
+  "last_updated": "2026-02-10T11:54:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -14,7 +14,10 @@
             "AEKP02",
             "AEPPOM02",
             "CLIENKR02",
-            "LOVEKR02"
+            "LOVEKR02",
+            "KRJAN02",
+            "KRCD02",
+            "ALIBOX0202"
           ]
         },
         {
@@ -25,7 +28,9 @@
             "AEKP04",
             "AEPPOM04",
             "CLIENKR04",
-            "LOVEKR04"
+            "LOVEKR04",
+            "KRJAN04",
+            "KRCD04"
           ]
         },
         {
@@ -35,7 +40,8 @@
             "SEOL07",
             "AEKP07",
             "AEPPOM07",
-            "CLIENKR07"
+            "CLIENKR07",
+            "LOVEKR07"
           ]
         },
         {
@@ -56,7 +62,8 @@
             "SEOL15",
             "AEKP15",
             "AEPPOM15",
-            "CLIENKR15"
+            "CLIENKR15",
+            "LOVEKR15"
           ]
         },
         {
@@ -66,7 +73,8 @@
             "SEOL26",
             "AEKP26",
             "AEPPOM26",
-            "CLIENKR26"
+            "CLIENKR26",
+            "LOVEKR26"
           ]
         },
         {
@@ -76,7 +84,8 @@
             "SEOL34",
             "AEKP34",
             "AEPPOM34",
-            "CLIENKR34"
+            "CLIENKR34",
+            "LOVEKR34"
           ]
         },
         {
@@ -86,7 +95,8 @@
             "SEOL54",
             "AEKP54",
             "AEPPOM54",
-            "CLIENKR54"
+            "CLIENKR54",
+            "LOVEKR54"
           ]
         }
       ]
@@ -162,7 +172,7 @@
       ]
     },
     {
-      "name": "2월 천원마트(Choice) 및 꽁돈대첩 프로모션",
+      "name": "2월 상시/천원마트 및 꽁돈대첩 프로모션",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-28T23:59:59+09:00",
       "codes": [
