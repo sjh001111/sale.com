@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11T22:24:00+09:00",
+  "last_updated": "2026-02-12T11:48:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -108,6 +108,37 @@
             "LOVEKR54",
             "KRCD54",
             "ALIBOX0254"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "발렌타인데이 특별 프로모션 (Valentine's Day Sale)",
+      "valid_from": "2026-02-10T00:00:00+09:00",
+      "valid_until": "2026-02-16T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$30",
+          "discount_amount": "$3",
+          "codes": [
+            "VALEN03",
+            "VALENKR03"
+          ]
+        },
+        {
+          "min_purchase": "$50",
+          "discount_amount": "$5",
+          "codes": [
+            "VALEN05",
+            "VALENKR05"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$10",
+          "codes": [
+            "VALEN10",
+            "VALENKR10"
           ]
         }
       ]
@@ -271,7 +302,7 @@
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 세일 행사로 강력한 할인 코드와 카드사 결제 할인이 제공됩니다.",
+      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 세일 행사로 강력한 할인 코드와 카드사 결제 할인이 제공되는 연중 최대 행사 중 하나입니다.",
       "valid_from": "2026-03-18T00:00:00+09:00",
       "valid_until": "2026-03-27T23:59:59+09:00"
     }
