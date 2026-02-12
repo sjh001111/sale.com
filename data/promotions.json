@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12T11:48:00+09:00",
+  "last_updated": "2026-02-12T22:23:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -16,7 +16,8 @@
             "CLIENKR02",
             "LOVEKR02",
             "KRCD02",
-            "ALIBOX0202"
+            "ALIBOX0202",
+            "ALICOU0202"
           ]
         },
         {
@@ -29,7 +30,8 @@
             "CLIENKR04",
             "LOVEKR04",
             "KRCD04",
-            "ALIBOX0205"
+            "ALIBOX0205",
+            "ALICOU0204"
           ]
         },
         {
@@ -42,7 +44,8 @@
             "CLIENKR07",
             "LOVEKR07",
             "KRCD07",
-            "ALIBOX0207"
+            "ALIBOX0207",
+            "ALICOU0207"
           ]
         },
         {
@@ -55,7 +58,8 @@
             "CLIENKR09",
             "LOVEKR09",
             "KRCD09",
-            "ALIBOX0209"
+            "ALIBOX0209",
+            "ALICOU0209"
           ]
         },
         {
@@ -68,7 +72,8 @@
             "CLIENKR15",
             "LOVEKR15",
             "KRCD15",
-            "ALIBOX0215"
+            "ALIBOX0215",
+            "ALICOU0215"
           ]
         },
         {
@@ -81,7 +86,8 @@
             "CLIENKR26",
             "LOVEKR26",
             "KRCD26",
-            "ALIBOX0226"
+            "ALIBOX0226",
+            "ALICOU0226"
           ]
         },
         {
@@ -94,7 +100,8 @@
             "CLIENKR34",
             "LOVEKR34",
             "KRCD34",
-            "ALIBOX0234"
+            "ALIBOX0234",
+            "ALICOU0234"
           ]
         },
         {
@@ -107,7 +114,8 @@
             "CLIENKR54",
             "LOVEKR54",
             "KRCD54",
-            "ALIBOX0254"
+            "ALIBOX0254",
+            "ALICOU0254"
           ]
         }
       ]
