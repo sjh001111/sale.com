@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T11:48:00+09:00",
+  "last_updated": "2026-02-13T22:14:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -12,38 +12,35 @@
           "codes": [
             "SEOL02",
             "AEKP02",
-            "AEPPOM02",
-            "CLIENKR02",
-            "LOVEKR02",
+            "AEBD02",
             "KRCD02",
+            "LOVEKR02",
             "ALIBOX0202",
             "ALICOU0202"
           ]
         },
         {
-          "min_purchase": "$32",
+          "min_purchase": "$34",
           "discount_amount": "$4",
           "codes": [
             "SEOL04",
             "AEKP04",
-            "AEPPOM04",
-            "CLIENKR04",
-            "LOVEKR04",
+            "AEBD04",
             "KRCD04",
+            "LOVEKR04",
             "ALIBOX0205",
             "ALICOU0204"
           ]
         },
         {
-          "min_purchase": "$56",
-          "discount_amount": "$7",
+          "min_purchase": "$53",
+          "discount_amount": "$6",
           "codes": [
-            "SEOL07",
-            "AEKP07",
-            "AEPPOM07",
-            "CLIENKR07",
-            "LOVEKR07",
-            "KRCD07",
+            "SEOL06",
+            "AEKP06",
+            "AEBD06",
+            "KRCD06",
+            "LOVEKR06",
             "ALIBOX0207",
             "ALICOU0207"
           ]
@@ -54,10 +51,9 @@
           "codes": [
             "SEOL09",
             "AEKP09",
-            "AEPPOM09",
-            "CLIENKR09",
-            "LOVEKR09",
+            "AEBD09",
             "KRCD09",
+            "LOVEKR09",
             "ALIBOX0209",
             "ALICOU0209"
           ]
@@ -68,10 +64,9 @@
           "codes": [
             "SEOL15",
             "AEKP15",
-            "AEPPOM15",
-            "CLIENKR15",
-            "LOVEKR15",
+            "AEBD15",
             "KRCD15",
+            "LOVEKR15",
             "ALIBOX0215",
             "ALICOU0215"
           ]
@@ -82,10 +77,9 @@
           "codes": [
             "SEOL26",
             "AEKP26",
-            "AEPPOM26",
-            "CLIENKR26",
-            "LOVEKR26",
+            "AEBD26",
             "KRCD26",
+            "LOVEKR26",
             "ALIBOX0226",
             "ALICOU0226"
           ]
@@ -96,10 +90,9 @@
           "codes": [
             "SEOL34",
             "AEKP34",
-            "AEPPOM34",
-            "CLIENKR34",
-            "LOVEKR34",
+            "AEBD34",
             "KRCD34",
+            "LOVEKR34",
             "ALIBOX0234",
             "ALICOU0234"
           ]
@@ -110,10 +103,9 @@
           "codes": [
             "SEOL54",
             "AEKP54",
-            "AEPPOM54",
-            "CLIENKR54",
-            "LOVEKR54",
+            "AEBD54",
             "KRCD54",
+            "LOVEKR54",
             "ALIBOX0254",
             "ALICOU0254"
           ]
