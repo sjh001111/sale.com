@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T22:14:00+09:00",
+  "last_updated": "2026-02-14T11:35:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -15,6 +15,8 @@
             "AEBD02",
             "KRCD02",
             "LOVEKR02",
+            "PPOMKR02",
+            "AECLIEN02",
             "ALIBOX0202",
             "ALICOU0202"
           ]
@@ -28,6 +30,8 @@
             "AEBD04",
             "KRCD04",
             "LOVEKR04",
+            "PPOMKR04",
+            "AECLIEN04",
             "ALIBOX0205",
             "ALICOU0204"
           ]
@@ -41,6 +45,8 @@
             "AEBD06",
             "KRCD06",
             "LOVEKR06",
+            "PPOMKR06",
+            "AECLIEN06",
             "ALIBOX0207",
             "ALICOU0207"
           ]
@@ -54,6 +60,8 @@
             "AEBD09",
             "KRCD09",
             "LOVEKR09",
+            "PPOMKR09",
+            "AECLIEN09",
             "ALIBOX0209",
             "ALICOU0209"
           ]
@@ -67,6 +75,8 @@
             "AEBD15",
             "KRCD15",
             "LOVEKR15",
+            "PPOMKR15",
+            "AECLIEN15",
             "ALIBOX0215",
             "ALICOU0215"
           ]
@@ -80,6 +90,8 @@
             "AEBD26",
             "KRCD26",
             "LOVEKR26",
+            "PPOMKR26",
+            "AECLIEN26",
             "ALIBOX0226",
             "ALICOU0226"
           ]
@@ -93,6 +105,8 @@
             "AEBD34",
             "KRCD34",
             "LOVEKR34",
+            "PPOMKR34",
+            "AECLIEN34",
             "ALIBOX0234",
             "ALICOU0234"
           ]
@@ -106,8 +120,53 @@
             "AEBD54",
             "KRCD54",
             "LOVEKR54",
+            "PPOMKR54",
+            "AECLIEN54",
             "ALIBOX0254",
             "ALICOU0254"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2월 봄맞이 선착순 할인 코드 (Spring New Arrivals)",
+      "valid_from": "2026-02-14T00:00:00+09:00",
+      "valid_until": "2026-02-23T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "SPRING02",
+            "KRFEB02",
+            "AEKR202"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$6",
+          "codes": [
+            "SPRING06",
+            "KRFEB06",
+            "AEKR566"
+          ]
+        },
+        {
+          "min_purchase": "$135",
+          "discount_amount": "$14",
+          "codes": [
+            "SPRING14",
+            "KRFEB14",
+            "AEKR13514"
+          ]
+        },
+        {
+          "min_purchase": "$348",
+          "discount_amount": "$35",
+          "codes": [
+            "SPRING35",
+            "KRFEB35",
+            "AEKR34835"
           ]
         }
       ]
@@ -290,19 +349,19 @@
   "upcoming_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 시장 전용 정기 프로모션으로, 국내 배송 상품과 인기 브랜드 가전 대상 결제 할인 및 전용 코드가 제공되는 행사입니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품과 인기 가전 제품에 대한 강력한 결제 할인과 전용 프로모션 코드가 제공됩니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 가성비 테마 행사로 초이스 상품 무료 배송과 구간별 할인 혜택을 제공합니다.",
+      "description": "매달 1일에 시작되는 가성비 중심의 행사로, Choice 태그 상품에 대한 무료 배송 및 구간별 자동 할인 혜택이 핵심입니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 세일 행사로 강력한 할인 코드와 카드사 결제 할인이 제공되는 연중 최대 행사 중 하나입니다.",
+      "description": "알리익스프레스의 창립 기념일인 3월 28일을 전후로 진행되는 상반기 최대 규모의 행사입니다. 연중 가장 높은 할인율과 대규모 카드사 결제 할인이 동반됩니다.",
       "valid_from": "2026-03-18T00:00:00+09:00",
       "valid_until": "2026-03-27T23:59:59+09:00"
     }
