@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T11:35:00+09:00",
+  "last_updated": "2026-02-14T22:02:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -139,7 +139,9 @@
           "codes": [
             "SPRING02",
             "KRFEB02",
-            "AEKR202"
+            "AEKR202",
+            "AEPP02",
+            "AELP02"
           ]
         },
         {
@@ -148,7 +150,9 @@
           "codes": [
             "SPRING06",
             "KRFEB06",
-            "AEKR566"
+            "AEKR566",
+            "AEPP06",
+            "AELP06"
           ]
         },
         {
@@ -157,7 +161,9 @@
           "codes": [
             "SPRING14",
             "KRFEB14",
-            "AEKR13514"
+            "AEKR13514",
+            "AEPP14",
+            "AELP14"
           ]
         },
         {
@@ -166,7 +172,9 @@
           "codes": [
             "SPRING35",
             "KRFEB35",
-            "AEKR34835"
+            "AEKR34835",
+            "AEPP35",
+            "AELP35"
           ]
         }
       ]
