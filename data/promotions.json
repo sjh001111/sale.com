@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T11:49:00+09:00",
+  "last_updated": "2026-02-15T22:04:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -11,6 +11,8 @@
           "discount_amount": "$2",
           "codes": [
             "SEOL02",
+            "AEPPOM02",
+            "CLIENKR02",
             "AEKP02",
             "AEBD02",
             "KRCD02",
@@ -22,10 +24,12 @@
           ]
         },
         {
-          "min_purchase": "$34",
+          "min_purchase": "$32",
           "discount_amount": "$4",
           "codes": [
             "SEOL04",
+            "AEPPOM04",
+            "CLIENKR04",
             "AEKP04",
             "AEBD04",
             "KRCD04",
@@ -37,10 +41,12 @@
           ]
         },
         {
-          "min_purchase": "$53",
-          "discount_amount": "$6",
+          "min_purchase": "$56",
+          "discount_amount": "$7",
           "codes": [
-            "SEOL06",
+            "SEOL07",
+            "AEPPOM07",
+            "CLIENKR07",
             "AEKP06",
             "AEBD06",
             "KRCD06",
