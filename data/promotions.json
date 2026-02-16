@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T22:04:00+09:00",
+  "last_updated": "2026-02-16T11:44:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -187,7 +187,7 @@
     },
     {
       "name": "발렌타인데이 특별 프로모션 (Valentine's Day Sale)",
-      "valid_from": "2026-02-10T00:00:00+09:00",
+      "valid_from": "2026-02-09T00:00:00+09:00",
       "valid_until": "2026-02-16T23:59:59+09:00",
       "codes": [
         {
