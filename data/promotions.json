@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T11:44:00+09:00",
+  "last_updated": "2026-02-18T22:19:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -47,12 +47,12 @@
             "SEOL07",
             "AEPPOM07",
             "CLIENKR07",
-            "AEKP06",
-            "AEBD06",
-            "KRCD06",
-            "LOVEKR06",
-            "PPOMKR06",
-            "AECLIEN06",
+            "AEKP07",
+            "AEBD07",
+            "KRCD07",
+            "LOVEKR07",
+            "PPOMKR07",
+            "AECLIEN07",
             "ALIBOX0207",
             "ALICOU0207"
           ]
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "name": "2월 상시/천원마트 및 꽁돈대첩 프로모션",
+      "name": "2월 상시 및 천원마트 프로모션",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-28T23:59:59+09:00",
       "codes": [
@@ -270,17 +270,17 @@
           ]
         },
         {
-          "min_purchase": "$15",
-          "discount_amount": "$2",
-          "codes": [
-            "KRPD02"
-          ]
-        },
-        {
           "min_purchase": "$18",
           "discount_amount": "$2",
           "codes": [
             "NNCODE1"
+          ]
+        },
+        {
+          "min_purchase": "$15",
+          "discount_amount": "$2",
+          "codes": [
+            "KRPD02"
           ]
         },
         {
@@ -332,7 +332,7 @@
   "upcoming_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품과 인기 가전 제품에 대한 결제 할인과 전용 프로모션 코드가 제공되는 행사입니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue)과 인기 가전에 대한 결제 할인 및 전용 프로모션 코드가 제공되는 행사입니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
@@ -345,8 +345,8 @@
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
       "description": "알리익스프레스의 창립 기념을 축하하는 상반기 최대 규모의 행사입니다. 연중 가장 큰 폭의 할인 코드와 카드사 결제 할인이 제공되는 메인 세일 기간입니다.",
-      "valid_from": "2026-03-18T00:00:00+09:00",
-      "valid_until": "2026-03-27T23:59:59+09:00"
+      "valid_from": "2026-03-17T00:00:00+09:00",
+      "valid_until": "2026-03-26T23:59:59+09:00"
     }
   ]
 }
