@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T22:19:00+09:00",
+  "last_updated": "2026-02-19T11:43:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -11,14 +11,14 @@
           "discount_amount": "$2",
           "codes": [
             "SEOL02",
+            "AEKP02",
             "AEPPOM02",
             "CLIENKR02",
-            "AEKP02",
-            "AEBD02",
-            "KRCD02",
             "LOVEKR02",
             "PPOMKR02",
             "AECLIEN02",
+            "KRCD02",
+            "AEBD02",
             "ALIBOX0202",
             "ALICOU0202"
           ]
@@ -28,14 +28,14 @@
           "discount_amount": "$4",
           "codes": [
             "SEOL04",
+            "AEKP04",
             "AEPPOM04",
             "CLIENKR04",
-            "AEKP04",
-            "AEBD04",
-            "KRCD04",
             "LOVEKR04",
             "PPOMKR04",
             "AECLIEN04",
+            "KRCD04",
+            "AEBD04",
             "ALIBOX0205",
             "ALICOU0204"
           ]
@@ -45,14 +45,14 @@
           "discount_amount": "$7",
           "codes": [
             "SEOL07",
+            "AEKP07",
             "AEPPOM07",
             "CLIENKR07",
-            "AEKP07",
-            "AEBD07",
-            "KRCD07",
             "LOVEKR07",
             "PPOMKR07",
             "AECLIEN07",
+            "KRCD07",
+            "AEBD07",
             "ALIBOX0207",
             "ALICOU0207"
           ]
@@ -270,17 +270,17 @@
           ]
         },
         {
-          "min_purchase": "$18",
-          "discount_amount": "$2",
-          "codes": [
-            "NNCODE1"
-          ]
-        },
-        {
           "min_purchase": "$15",
           "discount_amount": "$2",
           "codes": [
             "KRPD02"
+          ]
+        },
+        {
+          "min_purchase": "$18",
+          "discount_amount": "$2",
+          "codes": [
+            "NNCODE1"
           ]
         },
         {
@@ -332,19 +332,19 @@
   "upcoming_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue)과 인기 가전에 대한 결제 할인 및 전용 프로모션 코드가 제공되는 행사입니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue) 및 인기 가전 등에 대한 결제 할인과 전용 프로모션 코드가 제공되는 행사입니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매달 1일에 시작되는 가성비 중심의 정기 행사로, 초이스 상품 무료 배송 및 구간별 자동 할인이 적용되는 세일 기간입니다.",
+      "description": "매달 1일부터 일주일간 진행되는 정기 행사로, 초이스 상품 무료 배송 및 구간별 자동 할인 혜택을 제공하는 가성비 쇼핑 기간입니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스의 창립 기념을 축하하는 상반기 최대 규모의 행사입니다. 연중 가장 큰 폭의 할인 코드와 카드사 결제 할인이 제공되는 메인 세일 기간입니다.",
+      "description": "알리익스프레스 창립 기념 상반기 최대 규모 세일입니다. 대형 프로모션 코드와 카드사 결제 할인이 집중되는 연중 메인 행사입니다.",
       "valid_from": "2026-03-17T00:00:00+09:00",
       "valid_until": "2026-03-26T23:59:59+09:00"
     }
