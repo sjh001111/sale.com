@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T11:43:00+09:00",
+  "last_updated": "2026-02-19T22:21:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -19,6 +19,7 @@
             "AECLIEN02",
             "KRCD02",
             "AEBD02",
+            "AECP22",
             "ALIBOX0202",
             "ALICOU0202"
           ]
@@ -36,6 +37,7 @@
             "AECLIEN04",
             "KRCD04",
             "AEBD04",
+            "AECP44",
             "ALIBOX0205",
             "ALICOU0204"
           ]
@@ -53,6 +55,7 @@
             "AECLIEN07",
             "KRCD07",
             "AEBD07",
+            "AECP77",
             "ALIBOX0207",
             "ALICOU0207"
           ]
@@ -68,6 +71,7 @@
             "LOVEKR09",
             "PPOMKR09",
             "AECLIEN09",
+            "AECP99",
             "ALIBOX0209",
             "ALICOU0209"
           ]
@@ -83,6 +87,7 @@
             "LOVEKR15",
             "PPOMKR15",
             "AECLIEN15",
+            "AECP15",
             "ALIBOX0215",
             "ALICOU0215"
           ]
@@ -98,6 +103,7 @@
             "LOVEKR26",
             "PPOMKR26",
             "AECLIEN26",
+            "AECP26",
             "ALIBOX0226",
             "ALICOU0226"
           ]
@@ -113,6 +119,7 @@
             "LOVEKR34",
             "PPOMKR34",
             "AECLIEN34",
+            "AECP34",
             "ALIBOX0234",
             "ALICOU0234"
           ]
@@ -128,6 +135,7 @@
             "LOVEKR54",
             "PPOMKR54",
             "AECLIEN54",
+            "AECP54",
             "ALIBOX0254",
             "ALICOU0254"
           ]
@@ -338,13 +346,13 @@
     },
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매달 1일부터 일주일간 진행되는 정기 행사로, 초이스 상품 무료 배송 및 구간별 자동 할인 혜택을 제공하는 가성비 쇼핑 기간입니다.",
+      "description": "매달 1일부터 진행되는 정기 행사로, 초이스 상품 무료 배송 및 구매 구간별 자동 할인과 전용 할인 코드를 제공하는 가성비 쇼핑 기간입니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 기념 상반기 최대 규모 세일입니다. 대형 프로모션 코드와 카드사 결제 할인이 집중되는 연중 메인 행사입니다.",
+      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 정기 세일입니다. 연중 가장 높은 할인율의 프로모션 코드와 카드사 결제 할인이 집중적으로 제공됩니다.",
       "valid_from": "2026-03-17T00:00:00+09:00",
       "valid_until": "2026-03-26T23:59:59+09:00"
     }
