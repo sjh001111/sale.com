@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T22:21:00+09:00",
+  "last_updated": "2026-02-20T11:38:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -14,7 +14,6 @@
             "AEKP02",
             "AEPPOM02",
             "CLIENKR02",
-            "LOVEKR02",
             "PPOMKR02",
             "AECLIEN02",
             "KRCD02",
@@ -32,7 +31,6 @@
             "AEKP04",
             "AEPPOM04",
             "CLIENKR04",
-            "LOVEKR04",
             "PPOMKR04",
             "AECLIEN04",
             "KRCD04",
@@ -50,7 +48,6 @@
             "AEKP07",
             "AEPPOM07",
             "CLIENKR07",
-            "LOVEKR07",
             "PPOMKR07",
             "AECLIEN07",
             "KRCD07",
@@ -68,7 +65,6 @@
             "AEKP09",
             "AEBD09",
             "KRCD09",
-            "LOVEKR09",
             "PPOMKR09",
             "AECLIEN09",
             "AECP99",
@@ -84,7 +80,6 @@
             "AEKP15",
             "AEBD15",
             "KRCD15",
-            "LOVEKR15",
             "PPOMKR15",
             "AECLIEN15",
             "AECP15",
@@ -100,7 +95,6 @@
             "AEKP26",
             "AEBD26",
             "KRCD26",
-            "LOVEKR26",
             "PPOMKR26",
             "AECLIEN26",
             "AECP26",
@@ -116,7 +110,6 @@
             "AEKP34",
             "AEBD34",
             "KRCD34",
-            "LOVEKR34",
             "PPOMKR34",
             "AECLIEN34",
             "AECP34",
@@ -132,7 +125,6 @@
             "AEKP54",
             "AEBD54",
             "KRCD54",
-            "LOVEKR54",
             "PPOMKR54",
             "AECLIEN54",
             "AECP54",
@@ -353,8 +345,8 @@
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
       "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 정기 세일입니다. 연중 가장 높은 할인율의 프로모션 코드와 카드사 결제 할인이 집중적으로 제공됩니다.",
-      "valid_from": "2026-03-17T00:00:00+09:00",
-      "valid_until": "2026-03-26T23:59:59+09:00"
+      "valid_from": "2026-03-16T00:00:00+09:00",
+      "valid_until": "2026-03-25T23:59:59+09:00"
     }
   ]
 }
