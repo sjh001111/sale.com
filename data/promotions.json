@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T11:32:00+09:00",
+  "last_updated": "2026-02-21T22:01:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -294,7 +294,13 @@
           "min_purchase": "$39",
           "discount_amount": "$5",
           "codes": [
-            "KRPD05",
+            "KRPD05"
+          ]
+        },
+        {
+          "min_purchase": "$40",
+          "discount_amount": "$4",
+          "codes": [
             "KR905"
           ]
         },
@@ -332,7 +338,7 @@
   "upcoming_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue) 및 인기 가전 등에 대한 결제 할인과 전용 프로모션 코드가 제공되는 행사입니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue) 전용 할인 코드와 결제 혜택이 집중 제공되는 기간입니다. 모바일 앱 사용을 권장합니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
