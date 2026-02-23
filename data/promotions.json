@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T22:03:00+09:00",
+  "last_updated": "2026-02-23T11:45:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 설레는 특가전 (Seolle-neun Special Sale)",
@@ -12,10 +12,7 @@
           "codes": [
             "SEOL02",
             "AEKP02",
-            "AEBD02",
-            "KRCD02",
             "AEPPOM02",
-            "AECLIEN02",
             "CLIENKR02",
             "ALIBOX0202",
             "ALICOU0202"
@@ -27,10 +24,7 @@
           "codes": [
             "SEOL04",
             "AEKP04",
-            "AEBD04",
-            "KRCD04",
             "AEPPOM04",
-            "AECLIEN04",
             "CLIENKR04",
             "ALIBOX0205",
             "ALICOU0204"
@@ -42,10 +36,7 @@
           "codes": [
             "SEOL07",
             "AEKP07",
-            "AEBD07",
-            "KRCD07",
             "AEPPOM07",
-            "AECLIEN07",
             "CLIENKR07",
             "ALIBOX0207",
             "ALICOU0207"
@@ -57,11 +48,7 @@
           "codes": [
             "SEOL09",
             "AEKP09",
-            "AEBD09",
-            "KRCD09",
-            "PPOMKR09",
             "AEPPOM09",
-            "AECLIEN09",
             "CLIENKR09",
             "ALIBOX0209",
             "ALICOU0209"
@@ -73,11 +60,7 @@
           "codes": [
             "SEOL15",
             "AEKP15",
-            "AEBD15",
-            "KRCD15",
-            "PPOMKR15",
             "AEPPOM15",
-            "AECLIEN15",
             "CLIENKR15",
             "ALIBOX0215",
             "ALICOU0215"
@@ -89,11 +72,7 @@
           "codes": [
             "SEOL26",
             "AEKP26",
-            "AEBD26",
-            "KRCD26",
-            "PPOMKR26",
             "AEPPOM26",
-            "AECLIEN26",
             "CLIENKR26",
             "ALIBOX0226",
             "ALICOU0226"
@@ -105,11 +84,7 @@
           "codes": [
             "SEOL34",
             "AEKP34",
-            "AEBD34",
-            "KRCD34",
-            "PPOMKR34",
             "AEPPOM34",
-            "AECLIEN34",
             "CLIENKR34",
             "ALIBOX0234",
             "ALICOU0234"
@@ -121,11 +96,7 @@
           "codes": [
             "SEOL54",
             "AEKP54",
-            "AEBD54",
-            "KRCD54",
-            "PPOMKR54",
             "AEPPOM54",
-            "AECLIEN54",
             "CLIENKR54",
             "ALIBOX0254",
             "ALICOU0254"
@@ -185,7 +156,7 @@
       ]
     },
     {
-      "name": "2월 특별 선착순 프로모션 (DOUBLEKR)",
+      "name": "2월 K-Venue 전용 특별 프로모션 (DOUBLEKR)",
       "valid_from": "2026-02-01T00:00:00+09:00",
       "valid_until": "2026-02-28T23:59:59+09:00",
       "codes": [
@@ -276,13 +247,6 @@
           ]
         },
         {
-          "min_purchase": "$18",
-          "discount_amount": "$2",
-          "codes": [
-            "NNCODE1"
-          ]
-        },
-        {
           "min_purchase": "$29",
           "discount_amount": "$3",
           "codes": [
@@ -337,19 +301,19 @@
   "upcoming_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일입니다. 특히 국내 배송 서비스인 K-Venue(한국직배송) 상품에 대한 전용 프로모션 코드와 카드사 결제 혜택이 강화되어 제공됩니다. 이번 달은 2월 24일부터 26일까지 진행됩니다.",
+      "description": "2월의 마지막 정기 세일로, 국내 직배송 서비스인 K-Venue 상품에 특화된 프로모션입니다. 2월 24일 0시부터 26일 23시 59분까지 진행되며 전용 코드와 카드 결제 할인이 제공됩니다.",
       "valid_from": "2026-02-24T00:00:00+09:00",
       "valid_until": "2026-02-26T23:59:59+09:00"
     },
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 1일부터 7일까지 진행되는 정기 행사입니다. 가성비 높은 초이스 상품들에 대해 구매 금액별 자동 할인과 전용 할인 코드가 제공됩니다.",
+      "description": "매월 1일부터 일주일간 진행되는 정기 행사로, 알리익스프레스가 선정한 가성비 상품군에 대해 구매 금액별 자동 할인 및 전용 할인 코드를 제공합니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 정기 프로모션입니다. 연중 가장 높은 수준의 할인율과 파격적인 카드 결제 할인이 제공될 예정입니다. 대개 3월 중순부터 말까지 진행됩니다.",
+      "description": "상반기 최대 규모의 창립 기념 프로모션입니다. 전 카테고리에 걸쳐 연중 가장 높은 할인율이 적용되며 대규모 카드사 결제 혜택과 럭키박스 등 다양한 이벤트가 병행됩니다.",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     }
