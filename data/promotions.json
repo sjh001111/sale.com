@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T22:21:00+09:00",
+  "last_updated": "2026-02-25T11:42:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
@@ -11,12 +11,11 @@
           "discount_amount": "$2",
           "codes": [
             "PAYDAY02",
+            "SPRING01",
             "PPOMKR02",
             "AECLIEN02",
-            "AEPP02",
             "AEKP02",
-            "SPRING01",
-            "AEPPOM02"
+            "AEPP02"
           ]
         },
         {
@@ -24,12 +23,11 @@
           "discount_amount": "$6",
           "codes": [
             "PAYDAY06",
+            "SPRING02",
             "PPOMKR06",
             "AECLIEN06",
-            "AEPP06",
             "AEKP06",
-            "SPRING02",
-            "AEPPOM04"
+            "AEPP06"
           ]
         },
         {
@@ -37,12 +35,11 @@
           "discount_amount": "$14",
           "codes": [
             "PAYDAY14",
+            "SPRING03",
             "PPOMKR14",
             "AECLIEN14",
-            "AEPP14",
             "AEKP14",
-            "SPRING03",
-            "AEPPOM15"
+            "AEPP14"
           ]
         },
         {
@@ -148,66 +145,10 @@
           ]
         },
         {
-          "min_purchase": "$15",
-          "discount_amount": "$2",
-          "codes": [
-            "KRPD02"
-          ]
-        },
-        {
           "min_purchase": "$18",
           "discount_amount": "$2",
           "codes": [
             "NNCODE1"
-          ]
-        },
-        {
-          "min_purchase": "$29",
-          "discount_amount": "$3",
-          "codes": [
-            "KRPD03"
-          ]
-        },
-        {
-          "min_purchase": "$39",
-          "discount_amount": "$5",
-          "codes": [
-            "KRPD05"
-          ]
-        },
-        {
-          "min_purchase": "$40",
-          "discount_amount": "$4",
-          "codes": [
-            "KR905"
-          ]
-        },
-        {
-          "min_purchase": "$60",
-          "discount_amount": "$6",
-          "codes": [
-            "KR906"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "KRPD08"
-          ]
-        },
-        {
-          "min_purchase": "$80",
-          "discount_amount": "$8",
-          "codes": [
-            "KR907"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$10",
-          "codes": [
-            "KR908"
           ]
         }
       ]
@@ -216,13 +157,13 @@
   "upcoming_promotions": [
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 할인 행사로 알리익스프레스의 인기 상품 및 초이스 상품을 대상으로 높은 할인율과 전용 코드를 제공하는 가성비 중심 프로모션입니다.",
+      "description": "매월 초 정기적으로 진행되는 가성비 테마 세일로, 초이스 상품 대상 추가 할인 코드와 카드사 결제 혜택이 제공됩니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 메가 세일 이벤트입니다. 전 카테고리에 걸친 대대적인 할인과 카드사 결제 혜택이 집중됩니다.",
+      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 메가 세일입니다. 대규모 할인 코드와 역대급 결제 혜택이 집중되는 시기입니다.",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     }
