@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T11:38:00+09:00",
+  "last_updated": "2026-02-26T22:21:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 알급날 (AliExpress Pay Day)",
@@ -13,9 +13,7 @@
             "PAYDAY02",
             "SPRING01",
             "PPOMKR02",
-            "AECLIEN02",
-            "AEKP02",
-            "AEPP02"
+            "AECLIEN02"
           ]
         },
         {
@@ -25,9 +23,7 @@
             "PAYDAY06",
             "SPRING02",
             "PPOMKR06",
-            "AECLIEN06",
-            "AEKP06",
-            "AEPP06"
+            "AECLIEN06"
           ]
         },
         {
@@ -37,25 +33,21 @@
             "PAYDAY14",
             "SPRING03",
             "PPOMKR14",
-            "AECLIEN14",
-            "AEKP14",
-            "AEPP14"
+            "AECLIEN14"
           ]
         },
         {
           "min_purchase": "$206",
           "discount_amount": "$22",
           "codes": [
-            "SPRING04",
-            "AEPPOM22"
+            "SPRING04"
           ]
         },
         {
           "min_purchase": "$348",
           "discount_amount": "$38",
           "codes": [
-            "SPRING05",
-            "AEPPOM38"
+            "SPRING05"
           ]
         }
       ]
@@ -157,15 +149,15 @@
   "upcoming_promotions": [
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 가성비 테마 세일로, 초이스 상품 대상 추가 할인 코드와 카드사 결제 혜택이 제공됩니다.",
+      "description": "매월 초 정기적으로 진행되는 알리익스프레스의 대표 할인 행사로, 초이스 상품 대상 할인 코드와 카드사 결제 혜택이 제공됩니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 메가 세일입니다. 3월 14일부터 사전 예열이 시작되며, 18일부터 본격적인 할인 코드와 대규모 결제 혜택이 집중됩니다.",
-      "valid_from": "2026-03-14T00:00:00+09:00",
-      "valid_until": "2026-03-27T23:59:59+09:00"
+      "description": "알리익스프레스 창립 16주년을 기념하는 연중 최대 규모의 상반기 세일입니다. 3월 14일부터 장바구니 예열이 시작되며, 본격적인 할인 코드는 16일부터 사용 가능할 예정입니다.",
+      "valid_from": "2026-03-16T00:00:00+09:00",
+      "valid_until": "2026-03-25T23:59:59+09:00"
     }
   ]
 }
