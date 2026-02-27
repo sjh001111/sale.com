@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T11:36:00+09:00",
+  "last_updated": "2026-02-27T22:12:00+09:00",
   "active_code_promotions": [
     {
       "name": "2월 상시 및 천원마트 프로모션",
@@ -23,24 +23,167 @@
           ]
         }
       ]
+    },
+    {
+      "name": "2월 월간 선착순 프로모션 (DOUBLEKR)",
+      "valid_from": "2026-02-01T00:00:00+09:00",
+      "valid_until": "2026-02-28T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$25",
+          "discount_amount": "$4",
+          "codes": [
+            "DOUBLEKR04"
+          ]
+        },
+        {
+          "min_purchase": "$38",
+          "discount_amount": "$6",
+          "codes": [
+            "DOUBLEKR06"
+          ]
+        },
+        {
+          "min_purchase": "$54",
+          "discount_amount": "$8",
+          "codes": [
+            "DOUBLEKR08"
+          ]
+        },
+        {
+          "min_purchase": "$89",
+          "discount_amount": "$13",
+          "codes": [
+            "DOUBLEKR13"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$20",
+          "codes": [
+            "DOUBLEKR20"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$31",
+          "codes": [
+            "DOUBLEKR31"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$52",
+          "codes": [
+            "DOUBLEKR52"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3월 초이스 데이 (Choice Day) 사전 공개 코드",
+      "valid_from": "2026-03-01T00:00:00+09:00",
+      "valid_until": "2026-03-07T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$19",
+          "discount_amount": "$2",
+          "codes": [
+            "CHOICEKR02",
+            "PPOMKR02",
+            "CLIENKR02",
+            "AEKX02"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "CHOICEKR04",
+            "PPOMKR04",
+            "CLIENKR04",
+            "AEKX04"
+          ]
+        },
+        {
+          "min_purchase": "$53",
+          "discount_amount": "$6",
+          "codes": [
+            "CHOICEKR06",
+            "PPOMKR06",
+            "CLIENKR06",
+            "AEKX06"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$9",
+          "codes": [
+            "CHOICEKR09",
+            "PPOMKR09",
+            "CLIENKR09",
+            "AEKX09"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "CHOICEKR15",
+            "PPOMKR15",
+            "CLIENKR15",
+            "AEKX15"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "CHOICEKR26",
+            "PPOMKR26",
+            "CLIENKR26",
+            "AEKX26"
+          ]
+        },
+        {
+          "min_purchase": "$332",
+          "discount_amount": "$34",
+          "codes": [
+            "CHOICEKR34",
+            "PPOMKR34",
+            "CLIENKR34",
+            "AEKX34"
+          ]
+        },
+        {
+          "min_purchase": "$529",
+          "discount_amount": "$54",
+          "codes": [
+            "CHOICEKR54",
+            "PPOMKR54",
+            "CLIENKR54",
+            "AEKX54"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
       "name": "3월 초이스 데이 (Choice Day)",
-      "description": "매월 1일부터 정기적으로 진행되는 알리익스프레스의 대표적인 할인 행사입니다. Choice 태그가 붙은 가성비 상품들을 대상으로 전용 할인 코드와 결제 혜택이 제공됩니다.",
+      "description": "매월 1일부터 시작되는 정기 세일입니다. 초이스 태그 상품 대상의 전용 할인 코드와 카드사 결제 할인이 집중적으로 제공됩니다.",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-07T23:59:59+09:00"
     },
     {
       "name": "3월 알리익스프레스 16주년 애니버서리 메가 세일",
-      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 세일입니다. 14일부터 장바구니 예열이 시작되며, 본 행사 기간 동안 연중 최고 수준의 할인 코드와 카드사 결제 할인이 제공될 예정입니다.",
+      "description": "알리익스프레스 창립 16주년을 기념하는 상반기 최대 규모의 행사입니다. 3월 13일부터 장바구니 예열이 시작되며, 본 행사 기간 동안 최대 80% 할인 및 대규모 결제 혜택이 제공됩니다.",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     },
     {
       "name": "3월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 월급날 시즌에 맞춰 진행되는 한국 사용자 전용 프로모션입니다. K-Venue(국내 발송 상품)를 중심으로 특별 할인 혜택이 집중됩니다.",
+      "description": "매월 말 월급날 시즌에 맞춰 진행되는 한국 전용 프로모션입니다. K-Venue 입점 국내 발송 상품들에 대해 강력한 할인 혜택이 적용됩니다.",
       "valid_from": "2026-03-24T00:00:00+09:00",
       "valid_until": "2026-03-26T23:59:59+09:00"
     }
