@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T11:51:00+09:00",
+  "last_updated": "2026-03-01T22:01:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 초이스 데이 (Choice Day) 프로모션 코드",
@@ -11,9 +11,13 @@
           "discount_amount": "$2",
           "codes": [
             "CHOICEKR02",
+            "PPOM02",
+            "CLIEN02",
+            "AEKX02",
+            "MARKR02",
+            "ALIBOX0302",
             "PPOMKR02",
-            "CLIENKR02",
-            "AEKX02"
+            "CLIENKR02"
           ]
         },
         {
@@ -21,9 +25,13 @@
           "discount_amount": "$4",
           "codes": [
             "CHOICEKR04",
+            "PPOM04",
+            "CLIEN04",
+            "AEKX04",
+            "MARKR04",
+            "ALIBOX0304",
             "PPOMKR04",
-            "CLIENKR04",
-            "AEKX04"
+            "CLIENKR04"
           ]
         },
         {
@@ -31,9 +39,13 @@
           "discount_amount": "$6",
           "codes": [
             "CHOICEKR06",
+            "PPOM06",
+            "CLIEN06",
+            "AEKX06",
+            "MARKR06",
+            "ALIBOX0306",
             "PPOMKR06",
-            "CLIENKR06",
-            "AEKX06"
+            "CLIENKR06"
           ]
         },
         {
@@ -41,9 +53,13 @@
           "discount_amount": "$9",
           "codes": [
             "CHOICEKR09",
+            "PPOM09",
+            "CLIEN09",
+            "AEKX09",
+            "MARKR09",
+            "ALIBOX0309",
             "PPOMKR09",
-            "CLIENKR09",
-            "AEKX09"
+            "CLIENKR09"
           ]
         },
         {
@@ -51,9 +67,13 @@
           "discount_amount": "$15",
           "codes": [
             "CHOICEKR15",
+            "PPOM15",
+            "CLIEN15",
+            "AEKX15",
+            "MARKR15",
+            "ALIBOX0315",
             "PPOMKR15",
-            "CLIENKR15",
-            "AEKX15"
+            "CLIENKR15"
           ]
         },
         {
@@ -61,9 +81,13 @@
           "discount_amount": "$26",
           "codes": [
             "CHOICEKR26",
+            "PPOM26",
+            "CLIEN26",
+            "AEKX26",
+            "MARKR26",
+            "ALIBOX0326",
             "PPOMKR26",
-            "CLIENKR26",
-            "AEKX26"
+            "CLIENKR26"
           ]
         },
         {
@@ -71,9 +95,13 @@
           "discount_amount": "$34",
           "codes": [
             "CHOICEKR34",
+            "PPOM34",
+            "CLIEN34",
+            "AEKX34",
+            "MARKR34",
+            "ALIBOX0334",
             "PPOMKR34",
-            "CLIENKR34",
-            "AEKX34"
+            "CLIENKR34"
           ]
         },
         {
@@ -81,9 +109,13 @@
           "discount_amount": "$54",
           "codes": [
             "CHOICEKR54",
+            "PPOM54",
+            "CLIEN54",
+            "AEKX54",
+            "MARKR54",
+            "ALIBOX0354",
             "PPOMKR54",
-            "CLIENKR54",
-            "AEKX54"
+            "CLIENKR54"
           ]
         }
       ]
