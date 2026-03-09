@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T22:01:00+09:00",
+  "last_updated": "2026-03-09T11:43:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 봄맞이 특가 프로모션 코드 (VSKR)",
@@ -25,6 +25,13 @@
           "discount_amount": "$7",
           "codes": [
             "VSKR07"
+          ]
+        },
+        {
+          "min_purchase": "$99",
+          "discount_amount": "$12",
+          "codes": [
+            "VSKR12"
           ]
         },
         {
@@ -95,6 +102,37 @@
           "discount_amount": "$31",
           "codes": [
             "DOUBLEKR31"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3월 커뮤니티 단독 제휴 코드",
+      "valid_from": "2026-03-08T00:00:00+09:00",
+      "valid_until": "2026-03-15T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$30",
+          "discount_amount": "$3",
+          "codes": [
+            "CLIENKR03",
+            "PPOMKR03"
+          ]
+        },
+        {
+          "min_purchase": "$60",
+          "discount_amount": "$6",
+          "codes": [
+            "CLIENKR06",
+            "PPOMKR06"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$10",
+          "codes": [
+            "CLIENKR10",
+            "PPOMKR10"
           ]
         }
       ]
