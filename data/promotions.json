@@ -1,62 +1,6 @@
 {
-  "last_updated": "2026-03-10T22:15:00+09:00",
+  "last_updated": "2026-03-11T11:33:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "3월 봄맞이 특가 프로모션 코드 (VSKR)",
-      "valid_from": "2026-03-08T00:00:00+09:00",
-      "valid_until": "2026-03-10T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "VSKR02"
-          ]
-        },
-        {
-          "min_purchase": "$35",
-          "discount_amount": "$4",
-          "codes": [
-            "VSKR04"
-          ]
-        },
-        {
-          "min_purchase": "$65",
-          "discount_amount": "$7",
-          "codes": [
-            "VSKR07"
-          ]
-        },
-        {
-          "min_purchase": "$99",
-          "discount_amount": "$12",
-          "codes": [
-            "VSKR12"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$16",
-          "codes": [
-            "VSKR16"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$25",
-          "codes": [
-            "VSKR25"
-          ]
-        },
-        {
-          "min_purchase": "$399",
-          "discount_amount": "$50",
-          "codes": [
-            "VSKR50"
-          ]
-        }
-      ]
-    },
     {
       "name": "3월 한정 선착순 프로모션 코드 (DOUBLEKR)",
       "valid_from": "2026-03-01T00:00:00+09:00",
@@ -102,6 +46,27 @@
           "discount_amount": "$31",
           "codes": [
             "DOUBLEKR31"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$52",
+          "codes": [
+            "DOUBLEKR52"
+          ]
+        },
+        {
+          "min_purchase": "$559",
+          "discount_amount": "$83",
+          "codes": [
+            "DOUBLEKR83"
+          ]
+        },
+        {
+          "min_purchase": "$679",
+          "discount_amount": "$102",
+          "codes": [
+            "DOUBLEKR102"
           ]
         }
       ]
@@ -156,7 +121,8 @@
           "discount_amount": "$2",
           "codes": [
             "NNCODE1",
-            "NNCODEKR"
+            "NNCODEKR",
+            "KRNNCODE"
           ]
         }
       ]
@@ -165,25 +131,25 @@
   "upcoming_promotions": [
     {
       "name": "3월 16주년 애니버서리 세일 예열 기간 (Warm-up)",
-      "description": "알리익스프레스 창립 16주년 메가 세일을 대비하여 상품을 미리 장바구니에 담고 코인을 수집하는 기간입니다.",
+      "description": "알리익스프레스 창립 16주년 메가 세일을 앞두고 할인 가격을 미리 확인하고 장바구니에 상품을 담으며 코인을 수집하는 준비 기간입니다.",
       "valid_from": "2026-03-13T00:00:00+09:00",
       "valid_until": "2026-03-15T23:59:59+09:00"
     },
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
-      "description": "2026년 상반기 최대 규모의 할인 행사로 최대 80% 할인, 카드사 즉시 할인 및 한국 전용 선착순 코드가 대량 발행됩니다.",
+      "description": "알리익스프레스 연중 최대 규모의 세일 행사 중 하나로, 상반기 최대 할인율(최대 80%)과 고액의 한국 전용 할인 코드, 카드사 즉시 할인 혜택이 집중 제공됩니다.",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     },
     {
       "name": "3월 알급날 (AliExpress Pay Day)",
-      "description": "월말 한국 고객 전용 정기 프로모션으로 K-Venue 상품 및 가전 브랜드 대상 고액 할인 혜택이 제공됩니다.",
+      "description": "월말 한국 고객을 위한 정기 프로모션입니다. 국내 발송 상품(K-Venue) 및 브랜드 가전 대상 추가 할인과 한국 전용 결제 수단 혜택이 포함됩니다.",
       "valid_from": "2026-03-24T00:00:00+09:00",
       "valid_until": "2026-03-26T23:59:59+09:00"
     },
     {
       "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 가성비 상품 집중 할인 행사입니다. 초이스 상품군 무료 배송 및 전용 할인 코드가 제공됩니다.",
+      "description": "매월 1일부터 시작되는 가성비 중심의 정기 세일입니다. 초이스 상품군 무료 배송 혜택과 공통 할인 코드가 발급됩니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
     }
