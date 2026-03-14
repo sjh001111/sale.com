@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-03-13T22:13:00+09:00",
+  "last_updated": "2026-03-14T11:35:00+09:00",
   "active_code_promotions": [
     {
-      "name": "3월 한정 선착순 프로모션 코드 (DOUBLEKR & AEKS)",
+      "name": "3월 애니버서리 전야제 선착순 코드 (DOUBLEKR & AEKS)",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-15T23:59:59+09:00",
       "codes": [
@@ -76,35 +76,81 @@
       ]
     },
     {
-      "name": "3월 커뮤니티 단독 제휴 코드",
-      "valid_from": "2026-03-08T00:00:00+09:00",
+      "name": "3월 커뮤니티 및 공식 제휴 할인 코드",
+      "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-15T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$30",
-          "discount_amount": "$3",
+          "min_purchase": "$19",
+          "discount_amount": "$2",
           "codes": [
-            "CLIENKR03",
-            "PPOMKR03",
-            "AEKR03"
+            "PPOM02",
+            "CLIEN02",
+            "AEKX02"
           ]
         },
         {
-          "min_purchase": "$60",
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "PPOM04",
+            "CLIEN04",
+            "AEKX04"
+          ]
+        },
+        {
+          "min_purchase": "$53",
           "discount_amount": "$6",
           "codes": [
-            "CLIENKR06",
-            "PPOMKR06",
-            "AEKR06"
+            "PPOM06",
+            "CLIEN06",
+            "AEKX06"
           ]
         },
         {
-          "min_purchase": "$100",
-          "discount_amount": "$10",
+          "min_purchase": "$86",
+          "discount_amount": "$9",
           "codes": [
-            "CLIENKR10",
-            "PPOMKR10",
-            "AEKR10"
+            "PPOM09",
+            "CLIEN09",
+            "AEKX09"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "PPOM15",
+            "CLIEN15",
+            "AEKX15",
+            "AEKR15"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "PPOM26",
+            "CLIEN26",
+            "AEKX26"
+          ]
+        },
+        {
+          "min_purchase": "$332",
+          "discount_amount": "$34",
+          "codes": [
+            "PPOM34",
+            "CLIEN34",
+            "AEKX34"
+          ]
+        },
+        {
+          "min_purchase": "$529",
+          "discount_amount": "$54",
+          "codes": [
+            "PPOM54",
+            "CLIEN54",
+            "AEKX54"
           ]
         }
       ]
