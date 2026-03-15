@@ -1,6 +1,67 @@
 {
-  "last_updated": "2026-03-14T22:05:00+09:00",
+  "last_updated": "2026-03-15T11:56:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "3월 16주년 애니버서리 메가 세일 메인 할인 코드 (Anniversary Sale)",
+      "valid_from": "2026-03-16T00:00:00+09:00",
+      "valid_until": "2026-03-25T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$4",
+          "codes": [
+            "AEKR04",
+            "AELP04",
+            "ANNIKR04"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$9",
+          "codes": [
+            "AEKR09",
+            "AELP09",
+            "ANNIKR09"
+          ]
+        },
+        {
+          "min_purchase": "$129",
+          "discount_amount": "$18",
+          "codes": [
+            "AEKR18",
+            "AELP18",
+            "ANNIKR18"
+          ]
+        },
+        {
+          "min_purchase": "$219",
+          "discount_amount": "$32",
+          "codes": [
+            "AEKR32",
+            "AELP32",
+            "ANNIKR32"
+          ]
+        },
+        {
+          "min_purchase": "$389",
+          "discount_amount": "$60",
+          "codes": [
+            "AEKR60",
+            "AELP60",
+            "ANNIKR60"
+          ]
+        },
+        {
+          "min_purchase": "$569",
+          "discount_amount": "$80",
+          "codes": [
+            "AEKR80",
+            "AELP80",
+            "ANNIKR80"
+          ]
+        }
+      ]
+    },
     {
       "name": "3월 애니버서리 전야제 선착순 코드 (DOUBLEKR & AEKS)",
       "valid_from": "2026-03-01T00:00:00+09:00",
@@ -183,8 +244,8 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
-      "description": "알리익스프레스 창립 16주년을 기념하는 2026년 상반기 최대 규모의 정기 세일입니다. 전 품목 최대 80% 할인과 함께 대규모 전용 프로모션 코드 및 주요 카드사(신한, KB국민, 현대, 삼성 등)와 간편결제(네이버페이, 카카오페이, 토스페이) 즉시 할인 혜택이 집중적으로 제공됩니다. 현재 장바구니에 담아두는 예열 기간이 진행 중입니다.",
+      "name": "3월 16주년 애니버서리 메가 세일 (본 행사)",
+      "description": "알리익스프레스 창립 16주년 기념 2026년 상반기 최대 정기 세일입니다. 전 품목 최대 80% 할인과 함께 대규모 전용 프로모션 코드 및 주요 카드사(신한, KB국민, 현대, 삼성, BC, 우리 등) 및 간편결제(네이버페이, 카카오페이, 토스페이) 즉시 할인이 제공됩니다.",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     },
