@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T22:06:00+09:00",
+  "last_updated": "2026-03-16T11:56:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 메인 할인 코드 (Anniversary Sale)",
@@ -13,7 +13,9 @@
             "AEKR04",
             "AELP04",
             "ANNIKR04",
-            "ALISALE04"
+            "ALISALE04",
+            "PPOM04",
+            "CLIEN04"
           ]
         },
         {
@@ -23,7 +25,9 @@
             "AEKR09",
             "AELP09",
             "ANNIKR09",
-            "ALISALE09"
+            "ALISALE09",
+            "PPOM09",
+            "CLIEN09"
           ]
         },
         {
@@ -33,7 +37,9 @@
             "AEKR18",
             "AELP18",
             "ANNIKR18",
-            "ALISALE18"
+            "ALISALE18",
+            "PPOM18",
+            "CLIEN18"
           ]
         },
         {
@@ -43,7 +49,9 @@
             "AEKR32",
             "AELP32",
             "ANNIKR32",
-            "ALISALE32"
+            "ALISALE32",
+            "PPOM32",
+            "CLIEN32"
           ]
         },
         {
@@ -53,7 +61,9 @@
             "AEKR60",
             "AELP60",
             "ANNIKR60",
-            "ALISALE60"
+            "ALISALE60",
+            "PPOM60",
+            "CLIEN60"
           ]
         },
         {
@@ -63,161 +73,9 @@
             "AEKR80",
             "AELP80",
             "ANNIKR80",
-            "ALISALE80"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "3월 애니버서리 전야제 선착순 코드 (DOUBLEKR & AEKS)",
-      "valid_from": "2026-03-01T00:00:00+09:00",
-      "valid_until": "2026-03-15T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$25",
-          "discount_amount": "$4",
-          "codes": [
-            "DOUBLEKR04"
-          ]
-        },
-        {
-          "min_purchase": "$38",
-          "discount_amount": "$6",
-          "codes": [
-            "DOUBLEKR06"
-          ]
-        },
-        {
-          "min_purchase": "$54",
-          "discount_amount": "$8",
-          "codes": [
-            "DOUBLEKR08"
-          ]
-        },
-        {
-          "min_purchase": "$89",
-          "discount_amount": "$13",
-          "codes": [
-            "DOUBLEKR13"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$20",
-          "codes": [
-            "DOUBLEKR20"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$31",
-          "codes": [
-            "DOUBLEKR31",
-            "AEKS31"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$52",
-          "codes": [
-            "DOUBLEKR52",
-            "AEKS52"
-          ]
-        },
-        {
-          "min_purchase": "$559",
-          "discount_amount": "$83",
-          "codes": [
-            "DOUBLEKR83",
-            "AEKS83"
-          ]
-        },
-        {
-          "min_purchase": "$679",
-          "discount_amount": "$102",
-          "codes": [
-            "DOUBLEKR102",
-            "AEKS102"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "3월 커뮤니티 및 공식 제휴 할인 코드",
-      "valid_from": "2026-03-01T00:00:00+09:00",
-      "valid_until": "2026-03-15T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "PPOM02",
-            "CLIEN02",
-            "AEKX02"
-          ]
-        },
-        {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "PPOM04",
-            "CLIEN04",
-            "AEKX04"
-          ]
-        },
-        {
-          "min_purchase": "$53",
-          "discount_amount": "$6",
-          "codes": [
-            "PPOM06",
-            "CLIEN06",
-            "AEKX06"
-          ]
-        },
-        {
-          "min_purchase": "$86",
-          "discount_amount": "$9",
-          "codes": [
-            "PPOM09",
-            "CLIEN09",
-            "AEKX09"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$15",
-          "codes": [
-            "PPOM15",
-            "CLIEN15",
-            "AEKX15",
-            "AEKR15"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
-          "codes": [
-            "PPOM26",
-            "CLIEN26",
-            "AEKX26"
-          ]
-        },
-        {
-          "min_purchase": "$332",
-          "discount_amount": "$34",
-          "codes": [
-            "PPOM34",
-            "CLIEN34",
-            "AEKX34"
-          ]
-        },
-        {
-          "min_purchase": "$529",
-          "discount_amount": "$54",
-          "codes": [
-            "PPOM54",
-            "CLIEN54",
-            "AEKX54"
+            "ALISALE80",
+            "PPOM80",
+            "CLIEN80"
           ]
         }
       ]
@@ -244,28 +102,35 @@
             "NNCODEKR",
             "KRNNCODE"
           ]
+        },
+        {
+          "min_purchase": "$14",
+          "discount_amount": "$2",
+          "codes": [
+            "KRCODEMAY"
+          ]
         }
       ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "3월 16주년 애니버서리 메가 세일 (본 행사)",
-      "description": "알리익스프레스 창립 16주년 기념 최대 규모 정기 세일입니다. 전 품목 최대 80% 할인 및 카드사 즉시 할인, 간편결제 혜택이 함께 제공됩니다.",
-      "valid_from": "2026-03-16T00:00:00+09:00",
-      "valid_until": "2026-03-25T23:59:59+09:00"
-    },
-    {
       "name": "3월 알급날 (AliExpress Pay Day)",
-      "description": "한국 전용 월말 급여 시즌 할인 행사로, K-Venue 상품 및 인기 가전 제품에 대한 전용 코드와 결제 할인이 제공됩니다.",
+      "description": "매월 25일경 진행되는 한국 전용 월말 세일입니다. K-Venue 상품 및 국내 인기 브랜드 가전에 대해 전용 코드와 카드사 결제 할인 혜택이 집중적으로 제공됩니다.",
       "valid_from": "2026-03-24T00:00:00+09:00",
       "valid_until": "2026-03-26T23:59:59+09:00"
     },
     {
       "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 가성비 테마 세일입니다. 초이스 상품 대상 자동 할인 및 전용 프로모션 코드가 적용됩니다.",
+      "description": "매월 초 정기적으로 진행되는 알리익스프레스의 대표 가성비 세일입니다. 초이스 태그 상품에 대해 일정 금액 이상 구매 시 자동 할인 및 전용 할인 코드를 제공합니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
+    },
+    {
+      "name": "6월 썸머 메가 세일 (Summer Sale)",
+      "description": "상반기 최대 규모의 정기 세일로 '618 메가 세일'로도 불립니다. 여름 시즌 가전, 의류 및 취미 용품에 대해 높은 할인율과 광범위한 결제 혜택이 제공됩니다.",
+      "valid_from": "2026-06-16T00:00:00+09:00",
+      "valid_until": "2026-06-25T23:59:59+09:00"
     }
   ]
 }
