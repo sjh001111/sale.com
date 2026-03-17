@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T22:27:00+09:00",
+  "last_updated": "2026-03-17T11:40:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 메인 할인 코드 (Anniversary Sale)",
@@ -101,13 +101,6 @@
             "NNCODE1",
             "NNCODEKR",
             "KRNNCODE"
-          ]
-        },
-        {
-          "min_purchase": "$14",
-          "discount_amount": "$2",
-          "codes": [
-            "KRCODEMAY"
           ]
         }
       ]
