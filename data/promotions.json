@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T11:46:00+09:00",
+  "last_updated": "2026-03-18T22:26:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
@@ -16,7 +16,8 @@
             "ALISALE04",
             "PPOM04",
             "CLIEN04",
-            "DONGUL04"
+            "DONGUL04",
+            "KRAE04"
           ]
         },
         {
@@ -28,7 +29,9 @@
             "ANNIKR09",
             "ALISALE09",
             "PPOM09",
-            "CLIEN09"
+            "CLIEN09",
+            "DONGUL09",
+            "KRAE09"
           ]
         },
         {
@@ -40,7 +43,9 @@
             "ANNIKR18",
             "ALISALE18",
             "PPOM18",
-            "CLIEN18"
+            "CLIEN18",
+            "DONGUL18",
+            "KRAE18"
           ]
         },
         {
@@ -52,7 +57,9 @@
             "ANNIKR32",
             "ALISALE32",
             "PPOM32",
-            "CLIEN32"
+            "CLIEN32",
+            "DONGUL32",
+            "KRAE32"
           ]
         },
         {
@@ -64,7 +71,9 @@
             "ANNIKR60",
             "ALISALE60",
             "PPOM60",
-            "CLIEN60"
+            "CLIEN60",
+            "DONGUL60",
+            "KRAE60"
           ]
         },
         {
@@ -76,7 +85,9 @@
             "ANNIKR80",
             "ALISALE80",
             "PPOM80",
-            "CLIEN80"
+            "CLIEN80",
+            "DONGUL80",
+            "KRAE80"
           ]
         }
       ]
@@ -125,6 +136,12 @@
       "description": "매월 초 7일간 진행되는 AliExpress의 대표적인 가성비 세일입니다. 'Choice' 태그 상품에 대해 무료 배송 및 전용 할인 혜택이 집중됩니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
+    },
+    {
+      "name": "5월 가전디지털 브랜드 데이 (Brand Day)",
+      "description": "국내 주요 가전 브랜드 및 IT 기기를 대상으로 하는 단독 프로모션입니다. 노트북, 스마트폰, 대형 가전 위주의 고액 할인 코드가 발행됩니다.",
+      "valid_from": "2026-05-10T00:00:00+09:00",
+      "valid_until": "2026-05-14T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
