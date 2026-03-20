@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-03-19T22:20:00+09:00",
+  "last_updated": "2026-03-20T11:38:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "BDAY03"
+          ]
+        },
         {
           "min_purchase": "$29",
           "discount_amount": "$4",
@@ -18,6 +25,27 @@
             "CLIEN04",
             "DONGUL04",
             "KRAE04"
+          ]
+        },
+        {
+          "min_purchase": "$36",
+          "discount_amount": "$5",
+          "codes": [
+            "BDAY05"
+          ]
+        },
+        {
+          "min_purchase": "$42",
+          "discount_amount": "$6",
+          "codes": [
+            "BDAY06"
+          ]
+        },
+        {
+          "min_purchase": "$54",
+          "discount_amount": "$7",
+          "codes": [
+            "BDAY07"
           ]
         },
         {
@@ -35,6 +63,13 @@
           ]
         },
         {
+          "min_purchase": "$85",
+          "discount_amount": "$11",
+          "codes": [
+            "BDAY11"
+          ]
+        },
+        {
           "min_purchase": "$129",
           "discount_amount": "$18",
           "codes": [
@@ -46,6 +81,20 @@
             "CLIEN18",
             "DONGUL18",
             "KRAE18"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$18",
+          "codes": [
+            "BDAY18"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$27",
+          "codes": [
+            "BDAY27"
           ]
         },
         {
