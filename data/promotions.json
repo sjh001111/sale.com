@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T22:13:00+09:00",
+  "last_updated": "2026-03-21T11:32:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
@@ -10,7 +10,13 @@
           "min_purchase": "$22",
           "discount_amount": "$3",
           "codes": [
-            "BDAY03"
+            "BDAY03",
+            "AEKS03",
+            "ALIBOX0303",
+            "PPOMPPU03",
+            "CLIEN03",
+            "MARKR03",
+            "QUASARZONE03"
           ]
         },
         {
@@ -31,21 +37,34 @@
           "min_purchase": "$36",
           "discount_amount": "$5",
           "codes": [
-            "BDAY05"
+            "BDAY05",
+            "AEKS05",
+            "ALIBOX0305",
+            "PPOMPPU05",
+            "CLIEN05",
+            "MARKR05",
+            "QUASARZONE05"
           ]
         },
         {
           "min_purchase": "$42",
           "discount_amount": "$6",
           "codes": [
-            "BDAY06"
+            "BDAY06",
+            "PPOMPPU06"
           ]
         },
         {
           "min_purchase": "$54",
           "discount_amount": "$7",
           "codes": [
-            "BDAY07"
+            "BDAY07",
+            "AEKS07",
+            "ALIBOX0307",
+            "PPOMPPU07",
+            "CLIEN07",
+            "MARKR07",
+            "QUASARZONE07"
           ]
         },
         {
@@ -59,14 +78,21 @@
             "PPOM09",
             "CLIEN09",
             "DONGUL09",
-            "KRAE09"
+            "KRAE09",
+            "AE16TH01"
           ]
         },
         {
           "min_purchase": "$85",
           "discount_amount": "$11",
           "codes": [
-            "BDAY11"
+            "BDAY11",
+            "AEKS11",
+            "ALIBOX0311",
+            "PPOMPPU11",
+            "CLIEN11",
+            "MARKR11",
+            "QUASARZONE11"
           ]
         },
         {
@@ -87,14 +113,26 @@
           "min_purchase": "$139",
           "discount_amount": "$18",
           "codes": [
-            "BDAY18"
+            "BDAY18",
+            "AEKS18",
+            "ALIBOX0318",
+            "PPOMPPU18",
+            "CLIEN18",
+            "MARKR18",
+            "QUASARZONE18"
           ]
         },
         {
           "min_purchase": "$209",
           "discount_amount": "$27",
           "codes": [
-            "BDAY27"
+            "BDAY27",
+            "AEKS27",
+            "ALIBOX0327",
+            "PPOMPPU27",
+            "CLIEN27",
+            "MARKR27",
+            "QUASARZONE27"
           ]
         },
         {
@@ -112,6 +150,19 @@
           ]
         },
         {
+          "min_purchase": "$349",
+          "discount_amount": "$45",
+          "codes": [
+            "AEKS45",
+            "BDAY45",
+            "ALIBOX0345",
+            "PPOMPPU45",
+            "CLIEN45",
+            "MARKR45",
+            "QUASARZONE45"
+          ]
+        },
+        {
           "min_purchase": "$389",
           "discount_amount": "$60",
           "codes": [
@@ -126,6 +177,19 @@
           ]
         },
         {
+          "min_purchase": "$559",
+          "discount_amount": "$70",
+          "codes": [
+            "AEKS70",
+            "BDAY70",
+            "ALIBOX0370",
+            "PPOMPPU70",
+            "CLIEN70",
+            "MARKR70",
+            "QUASARZONE70"
+          ]
+        },
+        {
           "min_purchase": "$569",
           "discount_amount": "$80",
           "codes": [
@@ -137,6 +201,19 @@
             "CLIEN80",
             "DONGUL80",
             "KRAE80"
+          ]
+        },
+        {
+          "min_purchase": "$679",
+          "discount_amount": "$85",
+          "codes": [
+            "AEKS85",
+            "BDAY85",
+            "ALIBOX0385",
+            "PPOMPPU85",
+            "CLIEN85",
+            "MARKR85",
+            "QUASARZONE85"
           ]
         }
       ]
@@ -163,6 +240,51 @@
             "NNCODEKR",
             "KRNNCODE"
           ]
+        },
+        {
+          "min_purchase": "$19",
+          "discount_amount": "$2",
+          "codes": [
+            "CHOICEKR02",
+            "PPOM02",
+            "CLIEN02"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "CHOICEKR04",
+            "PPOM04",
+            "CLIEN04"
+          ]
+        },
+        {
+          "min_purchase": "$53",
+          "discount_amount": "$6",
+          "codes": [
+            "CHOICEKR06",
+            "PPOM06",
+            "CLIEN06"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$9",
+          "codes": [
+            "CHOICEKR09",
+            "PPOM09",
+            "CLIEN09"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "CHOICEKR15",
+            "PPOM15",
+            "CLIEN15"
+          ]
         }
       ]
     }
@@ -170,31 +292,31 @@
   "upcoming_promotions": [
     {
       "name": "3월 알급날 (AliExpress Pay Day)",
-      "description": "애니버서리 세일의 최종 단계이자 한국 전용 월말 프로모션입니다. K-Venue 입점 상품을 포함한 생필품 및 가전 제품에 초점을 맞추며, 카드사 결제 할인과 대형 할인 코드가 집중 배포됩니다.",
+      "description": "3월 애니버서리 세일의 대미를 장식하는 한국 전용 월말 세일 기간입니다. 식품, 생활용품 등 K-Venue 국내 발송 상품에 강력한 할인 혜택과 카드사 할인이 집중됩니다.",
       "valid_from": "2026-03-23T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     },
     {
       "name": "3월 봄맞이 '할인해봄' (Spring Sale)",
-      "description": "애니버서리 종료 후 진행되는 봄 시즌 특가 행사입니다. 패션, 캠핑 용품, 아웃도어 기어 등 봄철 수요가 높은 카테고리를 대상으로 할인 혜택을 제공합니다.",
+      "description": "봄 시즌 쇼핑 수요를 겨냥한 추가 프로모션으로 의류, 캠핑, 아웃도어 카테고리 중심의 특가가 제공됩니다.",
       "valid_from": "2026-03-28T00:00:00+09:00",
       "valid_until": "2026-03-30T23:59:59+09:00"
     },
     {
       "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 가성비 세일입니다. 5일 배송 및 초이스(Choice) 태그 상품에 대한 전용 코드와 무료 배송 혜택이 강화됩니다.",
+      "description": "매월 초 진행되는 AliExpress의 대표적인 가성비 세일입니다. 초이스(Choice) 태그 상품 대상 전용 코드와 무료 배송 혜택이 강화됩니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
     },
     {
       "name": "5월 가전디지털 브랜드 데이 (Brand Day)",
-      "description": "주요 가전 및 디지털 기기 브랜드들을 대상으로 하는 대규모 브랜드 정기 특가 행사입니다.",
+      "description": "유명 가전 및 IT 디지털 브랜드 제품들을 선별하여 진행하는 브랜드 연합 기획전입니다.",
       "valid_from": "2026-05-10T00:00:00+09:00",
       "valid_until": "2026-05-14T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 쇼핑 축제로, 광군제에 버금가는 할인율과 카드사 할인 혜택이 제공되는 메인 프로모션입니다.",
+      "description": "광군제와 함께 알리익스프레스 연중 2대 대규모 행사 중 하나로, 상반기 최대 규모의 카드 할인과 프로모션 코드가 배포됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
