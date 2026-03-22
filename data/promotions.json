@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T11:48:00+09:00",
+  "last_updated": "2026-03-22T22:04:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
@@ -287,6 +287,29 @@
             "PPOM15",
             "CLIEN15"
           ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "CHOICEKR26",
+            "PPOM26",
+            "CLIEN26"
+          ]
+        },
+        {
+          "min_purchase": "$332",
+          "discount_amount": "$34",
+          "codes": [
+            "CHOICEKR34"
+          ]
+        },
+        {
+          "min_purchase": "$529",
+          "discount_amount": "$54",
+          "codes": [
+            "CHOICEKR54"
+          ]
         }
       ]
     }
@@ -294,7 +317,7 @@
   "upcoming_promotions": [
     {
       "name": "3월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 한국 사용자들을 위해 진행되는 정기 할인 행사입니다. K-Venue 상품을 포함한 전 카테고리에 대해 추가적인 카드사 할인과 전용 프로모션 코드가 제공됩니다.",
+      "description": "매월 말 한국 사용자들을 위해 진행되는 정기 할인 행사입니다. K-Venue 상품을 포함한 전 카테고리에 추가적인 카드사 할인과 PAYDAY 전용 프로모션 코드가 제공됩니다.",
       "valid_from": "2026-03-23T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00"
     },
