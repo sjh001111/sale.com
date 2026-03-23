@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T22:04:00+09:00",
+  "last_updated": "2026-03-23T11:48:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
@@ -47,16 +47,6 @@
           ]
         },
         {
-          "min_purchase": "$42",
-          "discount_amount": "$6",
-          "codes": [
-            "BDAY06",
-            "PPOMPPU06",
-            "AEKS06",
-            "CLIEN06"
-          ]
-        },
-        {
           "min_purchase": "$54",
           "discount_amount": "$7",
           "codes": [
@@ -70,6 +60,13 @@
           ]
         },
         {
+          "min_purchase": "$60",
+          "discount_amount": "$9",
+          "codes": [
+            "AE16TH01"
+          ]
+        },
+        {
           "min_purchase": "$69",
           "discount_amount": "$9",
           "codes": [
@@ -80,8 +77,7 @@
             "PPOM09",
             "CLIEN09",
             "DONGUL09",
-            "KRAE09",
-            "AE16TH01"
+            "KRAE09"
           ]
         },
         {
@@ -221,6 +217,53 @@
       ]
     },
     {
+      "name": "3월 알급날 (AliExpress Pay Day)",
+      "valid_from": "2026-03-23T00:00:00+09:00",
+      "valid_until": "2026-03-25T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$30",
+          "discount_amount": "$4",
+          "codes": [
+            "PAYDAY04",
+            "KR3004"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$15",
+          "codes": [
+            "PAYDAY15",
+            "KR1015"
+          ]
+        },
+        {
+          "min_purchase": "$200",
+          "discount_amount": "$30",
+          "codes": [
+            "PAYDAY30",
+            "KR2030"
+          ]
+        },
+        {
+          "min_purchase": "$300",
+          "discount_amount": "$50",
+          "codes": [
+            "PAYDAY50",
+            "KR3050"
+          ]
+        },
+        {
+          "min_purchase": "$500",
+          "discount_amount": "$80",
+          "codes": [
+            "PAYDAY80",
+            "KR5080"
+          ]
+        }
+      ]
+    },
+    {
       "name": "3월 상시 및 천원마트/초이스 전용 코드",
       "valid_from": "2026-03-01T00:00:00+09:00",
       "valid_until": "2026-03-31T23:59:59+09:00",
@@ -315,12 +358,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "3월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 한국 사용자들을 위해 진행되는 정기 할인 행사입니다. K-Venue 상품을 포함한 전 카테고리에 추가적인 카드사 할인과 PAYDAY 전용 프로모션 코드가 제공됩니다.",
-      "valid_from": "2026-03-23T00:00:00+09:00",
-      "valid_until": "2026-03-25T23:59:59+09:00"
-    },
     {
       "name": "3월 봄맞이 '할인해봄' (Spring Sale)",
       "description": "봄 시즌 쇼핑 수요를 겨냥하여 패션, 캠핑 및 아웃도어 카테고리를 중심으로 특가가 제공되는 추가 프로모션입니다.",
