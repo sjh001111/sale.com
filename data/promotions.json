@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-23T11:48:00+09:00",
+  "last_updated": "2026-03-23T22:22:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
       "valid_from": "2026-03-16T00:00:00+09:00",
-      "valid_until": "2026-03-25T23:59:59+09:00",
+      "valid_until": "2026-03-27T23:59:59+09:00",
       "codes": [
         {
           "min_purchase": "$22",
@@ -219,14 +219,16 @@
     {
       "name": "3월 알급날 (AliExpress Pay Day)",
       "valid_from": "2026-03-23T00:00:00+09:00",
-      "valid_until": "2026-03-25T23:59:59+09:00",
+      "valid_until": "2026-03-27T23:59:59+09:00",
       "codes": [
         {
           "min_purchase": "$30",
           "discount_amount": "$4",
           "codes": [
             "PAYDAY04",
-            "KR3004"
+            "KR3004",
+            "KVVENUE04",
+            "AEPAYDAY04"
           ]
         },
         {
@@ -234,7 +236,9 @@
           "discount_amount": "$15",
           "codes": [
             "PAYDAY15",
-            "KR1015"
+            "KR1015",
+            "KVVENUE15",
+            "AEPAYDAY15"
           ]
         },
         {
@@ -242,7 +246,9 @@
           "discount_amount": "$30",
           "codes": [
             "PAYDAY30",
-            "KR2030"
+            "KR2030",
+            "KVVENUE30",
+            "AEPAYDAY30"
           ]
         },
         {
@@ -250,7 +256,9 @@
           "discount_amount": "$50",
           "codes": [
             "PAYDAY50",
-            "KR3050"
+            "KR3050",
+            "KVVENUE50",
+            "AEPAYDAY50"
           ]
         },
         {
@@ -258,7 +266,9 @@
           "discount_amount": "$80",
           "codes": [
             "PAYDAY80",
-            "KR5080"
+            "KR5080",
+            "KVVENUE80",
+            "AEPAYDAY80"
           ]
         }
       ]
@@ -360,25 +370,25 @@
   "upcoming_promotions": [
     {
       "name": "3월 봄맞이 '할인해봄' (Spring Sale)",
-      "description": "봄 시즌 쇼핑 수요를 겨냥하여 패션, 캠핑 및 아웃도어 카테고리를 중심으로 특가가 제공되는 추가 프로모션입니다.",
+      "description": "애니버서리 세일 직후 진행되는 봄 시즌 특가 행사로, 패션 및 아웃도어 상품을 중심으로 추가 혜택이 제공됩니다.",
       "valid_from": "2026-03-28T00:00:00+09:00",
-      "valid_until": "2026-03-30T23:59:59+09:00"
+      "valid_until": "2026-03-31T23:59:59+09:00"
     },
     {
       "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 알리익스프레스의 대표 가성비 세일로, 초이스 상품 무료 배송 및 전용 할인 코드가 적용됩니다.",
+      "description": "매월 초 진행되는 가성비 중심 정기 세일로, Choice 상품 무료 배송 및 전용 할인 혜택이 적용됩니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
     },
     {
       "name": "5월 가전디지털 브랜드 데이 (Brand Day)",
-      "description": "주요 가전 및 IT 브랜드 제품들을 대상으로 진행되는 대규모 브랜드 연합 할인 행사입니다.",
+      "description": "국내외 주요 가전 및 IT 브랜드 제품을 대상으로 하는 브랜드 연합 할인 행사입니다.",
       "valid_from": "2026-05-10T00:00:00+09:00",
       "valid_until": "2026-05-14T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 규모의 정기 세일로, 광군제에 버금가는 강력한 할인 혜택과 카드사 제휴 할인이 집중되는 기간입니다.",
+      "description": "상반기 결산 최대 규모 프로모션으로, 광군제 수준의 할인 코드와 카드사 제휴 혜택이 제공됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
