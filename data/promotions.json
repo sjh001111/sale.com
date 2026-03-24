@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T11:39:00+09:00",
+  "last_updated": "2026-03-24T22:25:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
@@ -115,7 +115,6 @@
             "AEKS18",
             "ALIBOX0318",
             "PPOMPPU18",
-            "CLIEN18",
             "MARKR18",
             "QUASARZONE18"
           ]
@@ -228,7 +227,8 @@
             "PAYDAY04",
             "KR3004",
             "KVVENUE04",
-            "AEPAYDAY04"
+            "AEPAYDAY04",
+            "HNYPD04"
           ]
         },
         {
@@ -238,7 +238,8 @@
             "PAYDAY15",
             "KR1015",
             "KVVENUE15",
-            "AEPAYDAY15"
+            "AEPAYDAY15",
+            "HNYPD15"
           ]
         },
         {
@@ -248,7 +249,8 @@
             "PAYDAY30",
             "KR2030",
             "KVVENUE30",
-            "AEPAYDAY30"
+            "AEPAYDAY30",
+            "HNYPD30"
           ]
         },
         {
@@ -258,7 +260,8 @@
             "PAYDAY50",
             "KR3050",
             "KVVENUE50",
-            "AEPAYDAY50"
+            "AEPAYDAY50",
+            "HNYPD50"
           ]
         },
         {
@@ -268,7 +271,8 @@
             "PAYDAY80",
             "KR5080",
             "KVVENUE80",
-            "AEPAYDAY80"
+            "AEPAYDAY80",
+            "HNYPD80"
           ]
         }
       ]
@@ -379,6 +383,12 @@
       "description": "매월 초 진행되는 가성비 중심 정기 세일로, Choice 상품 무료 배송 및 전용 할인 혜택이 적용됩니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
+    },
+    {
+      "name": "4월 알급날 (AliExpress Pay Day)",
+      "description": "매월 말 월급날에 맞춰 진행되는 정기 프로모션으로, 한국 유저를 위한 카드사 할인 및 전용 코드가 발급됩니다.",
+      "valid_from": "2026-04-24T00:00:00+09:00",
+      "valid_until": "2026-04-28T23:59:59+09:00"
     },
     {
       "name": "5월 가전디지털 브랜드 데이 (Brand Day)",
