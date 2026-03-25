@@ -1,216 +1,115 @@
 {
-  "last_updated": "2026-03-25T11:44:00+09:00",
+  "last_updated": "2026-03-25T22:24:00+09:00",
   "active_code_promotions": [
     {
-      "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale)",
+      "name": "3월 16주년 애니버서리 메가 세일 (Anniversary Sale) - 라스트 콜",
       "valid_from": "2026-03-16T00:00:00+09:00",
       "valid_until": "2026-03-25T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$22",
-          "discount_amount": "$3",
+          "min_purchase": "$19",
+          "discount_amount": "$2",
           "codes": [
-            "BDAY03",
-            "AEKS03",
-            "ALIBOX0303",
-            "PPOMPPU03",
-            "CLIEN03",
-            "MARKR03",
-            "QUASARZONE03"
+            "ALIBDAY02",
+            "CLIEN02",
+            "PPOM02",
+            "ASKR02",
+            "AEKS02"
           ]
         },
         {
-          "min_purchase": "$29",
-          "discount_amount": "$4",
+          "min_purchase": "$39",
+          "discount_amount": "$6",
           "codes": [
-            "AEKR04",
-            "AELP04",
-            "ANNIKR04",
-            "ALISALE04",
-            "PPOM04",
-            "CLIEN04",
-            "DONGUL04",
-            "KRAE04"
+            "ALIBDAY06",
+            "CLIEN06",
+            "PPOM06",
+            "ASKR06",
+            "AEKS06"
           ]
         },
         {
-          "min_purchase": "$36",
-          "discount_amount": "$5",
+          "min_purchase": "$59",
+          "discount_amount": "$8",
           "codes": [
-            "BDAY05",
-            "AEKS05",
-            "ALIBOX0305",
-            "PPOMPPU05",
-            "CLIEN05",
-            "MARKR05",
-            "QUASARZONE05"
+            "ALIBDAY08",
+            "CLIEN08",
+            "PPOM08",
+            "ASKR08",
+            "AEKS08"
           ]
         },
         {
-          "min_purchase": "$54",
-          "discount_amount": "$7",
+          "min_purchase": "$89",
+          "discount_amount": "$12",
           "codes": [
-            "BDAY07",
-            "AEKS07",
-            "ALIBOX0307",
-            "PPOMPPU07",
-            "CLIEN07",
-            "MARKR07",
-            "QUASARZONE07"
-          ]
-        },
-        {
-          "min_purchase": "$60",
-          "discount_amount": "$9",
-          "codes": [
-            "AE16TH01"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$9",
-          "codes": [
-            "AEKR09",
-            "AELP09",
-            "ANNIKR09",
-            "ALISALE09",
-            "PPOM09",
-            "CLIEN09",
-            "DONGUL09",
-            "KRAE09"
-          ]
-        },
-        {
-          "min_purchase": "$85",
-          "discount_amount": "$11",
-          "codes": [
-            "BDAY11",
-            "AEKS11",
-            "ALIBOX0311",
-            "PPOMPPU11",
-            "CLIEN11",
-            "MARKR11",
-            "QUASARZONE11"
-          ]
-        },
-        {
-          "min_purchase": "$129",
-          "discount_amount": "$18",
-          "codes": [
-            "AEKR18",
-            "AELP18",
-            "ANNIKR18",
-            "ALISALE18",
-            "PPOM18",
-            "CLIEN18",
-            "DONGUL18",
-            "KRAE18"
+            "ALIBDAY12",
+            "CLIEN12",
+            "PPOM12",
+            "ASKR12",
+            "AEKS12"
           ]
         },
         {
           "min_purchase": "$139",
-          "discount_amount": "$18",
+          "discount_amount": "$20",
           "codes": [
-            "BDAY18",
-            "AEKS18",
-            "ALIBOX0318",
-            "PPOMPPU18",
-            "MARKR18",
-            "QUASARZONE18"
+            "ALIBDAY20",
+            "CLIEN20",
+            "PPOM20",
+            "ASKR20",
+            "AEKS20"
           ]
         },
         {
-          "min_purchase": "$209",
-          "discount_amount": "$27",
+          "min_purchase": "$239",
+          "discount_amount": "$40",
           "codes": [
-            "BDAY27",
-            "AEKS27",
-            "ALIBOX0327",
-            "PPOMPPU27",
-            "CLIEN27",
-            "MARKR27",
-            "QUASARZONE27"
+            "ALIBDAY40",
+            "CLIEN40",
+            "PPOM40",
+            "ASKR40",
+            "AEKS40"
           ]
         },
         {
-          "min_purchase": "$219",
-          "discount_amount": "$32",
-          "codes": [
-            "AEKR32",
-            "AELP32",
-            "ANNIKR32",
-            "ALISALE32",
-            "PPOM32",
-            "CLIEN32",
-            "DONGUL32",
-            "KRAE32"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$45",
-          "codes": [
-            "AEKS45",
-            "BDAY45",
-            "ALIBOX0345",
-            "PPOMPPU45",
-            "CLIEN45",
-            "MARKR45",
-            "QUASARZONE45"
-          ]
-        },
-        {
-          "min_purchase": "$389",
+          "min_purchase": "$369",
           "discount_amount": "$60",
           "codes": [
-            "AEKR60",
-            "AELP60",
-            "ANNIKR60",
-            "ALISALE60",
-            "PPOM60",
+            "ALIBDAY60",
             "CLIEN60",
-            "DONGUL60",
-            "KRAE60"
+            "PPOM60",
+            "ASKR60",
+            "AEKS60"
           ]
         },
         {
-          "min_purchase": "$559",
+          "min_purchase": "$469",
           "discount_amount": "$70",
           "codes": [
-            "AEKS70",
-            "BDAY70",
-            "ALIBOX0370",
-            "PPOMPPU70",
+            "ALIBDAY70",
             "CLIEN70",
-            "MARKR70",
-            "QUASARZONE70"
+            "PPOM70",
+            "ASKR70",
+            "AEKS70"
           ]
         },
         {
-          "min_purchase": "$569",
+          "min_purchase": "$599",
           "discount_amount": "$80",
           "codes": [
-            "AEKR80",
-            "AELP80",
-            "ANNIKR80",
-            "ALISALE80",
-            "PPOM80",
+            "ALIBDAY80",
             "CLIEN80",
-            "DONGUL80",
-            "KRAE80"
+            "PPOM80",
+            "ASKR80",
+            "AEKS80"
           ]
         },
         {
-          "min_purchase": "$679",
+          "min_purchase": "$599",
           "discount_amount": "$85",
           "codes": [
-            "AEKS85",
-            "BDAY85",
-            "ALIBOX0385",
-            "PPOMPPU85",
-            "CLIEN85",
-            "MARKR85",
-            "QUASARZONE85"
+            "AEB085"
           ]
         }
       ]
@@ -226,7 +125,6 @@
           "codes": [
             "PAYDAY04",
             "KR3004",
-            "KVVENUE04",
             "AEPAYDAY04",
             "HNYPD04"
           ]
@@ -237,7 +135,6 @@
           "codes": [
             "PAYDAY15",
             "KR1015",
-            "KVVENUE15",
             "AEPAYDAY15",
             "HNYPD15"
           ]
@@ -248,7 +145,6 @@
           "codes": [
             "PAYDAY30",
             "KR2030",
-            "KVVENUE30",
             "AEPAYDAY30",
             "HNYPD30"
           ]
@@ -259,7 +155,6 @@
           "codes": [
             "PAYDAY50",
             "KR3050",
-            "KVVENUE50",
             "AEPAYDAY50",
             "HNYPD50"
           ]
@@ -270,7 +165,6 @@
           "codes": [
             "PAYDAY80",
             "KR5080",
-            "KVVENUE80",
             "AEPAYDAY80",
             "HNYPD80"
           ]
@@ -283,89 +177,39 @@
       "valid_until": "2026-03-31T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$13",
-          "discount_amount": "$1.8",
-          "codes": [
-            "CHOICE777",
-            "KR1000MART",
-            "NNCODE"
-          ]
-        },
-        {
-          "min_purchase": "$18",
-          "discount_amount": "$2",
-          "codes": [
-            "NNCODE1",
-            "NNCODEKR",
-            "KRNNCODE"
-          ]
-        },
-        {
-          "min_purchase": "$19",
+          "min_purchase": "$20",
           "discount_amount": "$2",
           "codes": [
             "CHOICEKR02",
-            "PPOM02",
-            "CLIEN02"
+            "KRSS30",
+            "ANNIKR02"
           ]
         },
         {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "CHOICEKR04",
-            "PPOM04",
-            "CLIEN04"
-          ]
-        },
-        {
-          "min_purchase": "$53",
+          "min_purchase": "$56",
           "discount_amount": "$6",
           "codes": [
             "CHOICEKR06",
-            "PPOM06",
-            "CLIEN06"
+            "KRSS90",
+            "ANNIKR06"
           ]
         },
         {
-          "min_purchase": "$86",
-          "discount_amount": "$9",
+          "min_purchase": "$135",
+          "discount_amount": "$14",
           "codes": [
-            "CHOICEKR09",
-            "PPOM09",
-            "CLIEN09"
+            "CHOICEKR14",
+            "KRSS140",
+            "ANNIKR14"
           ]
         },
         {
-          "min_purchase": "$139",
-          "discount_amount": "$15",
+          "min_purchase": "$348",
+          "discount_amount": "$35",
           "codes": [
-            "CHOICEKR15",
-            "PPOM15",
-            "CLIEN15"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
-          "codes": [
-            "CHOICEKR26",
-            "PPOM26",
-            "CLIEN26"
-          ]
-        },
-        {
-          "min_purchase": "$332",
-          "discount_amount": "$34",
-          "codes": [
-            "CHOICEKR34"
-          ]
-        },
-        {
-          "min_purchase": "$529",
-          "discount_amount": "$54",
-          "codes": [
-            "CHOICEKR54"
+            "CHOICEKR35",
+            "KRSS350",
+            "ANNIKR35"
           ]
         }
       ]
@@ -376,7 +220,7 @@
       "name": "3월 봄맞이 '할인해봄' (Spring Sale)",
       "description": "애니버서리 세일 직후 진행되는 봄 시즌 기획전으로, 봄 패션 및 나들이 용품에 대한 추가 할인이 제공됩니다.",
       "valid_from": "2026-03-28T00:00:00+09:00",
-      "valid_until": "2026-03-31T23:59:59+09:00"
+      "valid_until": "2026-03-30T23:59:59+09:00"
     },
     {
       "name": "4월 초이스 데이 (Choice Day)",
