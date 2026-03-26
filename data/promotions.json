@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T11:52:00+09:00",
+  "last_updated": "2026-03-26T22:43:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 알급날 (AliExpress Pay Day)",
@@ -13,7 +13,8 @@
             "PAYDAY04",
             "KR3004",
             "AEPAYDAY04",
-            "HNYPD04"
+            "HNYPD04",
+            "FSKR04"
           ]
         },
         {
@@ -23,7 +24,8 @@
             "PAYDAY15",
             "KR1015",
             "AEPAYDAY15",
-            "HNYPD15"
+            "HNYPD15",
+            "FSKR15"
           ]
         },
         {
@@ -33,7 +35,8 @@
             "PAYDAY30",
             "KR2030",
             "AEPAYDAY30",
-            "HNYPD30"
+            "HNYPD30",
+            "FSKR30"
           ]
         },
         {
@@ -43,7 +46,8 @@
             "PAYDAY50",
             "KR3050",
             "AEPAYDAY50",
-            "HNYPD50"
+            "HNYPD50",
+            "FSKR50"
           ]
         },
         {
@@ -53,7 +57,8 @@
             "PAYDAY80",
             "KR5080",
             "AEPAYDAY80",
-            "HNYPD80"
+            "HNYPD80",
+            "FSKR80"
           ]
         }
       ]
@@ -63,6 +68,14 @@
       "valid_from": "2026-03-26T00:00:00+09:00",
       "valid_until": "2026-03-28T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "AECLIEN02",
+            "PPOM02"
+          ]
+        },
         {
           "min_purchase": "$22",
           "discount_amount": "$3",
@@ -78,6 +91,14 @@
           ]
         },
         {
+          "min_purchase": "$39",
+          "discount_amount": "$4",
+          "codes": [
+            "AECLIEN04",
+            "PPOM04"
+          ]
+        },
+        {
           "min_purchase": "$54",
           "discount_amount": "$7",
           "codes": [
@@ -85,10 +106,26 @@
           ]
         },
         {
+          "min_purchase": "$69",
+          "discount_amount": "$7",
+          "codes": [
+            "AECLIEN07",
+            "PPOM07"
+          ]
+        },
+        {
           "min_purchase": "$85",
           "discount_amount": "$11",
           "codes": [
             "BDAY11"
+          ]
+        },
+        {
+          "min_purchase": "$102",
+          "discount_amount": "$11",
+          "codes": [
+            "AECLIEN11",
+            "PPOM11"
           ]
         },
         {
@@ -103,6 +140,14 @@
           "discount_amount": "$27",
           "codes": [
             "BDAY27"
+          ]
+        },
+        {
+          "min_purchase": "$230",
+          "discount_amount": "$25",
+          "codes": [
+            "AECLIEN25",
+            "PPOM25"
           ]
         },
         {
@@ -171,25 +216,25 @@
   "upcoming_promotions": [
     {
       "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매달 초 열리는 알리의 대표 정기 세일로, 초이스 상품 대상 무료 배송 및 전용 할인 혜택이 적용됩니다.",
+      "description": "매달 초 열리는 정기 세일로 초이스 상품 대상 무료 배송 및 전용 할인 코드가 제공되는 행사입니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
     },
     {
       "name": "4월 가정의 달 세일 (Family Month Sale)",
-      "description": "어린이날, 어버이날 선물을 위한 기획전으로 장난감, 건강보조식품 및 선물용 제품에 집중 할인이 제공됩니다.",
+      "description": "선물용 완구, 건강기능식품 및 생활가전 제품을 중심으로 집중 할인이 진행되는 기획전입니다.",
       "valid_from": "2026-04-13T00:00:00+09:00",
       "valid_until": "2026-04-19T23:59:59+09:00"
     },
     {
-      "name": "4월 브랜드데이 및 알급날 (Pay Day)",
-      "description": "브랜드 특가전과 월말 한국 전용 페이데이 할인이 결합되어 K-Venue 및 인기 브랜드 제품이 최대 할인가로 판매됩니다.",
+      "name": "4월 브랜드 데이 및 알급날 (Pay Day)",
+      "description": "월말 한국 사용자들을 위한 전용 페이데이 할인과 브랜드 특가가 결합되어 높은 할인율을 제공합니다.",
       "valid_from": "2026-04-23T00:00:00+09:00",
       "valid_until": "2026-04-28T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 규모의 쇼핑 축제로, 대량의 프로모션 코드와 카드사 결제 할인이 집중되는 기간입니다.",
+      "description": "알리익스프레스 상반기 최대 규모의 쇼핑 축제로 연중 가장 많은 프로모션 코드와 결제 혜택이 집중됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
