@@ -1,68 +1,6 @@
 {
-  "last_updated": "2026-03-27T22:20:00+09:00",
+  "last_updated": "2026-03-28T11:43:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "3월 알급날 (AliExpress Pay Day)",
-      "valid_from": "2026-03-23T00:00:00+09:00",
-      "valid_until": "2026-03-27T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$30",
-          "discount_amount": "$4",
-          "codes": [
-            "PAYDAY04",
-            "KR3004",
-            "AEPAYDAY04",
-            "HNYPD04",
-            "FSKR04"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$15",
-          "codes": [
-            "PAYDAY15",
-            "KR1015",
-            "AEPAYDAY15",
-            "HNYPD15",
-            "FSKR15"
-          ]
-        },
-        {
-          "min_purchase": "$200",
-          "discount_amount": "$30",
-          "codes": [
-            "PAYDAY30",
-            "KR2030",
-            "AEPAYDAY30",
-            "HNYPD30",
-            "FSKR30"
-          ]
-        },
-        {
-          "min_purchase": "$300",
-          "discount_amount": "$50",
-          "codes": [
-            "PAYDAY50",
-            "KR3050",
-            "AEPAYDAY50",
-            "HNYPD50",
-            "FSKR50"
-          ]
-        },
-        {
-          "min_purchase": "$500",
-          "discount_amount": "$80",
-          "codes": [
-            "PAYDAY80",
-            "KR5080",
-            "AEPAYDAY80",
-            "HNYPD80",
-            "FSKR80"
-          ]
-        }
-      ]
-    },
     {
       "name": "3월 브랜드 특가전 (Brand Fest)",
       "valid_from": "2026-03-26T00:00:00+09:00",
