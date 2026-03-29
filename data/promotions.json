@@ -1,116 +1,6 @@
 {
-  "last_updated": "2026-03-28T22:08:00+09:00",
+  "last_updated": "2026-03-29T12:16:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "3월 브랜드 특가전 (Brand Fest)",
-      "valid_from": "2026-03-26T00:00:00+09:00",
-      "valid_until": "2026-03-28T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "AECLIEN02",
-            "PPOM02"
-          ]
-        },
-        {
-          "min_purchase": "$22",
-          "discount_amount": "$3",
-          "codes": [
-            "BDAY03"
-          ]
-        },
-        {
-          "min_purchase": "$36",
-          "discount_amount": "$5",
-          "codes": [
-            "BDAY05"
-          ]
-        },
-        {
-          "min_purchase": "$39",
-          "discount_amount": "$4",
-          "codes": [
-            "AECLIEN04",
-            "PPOM04"
-          ]
-        },
-        {
-          "min_purchase": "$54",
-          "discount_amount": "$7",
-          "codes": [
-            "BDAY07"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$7",
-          "codes": [
-            "AECLIEN07",
-            "PPOM07"
-          ]
-        },
-        {
-          "min_purchase": "$85",
-          "discount_amount": "$11",
-          "codes": [
-            "BDAY11"
-          ]
-        },
-        {
-          "min_purchase": "$102",
-          "discount_amount": "$11",
-          "codes": [
-            "AECLIEN11",
-            "PPOM11"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$18",
-          "codes": [
-            "BDAY18"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$27",
-          "codes": [
-            "BDAY27"
-          ]
-        },
-        {
-          "min_purchase": "$230",
-          "discount_amount": "$25",
-          "codes": [
-            "AECLIEN25",
-            "PPOM25"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$45",
-          "codes": [
-            "BDAY45"
-          ]
-        },
-        {
-          "min_purchase": "$559",
-          "discount_amount": "$70",
-          "codes": [
-            "BDAY70"
-          ]
-        },
-        {
-          "min_purchase": "$679",
-          "discount_amount": "$85",
-          "codes": [
-            "BDAY85"
-          ]
-        }
-      ]
-    },
     {
       "name": "3월 상시 및 천원마트/초이스 전용 코드",
       "valid_from": "2026-03-01T00:00:00+09:00",
@@ -159,8 +49,8 @@
       "valid_until": "2026-04-07T23:59:59+09:00"
     },
     {
-      "name": "4월 가정의 달 세일 (Family Month Sale)",
-      "description": "어린이날, 어버이날 등을 대비한 선물용 완구, 건강기능식품 및 생활가전 카테고리 집중 할인 기획전입니다.",
+      "name": "4월 가정의 달 & 아웃도어 세일 (Family Month & Outdoor)",
+      "description": "어린이날, 어버이날 선물 및 봄맞이 야외 활동을 위한 완구, 캠핑, 스포츠 용품 집중 할인 기획전입니다.",
       "valid_from": "2026-04-13T00:00:00+09:00",
       "valid_until": "2026-04-19T23:59:59+09:00"
     },
