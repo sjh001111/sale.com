@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-30T12:19:00+09:00",
+  "last_updated": "2026-03-30T22:48:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 상시 및 천원마트/초이스 전용 코드",
@@ -11,7 +11,17 @@
           "discount_amount": "$2",
           "codes": [
             "CHOICEKR02",
-            "KRSS30"
+            "KRSS30",
+            "AEPPOM02",
+            "AECL02"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "CHOICEKR04",
+            "AEPPOM04"
           ]
         },
         {
@@ -19,7 +29,15 @@
           "discount_amount": "$6",
           "codes": [
             "CHOICEKR06",
-            "KRSS90"
+            "KRSS90",
+            "AEPPOM06"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$9",
+          "codes": [
+            "CHOICEKR09"
           ]
         },
         {
@@ -27,7 +45,15 @@
           "discount_amount": "$14",
           "codes": [
             "CHOICEKR14",
-            "KRSS140"
+            "KRSS140",
+            "AEPPOM14"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "CHOICEKR26"
           ]
         },
         {
@@ -35,7 +61,8 @@
           "discount_amount": "$35",
           "codes": [
             "CHOICEKR35",
-            "KRSS350"
+            "KRSS350",
+            "AEPPOM35"
           ]
         }
       ]
@@ -91,37 +118,37 @@
   "upcoming_promotions": [
     {
       "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 행사로 초이스 태그 상품 무료 배송 및 한국 전용 할인 코드 혜택이 제공됩니다.",
+      "description": "매월 초 정기적으로 진행되는 행사로 초이스 상품 무료 배송 및 한국 전용 할인 혜택이 집중 제공됩니다.",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00"
     },
     {
-      "name": "4월 봄나들이 및 프로모션 세일 (Outdoor Fun)",
-      "description": "봄철 야외 활동 및 아웃도어 용품을 중심으로 진행되는 기획전으로 캠핑, 등산 등 다양한 스포츠 기어 할인이 제공됩니다.",
+      "name": "4월 봄나들이 및 벚꽃 세일 (Outdoor Fun)",
+      "description": "완연한 봄을 맞아 야외 활동용품, 패션, 아웃도어 기어 등을 대상으로 진행되는 시즌 프로모션입니다.",
       "valid_from": "2026-04-13T00:00:00+09:00",
       "valid_until": "2026-04-19T23:59:59+09:00"
     },
     {
       "name": "4월 브랜드 데이 (Brand Day)",
-      "description": "주요 인기 브랜드들의 단독 특가 및 전용 쿠폰 혜택이 집중되는 프로모션 기간입니다.",
+      "description": "인기 브랜드 공식 스토어 제품들을 대상으로 높은 할인율의 단독 쿠폰이 발행되는 행사입니다.",
       "valid_from": "2026-04-20T00:00:00+09:00",
       "valid_until": "2026-04-24T23:59:59+09:00"
     },
     {
       "name": "4월 알급날 (Pay Day)",
-      "description": "월말 한국 사용자들을 위한 전용 결제 할인과 포인트 적립 혜택이 강화되는 정기 할인 행사입니다.",
+      "description": "월말 국내 사용자들을 위한 전용 결제 할인과 포인트 적립 혜택이 강화되는 한국 특화 정기 세일입니다.",
       "valid_from": "2026-04-23T00:00:00+09:00",
       "valid_until": "2026-04-25T23:59:59+09:00"
     },
     {
       "name": "5월 초이스 데이 (Choice Day)",
-      "description": "5월 가정의 달을 맞아 정기적으로 돌아오는 초이스 상품 대상 집중 할인 행사입니다.",
+      "description": "가정의 달 5월의 시작과 함께 진행되는 초이스 상품 대상 정기 프로모션입니다.",
       "valid_from": "2026-05-01T00:00:00+09:00",
       "valid_until": "2026-05-07T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 규모의 쇼핑 축제로 연중 가장 높은 할인율과 풍성한 프로모션 코드가 제공되는 메인 행사입니다.",
+      "description": "상반기 최대 규모의 쇼핑 축제로 연중 최고 수준의 할인율과 카드사 혜택이 제공됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
