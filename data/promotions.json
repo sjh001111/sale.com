@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T11:53:00+09:00",
+  "last_updated": "2026-03-31T22:47:00+09:00",
   "active_code_promotions": [
     {
       "name": "3월 상시 및 천원마트/초이스 전용 코드",
@@ -125,49 +125,59 @@
           "min_purchase": "$22",
           "discount_amount": "$3",
           "codes": [
-            "AEKF03"
+            "AEKF03",
+            "AEPPOM03",
+            "AECL03"
           ]
         },
         {
           "min_purchase": "$34",
           "discount_amount": "$4",
           "codes": [
-            "AEKF04"
+            "AEKF04",
+            "AEPPOM04",
+            "AECL04"
           ]
         },
         {
           "min_purchase": "$86",
           "discount_amount": "$10",
           "codes": [
-            "AEKF10"
+            "AEKF10",
+            "AEPPOM10",
+            "AECL10"
           ]
         },
         {
           "min_purchase": "$139",
           "discount_amount": "$17",
           "codes": [
-            "AEKF17"
+            "AEKF17",
+            "AEPPOM17"
           ]
         },
         {
           "min_purchase": "$239",
           "discount_amount": "$27",
           "codes": [
-            "AEKF27"
+            "AEKF27",
+            "AEPPOM27"
           ]
         },
         {
           "min_purchase": "$349",
           "discount_amount": "$38",
           "codes": [
-            "AEKF38"
+            "AEKF38",
+            "AEPPOM38"
           ]
         },
         {
           "min_purchase": "$559",
           "discount_amount": "$60",
           "codes": [
-            "AEKF60"
+            "AEKF60",
+            "AEPPOM60"
           ]
         }
       ]
