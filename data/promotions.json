@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T12:24:00+09:00",
+  "last_updated": "2026-04-01T22:49:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 초이스 데이 (Choice Day) 전용 할인 코드",
@@ -11,7 +11,9 @@
           "discount_amount": "$3",
           "codes": [
             "AEKF03",
+            "PPOMPPU03",
             "AEPPOM03",
+            "CLIEN03",
             "AECL03",
             "CHOICEKR03"
           ]
@@ -21,7 +23,9 @@
           "discount_amount": "$4",
           "codes": [
             "AEKF04",
+            "PPOMPPU04",
             "AEPPOM04",
+            "CLIEN04",
             "AECL04"
           ]
         },
@@ -30,7 +34,9 @@
           "discount_amount": "$10",
           "codes": [
             "AEKF10",
+            "PPOMPPU10",
             "AEPPOM10",
+            "CLIEN10",
             "AECL10"
           ]
         },
@@ -39,7 +45,10 @@
           "discount_amount": "$17",
           "codes": [
             "AEKF17",
-            "AEPPOM17"
+            "PPOMPPU17",
+            "AEPPOM17",
+            "CLIEN17",
+            "CHOICEKR17"
           ]
         },
         {
@@ -47,7 +56,9 @@
           "discount_amount": "$27",
           "codes": [
             "AEKF27",
-            "AEPPOM27"
+            "PPOMPPU27",
+            "AEPPOM27",
+            "CLIEN27"
           ]
         },
         {
@@ -55,7 +66,9 @@
           "discount_amount": "$38",
           "codes": [
             "AEKF38",
-            "AEPPOM38"
+            "PPOMPPU38",
+            "AEPPOM38",
+            "CLIEN38"
           ]
         },
         {
@@ -63,7 +76,9 @@
           "discount_amount": "$60",
           "codes": [
             "AEKF60",
-            "AEPPOM60"
+            "PPOMPPU60",
+            "AEPPOM60",
+            "CLIEN60"
           ]
         }
       ]
@@ -78,7 +93,7 @@
     },
     {
       "name": "4월 브랜드 데이 (Brand Day)",
-      "description": "샤오미, 유그린 등 인기 브랜드 공식 스토어 제품들을 대상으로 높은 할인율의 전용 쿠폰이 발행되는 행사입니다.",
+      "description": "인기 브랜드 공식 스토어 제품들을 대상으로 높은 할인율의 전용 쿠폰과 브랜드별 특가가 제공되는 행사입니다.",
       "valid_from": "2026-04-20T00:00:00+09:00",
       "valid_until": "2026-04-24T23:59:59+09:00"
     },
