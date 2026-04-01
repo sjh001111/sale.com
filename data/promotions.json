@@ -1,123 +1,8 @@
 {
-  "last_updated": "2026-03-31T22:47:00+09:00",
+  "last_updated": "2026-04-01T12:24:00+09:00",
   "active_code_promotions": [
     {
-      "name": "3월 상시 및 천원마트/초이스 전용 코드",
-      "valid_from": "2026-03-01T00:00:00+09:00",
-      "valid_until": "2026-03-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "CHOICEKR02",
-            "KRSS30",
-            "AEPPOM02",
-            "AECL02",
-            "ALIEXPRESSKR2"
-          ]
-        },
-        {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "CHOICEKR04",
-            "AEPPOM04"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$6",
-          "codes": [
-            "CHOICEKR06",
-            "KRSS90",
-            "AEPPOM06",
-            "AECL06"
-          ]
-        },
-        {
-          "min_purchase": "$86",
-          "discount_amount": "$9",
-          "codes": [
-            "CHOICEKR09"
-          ]
-        },
-        {
-          "min_purchase": "$135",
-          "discount_amount": "$14",
-          "codes": [
-            "CHOICEKR14",
-            "KRSS140",
-            "AEPPOM14"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
-          "codes": [
-            "CHOICEKR26"
-          ]
-        },
-        {
-          "min_purchase": "$348",
-          "discount_amount": "$35",
-          "codes": [
-            "CHOICEKR35",
-            "KRSS350",
-            "AEPPOM35"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "3월 알급날 (Pay Day) 전용 할인 코드",
-      "valid_from": "2026-03-24T00:00:00+09:00",
-      "valid_until": "2026-03-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$29",
-          "discount_amount": "$3",
-          "codes": [
-            "PAYDAY03",
-            "AEPD03"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "PAYDAY08",
-            "AEPD08"
-          ]
-        },
-        {
-          "min_purchase": "$169",
-          "discount_amount": "$20",
-          "codes": [
-            "PAYDAY20",
-            "AEPD20"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$30",
-          "codes": [
-            "PAYDAY30",
-            "AEPD30"
-          ]
-        },
-        {
-          "min_purchase": "$369",
-          "discount_amount": "$50",
-          "codes": [
-            "PAYDAY50",
-            "AEPD50"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "4월 초이스 데이 (Choice Day) 전용 코드 (사전 공개)",
+      "name": "4월 초이스 데이 (Choice Day) 전용 할인 코드",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00",
       "codes": [
@@ -127,7 +12,8 @@
           "codes": [
             "AEKF03",
             "AEPPOM03",
-            "AECL03"
+            "AECL03",
+            "CHOICEKR03"
           ]
         },
         {
@@ -184,12 +70,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "4월 초이스 데이 (Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 알리의 대표 세일로, 초이스 상품 무료 배송과 한국 전용 할인 코드 혜택이 제공됩니다.",
-      "valid_from": "2026-04-01T00:00:00+09:00",
-      "valid_until": "2026-04-07T23:59:59+09:00"
-    },
     {
       "name": "4월 봄맞이 아웃도어 세일 (Outdoor Fun)",
       "description": "본격적인 나들이 시즌을 맞아 캠핑, 등산 등 야외 활동용품과 봄 패션 아이템을 대상으로 진행되는 시즌 프로모션입니다.",
