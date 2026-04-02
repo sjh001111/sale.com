@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T11:49:00+09:00",
+  "last_updated": "2026-04-02T22:40:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 초이스 데이 (Choice Day) 전용 할인 코드",
@@ -15,7 +15,8 @@
             "AEPPOM03",
             "CLIEN03",
             "AECL03",
-            "CHOICEKR03"
+            "CHOICEKR03",
+            "KRCD03"
           ]
         },
         {
@@ -27,7 +28,8 @@
             "AEPPOM04",
             "CLIEN04",
             "AECL04",
-            "CHOICEKR04"
+            "CHOICEKR04",
+            "KRCD04"
           ]
         },
         {
@@ -39,7 +41,8 @@
             "AEPPOM10",
             "CLIEN10",
             "AECL10",
-            "CHOICEKR10"
+            "CHOICEKR10",
+            "KRCD10"
           ]
         },
         {
@@ -50,7 +53,9 @@
             "PPOMPPU17",
             "AEPPOM17",
             "CLIEN17",
-            "CHOICEKR17"
+            "AECL17",
+            "CHOICEKR17",
+            "KRCD17"
           ]
         },
         {
@@ -61,7 +66,9 @@
             "PPOMPPU27",
             "AEPPOM27",
             "CLIEN27",
-            "CHOICEKR27"
+            "AECL27",
+            "CHOICEKR27",
+            "KRCD27"
           ]
         },
         {
@@ -72,7 +79,9 @@
             "PPOMPPU38",
             "AEPPOM38",
             "CLIEN38",
-            "CHOICEKR38"
+            "AECL38",
+            "CHOICEKR38",
+            "KRCD38"
           ]
         },
         {
@@ -83,7 +92,9 @@
             "PPOMPPU60",
             "AEPPOM60",
             "CLIEN60",
-            "CHOICEKR60"
+            "AECL60",
+            "CHOICEKR60",
+            "KRCD60"
           ]
         }
       ]
@@ -91,7 +102,7 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "4월 프로모션 세일 (April Sale)",
+      "name": "4월 봄맞이 리프레시 세일 (Spring Refresh Sale)",
       "description": "봄맞이 아웃도어 및 패션 아이템을 대상으로 진행되는 4월의 메인 프로모션으로 높은 할인율의 코드와 결제 혜택이 제공됩니다.",
       "valid_from": "2026-04-13T00:00:00+09:00",
       "valid_until": "2026-04-19T23:59:59+09:00"
