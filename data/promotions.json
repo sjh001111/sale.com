@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-04T11:42:00+09:00",
+  "last_updated": "2026-04-04T22:09:00+09:00",
   "active_code_promotions": [
     {
-      "name": "4월 초이스 데이 (Choice Day) 전용 할인 코드",
+      "name": "4월 봄나들이 초이스 데이 (Choice Day) 전용 할인 코드",
       "valid_from": "2026-04-01T00:00:00+09:00",
       "valid_until": "2026-04-07T23:59:59+09:00",
       "codes": [
@@ -11,11 +11,11 @@
           "discount_amount": "$3",
           "codes": [
             "AEKF03",
+            "CHOICEKR03",
             "PPOMPPU03",
             "AEPPOM03",
             "CLIEN03",
             "AECL03",
-            "CHOICEKR03",
             "KRCD03"
           ]
         },
@@ -24,11 +24,11 @@
           "discount_amount": "$4",
           "codes": [
             "AEKF04",
+            "CHOICEKR04",
             "PPOMPPU04",
             "AEPPOM04",
             "CLIEN04",
             "AECL04",
-            "CHOICEKR04",
             "KRCD04"
           ]
         },
@@ -37,11 +37,11 @@
           "discount_amount": "$10",
           "codes": [
             "AEKF10",
+            "CHOICEKR10",
             "PPOMPPU10",
             "AEPPOM10",
             "CLIEN10",
             "AECL10",
-            "CHOICEKR10",
             "KRCD10"
           ]
         },
@@ -50,11 +50,11 @@
           "discount_amount": "$17",
           "codes": [
             "AEKF17",
+            "CHOICEKR17",
             "PPOMPPU17",
             "AEPPOM17",
             "CLIEN17",
             "AECL17",
-            "CHOICEKR17",
             "KRCD17"
           ]
         },
@@ -63,11 +63,11 @@
           "discount_amount": "$27",
           "codes": [
             "AEKF27",
+            "CHOICEKR27",
             "PPOMPPU27",
             "AEPPOM27",
             "CLIEN27",
             "AECL27",
-            "CHOICEKR27",
             "KRCD27"
           ]
         },
@@ -76,11 +76,11 @@
           "discount_amount": "$38",
           "codes": [
             "AEKF38",
+            "CHOICEKR38",
             "PPOMPPU38",
             "AEPPOM38",
             "CLIEN38",
             "AECL38",
-            "CHOICEKR38",
             "KRCD38"
           ]
         },
@@ -89,11 +89,11 @@
           "discount_amount": "$60",
           "codes": [
             "AEKF60",
+            "CHOICEKR60",
             "PPOMPPU60",
             "AEPPOM60",
             "CLIEN60",
             "AECL60",
-            "CHOICEKR60",
             "KRCD60"
           ]
         }
@@ -103,43 +103,43 @@
   "upcoming_promotions": [
     {
       "name": "4월 봄맞이 리프레시 세일 (Spring Refresh Sale)",
-      "description": "봄맞이 아웃도어, 캠핑 용품 및 패션 아이템을 대상으로 진행되는 4월의 메인 프로모션으로 높은 할인율의 코드와 결제 혜택이 제공됩니다.",
+      "description": "봄맞이 아웃도어, 캠핑 용품 및 패션 아이템을 대상으로 진행되는 4월의 메인 프로모션으로 높은 할인율의 코드와 결제 혜택이 제공될 예정입니다.",
       "valid_from": "2026-04-13T00:00:00+09:00",
       "valid_until": "2026-04-19T23:59:59+09:00"
     },
     {
       "name": "4월 브랜드 데이 (Brand Day)",
-      "description": "인기 브랜드 공식 스토어 제품들을 대상으로 높은 할인율의 전용 쿠폰과 브랜드별 특가가 제공되는 행사입니다.",
+      "description": "알리에 입점한 국내외 인기 브랜드 공식 스토어 제품들을 대상으로 브랜드별 전용 쿠폰과 특가가 제공되는 행사입니다.",
       "valid_from": "2026-04-20T00:00:00+09:00",
       "valid_until": "2026-04-24T23:59:59+09:00"
     },
     {
       "name": "4월 알급날 (Pay Day)",
-      "description": "가정의 달을 앞두고 선물용 가전, 유아동 용품 등에 대해 국내 전용 결제 할인과 포인트 혜택을 강화한 정기 세일입니다.",
+      "description": "매월 월급날 즈음 진행되는 국내 배송 상품(K-Venue) 전용 세일로, 국내 전용 결제 할인과 가전/생필품 특가가 강화됩니다.",
       "valid_from": "2026-04-23T00:00:00+09:00",
       "valid_until": "2026-04-25T23:59:59+09:00"
     },
     {
       "name": "4월 카테고리 데이 (Category Day)",
-      "description": "특정 카테고리 상품들에 대해 추가 할인을 제공하는 테마형 세일입니다.",
+      "description": "특정 인기 카테고리 상품군에 대해 집중적인 추가 할인 혜택을 제공하는 테마형 프로모션입니다.",
       "valid_from": "2026-04-26T00:00:00+09:00",
       "valid_until": "2026-04-28T23:59:59+09:00"
     },
     {
       "name": "4월 가정의 달 브랜드 세일 (Family Month Brand Sale)",
-      "description": "어버이날과 어린이날 등 5월 가정의 달 선물을 미리 준비할 수 있도록 인기 브랜드 제품을 특별 할인가에 제공하는 프로모션입니다.",
+      "description": "5월 가정의 달을 앞두고 선물용 인기 상품들을 미리 준비할 수 있도록 구성된 브랜드 중심의 할인 행사입니다.",
       "valid_from": "2026-04-27T00:00:00+09:00",
       "valid_until": "2026-04-30T23:59:59+09:00"
     },
     {
       "name": "5월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 초이스 상품 대상 정기 프로모션으로 가성비 높은 상품들을 특별가에 만나볼 수 있습니다.",
+      "description": "매월 초 정기적으로 진행되는 알리익스프레스의 대표적인 초이스 상품 할인 행사입니다.",
       "valid_from": "2026-05-01T00:00:00+09:00",
       "valid_until": "2026-05-07T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
-      "description": "연중 최대 규모 쇼핑 축제 중 하나로 상반기 결산 최강 할인 혜택과 대규모 결제 할인이 제공되는 세일입니다.",
+      "description": "상반기 최대 규모의 쇼핑 축제로, 대규모 할인 코드와 카드사 결제 할인이 집중되는 연중 메인 세일 중 하나입니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
