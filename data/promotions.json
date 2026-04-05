@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T12:18:00+09:00",
+  "last_updated": "2026-04-05T22:11:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 봄나들이 초이스 데이 (Choice Day) 전용 할인 코드",
@@ -10,8 +10,8 @@
           "min_purchase": "$22",
           "discount_amount": "$3",
           "codes": [
-            "AEKF03",
             "CHOICEKR03",
+            "AEKF03",
             "PPOMPPU03",
             "AEPPOM03",
             "CLIEN03",
@@ -24,8 +24,8 @@
           "min_purchase": "$34",
           "discount_amount": "$4",
           "codes": [
-            "AEKF04",
             "CHOICEKR04",
+            "AEKF04",
             "PPOMPPU04",
             "AEPPOM04",
             "CLIEN04",
@@ -38,8 +38,8 @@
           "min_purchase": "$86",
           "discount_amount": "$10",
           "codes": [
-            "AEKF10",
             "CHOICEKR10",
+            "AEKF10",
             "PPOMPPU10",
             "AEPPOM10",
             "CLIEN10",
@@ -52,8 +52,8 @@
           "min_purchase": "$139",
           "discount_amount": "$17",
           "codes": [
-            "AEKF17",
             "CHOICEKR17",
+            "AEKF17",
             "PPOMPPU17",
             "AEPPOM17",
             "CLIEN17",
@@ -66,8 +66,8 @@
           "min_purchase": "$239",
           "discount_amount": "$27",
           "codes": [
-            "AEKF27",
             "CHOICEKR27",
+            "AEKF27",
             "PPOMPPU27",
             "AEPPOM27",
             "CLIEN27",
@@ -80,8 +80,8 @@
           "min_purchase": "$349",
           "discount_amount": "$38",
           "codes": [
-            "AEKF38",
             "CHOICEKR38",
+            "AEKF38",
             "PPOMPPU38",
             "AEPPOM38",
             "CLIEN38",
@@ -94,8 +94,8 @@
           "min_purchase": "$559",
           "discount_amount": "$60",
           "codes": [
-            "AEKF60",
             "CHOICEKR60",
+            "AEKF60",
             "PPOMPPU60",
             "AEPPOM60",
             "CLIEN60",
@@ -110,43 +110,37 @@
   "upcoming_promotions": [
     {
       "name": "4월 봄맞이 리프레시 세일 (Spring Refresh Sale)",
-      "description": "봄맞이 아웃도어, 캠핑 용품 및 패션 아이템을 대상으로 진행되는 4월의 메인 프로모션으로 높은 할인율의 코드와 결제 혜택이 제공될 예정입니다.",
+      "description": "4월의 메인 프로모션으로 봄나들이 및 아웃도어 용품을 중심으로 대규모 할인 코드와 카드사 결제 혜택이 제공되는 쇼핑 축제입니다.",
       "valid_from": "2026-04-13T00:00:00+09:00",
       "valid_until": "2026-04-19T23:59:59+09:00"
     },
     {
       "name": "4월 브랜드 데이 (Brand Day)",
-      "description": "알리에 입점한 국내외 인기 브랜드 공식 스토어 제품들을 대상으로 브랜드별 전용 쿠폰과 특가가 제공되는 행사입니다.",
+      "description": "알리익스프레스에 입점한 국내외 주요 공식 브랜드 스토어의 인기 제품들을 브랜드 전용 쿠폰과 함께 특별가로 만나볼 수 있는 행사입니다.",
       "valid_from": "2026-04-20T00:00:00+09:00",
       "valid_until": "2026-04-24T23:59:59+09:00"
     },
     {
       "name": "4월 알급날 (Pay Day)",
-      "description": "매월 월급날 즈음 진행되는 국내 배송 상품(K-Venue) 전용 세일로, 국내 전용 결제 할인과 가전/생필품 특가가 강화됩니다.",
+      "description": "국내 배송 상품(K-Venue) 전용 혜택이 강화되는 매월 정기 세일로, 국내 결제 수단별 추가 할인과 생필품/가전 특가가 핵심입니다.",
       "valid_from": "2026-04-23T00:00:00+09:00",
       "valid_until": "2026-04-25T23:59:59+09:00"
     },
     {
-      "name": "4월 카테고리 데이 (Category Day)",
-      "description": "특정 인기 카테고리 상품군에 대해 집중적인 추가 할인 혜택을 제공하는 테마형 프로모션입니다.",
-      "valid_from": "2026-04-26T00:00:00+09:00",
-      "valid_until": "2026-04-28T23:59:59+09:00"
-    },
-    {
       "name": "4월 가정의 달 브랜드 세일 (Family Month Brand Sale)",
-      "description": "5월 가정의 달을 앞두고 선물용 인기 상품들을 미리 준비할 수 있도록 구성된 브랜드 중심의 할인 행사입니다.",
+      "description": "5월 가정의 달을 앞두고 선물용 유아동 상품, 패밀리 아이템 등을 선점할 수 있도록 구성된 브랜드 중심의 할인 프로모션입니다.",
       "valid_from": "2026-04-27T00:00:00+09:00",
       "valid_until": "2026-04-30T23:59:59+09:00"
     },
     {
       "name": "5월 초이스 데이 (Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 알리익스프레스의 대표적인 초이스 상품 할인 행사입니다.",
+      "description": "매월 초 진행되는 정기 할인 행사로, 가성비 높은 초이스 상품들에 대해 전용 할인 코드와 무료 배송 혜택을 제공합니다.",
       "valid_from": "2026-05-01T00:00:00+09:00",
       "valid_until": "2026-05-07T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 규모의 쇼핑 축제로, 대규모 할인 코드와 카드사 결제 할인이 집중되는 연중 메인 세일 중 하나입니다.",
+      "description": "알리익스프레스 상반기 최대 규모의 쇼핑 이벤트로, 연중 가장 높은 할인율의 코드와 광범위한 결제 할인이 집중되는 시기입니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
