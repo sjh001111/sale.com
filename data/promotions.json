@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T22:09:00+09:00",
+  "last_updated": "2026-04-05T12:18:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 봄나들이 초이스 데이 (Choice Day) 전용 할인 코드",
@@ -16,7 +16,8 @@
             "AEPPOM03",
             "CLIEN03",
             "AECL03",
-            "KRCD03"
+            "KRCD03",
+            "ALISALE03"
           ]
         },
         {
@@ -29,7 +30,8 @@
             "AEPPOM04",
             "CLIEN04",
             "AECL04",
-            "KRCD04"
+            "KRCD04",
+            "ALISALE04"
           ]
         },
         {
@@ -42,7 +44,8 @@
             "AEPPOM10",
             "CLIEN10",
             "AECL10",
-            "KRCD10"
+            "KRCD10",
+            "ALISALE10"
           ]
         },
         {
@@ -55,7 +58,8 @@
             "AEPPOM17",
             "CLIEN17",
             "AECL17",
-            "KRCD17"
+            "KRCD17",
+            "ALISALE17"
           ]
         },
         {
@@ -68,7 +72,8 @@
             "AEPPOM27",
             "CLIEN27",
             "AECL27",
-            "KRCD27"
+            "KRCD27",
+            "ALISALE27"
           ]
         },
         {
@@ -81,7 +86,8 @@
             "AEPPOM38",
             "CLIEN38",
             "AECL38",
-            "KRCD38"
+            "KRCD38",
+            "ALISALE38"
           ]
         },
         {
@@ -94,7 +100,8 @@
             "AEPPOM60",
             "CLIEN60",
             "AECL60",
-            "KRCD60"
+            "KRCD60",
+            "ALISALE60"
           ]
         }
       ]
