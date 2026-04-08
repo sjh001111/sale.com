@@ -1,107 +1,39 @@
 {
-  "last_updated": "2026-04-07T22:43:00+09:00",
+  "last_updated": "2026-04-08T11:56:00+09:00",
   "active_code_promotions": [
     {
-      "name": "4월 봄나들이 초이스 데이 (Choice Day) 전용 할인 코드",
+      "name": "4월 한국 전용 상시 할인 코드 (April Monthly Codes)",
       "valid_from": "2026-04-01T00:00:00+09:00",
-      "valid_until": "2026-04-07T23:59:59+09:00",
+      "valid_until": "2026-04-30T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$22",
+          "min_purchase": "$30",
           "discount_amount": "$3",
           "codes": [
-            "CHOICEKR03",
-            "AEKF03",
-            "PPOMPPU03",
+            "AEKR03",
             "AEPPOM03",
-            "CLIEN03",
             "AECL03",
-            "KRCD03",
-            "ALISALE03"
+            "AEKF03"
           ]
         },
         {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
+          "min_purchase": "$50",
+          "discount_amount": "$6",
           "codes": [
-            "CHOICEKR04",
-            "AEKF04",
-            "PPOMPPU04",
-            "AEPPOM04",
-            "CLIEN04",
-            "AECL04",
-            "KRCD04",
-            "ALISALE04"
+            "AEKR06",
+            "AEPPOM06",
+            "AECL06",
+            "AEKF06"
           ]
         },
         {
-          "min_purchase": "$86",
-          "discount_amount": "$10",
+          "min_purchase": "$100",
+          "discount_amount": "$12",
           "codes": [
-            "CHOICEKR10",
-            "AEKF10",
-            "PPOMPPU10",
-            "AEPPOM10",
-            "CLIEN10",
-            "AECL10",
-            "KRCD10",
-            "ALISALE10"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$17",
-          "codes": [
-            "CHOICEKR17",
-            "AEKF17",
-            "PPOMPPU17",
-            "AEPPOM17",
-            "CLIEN17",
-            "AECL17",
-            "KRCD17",
-            "ALISALE17"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$27",
-          "codes": [
-            "CHOICEKR27",
-            "AEKF27",
-            "PPOMPPU27",
-            "AEPPOM27",
-            "CLIEN27",
-            "AECL27",
-            "KRCD27",
-            "ALISALE27"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$38",
-          "codes": [
-            "CHOICEKR38",
-            "AEKF38",
-            "PPOMPPU38",
-            "AEPPOM38",
-            "CLIEN38",
-            "AECL38",
-            "KRCD38",
-            "ALISALE38"
-          ]
-        },
-        {
-          "min_purchase": "$559",
-          "discount_amount": "$60",
-          "codes": [
-            "CHOICEKR60",
-            "AEKF60",
-            "PPOMPPU60",
-            "AEPPOM60",
-            "CLIEN60",
-            "AECL60",
-            "KRCD60",
-            "ALISALE60"
+            "AEKR12",
+            "AEPPOM12",
+            "AECL12",
+            "AEKF12"
           ]
         }
       ]
