@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-04-12T22:14:00+09:00",
+  "last_updated": "2026-04-13T12:32:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "4월 봄맞이 새로고침 세일 (Spring Refresh Sale)",
+      "valid_from": "2026-04-13T00:00:00+09:00",
+      "valid_until": "2026-04-19T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$23",
+          "discount_amount": "$3",
+          "codes": [
+            "BOMKR03",
+            "KRAPR03",
+            "PPOM03",
+            "AECLIEN03",
+            "AEKA03"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "BOMKR07",
+            "KRAPR07",
+            "PPOM07",
+            "AECLIEN07",
+            "AEKA07"
+          ]
+        },
+        {
+          "min_purchase": "$88",
+          "discount_amount": "$11",
+          "codes": [
+            "BOMKR11",
+            "KRAPR11",
+            "PPOM11",
+            "AECLIEN11",
+            "AEKA11"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$17",
+          "codes": [
+            "BOMKR17",
+            "KRAPR17",
+            "PPOM17",
+            "AECLIEN17",
+            "AEKA17"
+          ]
+        },
+        {
+          "min_purchase": "$169",
+          "discount_amount": "$22",
+          "codes": [
+            "CLEAN22"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$26",
+          "codes": [
+            "BOMKR26",
+            "KRAPR26",
+            "PPOM26",
+            "AECLIEN26",
+            "AEKA26"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$38",
+          "codes": [
+            "BOMKR38",
+            "KRAPR38",
+            "PPOM38",
+            "AECLIEN38",
+            "AEKA38"
+          ]
+        },
+        {
+          "min_purchase": "$459",
+          "discount_amount": "$55",
+          "codes": [
+            "CLEAN55"
+          ]
+        },
+        {
+          "min_purchase": "$559",
+          "discount_amount": "$61",
+          "codes": [
+            "BOMKR61",
+            "KRAPR61",
+            "PPOM61",
+            "AECLIEN61",
+            "AEKA61"
+          ]
+        }
+      ]
+    },
     {
       "name": "4월 한국 전용 상시 할인 코드 (April Monthly Codes)",
       "valid_from": "2026-04-01T00:00:00+09:00",
@@ -82,12 +180,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "4월 봄맞이 새로고침 세일 (Spring Refresh Sale)",
-      "description": "봄 시즌 캠핑, 등산, 아웃도어 및 대청소 용품 테마의 메인 프로모션입니다. 최대 60% 할인과 함께 선착순 결제 할인(카카오페이, 네이버페이, 토스 및 주요 카드사)이 대규모로 적용될 예정입니다.",
-      "valid_from": "2026-04-13T00:00:00+09:00",
-      "valid_until": "2026-04-19T23:59:59+09:00"
-    },
     {
       "name": "4월 브랜드 데이 (Brand Day)",
       "description": "애니버서리 세일 이후 인기 공식 브랜드들의 단독 특가와 전용 쿠폰이 제공되는 정기 브랜드 기획전입니다.",
