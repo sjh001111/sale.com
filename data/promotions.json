@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-13T22:54:00+09:00",
+  "last_updated": "2026-04-14T12:22:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 봄맞이 새로고침 세일 (Spring Refresh Sale)",
@@ -191,6 +191,12 @@
       "description": "K-Venue 상품 및 생활 필수 아이템에 집중된 월말 정기 세일로, 국내 간편결제 혜택이 강화됩니다.",
       "valid_from": "2026-04-23T00:00:00+09:00",
       "valid_until": "2026-04-25T23:59:59+09:00"
+    },
+    {
+      "name": "4월 카테고리 데이 (Category Day)",
+      "description": "특정 카테고리 상품군에 대해 집중적인 할인과 전용 코드를 제공하는 단기 프로모션입니다.",
+      "valid_from": "2026-04-26T00:00:00+09:00",
+      "valid_until": "2026-04-28T23:59:59+09:00"
     },
     {
       "name": "4월 가정의 달 선기프트 세일 (Pre-Family Month Sale)",
