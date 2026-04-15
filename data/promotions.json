@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14T23:00:00+09:00",
+  "last_updated": "2026-04-15T12:20:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 봄맞이 새로고침 세일 (Spring Refresh Sale)",
@@ -10,44 +10,44 @@
           "min_purchase": "$23",
           "discount_amount": "$3",
           "codes": [
-            "BOMKR03",
             "KRAPR03",
+            "AEKA03",
+            "BOMKR03",
             "PPOM03",
-            "AECLIEN03",
-            "AEKA03"
+            "AECLIEN03"
           ]
         },
         {
           "min_purchase": "$56",
           "discount_amount": "$7",
           "codes": [
-            "BOMKR07",
             "KRAPR07",
+            "AEKA07",
+            "BOMKR07",
             "PPOM07",
-            "AECLIEN07",
-            "AEKA07"
+            "AECLIEN07"
           ]
         },
         {
           "min_purchase": "$88",
           "discount_amount": "$11",
           "codes": [
-            "BOMKR11",
             "KRAPR11",
+            "AEKA11",
+            "BOMKR11",
             "PPOM11",
-            "AECLIEN11",
-            "AEKA11"
+            "AECLIEN11"
           ]
         },
         {
           "min_purchase": "$139",
           "discount_amount": "$17",
           "codes": [
-            "BOMKR17",
             "KRAPR17",
+            "AEKA17",
+            "BOMKR17",
             "PPOM17",
-            "AECLIEN17",
-            "AEKA17"
+            "AECLIEN17"
           ]
         },
         {
@@ -61,22 +61,22 @@
           "min_purchase": "$209",
           "discount_amount": "$26",
           "codes": [
-            "BOMKR26",
             "KRAPR26",
+            "AEKA26",
+            "BOMKR26",
             "PPOM26",
-            "AECLIEN26",
-            "AEKA26"
+            "AECLIEN26"
           ]
         },
         {
           "min_purchase": "$349",
           "discount_amount": "$38",
           "codes": [
-            "BOMKR38",
             "KRAPR38",
+            "AEKA38",
+            "BOMKR38",
             "PPOM38",
-            "AECLIEN38",
-            "AEKA38"
+            "AECLIEN38"
           ]
         },
         {
@@ -90,11 +90,11 @@
           "min_purchase": "$559",
           "discount_amount": "$61",
           "codes": [
-            "BOMKR61",
             "KRAPR61",
+            "AEKA61",
+            "BOMKR61",
             "PPOM61",
-            "AECLIEN61",
-            "AEKA61"
+            "AECLIEN61"
           ]
         }
       ]
