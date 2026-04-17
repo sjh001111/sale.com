@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T12:23:00+09:00",
+  "last_updated": "2026-04-17T22:44:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 봄맞이 새로고침 세일 (Spring Refresh Sale)",
@@ -54,7 +54,9 @@
           "min_purchase": "$169",
           "discount_amount": "$22",
           "codes": [
-            "CLEAN22"
+            "CLEAN22",
+            "AEKA22",
+            "BOMKR22"
           ]
         },
         {
@@ -83,7 +85,9 @@
           "min_purchase": "$459",
           "discount_amount": "$55",
           "codes": [
-            "CLEAN55"
+            "CLEAN55",
+            "AEKA55",
+            "BOMKR55"
           ]
         },
         {
