@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-04-22T12:23:00+09:00",
+  "last_updated": "2026-04-22T22:57:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 브랜드 데이 (Brand Day) 및 브랜드 특가전",
       "valid_from": "2026-04-20T00:00:00+09:00",
       "valid_until": "2026-04-24T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "BRAND03"
+          ]
+        },
         {
           "min_purchase": "$30",
           "discount_amount": "$3",
@@ -28,6 +35,13 @@
             "AEKF06",
             "ALISALE06",
             "AEPP0406"
+          ]
+        },
+        {
+          "min_purchase": "$54",
+          "discount_amount": "$7",
+          "codes": [
+            "BRAND01"
           ]
         },
         {
@@ -215,10 +229,16 @@
       "valid_until": "2026-04-25T23:59:59+09:00"
     },
     {
-      "name": "4월 가정의 달 선기프트 (Mother's Day Savings)",
-      "description": "5월 가정의 달을 미리 준비할 수 있는 기획전으로 건강기능식품, 완구, 선물용 화장품 등에 대한 특가 할인이 적용됩니다.",
+      "name": "4월 카테고리 데이 (Category Day)",
+      "description": "특정 카테고리(패션, 가전, 뷰티 등) 상품군을 대상으로 진행되는 집중 할인 기획전입니다.",
       "valid_from": "2026-04-26T00:00:00+09:00",
       "valid_until": "2026-04-28T23:59:59+09:00"
+    },
+    {
+      "name": "4월 가정의 달 브랜드 세일 (Mother's Day Savings)",
+      "description": "5월 가정의 달을 미리 준비할 수 있는 기획전으로 건강기능식품, 완구, 선물용 화장품 등에 대한 특가 할인이 적용됩니다.",
+      "valid_from": "2026-04-27T00:00:00+09:00",
+      "valid_until": "2026-04-30T23:59:59+09:00"
     },
     {
       "name": "5월 초이스 데이 (Choice Day)",
