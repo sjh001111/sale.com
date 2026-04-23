@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T12:26:00+09:00",
+  "last_updated": "2026-04-23T22:59:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 알급날 (Pay Day) 세일 및 가전/선물 특가전",
@@ -66,6 +66,13 @@
           "codes": [
             "BRAND01"
           ]
+        },
+        {
+          "min_purchase": "$87",
+          "discount_amount": "$10",
+          "codes": [
+            "BRAND15"
+          ]
         }
       ]
     },
@@ -79,7 +86,8 @@
           "discount_amount": "$4",
           "codes": [
             "KVENUE04",
-            "KV4422"
+            "KV4422",
+            "KV4411"
           ]
         },
         {
@@ -87,7 +95,8 @@
           "discount_amount": "$8",
           "codes": [
             "KVENUE08",
-            "KV8822"
+            "KV8822",
+            "KV8811"
           ]
         },
         {
@@ -95,7 +104,8 @@
           "discount_amount": "$20",
           "codes": [
             "KVENUE20",
-            "KV2022"
+            "KV2022",
+            "KV2011"
           ]
         },
         {
@@ -103,7 +113,8 @@
           "discount_amount": "$30",
           "codes": [
             "KVENUE30",
-            "KV3022"
+            "KV3022",
+            "KV3011"
           ]
         },
         {
@@ -111,7 +122,8 @@
           "discount_amount": "$50",
           "codes": [
             "KVENUE50",
-            "KV5022"
+            "KV5022",
+            "KV5011"
           ]
         }
       ]
