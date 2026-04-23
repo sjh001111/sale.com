@@ -1,6 +1,53 @@
 {
-  "last_updated": "2026-04-22T22:57:00+09:00",
+  "last_updated": "2026-04-23T12:26:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "4월 알급날 (Pay Day) 세일 및 가전/선물 특가전",
+      "valid_from": "2026-04-23T00:00:00+09:00",
+      "valid_until": "2026-04-25T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$4",
+          "codes": [
+            "PAYDAY04",
+            "ALIPAYDAY04"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "PAYDAY08",
+            "ALIPAYDAY08"
+          ]
+        },
+        {
+          "min_purchase": "$169",
+          "discount_amount": "$20",
+          "codes": [
+            "PAYDAY20",
+            "ALIPAYDAY20"
+          ]
+        },
+        {
+          "min_purchase": "$269",
+          "discount_amount": "$30",
+          "codes": [
+            "PAYDAY30",
+            "ALIPAYDAY30"
+          ]
+        },
+        {
+          "min_purchase": "$359",
+          "discount_amount": "$50",
+          "codes": [
+            "PAYDAY50",
+            "ALIPAYDAY50"
+          ]
+        }
+      ]
+    },
     {
       "name": "4월 브랜드 데이 (Brand Day) 및 브랜드 특가전",
       "valid_from": "2026-04-20T00:00:00+09:00",
@@ -14,82 +61,10 @@
           ]
         },
         {
-          "min_purchase": "$30",
-          "discount_amount": "$3",
-          "codes": [
-            "AEKR03",
-            "AEPPOM03",
-            "AECL03",
-            "AEKF03",
-            "ALISALE03",
-            "AEPP0403"
-          ]
-        },
-        {
-          "min_purchase": "$50",
-          "discount_amount": "$6",
-          "codes": [
-            "AEKR06",
-            "AEPPOM06",
-            "AECL06",
-            "AEKF06",
-            "ALISALE06",
-            "AEPP0406"
-          ]
-        },
-        {
           "min_purchase": "$54",
           "discount_amount": "$7",
           "codes": [
             "BRAND01"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$12",
-          "codes": [
-            "AEKR12",
-            "AEPPOM12",
-            "AECL12",
-            "AEKF12",
-            "ALISALE12",
-            "AEPP0412"
-          ]
-        },
-        {
-          "min_purchase": "$150",
-          "discount_amount": "$20",
-          "codes": [
-            "AEKR20",
-            "AEPPOM20",
-            "AECL20",
-            "AEKF20",
-            "ALISALE20",
-            "AEPP0420"
-          ]
-        },
-        {
-          "min_purchase": "$250",
-          "discount_amount": "$35",
-          "codes": [
-            "AEKR35",
-            "AEPPOM35",
-            "AECL35",
-            "AEKF35",
-            "ALISALE35",
-            "AEPP0435"
-          ]
-        },
-        {
-          "min_purchase": "$400",
-          "discount_amount": "$60",
-          "codes": [
-            "AEKR60",
-            "AEPPOM60",
-            "AECL60",
-            "AEKF60",
-            "ALISALE60",
-            "AEPP0460"
           ]
         }
       ]
@@ -222,12 +197,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "4월 알급날 (Pay Day) 세일",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue) 및 인기 가전 카테고리에 대한 선착순 할인 코드와 주요 카드사 결제 혜택이 강화되어 제공됩니다.",
-      "valid_from": "2026-04-23T00:00:00+09:00",
-      "valid_until": "2026-04-25T23:59:59+09:00"
-    },
     {
       "name": "4월 카테고리 데이 (Category Day)",
       "description": "특정 카테고리(패션, 가전, 뷰티 등) 상품군을 대상으로 진행되는 집중 할인 기획전입니다.",
