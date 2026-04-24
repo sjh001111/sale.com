@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T12:29:00+09:00",
+  "last_updated": "2026-04-24T22:51:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 알급날 (Pay Day) 세일 및 가전/선물 특가전",
@@ -7,11 +7,19 @@
       "valid_until": "2026-04-25T23:59:59+09:00",
       "codes": [
         {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "PAYDAY02"
+          ]
+        },
+        {
           "min_purchase": "$29",
           "discount_amount": "$4",
           "codes": [
             "PAYDAY04",
-            "ALIPAYDAY04"
+            "ALIPAYDAY04",
+            "AEPP0404"
           ]
         },
         {
@@ -19,7 +27,8 @@
           "discount_amount": "$8",
           "codes": [
             "PAYDAY08",
-            "ALIPAYDAY08"
+            "ALIPAYDAY08",
+            "AEPP0408"
           ]
         },
         {
@@ -27,7 +36,8 @@
           "discount_amount": "$20",
           "codes": [
             "PAYDAY20",
-            "ALIPAYDAY20"
+            "ALIPAYDAY20",
+            "AEPP0420"
           ]
         },
         {
@@ -35,7 +45,8 @@
           "discount_amount": "$30",
           "codes": [
             "PAYDAY30",
-            "ALIPAYDAY30"
+            "ALIPAYDAY30",
+            "AEPP0430"
           ]
         },
         {
@@ -43,7 +54,36 @@
           "discount_amount": "$50",
           "codes": [
             "PAYDAY50",
-            "ALIPAYDAY50"
+            "ALIPAYDAY50",
+            "AEPP0450"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4월 어버이날 선물 세일 (Parent's Day)",
+      "valid_from": "2026-04-22T00:00:00+09:00",
+      "valid_until": "2026-04-28T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$15",
+          "discount_amount": "$2",
+          "codes": [
+            "KRPD02"
+          ]
+        },
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$3",
+          "codes": [
+            "KRPD03"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "KRPD08"
           ]
         }
       ]
@@ -110,7 +150,8 @@
           "codes": [
             "KVENUE08",
             "KV8822",
-            "KV8811"
+            "KV8811",
+            "KRA698"
           ]
         },
         {
@@ -119,7 +160,15 @@
           "codes": [
             "KVENUE20",
             "KV2022",
-            "KV2011"
+            "KV2011",
+            "KRA169"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$30",
+          "codes": [
+            "KRA239"
           ]
         },
         {
@@ -237,7 +286,7 @@
     },
     {
       "name": "5월 초이스 데이 (Choice Day)",
-      "description": "매월 1일부터 시작되는 알리의 정기 대규모 세일입니다. 초이스 상품 대상 할인 코드와 무료 배송 및 반품 혜택이 강화됩니다.",
+      "description": "매월 1일부터 시작되는 알리의 정기 대규모 세일입니다. 한국 전용 할인 코드와 무료 배송 및 반품 혜택이 강화됩니다.",
       "valid_from": "2026-05-01T00:00:00+09:00",
       "valid_until": "2026-05-07T23:59:59+09:00"
     },
