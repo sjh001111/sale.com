@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T11:56:00+09:00",
+  "last_updated": "2026-04-25T22:18:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 알급날 (Pay Day) 세일 및 가전/선물 특가전",
@@ -10,52 +10,63 @@
           "min_purchase": "$20",
           "discount_amount": "$2",
           "codes": [
-            "PAYDAY02"
+            "PAYDAY02",
+            "PDAEK02",
+            "BRAND03",
+            "BRAND02"
           ]
         },
         {
-          "min_purchase": "$29",
-          "discount_amount": "$4",
+          "min_purchase": "$46",
+          "discount_amount": "$5",
           "codes": [
-            "PAYDAY04",
-            "ALIPAYDAY04",
-            "AEPP0404"
+            "PDAEK46"
           ]
         },
         {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
+          "min_purchase": "$56",
+          "discount_amount": "$6",
           "codes": [
-            "PAYDAY08",
-            "ALIPAYDAY08",
-            "AEPP0408"
+            "PAYDAY06"
           ]
         },
         {
-          "min_purchase": "$169",
-          "discount_amount": "$20",
+          "min_purchase": "$56",
+          "discount_amount": "$7",
           "codes": [
-            "PAYDAY20",
-            "ALIPAYDAY20",
-            "AEPP0420"
+            "BRAND01",
+            "BRAND07"
           ]
         },
         {
-          "min_purchase": "$269",
-          "discount_amount": "$30",
+          "min_purchase": "$89",
+          "discount_amount": "$10",
           "codes": [
-            "PAYDAY30",
-            "ALIPAYDAY30",
-            "AEPP0430"
+            "PDAEK89",
+            "BRAND15"
           ]
         },
         {
-          "min_purchase": "$359",
-          "discount_amount": "$50",
+          "min_purchase": "$139",
+          "discount_amount": "$16",
           "codes": [
-            "PAYDAY50",
-            "ALIPAYDAY50",
-            "AEPP0450"
+            "BRAND25",
+            "BRAND16"
+          ]
+        },
+        {
+          "min_purchase": "$210",
+          "discount_amount": "$22",
+          "codes": [
+            "PAYDAY22",
+            "PDAEK22"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$38",
+          "codes": [
+            "PDAEK34"
           ]
         }
       ]
