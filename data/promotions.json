@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T22:51:00+09:00",
+  "last_updated": "2026-04-25T11:56:00+09:00",
   "active_code_promotions": [
     {
       "name": "4월 알급날 (Pay Day) 세일 및 가전/선물 특가전",
@@ -84,48 +84,6 @@
           "discount_amount": "$8",
           "codes": [
             "KRPD08"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "4월 브랜드 데이 (Brand Day) 및 브랜드 특가전",
-      "valid_from": "2026-04-20T00:00:00+09:00",
-      "valid_until": "2026-04-24T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "BRAND03"
-          ]
-        },
-        {
-          "min_purchase": "$54",
-          "discount_amount": "$7",
-          "codes": [
-            "BRAND01"
-          ]
-        },
-        {
-          "min_purchase": "$87",
-          "discount_amount": "$10",
-          "codes": [
-            "BRAND15"
-          ]
-        },
-        {
-          "min_purchase": "$134",
-          "discount_amount": "$16",
-          "codes": [
-            "BRAND25"
-          ]
-        },
-        {
-          "min_purchase": "$200",
-          "discount_amount": "$24",
-          "codes": [
-            "BRAND36"
           ]
         }
       ]
