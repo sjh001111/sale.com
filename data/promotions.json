@@ -1,72 +1,51 @@
 {
-  "last_updated": "2026-04-25T22:18:00+09:00",
+  "last_updated": "2026-04-26T12:35:00+09:00",
   "active_code_promotions": [
     {
-      "name": "4월 알급날 (Pay Day) 세일 및 가전/선물 특가전",
-      "valid_from": "2026-04-23T00:00:00+09:00",
-      "valid_until": "2026-04-25T23:59:59+09:00",
+      "name": "알리익스프레스 봄격쇼핑 (Fresh Spring Savings)",
+      "valid_from": "2026-04-26T00:00:00+09:00",
+      "valid_until": "2026-04-28T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
+          "min_purchase": "$10",
+          "discount_amount": "$1",
           "codes": [
-            "PAYDAY02",
-            "PDAEK02",
-            "BRAND03",
-            "BRAND02"
+            "FSKR01"
           ]
         },
         {
-          "min_purchase": "$46",
+          "min_purchase": "$25",
+          "discount_amount": "$3",
+          "codes": [
+            "FSKR03"
+          ]
+        },
+        {
+          "min_purchase": "$45",
           "discount_amount": "$5",
           "codes": [
-            "PDAEK46"
+            "FSKR05"
           ]
         },
         {
-          "min_purchase": "$56",
-          "discount_amount": "$6",
-          "codes": [
-            "PAYDAY06"
-          ]
-        },
-        {
-          "min_purchase": "$56",
+          "min_purchase": "$69",
           "discount_amount": "$7",
           "codes": [
-            "BRAND01",
-            "BRAND07"
-          ]
-        },
-        {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
-          "codes": [
-            "PDAEK89",
-            "BRAND15"
+            "FSKR07"
           ]
         },
         {
           "min_purchase": "$139",
           "discount_amount": "$16",
           "codes": [
-            "BRAND25",
-            "BRAND16"
+            "FSKR16"
           ]
         },
         {
-          "min_purchase": "$210",
-          "discount_amount": "$22",
+          "min_purchase": "$209",
+          "discount_amount": "$25",
           "codes": [
-            "PAYDAY22",
-            "PDAEK22"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$38",
-          "codes": [
-            "PDAEK34"
+            "FSKR25"
           ]
         }
       ]
@@ -242,26 +221,26 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "4월 카테고리 데이 (Category Day)",
-      "description": "패션, 가전, 리빙 등 특정 카테고리 상품군에 대해 집중적인 할인 혜택과 전용 쿠폰을 제공하는 기획전입니다.",
-      "valid_from": "2026-04-26T00:00:00+09:00",
-      "valid_until": "2026-04-28T23:59:59+09:00"
+      "name": "알리익스프레스 베이비 페어 (Baby Fair)",
+      "description": "인기 출산 및 육아 아이템을 대상으로 하는 특가 프로모션으로, 육아 용품 전용 할인 코드가 제공됩니다.",
+      "valid_from": "2026-04-27T00:00:00+09:00",
+      "valid_until": "2026-04-30T23:59:59+09:00"
     },
     {
       "name": "4월 가정의 달 브랜드 세일 (Family Month Savings)",
-      "description": "5월 가정의 달 선물을 미리 준비할 수 있도록 건강식품, 뷰티, 완구류를 중심으로 높은 할인율이 적용되는 세일 기간입니다.",
+      "description": "5월 가정의 달 선물을 미리 준비할 수 있도록 건강식품, 뷰티, 완구류를 중심으로 높은 할인율이 적용되는 브랜드 기획전입니다.",
       "valid_from": "2026-04-27T00:00:00+09:00",
       "valid_until": "2026-04-30T23:59:59+09:00"
     },
     {
       "name": "5월 초이스 데이 (Choice Day)",
-      "description": "매월 1일부터 시작되는 알리의 정기 대규모 세일입니다. 한국 전용 할인 코드와 무료 배송 및 반품 혜택이 강화됩니다.",
+      "description": "매월 1일부터 시작되는 정기 대규모 세일입니다. 한국 전용 통용 할인 코드와 결제 수단별 추가 즉시 할인 혜택이 강화됩니다.",
       "valid_from": "2026-05-01T00:00:00+09:00",
       "valid_until": "2026-05-07T23:59:59+09:00"
     },
     {
       "name": "6월 상반기 결산 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 규모의 쇼핑 행사로, 광군제 수준의 강력한 할인 코드와 주요 카드사 즉시 할인 혜택이 동시 제공됩니다.",
+      "description": "상반기 최대 쇼핑 행사로, 전 품목에 걸친 강력한 할인 코드와 주요 카드사 선착순 할인 혜택이 동시 제공됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
