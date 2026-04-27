@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T22:19:00+09:00",
+  "last_updated": "2026-04-27T12:39:00+09:00",
   "active_code_promotions": [
     {
       "name": "알리익스프레스 봄격쇼핑 (Fresh Spring Savings)",
@@ -112,12 +112,33 @@
       "valid_until": "2026-04-30T23:59:59+09:00",
       "codes": [
         {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "KRAPR02",
+            "PAYDAY02",
+            "PDAEK02",
+            "PPOM02",
+            "AECLIEN02"
+          ]
+        },
+        {
           "min_purchase": "$29",
           "discount_amount": "$4",
           "codes": [
             "KVENUE04",
             "KV4422",
             "KV4411"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$6",
+          "codes": [
+            "KRAPR06",
+            "PAYDAY06",
+            "PPOM06",
+            "AECLIEN06"
           ]
         },
         {
@@ -128,6 +149,13 @@
             "KV8822",
             "KV8811",
             "KRA698"
+          ]
+        },
+        {
+          "min_purchase": "$89",
+          "discount_amount": "$10",
+          "codes": [
+            "PDAEK89"
           ]
         },
         {
