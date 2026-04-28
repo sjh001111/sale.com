@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T12:45:00+09:00",
+  "last_updated": "2026-04-28T23:28:00+09:00",
   "active_code_promotions": [
     {
       "name": "알리익스프레스 봄격쇼핑 (Fresh Spring Savings)",
@@ -59,6 +59,7 @@
           "min_purchase": "$20",
           "discount_amount": "$2",
           "codes": [
+            "APRBF01",
             "ALIBF02"
           ]
         },
@@ -66,6 +67,7 @@
           "min_purchase": "$40",
           "discount_amount": "$4",
           "codes": [
+            "APRBF02",
             "ALIBF04"
           ]
         },
@@ -73,6 +75,7 @@
           "min_purchase": "$70",
           "discount_amount": "$7",
           "codes": [
+            "APRBF03",
             "ALIBF07"
           ]
         }
@@ -116,8 +119,6 @@
           "discount_amount": "$2",
           "codes": [
             "KRAPR02",
-            "PAYDAY02",
-            "PDAEK02",
             "PPOM02",
             "AECLIEN02"
           ]
@@ -136,7 +137,6 @@
           "discount_amount": "$6",
           "codes": [
             "KRAPR06",
-            "PAYDAY06",
             "PPOM06",
             "AECLIEN06"
           ]
@@ -152,13 +152,6 @@
           ]
         },
         {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
-          "codes": [
-            "PDAEK89"
-          ]
-        },
-        {
           "min_purchase": "$169",
           "discount_amount": "$20",
           "codes": [
@@ -166,13 +159,6 @@
             "KV2022",
             "KV2011",
             "KRA169"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$30",
-          "codes": [
-            "KRA239"
           ]
         },
         {
@@ -208,8 +194,7 @@
             "AEPPOM03",
             "AECL03",
             "AEKF03",
-            "ALISALE03",
-            "AEPP0403"
+            "ALISALE03"
           ]
         },
         {
@@ -220,8 +205,7 @@
             "AEPPOM06",
             "AECL06",
             "AEKF06",
-            "ALISALE06",
-            "AEPP0406"
+            "ALISALE06"
           ]
         },
         {
@@ -232,8 +216,7 @@
             "AEPPOM12",
             "AECL12",
             "AEKF12",
-            "ALISALE12",
-            "AEPP0412"
+            "ALISALE12"
           ]
         },
         {
@@ -244,8 +227,7 @@
             "AEPPOM20",
             "AECL20",
             "AEKF20",
-            "ALISALE20",
-            "AEPP0420"
+            "ALISALE20"
           ]
         },
         {
@@ -256,8 +238,7 @@
             "AEPPOM35",
             "AECL35",
             "AEKF35",
-            "ALISALE35",
-            "AEPP0435"
+            "ALISALE35"
           ]
         },
         {
@@ -268,8 +249,7 @@
             "AEPPOM60",
             "AECL60",
             "AEKF60",
-            "ALISALE60",
-            "AEPP0460"
+            "ALISALE60"
           ]
         }
       ]
@@ -278,19 +258,25 @@
   "upcoming_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 세일로, Choice 상품에 대한 할인과 한국 전용 프로모션 코드 및 결제사 할인이 제공됩니다.",
+      "description": "매월 초 진행되는 정기 세일로 Choice 상품 할인과 한국 전용 프로모션 코드 및 카드사 결제 할인이 제공됩니다.",
       "valid_from": "2026-05-01T00:00:00+09:00",
       "valid_until": "2026-05-07T23:59:59+09:00"
     },
     {
+      "name": "5월 가정의 달 세일 (Family Month Sale)",
+      "description": "어린이날과 어버이날을 기념하여 선물용 가전, 완구, 건강식품 등에 높은 할인율이 적용되는 프로모션입니다.",
+      "valid_from": "2026-05-10T00:00:00+09:00",
+      "valid_until": "2026-05-15T23:59:59+09:00"
+    },
+    {
       "name": "5월 메가 세일 (May Mega Sale)",
-      "description": "가전 및 야외 활동 용품 중심으로 높은 할인율이 적용되는 5월의 메인 세일 이벤트입니다.",
+      "description": "야외 활동 용품과 여름 가전 중심으로 진행되는 5월의 메인 할인 이벤트입니다.",
       "valid_from": "2026-05-18T00:00:00+09:00",
       "valid_until": "2026-05-24T23:59:59+09:00"
     },
     {
       "name": "6월 상반기 결산 메가 세일 (Summer Sale / 618)",
-      "description": "연중 대규모 행사 중 하나로 전 품목 최대 할인과 다양한 카드사 연계 혜택이 집중되는 상반기 최대 세일입니다.",
+      "description": "연중 최대 규모 행사 중 하나로 전 품목 최대 할인과 대규모 카드사 선착순 할인이 집중되는 상반기 최대 세일입니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
