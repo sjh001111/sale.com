@@ -1,55 +1,6 @@
 {
-  "last_updated": "2026-04-28T23:28:00+09:00",
+  "last_updated": "2026-04-29T12:41:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "알리익스프레스 봄격쇼핑 (Fresh Spring Savings)",
-      "valid_from": "2026-04-26T00:00:00+09:00",
-      "valid_until": "2026-04-28T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$10",
-          "discount_amount": "$1",
-          "codes": [
-            "FSKR01"
-          ]
-        },
-        {
-          "min_purchase": "$25",
-          "discount_amount": "$3",
-          "codes": [
-            "FSKR03"
-          ]
-        },
-        {
-          "min_purchase": "$45",
-          "discount_amount": "$5",
-          "codes": [
-            "FSKR05"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$7",
-          "codes": [
-            "FSKR07"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$16",
-          "codes": [
-            "FSKR16"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$25",
-          "codes": [
-            "FSKR25"
-          ]
-        }
-      ]
-    },
     {
       "name": "알리익스프레스 베이비 페어 (Baby Fair)",
       "valid_from": "2026-04-27T00:00:00+09:00",
@@ -64,11 +15,25 @@
           ]
         },
         {
+          "min_purchase": "$23",
+          "discount_amount": "$3",
+          "codes": [
+            "KRAPR03"
+          ]
+        },
+        {
           "min_purchase": "$40",
           "discount_amount": "$4",
           "codes": [
             "APRBF02",
             "ALIBF04"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "KRAPR07"
           ]
         },
         {
@@ -78,33 +43,33 @@
             "APRBF03",
             "ALIBF07"
           ]
-        }
-      ]
-    },
-    {
-      "name": "4월 어버이날 선물 세일 (Parent's Day)",
-      "valid_from": "2026-04-22T00:00:00+09:00",
-      "valid_until": "2026-04-28T23:59:59+09:00",
-      "codes": [
+        },
         {
-          "min_purchase": "$15",
-          "discount_amount": "$2",
+          "min_purchase": "$88",
+          "discount_amount": "$11",
           "codes": [
-            "KRPD02"
+            "KRAPR11"
           ]
         },
         {
-          "min_purchase": "$29",
-          "discount_amount": "$3",
+          "min_purchase": "$130",
+          "discount_amount": "$16",
           "codes": [
-            "KRPD03"
+            "KRAPR16"
           ]
         },
         {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
+          "min_purchase": "$200",
+          "discount_amount": "$25",
           "codes": [
-            "KRPD08"
+            "KRAPR25"
+          ]
+        },
+        {
+          "min_purchase": "$350",
+          "discount_amount": "$45",
+          "codes": [
+            "KRAPR45"
           ]
         }
       ]
