@@ -1,6 +1,83 @@
 {
-  "last_updated": "2026-04-30T12:43:00+09:00",
+  "last_updated": "2026-04-30T23:11:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
+      "valid_from": "2026-05-01T00:00:00+09:00",
+      "valid_until": "2026-05-07T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "CHOICEKR03",
+            "PPOM03",
+            "CLIEN03",
+            "AEKZ03"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "CHOICEKR04",
+            "PPOM04",
+            "CLIEN04",
+            "AEKZ04"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "CHOICEKR07",
+            "PPOM07",
+            "CLIEN07",
+            "AEKZ07"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$10",
+          "codes": [
+            "CHOICEKR10",
+            "PPOM10",
+            "CLIEN10",
+            "AEKZ10"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$16",
+          "codes": [
+            "CHOICEKR16",
+            "PPOM16",
+            "CLIEN16",
+            "AEKZ16"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$27",
+          "codes": [
+            "CHOICEKR27",
+            "PPOM27",
+            "CLIEN27",
+            "AEKZ27"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$38",
+          "codes": [
+            "CHOICEKR38",
+            "PPOM38",
+            "CLIEN38",
+            "AEKZ38"
+          ]
+        }
+      ]
+    },
     {
       "name": "알리익스프레스 베이비 페어 (Baby Fair)",
       "valid_from": "2026-04-27T00:00:00+09:00",
@@ -10,78 +87,21 @@
           "min_purchase": "$20",
           "discount_amount": "$2",
           "codes": [
-            "APRBF01",
-            "ALIBF02"
-          ]
-        },
-        {
-          "min_purchase": "$23",
-          "discount_amount": "$3",
-          "codes": [
-            "KRAPR03",
-            "PPOMKR03",
-            "CLIENKR03"
+            "APRBF01"
           ]
         },
         {
           "min_purchase": "$40",
           "discount_amount": "$4",
           "codes": [
-            "APRBF02",
-            "ALIBF04"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$7",
-          "codes": [
-            "KRAPR07",
-            "PPOMKR07",
-            "CLIENKR07"
+            "APRBF02"
           ]
         },
         {
           "min_purchase": "$70",
           "discount_amount": "$7",
           "codes": [
-            "APRBF03",
-            "ALIBF07"
-          ]
-        },
-        {
-          "min_purchase": "$88",
-          "discount_amount": "$11",
-          "codes": [
-            "KRAPR11",
-            "PPOMKR11",
-            "CLIENKR11"
-          ]
-        },
-        {
-          "min_purchase": "$130",
-          "discount_amount": "$16",
-          "codes": [
-            "KRAPR16",
-            "PPOMKR16",
-            "CLIENKR16"
-          ]
-        },
-        {
-          "min_purchase": "$200",
-          "discount_amount": "$25",
-          "codes": [
-            "KRAPR25",
-            "PPOMKR25",
-            "CLIENKR25"
-          ]
-        },
-        {
-          "min_purchase": "$350",
-          "discount_amount": "$45",
-          "codes": [
-            "KRAPR45",
-            "PPOMKR45",
-            "CLIENKR45"
+            "APRBF03"
           ]
         }
       ]
@@ -134,171 +154,26 @@
           ]
         }
       ]
-    },
-    {
-      "name": "4월 K-Venue 및 한국 배송 전용 할인 코드",
-      "valid_from": "2026-04-01T00:00:00+09:00",
-      "valid_until": "2026-04-30T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "KRAPR02",
-            "PPOM02",
-            "AECLIEN02"
-          ]
-        },
-        {
-          "min_purchase": "$29",
-          "discount_amount": "$4",
-          "codes": [
-            "KVENUE04",
-            "KV4422",
-            "KV4411"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$6",
-          "codes": [
-            "KRAPR06",
-            "PPOM06",
-            "AECLIEN06"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "KVENUE08",
-            "KV8822",
-            "KV8811",
-            "KRA698"
-          ]
-        },
-        {
-          "min_purchase": "$169",
-          "discount_amount": "$20",
-          "codes": [
-            "KVENUE20",
-            "KV2022",
-            "KV2011",
-            "KRA169"
-          ]
-        },
-        {
-          "min_purchase": "$269",
-          "discount_amount": "$30",
-          "codes": [
-            "KVENUE30",
-            "KV3022",
-            "KV3011"
-          ]
-        },
-        {
-          "min_purchase": "$359",
-          "discount_amount": "$50",
-          "codes": [
-            "KVENUE50",
-            "KV5022",
-            "KV5011"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "4월 한국 전용 상시 할인 코드 (Monthly Codes)",
-      "valid_from": "2026-04-01T00:00:00+09:00",
-      "valid_until": "2026-04-30T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$30",
-          "discount_amount": "$3",
-          "codes": [
-            "AEKR03",
-            "AEPPOM03",
-            "AECL03",
-            "AEKF03",
-            "ALISALE03"
-          ]
-        },
-        {
-          "min_purchase": "$50",
-          "discount_amount": "$6",
-          "codes": [
-            "AEKR06",
-            "AEPPOM06",
-            "AECL06",
-            "AEKF06",
-            "ALISALE06"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$12",
-          "codes": [
-            "AEKR12",
-            "AEPPOM12",
-            "AECL12",
-            "AEKF12",
-            "ALISALE12"
-          ]
-        },
-        {
-          "min_purchase": "$150",
-          "discount_amount": "$20",
-          "codes": [
-            "AEKR20",
-            "AEPPOM20",
-            "AECL20",
-            "AEKF20",
-            "ALISALE20"
-          ]
-        },
-        {
-          "min_purchase": "$250",
-          "discount_amount": "$35",
-          "codes": [
-            "AEKR35",
-            "AEPPOM35",
-            "AECL35",
-            "AEKF35",
-            "ALISALE35"
-          ]
-        },
-        {
-          "min_purchase": "$400",
-          "discount_amount": "$60",
-          "codes": [
-            "AEKR60",
-            "AEPPOM60",
-            "AECL60",
-            "AEKF60",
-            "ALISALE60"
-          ]
-        }
-      ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "5월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 정기 행사로, 한국 전용 프로모션 코드와 카드사 즉시 할인 혜택이 집중적으로 제공되는 세일입니다.",
-      "valid_from": "2026-05-01T00:00:00+09:00",
-      "valid_until": "2026-05-07T23:59:59+09:00"
-    },
-    {
-      "name": "5월 가정의 달 세일 (Family Month Sale)",
-      "description": "어버이날과 어린이날을 위한 선물 카테고리에 특화된 할인 혜택과 맞춤형 프로모션을 제공하는 온가족 행복위크 행사입니다.",
+      "name": "5월 여름맞이 얼리버드 세일 (Summer Refresh Savings)",
+      "description": "냉방 가전, 여름 의류 및 아웃도어 용품을 미리 준비할 수 있는 시즌 특화 세일입니다.",
       "valid_from": "2026-05-10T00:00:00+09:00",
       "valid_until": "2026-05-15T23:59:59+09:00"
     },
     {
       "name": "5월 메가 세일 (May Mega Sale)",
-      "description": "본격적인 초여름 시즌 상품과 냉방 가전 등을 합리적인 가격에 구매할 수 있는 5월의 메인 할인 프로모션입니다.",
+      "description": "5월의 메인 프로모션으로 대규모 할인 코드와 선착순 결제 혜택이 제공됩니다.",
       "valid_from": "2026-05-18T00:00:00+09:00",
-      "valid_until": "2026-05-24T23:59:59+09:00"
+      "valid_until": "2026-05-22T23:59:59+09:00"
+    },
+    {
+      "name": "5월 알급날 (AliExpress Pay Day)",
+      "description": "한국 사용자들을 위해 월말에 진행되는 전용 할인 행사입니다.",
+      "valid_from": "2026-05-23T00:00:00+09:00",
+      "valid_until": "2026-05-25T23:59:59+09:00"
     },
     {
       "name": "6월 상반기 결산 메가 세일 (Summer Sale / 618)",
