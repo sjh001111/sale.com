@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T23:11:00+09:00",
+  "last_updated": "2026-05-01T12:55:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
@@ -13,7 +13,8 @@
             "CHOICEKR03",
             "PPOM03",
             "CLIEN03",
-            "AEKZ03"
+            "AEKZ03",
+            "MAYKR03"
           ]
         },
         {
@@ -23,7 +24,8 @@
             "CHOICEKR04",
             "PPOM04",
             "CLIEN04",
-            "AEKZ04"
+            "AEKZ04",
+            "MAYKR04"
           ]
         },
         {
@@ -33,7 +35,8 @@
             "CHOICEKR07",
             "PPOM07",
             "CLIEN07",
-            "AEKZ07"
+            "AEKZ07",
+            "MAYKR07"
           ]
         },
         {
@@ -43,7 +46,8 @@
             "CHOICEKR10",
             "PPOM10",
             "CLIEN10",
-            "AEKZ10"
+            "AEKZ10",
+            "MAYKR10"
           ]
         },
         {
@@ -53,7 +57,8 @@
             "CHOICEKR16",
             "PPOM16",
             "CLIEN16",
-            "AEKZ16"
+            "AEKZ16",
+            "MAYKR16"
           ]
         },
         {
@@ -63,7 +68,8 @@
             "CHOICEKR27",
             "PPOM27",
             "CLIEN27",
-            "AEKZ27"
+            "AEKZ27",
+            "MAYKR27"
           ]
         },
         {
@@ -73,84 +79,8 @@
             "CHOICEKR38",
             "PPOM38",
             "CLIEN38",
-            "AEKZ38"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "알리익스프레스 베이비 페어 (Baby Fair)",
-      "valid_from": "2026-04-27T00:00:00+09:00",
-      "valid_until": "2026-04-30T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "APRBF01"
-          ]
-        },
-        {
-          "min_purchase": "$40",
-          "discount_amount": "$4",
-          "codes": [
-            "APRBF02"
-          ]
-        },
-        {
-          "min_purchase": "$70",
-          "discount_amount": "$7",
-          "codes": [
-            "APRBF03"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "4월 봄격쇼핑 (Spring Shopping) 프로모션",
-      "valid_from": "2026-04-26T00:00:00+09:00",
-      "valid_until": "2026-04-30T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$10",
-          "discount_amount": "$1",
-          "codes": [
-            "FSKR01"
-          ]
-        },
-        {
-          "min_purchase": "$25",
-          "discount_amount": "$3",
-          "codes": [
-            "FSKR03"
-          ]
-        },
-        {
-          "min_purchase": "$45",
-          "discount_amount": "$5",
-          "codes": [
-            "FSKR05"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$7",
-          "codes": [
-            "FSKR07"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$16",
-          "codes": [
-            "FSKR16"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$25",
-          "codes": [
-            "FSKR25"
+            "AEKZ38",
+            "MAYKR38"
           ]
         }
       ]
