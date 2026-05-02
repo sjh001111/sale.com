@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T12:29:00+09:00",
+  "last_updated": "2026-05-02T22:24:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
@@ -11,10 +11,10 @@
           "discount_amount": "$3",
           "codes": [
             "CHOICEKR03",
+            "MAYKR03",
             "PPOM03",
             "CLIEN03",
-            "AEKZ03",
-            "MAYKR03"
+            "AEKZ03"
           ]
         },
         {
@@ -22,21 +22,10 @@
           "discount_amount": "$4",
           "codes": [
             "CHOICEKR04",
+            "MAYKR04",
             "PPOM04",
             "CLIEN04",
-            "AEKZ04",
-            "MAYKR04"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$7",
-          "codes": [
-            "CHOICEKR07",
-            "PPOM07",
-            "CLIEN07",
-            "AEKZ07",
-            "MAYKR07"
+            "AEKZ04"
           ]
         },
         {
@@ -44,21 +33,21 @@
           "discount_amount": "$10",
           "codes": [
             "CHOICEKR10",
+            "MAYKR10",
             "PPOM10",
             "CLIEN10",
-            "AEKZ10",
-            "MAYKR10"
+            "AEKZ10"
           ]
         },
         {
           "min_purchase": "$139",
-          "discount_amount": "$16",
+          "discount_amount": "$17",
           "codes": [
-            "CHOICEKR16",
-            "PPOM16",
-            "CLIEN16",
-            "AEKZ16",
-            "MAYKR16"
+            "CHOICEKR17",
+            "MAYKR17",
+            "PPOM17",
+            "CLIEN17",
+            "AEKZ17"
           ]
         },
         {
@@ -66,10 +55,10 @@
           "discount_amount": "$27",
           "codes": [
             "CHOICEKR27",
+            "MAYKR27",
             "PPOM27",
             "CLIEN27",
-            "AEKZ27",
-            "MAYKR27"
+            "AEKZ27"
           ]
         },
         {
@@ -77,10 +66,21 @@
           "discount_amount": "$38",
           "codes": [
             "CHOICEKR38",
+            "MAYKR38",
             "PPOM38",
             "CLIEN38",
-            "AEKZ38",
-            "MAYKR38"
+            "AEKZ38"
+          ]
+        },
+        {
+          "min_purchase": "$559",
+          "discount_amount": "$60",
+          "codes": [
+            "CHOICEKR60",
+            "MAYKR60",
+            "PPOM60",
+            "CLIEN60",
+            "AEKZ60"
           ]
         }
       ]
