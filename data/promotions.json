@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T12:50:00+09:00",
+  "last_updated": "2026-05-03T22:24:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
@@ -29,6 +29,17 @@
           ]
         },
         {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "CHOICEKR07",
+            "MAYKR07",
+            "PPOM07",
+            "CLIEN07",
+            "AEKZ07"
+          ]
+        },
+        {
           "min_purchase": "$86",
           "discount_amount": "$10",
           "codes": [
@@ -41,13 +52,13 @@
         },
         {
           "min_purchase": "$139",
-          "discount_amount": "$17",
+          "discount_amount": "$16",
           "codes": [
-            "CHOICEKR17",
-            "MAYKR17",
-            "PPOM17",
-            "CLIEN17",
-            "AEKZ17"
+            "CHOICEKR16",
+            "MAYKR16",
+            "PPOM16",
+            "CLIEN16",
+            "AEKZ16"
           ]
         },
         {
@@ -101,13 +112,13 @@
     },
     {
       "name": "5월 알급날 (AliExpress Pay Day)",
-      "description": "국내 사용자들을 대상으로 월말 결제 혜택과 K-Venue 상품 특가가 제공되는 이벤트입니다.",
+      "description": "국내 사용자들을 대상으로 월말 결제 혜택과 K-Venue 상품 특가가 제공되는 정기 이벤트입니다.",
       "valid_from": "2026-05-23T00:00:00+09:00",
       "valid_until": "2026-05-25T23:59:59+09:00"
     },
     {
       "name": "6월 상반기 결산 메가 세일 (Summer Sale / 618)",
-      "description": "상반기 최대 쇼핑 축제로, 연중 가장 큰 규모의 할인 혜택과 선착순 이벤트가 진행됩니다.",
+      "description": "연중 최대 규모의 쇼핑 축제 중 하나로, 상반기 결산 파격 할인과 선착순 결제 혜택이 진행됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
