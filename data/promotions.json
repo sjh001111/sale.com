@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T12:48:00+09:00",
+  "last_updated": "2026-05-04T23:17:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
@@ -82,17 +82,6 @@
             "PPOM38",
             "CLIEN38",
             "AEKZ38"
-          ]
-        },
-        {
-          "min_purchase": "$559",
-          "discount_amount": "$60",
-          "codes": [
-            "CHOICEKR60",
-            "MAYKR60",
-            "PPOM60",
-            "CLIEN60",
-            "AEKZ60"
           ]
         }
       ]
