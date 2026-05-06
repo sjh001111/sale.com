@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T12:31:00+09:00",
+  "last_updated": "2026-05-06T12:43:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
@@ -15,7 +15,9 @@
             "PPOM03",
             "CLIEN03",
             "AEKZ03",
-            "CDAE0503"
+            "CDAE0503",
+            "AEKR03",
+            "AEPP03"
           ]
         },
         {
@@ -27,7 +29,9 @@
             "PPOM04",
             "CLIEN04",
             "AEKZ04",
-            "CDAE0504"
+            "CDAE0504",
+            "AEKR04",
+            "AEPP04"
           ]
         },
         {
@@ -39,7 +43,9 @@
             "PPOM07",
             "CLIEN07",
             "AEKZ07",
-            "CDAE0507"
+            "CDAE0507",
+            "AEKR07",
+            "AEPP07"
           ]
         },
         {
@@ -51,7 +57,9 @@
             "PPOM10",
             "CLIEN10",
             "AEKZ10",
-            "CDAE0510"
+            "CDAE0510",
+            "AEKR10",
+            "AEPP10"
           ]
         },
         {
@@ -63,7 +71,9 @@
             "PPOM16",
             "CLIEN16",
             "AEKZ16",
-            "CDAE0516"
+            "CDAE0516",
+            "AEKR16",
+            "AEPP16"
           ]
         },
         {
@@ -75,7 +85,9 @@
             "PPOM27",
             "CLIEN27",
             "AEKZ27",
-            "CDAE0527"
+            "CDAE0527",
+            "AEKR27",
+            "AEPP27"
           ]
         },
         {
@@ -87,7 +99,9 @@
             "PPOM38",
             "CLIEN38",
             "AEKZ38",
-            "CDAE0538"
+            "CDAE0538",
+            "AEKR38",
+            "AEPP38"
           ]
         }
       ]
