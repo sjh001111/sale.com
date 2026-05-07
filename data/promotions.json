@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T12:42:00+09:00",
+  "last_updated": "2026-05-07T23:30:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 초이스 데이 (Choice Day) - 온가족 행복위크",
@@ -17,7 +17,9 @@
             "AEKZ03",
             "CDAE0503",
             "AEKR03",
-            "AEPP03"
+            "AEPP03",
+            "KR0001",
+            "KR03"
           ]
         },
         {
@@ -49,6 +51,15 @@
           ]
         },
         {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "AEPPCD0508",
+            "CDAE0508",
+            "KR0002"
+          ]
+        },
+        {
           "min_purchase": "$86",
           "discount_amount": "$10",
           "codes": [
@@ -73,7 +84,8 @@
             "AEKZ16",
             "CDAE0516",
             "AEKR16",
-            "AEPP16"
+            "AEPP16",
+            "KR0003"
           ]
         },
         {
@@ -87,7 +99,9 @@
             "AEKZ27",
             "CDAE0527",
             "AEKR27",
-            "AEPP27"
+            "AEPP27",
+            "KR0004",
+            "KR0005"
           ]
         },
         {
@@ -102,6 +116,20 @@
             "CDAE0538",
             "AEKR38",
             "AEPP38"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "5월 월간 상시 프로모션 코드",
+      "valid_from": "2026-05-01T00:00:00+09:00",
+      "valid_until": "2026-05-31T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$14",
+          "discount_amount": "$2",
+          "codes": [
+            "KRCODEMAY"
           ]
         }
       ]
