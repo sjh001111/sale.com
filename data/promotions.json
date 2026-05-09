@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T23:03:00+09:00",
+  "last_updated": "2026-05-09T12:36:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -54,24 +54,65 @@
           ]
         }
       ]
+    },
+    {
+      "name": "5월 여름맞이 얼리버드 세일 (Summer Refresh Savings)",
+      "valid_from": "2026-05-10T00:00:00+09:00",
+      "valid_until": "2026-05-15T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "AEKR2B",
+            "MAYKR2",
+            "PPOMPPU02",
+            "CLIEN02"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$6",
+          "codes": [
+            "AEKR6B",
+            "MAYKR6",
+            "PPOMPPU06",
+            "CLIEN06"
+          ]
+        },
+        {
+          "min_purchase": "$135",
+          "discount_amount": "$14",
+          "codes": [
+            "AEKR14B",
+            "MAYKR14",
+            "PPOMPPU14",
+            "CLIEN14"
+          ]
+        },
+        {
+          "min_purchase": "$348",
+          "discount_amount": "$35",
+          "codes": [
+            "AEKR35B",
+            "MAYKR35",
+            "PPOMPPU35",
+            "CLIEN35"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "5월 여름맞이 얼리버드 세일 (Summer Refresh Savings)",
-      "description": "여름 시즌 아이템을 미리 준비할 수 있는 할인 행사로, 냉방 가전과 캠핑 용품 등에 높은 할인율이 적용됩니다. $20/$2, $56/$6, $135/$14, $348/$35 등의 할인 구간별 전용 코드가 발행될 예정입니다.",
-      "valid_from": "2026-05-10T00:00:00+09:00",
-      "valid_until": "2026-05-15T23:59:59+09:00"
-    },
-    {
       "name": "5월 메가 세일 (May Mega Sale / Sunshine Savings)",
-      "description": "5월 중순의 대규모 세일 기간으로, 다양한 상품에 대한 대폭 할인과 전용 프로모션 코드가 배포됩니다. $30/$4, $50/$7, $100/$12 등 중대형 할인 구간이 강화됩니다.",
+      "description": "5월 중순의 대규모 세일 기간으로, 다양한 상품에 대한 대폭 할인과 전용 프로모션 코드가 배포될 예정입니다. 중대형 할인 구간이 강화된 코드가 제공됩니다.",
       "valid_from": "2026-05-18T00:00:00+09:00",
       "valid_until": "2026-05-22T23:59:59+09:00"
     },
     {
       "name": "5월 알급날 (AliExpress Pay Day)",
-      "description": "매달 월말에 진행되는 한국 전용 이벤트로, K-Venue 상품 특가와 국내 신용카드 및 페이 서비스별 즉시 할인이 강화됩니다.",
+      "description": "매달 월말에 진행되는 한국 전용 이벤트로, K-Venue 상품 특가와 국내 신용카드 및 페이 서비스별 즉시 할인이 제공됩니다.",
       "valid_from": "2026-05-23T00:00:00+09:00",
       "valid_until": "2026-05-25T23:59:59+09:00"
     },
@@ -83,7 +124,7 @@
     },
     {
       "name": "6월 상반기 결산 메가 세일 (Summer Sale / 618)",
-      "description": "연중 최대 규모의 세일 중 하나인 618 여름 세일로, 강력한 할인 코드와 함께 선착순 결제 할인이 대규모로 제공됩니다.",
+      "description": "연중 최대 규모의 세일 중 하나인 618 여름 세일로, 강력한 할인 코드와 함께 대규모 선착순 결제 할인이 제공됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
