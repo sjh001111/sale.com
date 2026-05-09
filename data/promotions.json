@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T12:36:00+09:00",
+  "last_updated": "2026-05-09T22:38:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -67,7 +67,8 @@
             "AEKR2B",
             "MAYKR2",
             "PPOMPPU02",
-            "CLIEN02"
+            "CLIEN02",
+            "AECOUPON02"
           ]
         },
         {
@@ -77,7 +78,8 @@
             "AEKR6B",
             "MAYKR6",
             "PPOMPPU06",
-            "CLIEN06"
+            "CLIEN06",
+            "AECOUPON06"
           ]
         },
         {
@@ -87,7 +89,8 @@
             "AEKR14B",
             "MAYKR14",
             "PPOMPPU14",
-            "CLIEN14"
+            "CLIEN14",
+            "AECOUPON14"
           ]
         },
         {
@@ -97,7 +100,8 @@
             "AEKR35B",
             "MAYKR35",
             "PPOMPPU35",
-            "CLIEN35"
+            "CLIEN35",
+            "AECOUPON35"
           ]
         }
       ]
@@ -106,25 +110,25 @@
   "upcoming_promotions": [
     {
       "name": "5월 메가 세일 (May Mega Sale / Sunshine Savings)",
-      "description": "5월 중순의 대규모 세일 기간으로, 다양한 상품에 대한 대폭 할인과 전용 프로모션 코드가 배포될 예정입니다. 중대형 할인 구간이 강화된 코드가 제공됩니다.",
+      "description": "5월 중순에 진행되는 대규모 할인 행사로, 여름 시즌 상품 특가와 고액 할인 코드가 배포될 예정입니다.",
       "valid_from": "2026-05-18T00:00:00+09:00",
       "valid_until": "2026-05-22T23:59:59+09:00"
     },
     {
       "name": "5월 알급날 (AliExpress Pay Day)",
-      "description": "매달 월말에 진행되는 한국 전용 이벤트로, K-Venue 상품 특가와 국내 신용카드 및 페이 서비스별 즉시 할인이 제공됩니다.",
+      "description": "한국 사용자들을 위해 월말에 진행되는 전용 이벤트로, 국내 결제 수단 할인과 K-Venue 상품 혜택이 집중됩니다.",
       "valid_from": "2026-05-23T00:00:00+09:00",
       "valid_until": "2026-05-25T23:59:59+09:00"
     },
     {
       "name": "6월 초이스 데이 (Choice Day)",
-      "description": "매월 초에 진행되는 초이스 데이 이벤트로, 가성비 높은 초이스 상품들에 대한 할인 및 무료 배송 혜택이 제공됩니다.",
+      "description": "매월 초 정기적으로 진행되는 행사로, 초이스 태그 상품에 대한 할인 코드와 무료 배송 혜택이 제공됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-07T23:59:59+09:00"
     },
     {
       "name": "6월 상반기 결산 메가 세일 (Summer Sale / 618)",
-      "description": "연중 최대 규모의 세일 중 하나인 618 여름 세일로, 강력한 할인 코드와 함께 대규모 선착순 결제 할인이 제공됩니다.",
+      "description": "연중 최대 규모의 세일 중 하나인 618 행사로, 강력한 카드 할인과 선착순 프로모션 코드가 대규모로 배포됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
