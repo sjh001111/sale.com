@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T23:37:00+09:00",
+  "last_updated": "2026-05-13T12:55:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -74,7 +74,8 @@
             "AECOUPON02",
             "ALISALE02",
             "ALIKR02",
-            "KRAE02"
+            "KRAE02",
+            "AEMAY02"
           ]
         },
         {
@@ -89,7 +90,8 @@
             "AECOUPON06",
             "ALISALE06",
             "ALIKR06",
-            "KRAE06"
+            "KRAE06",
+            "AEMAY06"
           ]
         },
         {
@@ -104,7 +106,8 @@
             "AECOUPON14",
             "ALISALE14",
             "ALIKR14",
-            "KRAE14"
+            "KRAE14",
+            "AEMAY14"
           ]
         },
         {
@@ -119,7 +122,8 @@
             "AECOUPON35",
             "ALISALE35",
             "ALIKR35",
-            "KRAE35"
+            "KRAE35",
+            "AEMAY35"
           ]
         }
       ]
