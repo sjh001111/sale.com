@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T23:48:00+09:00",
+  "last_updated": "2026-05-14T12:55:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -64,10 +64,10 @@
           "min_purchase": "$18",
           "discount_amount": "$2",
           "codes": [
-            "REFRESH02",
             "IDAEK18",
             "KOR0502",
             "AEKR2B",
+            "REFRESH02",
             "MAYKR2",
             "PPOMPPU02",
             "CLIEN02",
@@ -81,9 +81,17 @@
           ]
         },
         {
-          "min_purchase": "$56",
+          "min_purchase": "$35",
+          "discount_amount": "$4",
+          "codes": [
+            "IDAEK04"
+          ]
+        },
+        {
+          "min_purchase": "$55",
           "discount_amount": "$6",
           "codes": [
+            "IDAEK55",
             "AEKR6B",
             "MAYKR6",
             "KOR0506",
@@ -99,9 +107,17 @@
           ]
         },
         {
+          "min_purchase": "$89",
+          "discount_amount": "$9",
+          "codes": [
+            "IDAEK89"
+          ]
+        },
+        {
           "min_purchase": "$135",
           "discount_amount": "$14",
           "codes": [
+            "IDAEK13",
             "AEKR14B",
             "MAYKR14",
             "KOR0514",
@@ -139,26 +155,26 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "5월 선샤인 세일 (Sunshine Savings)",
-      "description": "5월의 메인 프로모션 세일로, 초여름 트렌드 신상품 및 가전 제품에 대해 최대 60% 할인과 추가 프로모션 코드가 제공될 예정입니다.",
+      "name": "5월 다함께떠나5 세일 (Sunshine Savings)",
+      "description": "5월의 메인 프로모션 세일로, 여름 휴가 시즌 대비 가전, 패션, 리빙 신상품에 대해 대규모 할인과 선착순 프로모션 코드가 제공될 예정입니다.",
       "valid_from": "2026-05-18T00:00:00+09:00",
       "valid_until": "2026-05-22T23:59:59+09:00"
     },
     {
       "name": "5월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일입니다. 국내 배송 상품(K-Venue)에 대한 특별 혜택과 주요 카드사 결제 할인이 집중됩니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일입니다. 국내 배송 상품(K-Venue) 및 식품, 생필품에 대한 특별 혜택과 주요 카드사 결제 할인이 집중됩니다.",
       "valid_from": "2026-05-23T00:00:00+09:00",
       "valid_until": "2026-05-25T23:59:59+09:00"
     },
     {
       "name": "6월 초이스 데이 (Choice Day)",
-      "description": "매달 1일 시작되는 정기 행사로 Choice 태그 상품들에 대해 높은 할인율과 전용 코드를 제공하며 5일 배송 보장 혜택이 포함됩니다.",
+      "description": "매달 1일 시작되는 정기 행사로 가성비가 높은 Choice 태그 상품들에 대해 높은 할인율과 전용 코드를 제공하며 5일 배송 보장 혜택이 포함됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-07T23:59:59+09:00"
     },
     {
-      "name": "6월 메가 썸머 세일 (Summer Sale / 618)",
-      "description": "알리익스프레스의 연중 최대 규모 할인 행사 중 하나인 618 세일입니다. 대규모 선착순 코드와 역대 최고 수준의 카드사 결제 할인이 제공됩니다.",
+      "name": "6월 메가 썸머 세일 (618 Mega Sale)",
+      "description": "상반기 최대 규모의 쇼핑 행사입니다. 618 세일을 기념하여 연중 최대 수준의 할인 코드와 카드사 결제 할인, 럭키박스 등 다양한 이벤트가 진행됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
