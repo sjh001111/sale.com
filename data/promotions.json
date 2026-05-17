@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T12:59:00+09:00",
+  "last_updated": "2026-05-17T22:44:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -59,30 +59,101 @@
           ]
         }
       ]
+    },
+    {
+      "name": "5월 다함께 떠나5 (Sunshine Savings) 전용 코드",
+      "valid_from": "2026-05-18T00:00:00+09:00",
+      "valid_until": "2026-05-22T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$15",
+          "discount_amount": "$1.5",
+          "codes": [
+            "AEKA01",
+            "TRIPKR01",
+            "CLIEN01",
+            "PPOM01"
+          ]
+        },
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2.5",
+          "codes": [
+            "AEKA02",
+            "TRIPKR02",
+            "CLIEN02",
+            "PPOM02"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "AEKA04",
+            "TRIPKR04",
+            "CLIEN04",
+            "PPOM04"
+          ]
+        },
+        {
+          "min_purchase": "$58",
+          "discount_amount": "$7",
+          "codes": [
+            "AEKA07",
+            "TRIPKR07",
+            "CLIEN07",
+            "PPOM07"
+          ]
+        },
+        {
+          "min_purchase": "$87",
+          "discount_amount": "$10",
+          "codes": [
+            "AEKA10",
+            "TRIPKR10",
+            "CLIEN10",
+            "PPOM10"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$16",
+          "codes": [
+            "AEKA16",
+            "TRIPKR16",
+            "CLIEN16",
+            "PPOM16"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$22",
+          "codes": [
+            "AEKA22",
+            "TRIPKR22",
+            "CLIEN22",
+            "PPOM22"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "5월 다함께 떠나5 (Sunshine Savings)",
-      "description": "여름 휴가 대비 가전 및 캠핑 용품 특가 세일입니다. 구매 금액별 최대 $100 이상의 대규모 할인 코드와 토스페이($80 구매 시 $4, $120 구매 시 $7), 삼성 VISA 카드($100 구매 시 $22) 등의 결제 할인이 제공됩니다.",
-      "valid_from": "2026-05-18T00:00:00+09:00",
-      "valid_until": "2026-05-22T23:59:59+09:00"
-    },
-    {
       "name": "5월 알급날 (AliExpress Pay Day)",
-      "description": "5월 말 진행되는 한국 전용 세일로 K-Venue 식품 및 생활용품 대상 전용 코드와 카드사 결제 혜택이 집중됩니다.",
+      "description": "매월 말 진행되는 한국 전용 세일로 K-Venue(국내 발송) 상품에 특화된 할인 혜택과 카드사 결제 할인이 집중적으로 제공되는 프로모션입니다.",
       "valid_from": "2026-05-23T00:00:00+09:00",
       "valid_until": "2026-05-25T23:59:59+09:00"
     },
     {
       "name": "6월 초이스 데이 (Choice Day)",
-      "description": "매달 초 Choice 상품 대상 정기 프로모션입니다. 직구 상품 무료 배송 및 초이스 전용 코드 혜택이 제공됩니다.",
+      "description": "매달 초 Choice 라벨 상품을 대상으로 진행되는 정기 할인 행사입니다. 일정 금액 이상 구매 시 자동 할인 및 무료 배송 혜택이 강화됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-07T23:59:59+09:00"
     },
     {
       "name": "6월 메가 썸머 세일 (618 Mega Sale)",
-      "description": "알리익스프레스 상반기 최대 규모 쇼핑 축제입니다. 연중 최고 수준의 할인율과 대량의 프로모션 코드, 카드사 선착순 결제 할인이 포함됩니다.",
+      "description": "알리익스프레스 상반기 최대 규모의 쇼핑 축제입니다. 연중 가장 높은 할인율의 프로모션 코드와 역대급 규모의 카드사 선착순 결제 할인이 제공됩니다.",
       "valid_from": "2026-06-16T00:00:00+09:00",
       "valid_until": "2026-06-25T23:59:59+09:00"
     }
