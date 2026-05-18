@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T13:12:00+09:00",
+  "last_updated": "2026-05-19T00:45:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -65,16 +65,6 @@
       "valid_from": "2026-05-18T00:00:00+09:00",
       "valid_until": "2026-05-22T23:59:59+09:00",
       "codes": [
-        {
-          "min_purchase": "$15",
-          "discount_amount": "$1.5",
-          "codes": [
-            "AEKA01",
-            "TRIPKR01",
-            "CLIEN01",
-            "PPOM01"
-          ]
-        },
         {
           "min_purchase": "$20",
           "discount_amount": "$2.5",
