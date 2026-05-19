@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T00:45:00+09:00",
+  "last_updated": "2026-05-19T13:06:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -72,7 +72,8 @@
             "AEKA02",
             "TRIPKR02",
             "CLIEN02",
-            "PPOM02"
+            "PPOM02",
+            "AEPP02"
           ]
         },
         {
@@ -82,7 +83,8 @@
             "AEKA04",
             "TRIPKR04",
             "CLIEN04",
-            "PPOM04"
+            "PPOM04",
+            "AEPP04"
           ]
         },
         {
@@ -92,7 +94,8 @@
             "AEKA07",
             "TRIPKR07",
             "CLIEN07",
-            "PPOM07"
+            "PPOM07",
+            "AEPP07"
           ]
         },
         {
@@ -102,7 +105,8 @@
             "AEKA10",
             "TRIPKR10",
             "CLIEN10",
-            "PPOM10"
+            "PPOM10",
+            "AEPP10"
           ]
         },
         {
@@ -112,7 +116,8 @@
             "AEKA16",
             "TRIPKR16",
             "CLIEN16",
-            "PPOM16"
+            "PPOM16",
+            "AEPP16"
           ]
         },
         {
@@ -122,7 +127,8 @@
             "AEKA22",
             "TRIPKR22",
             "CLIEN22",
-            "PPOM22"
+            "PPOM22",
+            "AEPP22"
           ]
         }
       ]
