@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T00:37:00+09:00",
+  "last_updated": "2026-05-20T13:07:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -77,6 +77,7 @@
           "discount_amount": "$2.5",
           "codes": [
             "AEKA02",
+            "MAYKR02",
             "TRIPKR02",
             "CLIEN02",
             "PPOM02",
@@ -88,6 +89,7 @@
           "discount_amount": "$4",
           "codes": [
             "AEKA04",
+            "MAYKR04",
             "TRIPKR04",
             "CLIEN04",
             "PPOM04",
@@ -99,6 +101,7 @@
           "discount_amount": "$7",
           "codes": [
             "AEKA07",
+            "MAYKR07",
             "TRIPKR07",
             "CLIEN07",
             "PPOM07",
@@ -110,6 +113,7 @@
           "discount_amount": "$10",
           "codes": [
             "AEKA10",
+            "MAYKR10",
             "TRIPKR10",
             "CLIEN10",
             "PPOM10",
@@ -121,6 +125,7 @@
           "discount_amount": "$16",
           "codes": [
             "AEKA16",
+            "MAYKR16",
             "TRIPKR16",
             "CLIEN16",
             "PPOM16",
@@ -132,6 +137,7 @@
           "discount_amount": "$22",
           "codes": [
             "AEKA22",
+            "MAYKR22",
             "TRIPKR22",
             "CLIEN22",
             "PPOM22",
