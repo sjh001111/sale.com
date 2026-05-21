@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T00:37:00+09:00",
+  "last_updated": "2026-05-21T13:16:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -73,21 +73,25 @@
           ]
         },
         {
-          "min_purchase": "$20",
-          "discount_amount": "$2.5",
+          "min_purchase": "$22",
+          "discount_amount": "$3",
           "codes": [
+            "AEKZ03",
             "AEKA02",
             "MAYKR02",
             "TRIPKR02",
             "CLIEN02",
             "PPOM02",
-            "AEPP02"
+            "AEPP02",
+            "CLIEN03",
+            "PPOM03"
           ]
         },
         {
           "min_purchase": "$34",
           "discount_amount": "$4",
           "codes": [
+            "AEKZ04",
             "AEKA04",
             "MAYKR04",
             "TRIPKR04",
@@ -97,9 +101,10 @@
           ]
         },
         {
-          "min_purchase": "$58",
+          "min_purchase": "$56",
           "discount_amount": "$7",
           "codes": [
+            "AEKZ07",
             "AEKA07",
             "MAYKR07",
             "TRIPKR07",
@@ -109,9 +114,10 @@
           ]
         },
         {
-          "min_purchase": "$87",
+          "min_purchase": "$86",
           "discount_amount": "$10",
           "codes": [
+            "AEKZ10",
             "AEKA10",
             "MAYKR10",
             "TRIPKR10",
@@ -124,6 +130,7 @@
           "min_purchase": "$139",
           "discount_amount": "$16",
           "codes": [
+            "AEKZ16",
             "AEKA16",
             "MAYKR16",
             "TRIPKR16",
@@ -133,15 +140,27 @@
           ]
         },
         {
-          "min_purchase": "$209",
-          "discount_amount": "$22",
+          "min_purchase": "$239",
+          "discount_amount": "$27",
           "codes": [
+            "AEKZ27",
             "AEKA22",
             "MAYKR22",
             "TRIPKR22",
             "CLIEN22",
             "PPOM22",
-            "AEPP22"
+            "AEPP22",
+            "CLIEN27",
+            "PPOM27"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$38",
+          "codes": [
+            "AEKZ38",
+            "CLIEN38",
+            "PPOM38"
           ]
         }
       ]
