@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T00:40:00+09:00",
+  "last_updated": "2026-05-22T13:11:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -69,7 +69,8 @@
           "min_purchase": "$13",
           "discount_amount": "$1.5",
           "codes": [
-            "AEKA01"
+            "AEKA01",
+            "ALISUN01"
           ]
         },
         {
@@ -84,7 +85,8 @@
             "PPOM02",
             "AEPP02",
             "CLIEN03",
-            "PPOM03"
+            "PPOM03",
+            "ALISUN03"
           ]
         },
         {
@@ -97,7 +99,8 @@
             "TRIPKR04",
             "CLIEN04",
             "PPOM04",
-            "AEPP04"
+            "AEPP04",
+            "ALISUN04"
           ]
         },
         {
@@ -110,7 +113,8 @@
             "TRIPKR07",
             "CLIEN07",
             "PPOM07",
-            "AEPP07"
+            "AEPP07",
+            "ALISUN07"
           ]
         },
         {
@@ -123,7 +127,8 @@
             "TRIPKR10",
             "CLIEN10",
             "PPOM10",
-            "AEPP10"
+            "AEPP10",
+            "ALISUN10"
           ]
         },
         {
@@ -136,7 +141,8 @@
             "TRIPKR16",
             "CLIEN16",
             "PPOM16",
-            "AEPP16"
+            "AEPP16",
+            "ALISUN16"
           ]
         },
         {
@@ -151,7 +157,8 @@
             "PPOM22",
             "AEPP22",
             "CLIEN27",
-            "PPOM27"
+            "PPOM27",
+            "ALISUN27"
           ]
         },
         {
@@ -160,7 +167,8 @@
           "codes": [
             "AEKZ38",
             "CLIEN38",
-            "PPOM38"
+            "PPOM38",
+            "ALISUN38"
           ]
         }
       ]
@@ -169,7 +177,7 @@
   "upcoming_promotions": [
     {
       "name": "5월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 세일로 K-Venue 상품 특화 할인 및 카드사 결제 할인이 집중 제공되는 프로모션입니다.",
+      "description": "매월 말 진행되는 한국 전용 세일로 K-Venue 상품 특화 할인 및 삼성/국민/농협 등 카드사 결제 할인이 집중 제공되는 프로모션입니다.",
       "valid_from": "2026-05-23T00:00:00+09:00",
       "valid_until": "2026-05-25T23:59:59+09:00"
     },
