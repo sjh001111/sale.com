@@ -1,6 +1,49 @@
 {
-  "last_updated": "2026-05-23T12:50:00+09:00",
+  "last_updated": "2026-05-23T22:50:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "5월 알급날 (AliExpress Pay Day) 프로모션 코드",
+      "valid_from": "2026-05-23T00:00:00+09:00",
+      "valid_until": "2026-05-28T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "PAYDAY02",
+            "AEPD02",
+            "ALIPAYDAY02"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$6",
+          "codes": [
+            "PAYDAY06",
+            "AEPD06",
+            "ALIPAYDAY06"
+          ]
+        },
+        {
+          "min_purchase": "$135",
+          "discount_amount": "$14",
+          "codes": [
+            "PAYDAY14",
+            "AEPD14",
+            "ALIPAYDAY14"
+          ]
+        },
+        {
+          "min_purchase": "$348",
+          "discount_amount": "$35",
+          "codes": [
+            "PAYDAY35",
+            "AEPD35",
+            "ALIPAYDAY35"
+          ]
+        }
+      ]
+    },
     {
       "name": "5월 월간 상시 프로모션 코드",
       "valid_from": "2026-05-01T00:00:00+09:00",
@@ -59,63 +102,20 @@
           ]
         }
       ]
-    },
-    {
-      "name": "5월 알급날 (AliExpress Pay Day) 프로모션 코드",
-      "valid_from": "2026-05-23T00:00:00+09:00",
-      "valid_until": "2026-05-28T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2",
-          "codes": [
-            "PAYDAY02",
-            "AEPD02",
-            "ALIPAYDAY02"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$6",
-          "codes": [
-            "PAYDAY06",
-            "AEPD06",
-            "ALIPAYDAY06"
-          ]
-        },
-        {
-          "min_purchase": "$135",
-          "discount_amount": "$14",
-          "codes": [
-            "PAYDAY14",
-            "AEPD14",
-            "ALIPAYDAY14"
-          ]
-        },
-        {
-          "min_purchase": "$348",
-          "discount_amount": "$35",
-          "codes": [
-            "PAYDAY35",
-            "AEPD35",
-            "ALIPAYDAY35"
-          ]
-        }
-      ]
     }
   ],
   "upcoming_promotions": [
     {
       "name": "6월 초이스 데이 (Choice Day)",
-      "description": "매달 초 Choice 라벨 상품을 대상으로 진행되는 정기 할인 행사입니다. 5일 배송 및 일정 금액 이상 구매 시 자동 할인 혜택이 강화됩니다.",
+      "description": "매달 1일부터 7일까지 진행되는 정기 할인 행사로, Choice 라벨 상품에 대한 할인 코드와 무료 배송 혜택이 강화됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-07T23:59:59+09:00"
     },
     {
       "name": "6월 메가 썸머 세일 (618 Mega Sale)",
-      "description": "알리익스프레스의 상반기 최대 쇼핑 축제입니다. 연중 가장 높은 수준의 할인율과 카드사 선착순 결제 할인이 제공되는 메가 세일 기간입니다.",
-      "valid_from": "2026-06-16T00:00:00+09:00",
-      "valid_until": "2026-06-25T23:59:59+09:00"
+      "description": "알리익스프레스의 상반기 최대 규모 쇼핑 축제입니다. 높은 할인율의 프로모션 코드와 함께 카드사 선착순 결제 할인이 집중적으로 제공됩니다.",
+      "valid_from": "2026-06-15T00:00:00+09:00",
+      "valid_until": "2026-06-23T23:59:59+09:00"
     }
   ]
 }
