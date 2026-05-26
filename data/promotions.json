@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T00:19:00+09:00",
+  "last_updated": "2026-05-26T13:06:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 알급날 (AliExpress Pay Day) 프로모션 코드",
@@ -48,11 +48,17 @@
         },
         {
           "min_purchase": "$139",
+          "discount_amount": "$14",
+          "codes": [
+            "AEPD14",
+            "ALIPAYDAY14"
+          ]
+        },
+        {
+          "min_purchase": "$139",
           "discount_amount": "$15",
           "codes": [
             "PAYDAY15",
-            "AEPD14",
-            "ALIPAYDAY14",
             "OUTING10"
           ]
         },
@@ -130,25 +136,25 @@
   "upcoming_promotions": [
     {
       "name": "6월 초이스 데이 (Choice Day)",
-      "description": "매달 초 진행되는 정기 행사로 Choice 상품 전용 할인과 카드사 결제 혜택이 제공됩니다.",
+      "description": "매달 초 정기적으로 진행되는 행사로 가성비 높은 Choice 상품들에 대한 자동 할인과 전용 프로모션 코드가 제공됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-07T23:59:59+09:00"
     },
     {
       "name": "6월 썸머 세일 (Summer Sale)",
-      "description": "여름 시즌 대비 가전 및 패션 잡화 중심의 시즌 초기 할인 행사입니다.",
+      "description": "초여름 시즌을 맞아 의류, 가전, 캠핑 용품 등 다양한 여름 대비 아이템을 선구매할 수 있는 세일 기간입니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-10T23:59:59+09:00"
     },
     {
       "name": "6월 메가 썸머 세일 (618 Mega Sale)",
-      "description": "상반기 최대 규모의 쇼핑 페스티벌로 연중 가장 높은 할인율과 대규모 결제 할인이 집중되는 시기입니다.",
+      "description": "알리익스프레스 상반기 최대 규모의 쇼핑 축제로 연중 가장 높은 할인율과 카드사 결제 혜택이 집중되는 행사입니다.",
       "valid_from": "2026-06-15T00:00:00+09:00",
       "valid_until": "2026-06-23T23:59:59+09:00"
     },
     {
       "name": "6월 브랜드 데이 (Brand Day)",
-      "description": "주요 인기 브랜드 상품을 대상으로 한 특별 브랜드 위크 프로모션입니다.",
+      "description": "국내외 주요 인기 브랜드 상품을 한정 기간 동안 특별한 혜택가로 만나볼 수 있는 브랜드 위크 행사입니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     }
