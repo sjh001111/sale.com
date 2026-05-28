@@ -1,72 +1,6 @@
 {
-  "last_updated": "2026-05-28T13:10:00+09:00",
+  "last_updated": "2026-05-29T01:13:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "5월 알급날 (AliExpress Pay Day) 프로모션 코드",
-      "valid_from": "2026-05-23T00:00:00+09:00",
-      "valid_until": "2026-05-28T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$20",
-          "discount_amount": "$2.6",
-          "codes": [
-            "PAYDAY02",
-            "AEPD02",
-            "ALIPAYDAY02",
-            "OUTING06"
-          ]
-        },
-        {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "PAYDAY04",
-            "AEPD04",
-            "ALIPAYDAY04",
-            "OUTING07"
-          ]
-        },
-        {
-          "min_purchase": "$52",
-          "discount_amount": "$6",
-          "codes": [
-            "PAYDAY06",
-            "AEPD06",
-            "ALIPAYDAY06",
-            "OUTING08"
-          ]
-        },
-        {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
-          "codes": [
-            "PAYDAY10",
-            "AEPD10",
-            "ALIPAYDAY10",
-            "OUTING09"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$15",
-          "codes": [
-            "PAYDAY15",
-            "AEPD15",
-            "ALIPAYDAY15",
-            "OUTING10"
-          ]
-        },
-        {
-          "min_purchase": "$348",
-          "discount_amount": "$35",
-          "codes": [
-            "PAYDAY35",
-            "AEPD35",
-            "ALIPAYDAY35"
-          ]
-        }
-      ]
-    },
     {
       "name": "5월 월간 상시 프로모션 코드",
       "valid_from": "2026-05-01T00:00:00+09:00",
@@ -130,31 +64,31 @@
   "upcoming_promotions": [
     {
       "name": "6월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 알리익스프레스의 대표적인 정기 할인 행사로, 초이스 카테고리 상품에 대한 무료 배송 및 전용 할인 혜택이 제공됩니다.",
+      "description": "매월 초 진행되는 알리익스프레스의 정기 할인 행사로, Choice 카테고리 상품에 대한 무료 배송 및 전용 할인 혜택이 제공됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-07T23:59:59+09:00"
     },
     {
-      "name": "6월 쿨한 JUNE 혜택 (Summer Refresh)",
-      "description": "여름 시즌을 맞아 가전, 의류 및 나들이 용품을 대상으로 진행되는 대규모 시즌 할인 프로모션입니다.",
+      "name": "6월 쿨한 JUNE 혜택 (Summer Sale)",
+      "description": "여름 시즌을 겨냥한 대규모 세일 프로모션으로 가전, 의류 및 나들이용품 등 다양한 카테고리에 높은 할인율과 한국 전용 프로모션 코드가 적용됩니다.",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-10T23:59:59+09:00"
     },
     {
       "name": "6월 메가 썸머 세일 (618 Mega Sale)",
-      "description": "상반기 결산 최대 규모의 세일 행사로, 연중 광군제 다음으로 가장 높은 할인율과 다양한 결제 수단 할인이 집중되는 기간입니다.",
+      "description": "상반기 최대 규모의 쇼핑 축제로 연중 최대 수준의 할인 혜택과 주요 카드사 및 페이 결제 할인이 집중되는 기간입니다.",
       "valid_from": "2026-06-15T00:00:00+09:00",
       "valid_until": "2026-06-23T23:59:59+09:00"
     },
     {
       "name": "6월 브랜드 데이 (Brand Day)",
-      "description": "국내외 주요 브랜드 공식 스토어 제품을 특별 혜택가로 만나볼 수 있는 브랜드 집중 프로모션 기간입니다.",
+      "description": "알리익스프레스 내 주요 브랜드 입점사의 공식 제품을 특별 가격으로 만나볼 수 있는 브랜드 테마 프로모션입니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     },
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "월말 직장인 월급일에 맞춰 진행되는 한국 전용 프로모션으로, K-Venue 국내 발송 상품 등에 강력한 할인 혜택이 제공됩니다.",
+      "description": "한국 사용자를 대상으로 월말 급여일에 맞춰 진행되는 정기 세일로 K-Venue 상품 및 인기 직구 아이템에 강력한 코드가 제공됩니다.",
       "valid_from": "2026-06-24T00:00:00+09:00",
       "valid_until": "2026-06-28T23:59:59+09:00"
     }
