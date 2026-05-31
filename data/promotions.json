@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T22:52:00+09:00",
+  "last_updated": "2026-05-31T13:22:00+09:00",
   "active_code_promotions": [
     {
       "name": "5월 월간 상시 프로모션 코드",
@@ -87,14 +87,16 @@
           "min_purchase": "$35",
           "discount_amount": "$5",
           "codes": [
-            "PPOM05"
+            "PPOM05",
+            "SUMMERKR05"
           ]
         },
         {
           "min_purchase": "$52",
           "discount_amount": "$7",
           "codes": [
-            "PPOM07"
+            "PPOM07",
+            "SUMMERKR07"
           ]
         },
         {
@@ -110,7 +112,8 @@
           "min_purchase": "$86",
           "discount_amount": "$12",
           "codes": [
-            "PPOM12"
+            "PPOM12",
+            "SUMMERKR12"
           ]
         },
         {
@@ -126,14 +129,16 @@
           "min_purchase": "$139",
           "discount_amount": "$18",
           "codes": [
-            "PPOM18"
+            "PPOM18",
+            "SUMMERKR18"
           ]
         },
         {
           "min_purchase": "$209",
           "discount_amount": "$26",
           "codes": [
-            "PPOM26"
+            "PPOM26",
+            "SUMMERKR26"
           ]
         },
         {
@@ -149,7 +154,8 @@
           "min_purchase": "$349",
           "discount_amount": "$40",
           "codes": [
-            "PPOM40"
+            "PPOM40",
+            "SUMMERKR40"
           ]
         }
       ]
@@ -157,21 +163,21 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "6월 메가 썸머 세일 (618 Mega Sale / Mid-Year Sale)",
-      "description": "연중 최대 규모의 상반기 결산 세일로 전 품목 대규모 할인과 카드사 결제 할인 혜택이 집중되는 시기입니다.",
+      "name": "6월 메가 썸머 세일 (Mid-Year Sale / 618 Mega Sale)",
+      "description": "연중 최대 규모의 상반기 결산 세일로, 강력한 할인 혜택과 카드사 결제 할인이 집중적으로 제공되는 행사입니다.",
       "valid_from": "2026-06-15T00:00:00+09:00",
-      "valid_until": "2026-06-23T23:59:59+09:00"
+      "valid_until": "2026-06-20T23:59:59+09:00"
     },
     {
       "name": "6월 브랜드 데이 (Brand Day)",
-      "description": "알리익스프레스 입점 주요 글로벌 가전 및 패션 브랜드들의 인기 상품을 단독 특가로 제공하는 브랜드 집중 프로모션입니다.",
+      "description": "유명 가전, IT 및 패션 브랜드 상품들을 단독 특가로 만나볼 수 있는 브랜드 집중 할인 프로모션입니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     },
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "월말 급여 시즌에 맞춰 진행되는 정기 세일로 국내 배송 상품(K-Venue) 및 직구 베스트셀러에 적용 가능한 전용 혜택이 제공됩니다.",
-      "valid_from": "2026-06-24T00:00:00+09:00",
+      "description": "매월 말 급여 시즌에 진행되는 정기 할인 행사로, 국내 배송 상품과 베스트셀러 직구 상품에 대한 혜택이 강화됩니다.",
+      "valid_from": "2026-06-26T00:00:00+09:00",
       "valid_until": "2026-06-28T23:59:59+09:00"
     }
   ]
