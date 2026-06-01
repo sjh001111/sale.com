@@ -1,65 +1,6 @@
 {
-  "last_updated": "2026-05-31T22:57:00+09:00",
+  "last_updated": "2026-06-01T13:52:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "5월 월간 상시 프로모션 코드",
-      "valid_from": "2026-05-01T00:00:00+09:00",
-      "valid_until": "2026-05-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$14",
-          "discount_amount": "$2",
-          "codes": [
-            "KRCODEMAY"
-          ]
-        },
-        {
-          "min_purchase": "$30",
-          "discount_amount": "$3",
-          "codes": [
-            "KR0001",
-            "AEKR3B",
-            "ALI0503"
-          ]
-        },
-        {
-          "min_purchase": "$50",
-          "discount_amount": "$5",
-          "codes": [
-            "KR0002",
-            "AEKR5B",
-            "ALI0505"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$10",
-          "codes": [
-            "KR0003",
-            "AEKR10B",
-            "ALI0510"
-          ]
-        },
-        {
-          "min_purchase": "$150",
-          "discount_amount": "$15",
-          "codes": [
-            "KR0004",
-            "AEKR15B",
-            "ALI0515"
-          ]
-        },
-        {
-          "min_purchase": "$250",
-          "discount_amount": "$25",
-          "codes": [
-            "KR0005",
-            "AEKR25B",
-            "ALI0525"
-          ]
-        }
-      ]
-    },
     {
       "name": "6월 쿨한 JUNE 혜택 & 초이스 데이 프로모션",
       "valid_from": "2026-05-30T00:00:00+09:00",
@@ -78,7 +19,9 @@
           "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
+            "JUNEKR03",
             "PPOM03",
+            "CLIEN03",
             "SUMMERKR03",
             "YYDS03"
           ]
@@ -87,14 +30,18 @@
           "min_purchase": "$35",
           "discount_amount": "$5",
           "codes": [
+            "JUNEKR05",
             "PPOM05",
-            "SUMMERKR05"
+            "CLIEN05",
+            "SUMMERKR05",
+            "YGZD05"
           ]
         },
         {
           "min_purchase": "$52",
           "discount_amount": "$7",
           "codes": [
+            "JUNEKR07",
             "PPOM07",
             "SUMMERKR07"
           ]
@@ -156,6 +103,65 @@
           "codes": [
             "PPOM40",
             "SUMMERKR40"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6월 월간 상시 프로모션 코드",
+      "valid_from": "2026-06-01T00:00:00+09:00",
+      "valid_until": "2026-06-30T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$14",
+          "discount_amount": "$2",
+          "codes": [
+            "KRCODEJUNE"
+          ]
+        },
+        {
+          "min_purchase": "$30",
+          "discount_amount": "$3",
+          "codes": [
+            "KR601",
+            "AEKR3C",
+            "ALI0603"
+          ]
+        },
+        {
+          "min_purchase": "$50",
+          "discount_amount": "$5",
+          "codes": [
+            "KR602",
+            "AEKR5C",
+            "ALI0605"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$10",
+          "codes": [
+            "KR603",
+            "AEKR10C",
+            "ALI0610"
+          ]
+        },
+        {
+          "min_purchase": "$150",
+          "discount_amount": "$15",
+          "codes": [
+            "KR604",
+            "AEKR15C",
+            "ALI0615"
+          ]
+        },
+        {
+          "min_purchase": "$250",
+          "discount_amount": "$25",
+          "codes": [
+            "KR605",
+            "AEKR25C",
+            "ALI0625"
           ]
         }
       ]
