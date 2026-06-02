@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T02:52:00+09:00",
+  "last_updated": "2026-06-02T13:41:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 쿨한 JUNE 혜택 & 초이스 데이 프로모션",
@@ -43,7 +43,8 @@
           "codes": [
             "JUNEKR07",
             "PPOM07",
-            "SUMMERKR07"
+            "SUMMERKR07",
+            "PLMM07"
           ]
         },
         {
@@ -60,7 +61,8 @@
           "discount_amount": "$12",
           "codes": [
             "PPOM12",
-            "SUMMERKR12"
+            "SUMMERKR12",
+            "NSDD12"
           ]
         },
         {
@@ -77,7 +79,8 @@
           "discount_amount": "$18",
           "codes": [
             "PPOM18",
-            "SUMMERKR18"
+            "SUMMERKR18",
+            "NCLM18"
           ]
         },
         {
@@ -85,7 +88,8 @@
           "discount_amount": "$26",
           "codes": [
             "PPOM26",
-            "SUMMERKR26"
+            "SUMMERKR26",
+            "XSWL26"
           ]
         },
         {
@@ -102,7 +106,8 @@
           "discount_amount": "$40",
           "codes": [
             "PPOM40",
-            "SUMMERKR40"
+            "SUMMERKR40",
+            "LTBY40"
           ]
         }
       ]
@@ -170,19 +175,19 @@
   "upcoming_promotions": [
     {
       "name": "6월 메가 썸머 세일 (Mid-Year Sale)",
-      "description": "연중 최대 규모의 상반기 결산 세일로, 강력한 할인 혜택과 카드사 결제 할인이 집중적으로 제공되는 행사입니다.",
+      "description": "연중 최대 규모의 상반기 결산 세일로, 여름 시즌 인기 상품들을 파격적인 할인가에 만나볼 수 있으며 강력한 카드사 결제 혜택이 집중되는 행사입니다.",
       "valid_from": "2026-06-15T00:00:00+09:00",
       "valid_until": "2026-06-20T23:59:59+09:00"
     },
     {
       "name": "6월 브랜드 데이 (Brand Day)",
-      "description": "유명 가전, IT 및 패션 브랜드 상품들을 단독 특가로 만나볼 수 있는 브랜드 집중 할인 프로모션입니다.",
+      "description": "글로벌 가전, IT 기기 및 트렌디한 패션 브랜드들을 선정하여 단독 할인과 브랜드별 추가 쿠폰을 제공하는 특별 프로모션입니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     },
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 급여 시즌에 진행되는 정기 할인 행사로, 국내 배송 상품과 베스트셀러 직구 상품에 대한 혜택이 강화됩니다.",
+      "description": "매월 말 급여일에 맞춰 진행되는 정기 세일로, 국내 빠른 배송 상품(K-Venue)과 베스트셀러 직구 상품에 대한 맞춤형 혜택이 강화됩니다.",
       "valid_from": "2026-06-26T00:00:00+09:00",
       "valid_until": "2026-06-28T23:59:59+09:00"
     }
