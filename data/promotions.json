@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T22:56:00+09:00",
+  "last_updated": "2026-06-07T13:38:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 쿨한 JUNE 혜택 & 초이스 데이 프로모션",
@@ -19,10 +19,10 @@
           "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
+            "SUMMERKR03",
             "JUNEKR03",
             "PPOM03",
             "CLIEN03",
-            "SUMMERKR03",
             "YYDS03",
             "QUASAR03",
             "FMKR03",
@@ -33,10 +33,10 @@
           "min_purchase": "$35",
           "discount_amount": "$5",
           "codes": [
+            "SUMMERKR05",
             "JUNEKR05",
             "PPOM05",
             "CLIEN05",
-            "SUMMERKR05",
             "YGZD05"
           ]
         },
@@ -44,9 +44,9 @@
           "min_purchase": "$52",
           "discount_amount": "$7",
           "codes": [
+            "SUMMERKR07",
             "JUNEKR07",
             "PPOM07",
-            "SUMMERKR07",
             "PLMM07"
           ]
         },
@@ -70,8 +70,8 @@
           "min_purchase": "$86",
           "discount_amount": "$12",
           "codes": [
-            "PPOM12",
             "SUMMERKR12",
+            "PPOM12",
             "NSDD12"
           ]
         },
@@ -95,8 +95,8 @@
           "min_purchase": "$139",
           "discount_amount": "$18",
           "codes": [
-            "PPOM18",
             "SUMMERKR18",
+            "PPOM18",
             "NCLM18"
           ]
         },
@@ -111,8 +111,8 @@
           "min_purchase": "$209",
           "discount_amount": "$26",
           "codes": [
-            "PPOM26",
             "SUMMERKR26",
+            "PPOM26",
             "XSWL26"
           ]
         },
@@ -129,8 +129,8 @@
           "min_purchase": "$349",
           "discount_amount": "$40",
           "codes": [
-            "PPOM40",
             "SUMMERKR40",
+            "PPOM40",
             "LTBY40"
           ]
         }
