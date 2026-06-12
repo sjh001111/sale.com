@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T13:40:00+09:00",
+  "last_updated": "2026-06-13T00:28:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 월간 상시 프로모션 코드",
@@ -71,6 +71,41 @@
             "AEPP0625",
             "CL0625",
             "PPOM0625"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6월 꽁돈대첩 (Daily Deals) 전용 프로모션 코드",
+      "valid_from": "2026-06-01T00:00:00+09:00",
+      "valid_until": "2026-06-30T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$20",
+          "discount_amount": "$2",
+          "codes": [
+            "AEKR2C"
+          ]
+        },
+        {
+          "min_purchase": "$50",
+          "discount_amount": "$6",
+          "codes": [
+            "AEKR6C"
+          ]
+        },
+        {
+          "min_purchase": "$80",
+          "discount_amount": "$10",
+          "codes": [
+            "AEKR10C"
+          ]
+        },
+        {
+          "min_purchase": "$120",
+          "discount_amount": "$15",
+          "codes": [
+            "AEKR15C"
           ]
         }
       ]
