@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-06-13T23:12:00+09:00",
+  "last_updated": "2026-06-14T13:47:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "6월 바캉스 준비 세일 (Mid-Year Sale) 프로모션 코드",
+      "valid_from": "2026-06-15T00:00:00+09:00",
+      "valid_until": "2026-06-20T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$21",
+          "discount_amount": "$3",
+          "codes": [
+            "NSDD03",
+            "BSJJ03",
+            "JCYT03"
+          ]
+        },
+        {
+          "min_purchase": "$35",
+          "discount_amount": "$5",
+          "codes": [
+            "WQRT05",
+            "PXKL05",
+            "BCQR05"
+          ]
+        },
+        {
+          "min_purchase": "$52",
+          "discount_amount": "$7",
+          "codes": [
+            "MXCV07",
+            "QAZX07",
+            "PLCV07"
+          ]
+        },
+        {
+          "min_purchase": "$86",
+          "discount_amount": "$12",
+          "codes": [
+            "LPBN12",
+            "RWSW12",
+            "NKBN12"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$18",
+          "codes": [
+            "ZXCM18",
+            "ZUIP18",
+            "OICM18"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$26",
+          "codes": [
+            "NFGH26",
+            "NMBQ26",
+            "FNGH26"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$40",
+          "codes": [
+            "UIOY40",
+            "CVXZ40",
+            "AIOY40"
+          ]
+        }
+      ]
+    },
     {
       "name": "6월 월간 상시 프로모션 코드",
       "valid_from": "2026-06-01T00:00:00+09:00",
@@ -106,20 +176,14 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "6월 바캉스 준비 세일 (Mid-Year Sale)",
-      "description": "2026년 상반기를 결산하는 대규모 여름 정기 세일입니다. 바캉스 시즌 인기 상품을 최대 60% 할인하며, NSDD, WQRT, MXCV 등 공식 프로모션 코드와 주요 카드사(신한, 현대, 네이버페이, 카카오페이 등) 결제 할인 혜택이 제공됩니다.",
-      "valid_from": "2026-06-15T00:00:00+09:00",
-      "valid_until": "2026-06-20T23:59:59+09:00"
-    },
-    {
       "name": "6월 브랜드 데이 (Brand Day)",
-      "description": "국내외 주요 브랜드 공식 스토어가 참여하여 인기 IT 기기 및 가전제품을 단독 특가로 선보이는 프로모션입니다.",
+      "description": "국내외 주요 브랜드 공식 스토어가 참여하여 인기 IT 기기 및 가전제품을 단독 특가로 선보이는 프로모션입니다. 삼성전자, LG전자 등 주요 가전 브랜드가 참여할 예정입니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     },
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "한국 사용자들을 위해 매달 말 진행되는 정기 행사로, K-Venue 입점 국내 배송 상품과 생필품을 대상으로 특별 할인 혜택 및 전용 프로모션 코드를 제공합니다.",
+      "description": "매달 말 진행되는 한국 전용 정기 세일로, K-Venue 국내 배송 상품과 생필품에 대해 높은 할인율과 카드 결제 혜택을 제공합니다.",
       "valid_from": "2026-06-26T00:00:00+09:00",
       "valid_until": "2026-06-28T23:59:59+09:00"
     }
