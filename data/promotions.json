@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T14:05:00+09:00",
+  "last_updated": "2026-06-17T02:06:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 바캉스 준비 세일 (Mid-Year Sale) 프로모션 코드",
@@ -13,7 +13,9 @@
             "NSDD03",
             "BSJJ03",
             "JCYT03",
-            "SUMMERKR03"
+            "SUMMERKR03",
+            "618KR03",
+            "AELP0603"
           ]
         },
         {
@@ -23,7 +25,9 @@
             "WQRT05",
             "PXKL05",
             "BCQR05",
-            "SUMMERKR05"
+            "SUMMERKR05",
+            "618KR05",
+            "AELP0605"
           ]
         },
         {
@@ -33,7 +37,9 @@
             "MXCV07",
             "QAZX07",
             "PLCV07",
-            "SUMMERKR07"
+            "SUMMERKR07",
+            "618KR07",
+            "AELP0607"
           ]
         },
         {
@@ -43,7 +49,9 @@
             "LPBN12",
             "RWSW12",
             "NKBN12",
-            "SUMMERKR12"
+            "SUMMERKR12",
+            "618KR12",
+            "AELP0612"
           ]
         },
         {
@@ -53,7 +61,9 @@
             "ZXCM18",
             "ZUIP18",
             "OICM18",
-            "SUMMERKR18"
+            "SUMMERKR18",
+            "618KR18",
+            "AELP0618"
           ]
         },
         {
@@ -63,7 +73,9 @@
             "NFGH26",
             "NMBQ26",
             "FNGH26",
-            "SUMMERKR26"
+            "SUMMERKR26",
+            "618KR26",
+            "AELP0626"
           ]
         },
         {
@@ -73,7 +85,9 @@
             "UIOY40",
             "CVXZ40",
             "AIOY40",
-            "SUMMERKR40"
+            "SUMMERKR40",
+            "618KR40",
+            "AELP0640"
           ]
         }
       ]
