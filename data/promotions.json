@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T02:06:00+09:00",
+  "last_updated": "2026-06-17T13:47:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 바캉스 준비 세일 (Mid-Year Sale) 프로모션 코드",
@@ -11,11 +11,12 @@
           "discount_amount": "$3",
           "codes": [
             "NSDD03",
+            "SUMMERKR03",
             "BSJJ03",
             "JCYT03",
-            "SUMMERKR03",
             "618KR03",
-            "AELP0603"
+            "AELP0603",
+            "XQZM03"
           ]
         },
         {
@@ -23,11 +24,12 @@
           "discount_amount": "$5",
           "codes": [
             "WQRT05",
+            "SUMMERKR05",
             "PXKL05",
             "BCQR05",
-            "SUMMERKR05",
             "618KR05",
-            "AELP0605"
+            "AELP0605",
+            "BRTK05"
           ]
         },
         {
@@ -35,11 +37,12 @@
           "discount_amount": "$7",
           "codes": [
             "MXCV07",
+            "SUMMERKR07",
             "QAZX07",
             "PLCV07",
-            "SUMMERKR07",
             "618KR07",
-            "AELP0607"
+            "AELP0607",
+            "LWJP07"
           ]
         },
         {
@@ -47,11 +50,12 @@
           "discount_amount": "$12",
           "codes": [
             "LPBN12",
+            "SUMMERKR12",
             "RWSW12",
             "NKBN12",
-            "SUMMERKR12",
             "618KR12",
-            "AELP0612"
+            "AELP0612",
+            "HNVC12"
           ]
         },
         {
@@ -59,11 +63,12 @@
           "discount_amount": "$18",
           "codes": [
             "ZXCM18",
+            "SUMMERKR18",
             "ZUIP18",
             "OICM18",
-            "SUMMERKR18",
             "618KR18",
-            "AELP0618"
+            "AELP0618",
+            "DFGY18"
           ]
         },
         {
@@ -71,11 +76,12 @@
           "discount_amount": "$26",
           "codes": [
             "NFGH26",
+            "SUMMERKR26",
             "NMBQ26",
             "FNGH26",
-            "SUMMERKR26",
             "618KR26",
-            "AELP0626"
+            "AELP0626",
+            "KSAE26"
           ]
         },
         {
@@ -83,11 +89,12 @@
           "discount_amount": "$40",
           "codes": [
             "UIOY40",
+            "SUMMERKR40",
             "CVXZ40",
             "AIOY40",
-            "SUMMERKR40",
             "618KR40",
-            "AELP0640"
+            "AELP0640",
+            "MPOT40"
           ]
         }
       ]
