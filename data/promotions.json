@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T13:59:00+09:00",
+  "last_updated": "2026-06-20T00:32:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 바캉스 준비 세일 (Mid-Year Sale) 프로모션 코드",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "name": "6월 꽁돈대첩 (Daily Deals) 전용 프로모션 코드",
+      "name": "6월 꽁돈대첩 및 Choice 전용 프로모션 코드",
       "valid_from": "2026-06-01T00:00:00+09:00",
       "valid_until": "2026-06-30T23:59:59+09:00",
       "codes": [
@@ -186,24 +186,24 @@
           ]
         },
         {
-          "min_purchase": "$50",
+          "min_purchase": "$56",
           "discount_amount": "$6",
           "codes": [
             "AEKR6C"
           ]
         },
         {
-          "min_purchase": "$80",
-          "discount_amount": "$10",
+          "min_purchase": "$135",
+          "discount_amount": "$14",
           "codes": [
-            "AEKR10C"
+            "AEKR14C"
           ]
         },
         {
-          "min_purchase": "$120",
-          "discount_amount": "$15",
+          "min_purchase": "$348",
+          "discount_amount": "$35",
           "codes": [
-            "AEKR15C"
+            "AEKR35C"
           ]
         }
       ]
