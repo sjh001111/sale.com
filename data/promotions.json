@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T13:13:00+09:00",
+  "last_updated": "2026-06-20T23:16:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 바캉스 준비 세일 (Mid-Year Sale) 프로모션 코드",
@@ -10,98 +10,105 @@
           "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
-            "NSDD03",
             "SUMMERKR03",
-            "BSJJ03",
-            "JCYT03",
             "618KR03",
             "AELP0603",
-            "XQZM03",
-            "KRS61803"
+            "KRS61803",
+            "YYDS03",
+            "NSDD03",
+            "BSJJ03",
+            "JCYT03",
+            "XQZM03"
           ]
         },
         {
           "min_purchase": "$35",
           "discount_amount": "$5",
           "codes": [
-            "WQRT05",
             "SUMMERKR05",
-            "PXKL05",
-            "BCQR05",
             "618KR05",
             "AELP0605",
-            "BRTK05",
-            "KRS61805"
+            "KRS61805",
+            "YGZD05",
+            "WQRT05",
+            "PXKL05",
+            "BCQR05",
+            "BRTK05"
           ]
         },
         {
           "min_purchase": "$52",
           "discount_amount": "$7",
           "codes": [
-            "MXCV07",
             "SUMMERKR07",
-            "QAZX07",
-            "PLCV07",
             "618KR07",
             "AELP0607",
-            "LWJP07",
-            "KRS61807"
+            "KRS61807",
+            "PLMM07",
+            "MXCV07",
+            "QAZX07",
+            "PLCV07",
+            "LWJP07"
           ]
         },
         {
           "min_purchase": "$86",
           "discount_amount": "$12",
           "codes": [
-            "LPBN12",
             "SUMMERKR12",
-            "RWSW12",
-            "NKBN12",
             "618KR12",
             "AELP0612",
-            "HNVC12",
-            "KRS61812"
+            "KRS61812",
+            "NSDD12",
+            "LPBN12",
+            "RWSW12",
+            "NKBN12",
+            "HNVC12"
           ]
         },
         {
           "min_purchase": "$139",
           "discount_amount": "$18",
           "codes": [
-            "ZXCM18",
             "SUMMERKR18",
-            "ZUIP18",
-            "OICM18",
             "618KR18",
             "AELP0618",
-            "DFGY18",
-            "KRS61818"
+            "KRS61818",
+            "NCLM18",
+            "ZXCM18",
+            "ZUIP18",
+            "OICM18",
+            "DFGY18"
           ]
         },
         {
           "min_purchase": "$209",
           "discount_amount": "$26",
           "codes": [
-            "NFGH26",
             "SUMMERKR26",
-            "NMBQ26",
-            "FNGH26",
             "618KR26",
             "AELP0626",
-            "KSAE26",
-            "KRS61826"
+            "KRS61826",
+            "XSWL26",
+            "NFGH26",
+            "NMBQ26",
+            "FNGH26",
+            "KSAE26"
           ]
         },
         {
           "min_purchase": "$349",
           "discount_amount": "$40",
           "codes": [
-            "UIOY40",
             "SUMMERKR40",
-            "CVXZ40",
-            "AIOY40",
             "618KR40",
             "AELP0640",
-            "MPOT40",
-            "KRS61840"
+            "KRS61840",
+            "LTBY40",
+            "UIOY40",
+            "CVXZ40",
+            "AIOY40",
+            "MPOT40"
           ]
         }
       ]
@@ -211,22 +218,22 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "6월 브랜드 데이 (Brand Day)",
-      "description": "국내외 주요 브랜드 공식 스토어가 참여하여 인기 가전 및 IT 기기를 단독 특가로 제공하는 프로모션입니다. 브랜드 전용 쿠폰과 결제 할인이 함께 제공됩니다.",
+      "name": "6월 브랜드 특가전 (Brand Day)",
+      "description": "국내외 주요 브랜드 공식 스토어가 참여하여 인기 가전 및 IT 기기를 단독 특가로 제공하는 프로모션입니다. 브랜드 전용 쿠폰과 결제 할인이 함께 제공될 예정입니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     },
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
       "description": "매달 말 진행되는 한국 전용 정기 세일로, 국내 배송 상품(K-Venue) 및 인기 생필품에 대해 카드 결제 할인 및 한국 전용 프로모션 코드를 제공하는 행사입니다.",
-      "valid_from": "2026-06-26T00:00:00+09:00",
-      "valid_until": "2026-06-28T23:59:59+09:00"
+      "valid_from": "2026-06-27T00:00:00+09:00",
+      "valid_until": "2026-06-29T23:59:59+09:00"
     },
     {
       "name": "7월 초이스 데이 (Choice Day)",
       "description": "매월 초 진행되는 알리익스프레스의 대표적인 정기 세일로, 초이스 상품들에 대한 높은 할인율과 무료 배송 혜택을 제공합니다.",
       "valid_from": "2026-07-01T00:00:00+09:00",
-      "valid_until": "2026-07-05T23:59:59+09:00"
+      "valid_until": "2026-07-07T23:59:59+09:00"
     },
     {
       "name": "7월 여름 시즌 오프 세일 (Summer Season Off)",
