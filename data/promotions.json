@@ -1,118 +1,6 @@
 {
-  "last_updated": "2026-06-20T23:16:00+09:00",
+  "last_updated": "2026-06-21T13:55:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "6월 바캉스 준비 세일 (Mid-Year Sale) 프로모션 코드",
-      "valid_from": "2026-06-15T00:00:00+09:00",
-      "valid_until": "2026-06-20T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$21",
-          "discount_amount": "$3",
-          "codes": [
-            "SUMMERKR03",
-            "618KR03",
-            "AELP0603",
-            "KRS61803",
-            "YYDS03",
-            "NSDD03",
-            "BSJJ03",
-            "JCYT03",
-            "XQZM03"
-          ]
-        },
-        {
-          "min_purchase": "$35",
-          "discount_amount": "$5",
-          "codes": [
-            "SUMMERKR05",
-            "618KR05",
-            "AELP0605",
-            "KRS61805",
-            "YGZD05",
-            "WQRT05",
-            "PXKL05",
-            "BCQR05",
-            "BRTK05"
-          ]
-        },
-        {
-          "min_purchase": "$52",
-          "discount_amount": "$7",
-          "codes": [
-            "SUMMERKR07",
-            "618KR07",
-            "AELP0607",
-            "KRS61807",
-            "PLMM07",
-            "MXCV07",
-            "QAZX07",
-            "PLCV07",
-            "LWJP07"
-          ]
-        },
-        {
-          "min_purchase": "$86",
-          "discount_amount": "$12",
-          "codes": [
-            "SUMMERKR12",
-            "618KR12",
-            "AELP0612",
-            "KRS61812",
-            "NSDD12",
-            "LPBN12",
-            "RWSW12",
-            "NKBN12",
-            "HNVC12"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$18",
-          "codes": [
-            "SUMMERKR18",
-            "618KR18",
-            "AELP0618",
-            "KRS61818",
-            "NCLM18",
-            "ZXCM18",
-            "ZUIP18",
-            "OICM18",
-            "DFGY18"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$26",
-          "codes": [
-            "SUMMERKR26",
-            "618KR26",
-            "AELP0626",
-            "KRS61826",
-            "XSWL26",
-            "NFGH26",
-            "NMBQ26",
-            "FNGH26",
-            "KSAE26"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$40",
-          "codes": [
-            "SUMMERKR40",
-            "618KR40",
-            "AELP0640",
-            "KRS61840",
-            "LTBY40",
-            "UIOY40",
-            "CVXZ40",
-            "AIOY40",
-            "MPOT40"
-          ]
-        }
-      ]
-    },
     {
       "name": "6월 월간 상시 프로모션 코드",
       "valid_from": "2026-06-01T00:00:00+09:00",
@@ -214,12 +102,40 @@
           ]
         }
       ]
+    },
+    {
+      "name": "6월 고환율 지원금 프로모션 코드",
+      "valid_from": "2026-06-01T00:00:00+09:00",
+      "valid_until": "2026-06-30T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$16",
+          "discount_amount": "$2",
+          "codes": [
+            "RQAC02"
+          ]
+        },
+        {
+          "min_purchase": "$31",
+          "discount_amount": "$4",
+          "codes": [
+            "IWMD04"
+          ]
+        },
+        {
+          "min_purchase": "$46",
+          "discount_amount": "$6",
+          "codes": [
+            "ETXK06"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
       "name": "6월 브랜드 특가전 (Brand Day)",
-      "description": "국내외 주요 브랜드 공식 스토어가 참여하여 인기 가전 및 IT 기기를 단독 특가로 제공하는 프로모션입니다. 브랜드 전용 쿠폰과 결제 할인이 함께 제공될 예정입니다.",
+      "description": "알리익스프레스에 입점한 국내외 주요 브랜드 공식 스토어가 참여하여 인기 가전 및 IT 기기를 단독 특가로 제공하는 프로모션입니다. 브랜드 전용 쿠폰과 결제 할인이 함께 제공됩니다.",
       "valid_from": "2026-06-22T00:00:00+09:00",
       "valid_until": "2026-06-26T23:59:59+09:00"
     },
