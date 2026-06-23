@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T02:06:00+09:00",
+  "last_updated": "2026-06-23T13:02:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 브랜드 특가전 (Brand Day) 프로모션 코드",
@@ -59,49 +59,70 @@
           "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
-            "XQZM03"
+            "XQZM03",
+            "NSDD03",
+            "BSJJ03",
+            "JCYT03"
           ]
         },
         {
           "min_purchase": "$35",
           "discount_amount": "$5",
           "codes": [
-            "BRTK05"
+            "BRTK05",
+            "WQRT05",
+            "PXKL05",
+            "BCQR05"
           ]
         },
         {
           "min_purchase": "$52",
           "discount_amount": "$7",
           "codes": [
-            "LWJP07"
+            "LWJP07",
+            "MXCV07",
+            "QAZX07",
+            "PLCV07"
           ]
         },
         {
           "min_purchase": "$86",
           "discount_amount": "$12",
           "codes": [
-            "HNVC12"
+            "HNVC12",
+            "LPBN12",
+            "RWSW12",
+            "NKBN12"
           ]
         },
         {
           "min_purchase": "$139",
           "discount_amount": "$18",
           "codes": [
-            "DFGY18"
+            "DFGY18",
+            "ZXCM18",
+            "ZUIP18",
+            "OICM18"
           ]
         },
         {
           "min_purchase": "$209",
           "discount_amount": "$26",
           "codes": [
-            "KSAE26"
+            "KSAE26",
+            "NFGH26",
+            "NMBQ26",
+            "FNGH26"
           ]
         },
         {
           "min_purchase": "$349",
           "discount_amount": "$40",
           "codes": [
-            "MPOT40"
+            "MPOT40",
+            "UIOY40",
+            "CVXZ40",
+            "AIOY40"
           ]
         }
       ]
@@ -240,19 +261,19 @@
   "upcoming_promotions": [
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "한국 사용자를 위해 매달 말 진행되는 정기 프로모션입니다. K-Venue 입점 한국 직배송 상품과 신선 식품, 생활 가전에 대해 특별 결제 할인과 전용 코드를 제공합니다.",
+      "description": "매달 말 진행되는 한국 전용 정기 프로모션입니다. K-Venue 상품 및 신선식품, 가전 카테고리에 대해 특별 결제 할인과 전용 코드가 제공될 예정입니다.",
       "valid_from": "2026-06-27T00:00:00+09:00",
       "valid_until": "2026-06-30T23:59:59+09:00"
     },
     {
       "name": "7월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 알리익스프레스의 대표 가성비 행사입니다. Choice 마크가 붙은 상품들에 대해 무료 배송 및 대량 구매 추가 할인이 적용됩니다.",
+      "description": "매월 초 진행되는 가성비 중심의 행사입니다. Choice 마크 상품 대상 무료 배송 및 구간별 장바구니 자동 할인이 적용됩니다.",
       "valid_from": "2026-07-01T00:00:00+09:00",
       "valid_until": "2026-07-07T23:59:59+09:00"
     },
     {
       "name": "7월 여름 시즌 오프 세일 (Summer Season Off)",
-      "description": "본격적인 휴가 시즌을 앞두고 진행되는 대규모 할인 행사로, 여름 패션, 수영복, 물놀이 용품 및 캠핑 기어를 중심으로 강력한 프로모션 코드가 발행될 예정입니다.",
+      "description": "본격적인 여름 휴가 기간을 겨냥한 대규모 세일입니다. 여름 패션, 물놀이 용품, 캠핑 기어 등을 중심으로 높은 할인율의 코드가 발행됩니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
       "valid_until": "2026-07-17T23:59:59+09:00"
     }
