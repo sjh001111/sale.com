@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T13:05:00+09:00",
+  "last_updated": "2026-06-25T23:42:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 브랜드 특가전 (Brand Day) 프로모션 코드",
@@ -10,42 +10,60 @@
           "min_purchase": "$35",
           "discount_amount": "$5",
           "codes": [
-            "BXKD05"
+            "BXKD05",
+            "GVDX05",
+            "RFSL05",
+            "DRBAN07"
           ]
         },
         {
           "min_purchase": "$72",
           "discount_amount": "$10",
           "codes": [
-            "MWYN10"
+            "MWYN10",
+            "FBNG10",
+            "SXTV10",
+            "RNDBA15"
           ]
         },
         {
           "min_purchase": "$110",
           "discount_amount": "$15",
           "codes": [
-            "PHDK15"
+            "PHDK15",
+            "BVGT15",
+            "LCHJ15",
+            "BNARD23"
           ]
         },
         {
           "min_purchase": "$150",
           "discount_amount": "$20",
           "codes": [
-            "ZTCL20"
+            "ZTCL20",
+            "XBWG20",
+            "JNTV20",
+            "DABRN31"
           ]
         },
         {
           "min_purchase": "$200",
           "discount_amount": "$25",
           "codes": [
-            "NFGW25"
+            "NFGW25",
+            "KLNF25",
+            "QJDB25",
+            "BRNDA38"
           ]
         },
         {
           "min_purchase": "$299",
           "discount_amount": "$36",
           "codes": [
-            "VYPR36"
+            "VYPR36",
+            "GWQH36",
+            "BNDF36",
+            "BDRAN56"
           ]
         }
       ]
