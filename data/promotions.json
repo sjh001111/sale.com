@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T23:43:00+09:00",
+  "last_updated": "2026-06-25T13:05:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 브랜드 특가전 (Brand Day) 프로모션 코드",
@@ -46,97 +46,6 @@
           "discount_amount": "$36",
           "codes": [
             "VYPR36"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "6월 바캉스 준비 및 시즌 메가 세일 프로모션 코드",
-      "valid_from": "2026-06-22T00:00:00+09:00",
-      "valid_until": "2026-06-26T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$21",
-          "discount_amount": "$3",
-          "codes": [
-            "XQZM03",
-            "NSDD03",
-            "BSJJ03",
-            "JCYT03"
-          ]
-        },
-        {
-          "min_purchase": "$35",
-          "discount_amount": "$5",
-          "codes": [
-            "BRTK05",
-            "WQRT05",
-            "PXKL05",
-            "BCQR05"
-          ]
-        },
-        {
-          "min_purchase": "$52",
-          "discount_amount": "$7",
-          "codes": [
-            "LWJP07",
-            "MXCV07",
-            "QAZX07",
-            "PLCV07"
-          ]
-        },
-        {
-          "min_purchase": "$86",
-          "discount_amount": "$12",
-          "codes": [
-            "HNVC12",
-            "LPBN12",
-            "RWSW12",
-            "NKBN12"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$18",
-          "codes": [
-            "DFGY18",
-            "ZXCM18",
-            "ZUIP18",
-            "OICM18"
-          ]
-        },
-        {
-          "min_purchase": "$179",
-          "discount_amount": "$23",
-          "codes": [
-            "LJJT23"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$26",
-          "codes": [
-            "KSAE26",
-            "NFGH26",
-            "NMBQ26",
-            "FNGH26"
-          ]
-        },
-        {
-          "min_purchase": "$289",
-          "discount_amount": "$37",
-          "codes": [
-            "HJLM37"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$40",
-          "codes": [
-            "MPOT40",
-            "UIOY40",
-            "CVXZ40",
-            "AIOY40"
           ]
         }
       ]
@@ -275,7 +184,7 @@
   "upcoming_promotions": [
     {
       "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "매달 말 진행되는 한국 전용 정기 프로모션입니다. K-Venue 상품 및 가전 카테고리에 대해 특별 결제 할인과 PAYDAY 접두사 전용 코드가 제공될 예정입니다.",
+      "description": "매달 말 진행되는 한국 전용 정기 프로모션입니다. K-Venue 상품 및 가전 카테고리에 대해 특별 결제 할인과 전용 코드가 제공될 예정입니다.",
       "valid_from": "2026-06-27T00:00:00+09:00",
       "valid_until": "2026-06-30T23:59:59+09:00"
     },
