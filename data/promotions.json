@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T13:12:00+09:00",
+  "last_updated": "2026-06-26T23:36:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 브랜드 특가전 (Brand Day) 프로모션 코드",
@@ -64,6 +64,58 @@
             "GWQH36",
             "BNDF36",
             "BDRAN56"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "6월 알급날 (AliExpress Pay Day) 프로모션 코드",
+      "valid_from": "2026-06-26T00:00:00+09:00",
+      "valid_until": "2026-06-28T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$3",
+          "codes": [
+            "AEPD0603",
+            "PAYDAY0603",
+            "KR6261"
+          ]
+        },
+        {
+          "min_purchase": "$69",
+          "discount_amount": "$8",
+          "codes": [
+            "AEPD0608",
+            "PAYDAY0608",
+            "KR6262"
+          ]
+        },
+        {
+          "min_purchase": "$129",
+          "discount_amount": "$15",
+          "codes": [
+            "AEPD0615",
+            "PAYDAY0615",
+            "KR6263"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$30",
+          "codes": [
+            "AEPD0630",
+            "PAYDAY0630",
+            "KR6264"
+          ]
+        },
+        {
+          "min_purchase": "$369",
+          "discount_amount": "$50",
+          "codes": [
+            "AEPD0650",
+            "PAYDAY0650",
+            "KR6265"
           ]
         }
       ]
@@ -201,22 +253,22 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "6월 알급날 (AliExpress Pay Day)",
-      "description": "매달 말 진행되는 한국 전용 정기 프로모션입니다. K-Venue 상품 할인, 카드사 결제 혜택 및 전용 프로모션 코드가 제공될 예정입니다.",
-      "valid_from": "2026-06-27T00:00:00+09:00",
-      "valid_until": "2026-06-30T23:59:59+09:00"
-    },
-    {
       "name": "7월 초이스 데이 (Choice Day)",
-      "description": "7월의 시작을 알리는 정기 할인 행사입니다. Choice 마크가 붙은 상품들에 대해 일정 금액 이상 구매 시 자동 할인 및 무료 배송 혜택이 적용됩니다.",
+      "description": "매달 초 진행되는 정기 할인 행사로, Choice 상품군에 대한 자동 할인과 함께 전용 프로모션 코드가 발행될 예정입니다.",
       "valid_from": "2026-07-01T00:00:00+09:00",
       "valid_until": "2026-07-07T23:59:59+09:00"
     },
     {
       "name": "7월 여름 시즌 오프 세일 (Summer Season Off)",
-      "description": "여름 휴가 시즌을 겨냥한 대규모 시즌 오프 세일입니다. 바캉스 용품 및 가전 카테고리에서 높은 할인율과 전용 코드가 발행될 예정입니다.",
+      "description": "한여름 대규모 할인 행사입니다. 바캉스 및 가전 상품 할인율이 높으며 대규모 결제 혜택이 포함됩니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
       "valid_until": "2026-07-17T23:59:59+09:00"
+    },
+    {
+      "name": "7월 브랜드 특가전 (Brand Day)",
+      "description": "인기 브랜드 위주의 할인 행사로, 브랜드 전용 추가 할인 코드가 제공됩니다.",
+      "valid_from": "2026-07-20T00:00:00+09:00",
+      "valid_until": "2026-07-24T23:59:59+09:00"
     }
   ]
 }
