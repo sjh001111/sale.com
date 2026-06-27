@@ -1,78 +1,18 @@
 {
-  "last_updated": "2026-06-26T23:36:00+09:00",
+  "last_updated": "2026-06-27T12:58:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "6월 브랜드 특가전 (Brand Day) 프로모션 코드",
-      "valid_from": "2026-06-22T00:00:00+09:00",
-      "valid_until": "2026-06-26T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$35",
-          "discount_amount": "$5",
-          "codes": [
-            "BXKD05",
-            "GVDX05",
-            "RFSL05",
-            "DRBAN07"
-          ]
-        },
-        {
-          "min_purchase": "$72",
-          "discount_amount": "$10",
-          "codes": [
-            "MWYN10",
-            "FBNG10",
-            "SXTV10",
-            "RNDBA15"
-          ]
-        },
-        {
-          "min_purchase": "$110",
-          "discount_amount": "$15",
-          "codes": [
-            "PHDK15",
-            "BVGT15",
-            "LCHJ15",
-            "BNARD23"
-          ]
-        },
-        {
-          "min_purchase": "$150",
-          "discount_amount": "$20",
-          "codes": [
-            "ZTCL20",
-            "XBWG20",
-            "JNTV20",
-            "DABRN31"
-          ]
-        },
-        {
-          "min_purchase": "$200",
-          "discount_amount": "$25",
-          "codes": [
-            "NFGW25",
-            "KLNF25",
-            "QJDB25",
-            "BRNDA38"
-          ]
-        },
-        {
-          "min_purchase": "$299",
-          "discount_amount": "$36",
-          "codes": [
-            "VYPR36",
-            "GWQH36",
-            "BNDF36",
-            "BDRAN56"
-          ]
-        }
-      ]
-    },
     {
       "name": "6월 알급날 (AliExpress Pay Day) 프로모션 코드",
       "valid_from": "2026-06-26T00:00:00+09:00",
       "valid_until": "2026-06-28T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "PLDJ23"
+          ]
+        },
         {
           "min_purchase": "$29",
           "discount_amount": "$3",
@@ -80,6 +20,13 @@
             "AEPD0603",
             "PAYDAY0603",
             "KR6261"
+          ]
+        },
+        {
+          "min_purchase": "$39",
+          "discount_amount": "$5",
+          "codes": [
+            "YCSQ50"
           ]
         },
         {
@@ -92,12 +39,26 @@
           ]
         },
         {
+          "min_purchase": "$90",
+          "discount_amount": "$12",
+          "codes": [
+            "DCJH19"
+          ]
+        },
+        {
           "min_purchase": "$129",
           "discount_amount": "$15",
           "codes": [
             "AEPD0615",
             "PAYDAY0615",
             "KR6263"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$18",
+          "codes": [
+            "BINQ81"
           ]
         },
         {
@@ -254,19 +215,19 @@
   "upcoming_promotions": [
     {
       "name": "7월 초이스 데이 (Choice Day)",
-      "description": "매달 초 진행되는 정기 할인 행사로, Choice 상품군에 대한 자동 할인과 함께 전용 프로모션 코드가 발행될 예정입니다.",
+      "description": "매달 초 진행되는 정기 할인 행사로, Choice 상품군에 대한 자동 할인과 전용 프로모션 코드가 발행됩니다.",
       "valid_from": "2026-07-01T00:00:00+09:00",
       "valid_until": "2026-07-07T23:59:59+09:00"
     },
     {
-      "name": "7월 여름 시즌 오프 세일 (Summer Season Off)",
-      "description": "한여름 대규모 할인 행사입니다. 바캉스 및 가전 상품 할인율이 높으며 대규모 결제 혜택이 포함됩니다.",
+      "name": "7월 썸머 세일 (Summer Sale)",
+      "description": "7월의 메인 프로모션으로 여름 휴가 시즌 아이템과 가전 제품에 대해 높은 할인율을 제공합니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
-      "valid_until": "2026-07-17T23:59:59+09:00"
+      "valid_until": "2026-07-19T23:59:59+09:00"
     },
     {
       "name": "7월 브랜드 특가전 (Brand Day)",
-      "description": "인기 브랜드 위주의 할인 행사로, 브랜드 전용 추가 할인 코드가 제공됩니다.",
+      "description": "주요 인기 브랜드의 단독 할인과 전용 코드가 제공되는 행사입니다.",
       "valid_from": "2026-07-20T00:00:00+09:00",
       "valid_until": "2026-07-24T23:59:59+09:00"
     }
