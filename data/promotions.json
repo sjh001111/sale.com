@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T13:07:00+09:00",
+  "last_updated": "2026-06-30T23:31:00+09:00",
   "active_code_promotions": [
     {
       "name": "6월 월간 상시 프로모션 코드",
@@ -64,6 +64,97 @@
             "CL0650",
             "PPOM0650",
             "AEPP0650"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "7월 초이스 데이 (Choice Day) - 쿨-다운 위크",
+      "valid_from": "2026-07-01T00:00:00+09:00",
+      "valid_until": "2026-07-07T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$3",
+          "codes": [
+            "CDKR03",
+            "AEKS03",
+            "ALICOUPON0703",
+            "CLIEN0703",
+            "PPOM0703"
+          ]
+        },
+        {
+          "min_purchase": "$55",
+          "discount_amount": "$6",
+          "codes": [
+            "CDKR06",
+            "AEKS06",
+            "ALICOUPON0706",
+            "CLIEN0706",
+            "PPOM0706"
+          ]
+        },
+        {
+          "min_purchase": "$89",
+          "discount_amount": "$10",
+          "codes": [
+            "CDKR10",
+            "AEKS10",
+            "ALICOUPON0710",
+            "CLIEN0710",
+            "PPOM0710"
+          ]
+        },
+        {
+          "min_purchase": "$129",
+          "discount_amount": "$13",
+          "codes": [
+            "CDKR13",
+            "AEKS13",
+            "ALICOUPON0713",
+            "CLIEN0713",
+            "PPOM0713"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "CDKR26",
+            "AEKS26",
+            "ALICOUPON0726",
+            "CLIEN0726",
+            "PPOM0726"
+          ]
+        },
+        {
+          "min_purchase": "$325",
+          "discount_amount": "$36",
+          "codes": [
+            "ELJF36"
+          ]
+        },
+        {
+          "min_purchase": "$359",
+          "discount_amount": "$40",
+          "codes": [
+            "CDKR40",
+            "AEKS40",
+            "ALICOUPON0740",
+            "CLIEN0740",
+            "PPOM0740"
+          ]
+        },
+        {
+          "min_purchase": "$500",
+          "discount_amount": "$50",
+          "codes": [
+            "CDKR50",
+            "AEKS50",
+            "ALICOUPON0750",
+            "CLIEN0750",
+            "PPOM0750"
           ]
         }
       ]
@@ -134,32 +225,20 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "7월 초이스 데이 (Choice Day) - 쿨-다운 위크",
-      "description": "7월의 시작을 알리는 정기 할인 행사로, 초이스 상품군 대상 최대 60% 할인과 한국 전용 프로모션 코드가 제공됩니다. 현재 장바구니 예열 기간입니다.",
-      "valid_from": "2026-07-01T00:00:00+09:00",
-      "valid_until": "2026-07-07T23:59:59+09:00"
-    },
-    {
-      "name": "7월 브랜드 데이 (Brand Day) - Summer Fun",
-      "description": "글로벌 인기 브랜드를 대상으로 진행되는 여름 시즌 특별 할인 행사입니다. 삼성, 샤오미 등 주요 브랜드 제품에 높은 할인율이 적용됩니다.",
-      "valid_from": "2026-07-08T00:00:00+09:00",
-      "valid_until": "2026-07-10T23:59:59+09:00"
-    },
-    {
-      "name": "7월 바캉스 메가 세일 (Summer Vacation Sale)",
-      "description": "여름 휴가 시즌을 겨냥한 대규모 세일로, 패션 및 물놀이 용품, 가전 기기 등에 대해 최대 80% 할인을 제공하는 메가 세일 이벤트입니다.",
+      "name": "7월 프로모션 세일 (Summer Vacation)",
+      "description": "본격적인 여름 휴가 시즌을 겨냥하여 패션, 물놀이 용품, 야외 가전 등을 대상으로 최대 80% 할인을 제공하는 메가 세일 이벤트입니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
       "valid_until": "2026-07-19T23:59:59+09:00"
     },
     {
-      "name": "7월 알급날 (AliExpress Pay Day)",
-      "description": "한국 사용자들을 위해 매달 진행되는 정기 할인 프로모션으로, K-Venue 국내 배송 상품 및 신선식품 등에 대해 강력한 카드사 결제 할인과 전용 코드가 배포됩니다.",
-      "valid_from": "2026-07-24T00:00:00+09:00",
-      "valid_until": "2026-07-28T23:59:59+09:00"
+      "name": "7월 브랜드 특가전 (Brand Day)",
+      "description": "삼성, 샤오미 등 글로벌 유명 브랜드의 인기 제품을 특별 할인가로 만나볼 수 있는 브랜드 전용 프로모션입니다.",
+      "valid_from": "2026-07-20T00:00:00+09:00",
+      "valid_until": "2026-07-24T23:59:59+09:00"
     },
     {
-      "name": "7월 썸머 엔드 세일 (Fun Summer Savings)",
-      "description": "7월 말 진행되는 추가 여름 할인 행사로, 시즌 오프 상품 및 막바지 여름 가구/가전 재고 할인이 포함됩니다.",
+      "name": "7월 알급날 (AliExpress Pay Day)",
+      "description": "매달 말 한국 사용자들을 위해 진행되는 정기 행사로, K-Venue 상품 및 국내 직송 상품에 대해 결제 할인과 전용 코드가 제공됩니다.",
       "valid_from": "2026-07-26T00:00:00+09:00",
       "valid_until": "2026-07-29T23:59:59+09:00"
     }
