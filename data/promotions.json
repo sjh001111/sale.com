@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:02:00+09:00",
+  "last_updated": "2026-07-02T23:15:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 초이스 데이 (Choice Day) - 쿨-다운 위크",
@@ -7,84 +7,73 @@
       "valid_until": "2026-07-07T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "KRHOT02",
-            "AEKS02",
-            "CLIEN0702",
-            "PPOM0702",
-            "ALICOUPON0702"
-          ]
-        },
-        {
-          "min_purchase": "$29",
+          "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
+            "PLQK03",
+            "TUIK03",
+            "LINW03",
+            "KEBM03",
             "CDKR03",
             "AEKS03",
             "KRHOT03",
             "ALICOUPON0703",
             "CLIEN0703",
-            "PPOM0703",
-            "CD7729",
-            "PLQK03",
-            "TUIK03",
-            "LINW03"
+            "PPOM0703"
           ]
         },
         {
-          "min_purchase": "$55",
-          "discount_amount": "$6",
+          "min_purchase": "$35",
+          "discount_amount": "$5",
           "codes": [
-            "CDKR06",
-            "AEKS06",
-            "KRHOT06",
-            "ALICOUPON0706",
-            "CLIEN0706",
-            "PPOM0706"
+            "PLQK05",
+            "LINW05",
+            "KEBM05",
+            "PLGS05"
           ]
         },
         {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
+          "min_purchase": "$52",
+          "discount_amount": "$7",
           "codes": [
-            "CDKR10",
-            "AEKS10",
-            "KRHOT10",
-            "ALICOUPON0710",
-            "CLIEN0710",
-            "PPOM0710"
+            "PLQK07",
+            "LINW07",
+            "KEBM07",
+            "LXJS07"
           ]
         },
         {
-          "min_purchase": "$129",
-          "discount_amount": "$13",
+          "min_purchase": "$86",
+          "discount_amount": "$12",
           "codes": [
-            "CDKR13",
-            "AEKS13",
-            "KRHOT13",
-            "ALICOUPON0713",
-            "CLIEN0713",
-            "PPOM0713"
+            "PLQK12",
+            "USHD12"
           ]
         },
         {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
+          "min_purchase": "$131",
+          "discount_amount": "$16",
           "codes": [
+            "PLQK16",
+            "AQPK16"
+          ]
+        },
+        {
+          "min_purchase": "$260",
+          "discount_amount": "$29",
+          "codes": [
+            "PLQK29",
+            "OQSM29",
             "CDKR26",
             "AEKS26",
-            "KRHOT26",
-            "ALICOUPON0726",
-            "CLIEN0726",
-            "PPOM0726"
+            "KRHOT26"
           ]
         },
         {
           "min_purchase": "$325",
           "discount_amount": "$36",
           "codes": [
+            "PLQK36",
             "ELJF36"
           ]
         },
