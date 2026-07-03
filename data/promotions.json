@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T23:15:00+09:00",
+  "last_updated": "2026-07-03T12:49:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 초이스 데이 (Choice Day) - 쿨-다운 위크",
@@ -47,7 +47,9 @@
           "discount_amount": "$12",
           "codes": [
             "PLQK12",
-            "USHD12"
+            "USHD12",
+            "LINW12",
+            "KEBM12"
           ]
         },
         {
@@ -55,7 +57,9 @@
           "discount_amount": "$16",
           "codes": [
             "PLQK16",
-            "AQPK16"
+            "AQPK16",
+            "LINW16",
+            "KEBM16"
           ]
         },
         {
@@ -64,6 +68,8 @@
           "codes": [
             "PLQK29",
             "OQSM29",
+            "LINW29",
+            "KEBM29",
             "CDKR26",
             "AEKS26",
             "KRHOT26"
@@ -74,7 +80,9 @@
           "discount_amount": "$36",
           "codes": [
             "PLQK36",
-            "ELJF36"
+            "ELJF36",
+            "LINW36",
+            "KEBM36"
           ]
         },
         {
@@ -203,7 +211,7 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "7월 프로모션 세일 (Summer Vacation)",
+      "name": "7월 프로모션 세일 (Vacation Sale)",
       "description": "여름 휴가 시즌을 겨냥하여 패션, 물놀이 용품, 야외 가전 등을 대상으로 대규모 할인을 제공하는 메가 세일 이벤트입니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
       "valid_until": "2026-07-19T23:59:59+09:00"
