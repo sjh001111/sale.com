@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T12:59:00+09:00",
+  "last_updated": "2026-07-05T22:52:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 초이스 데이 (Choice Day) - 쿨-다운 위크",
@@ -7,99 +7,67 @@
       "valid_until": "2026-07-07T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$21",
+          "min_purchase": "$29",
           "discount_amount": "$3",
           "codes": [
-            "PLQK03",
-            "KEBM03",
-            "TUIK03",
-            "LINW03",
             "CDKR03",
             "AEKS03",
             "KRHOT03",
             "ALICOUPON0703",
             "CLIEN0703",
             "PPOM0703",
-            "AEPP0703"
+            "PLQK03",
+            "KEBM03",
+            "LINW03"
           ]
         },
         {
-          "min_purchase": "$35",
-          "discount_amount": "$5",
+          "min_purchase": "$69",
+          "discount_amount": "$8",
           "codes": [
-            "PLQK05",
-            "KEBM05",
-            "PLGS05",
-            "LINW05"
+            "CDKR08",
+            "AEKS08",
+            "KRHOT08",
+            "ALICOUPON0708",
+            "CLIEN0708",
+            "PPOM0708",
+            "PLQK08",
+            "KEBM08",
+            "LINW08"
           ]
         },
         {
-          "min_purchase": "$52",
-          "discount_amount": "$7",
+          "min_purchase": "$129",
+          "discount_amount": "$15",
           "codes": [
-            "PLQK07",
-            "KEBM07",
-            "LXJS07",
-            "LINW07"
+            "CDKR15",
+            "AEKS15",
+            "KRHOT15",
+            "ALICOUPON0715",
+            "CLIEN0715",
+            "PPOM0715",
+            "PLQK15",
+            "KEBM15",
+            "LINW15"
           ]
         },
         {
-          "min_purchase": "$86",
-          "discount_amount": "$12",
+          "min_purchase": "$239",
+          "discount_amount": "$30",
           "codes": [
-            "PLQK12",
-            "KEBM12",
-            "USHD12",
-            "LINW12"
+            "CDKR30",
+            "AEKS30",
+            "KRHOT30",
+            "ALICOUPON0730",
+            "CLIEN0730",
+            "PPOM0730",
+            "PLQK30",
+            "KEBM30",
+            "LINW30"
           ]
         },
         {
-          "min_purchase": "$131",
-          "discount_amount": "$16",
-          "codes": [
-            "PLQK16",
-            "KEBM16",
-            "AQPK16",
-            "LINW16"
-          ]
-        },
-        {
-          "min_purchase": "$260",
-          "discount_amount": "$29",
-          "codes": [
-            "PLQK29",
-            "KEBM29",
-            "OQSM29",
-            "LINW29",
-            "CDKR26",
-            "AEKS26",
-            "KRHOT26"
-          ]
-        },
-        {
-          "min_purchase": "$325",
-          "discount_amount": "$36",
-          "codes": [
-            "PLQK36",
-            "KEBM36",
-            "ELJF36",
-            "LINW36"
-          ]
-        },
-        {
-          "min_purchase": "$359",
-          "discount_amount": "$40",
-          "codes": [
-            "CDKR40",
-            "AEKS40",
-            "KRHOT40",
-            "ALICOUPON0740",
-            "CLIEN0740",
-            "PPOM0740"
-          ]
-        },
-        {
-          "min_purchase": "$500",
+          "min_purchase": "$369",
           "discount_amount": "$50",
           "codes": [
             "CDKR50",
@@ -107,7 +75,10 @@
             "KRHOT50",
             "ALICOUPON0750",
             "CLIEN0750",
-            "PPOM0750"
+            "PPOM0750",
+            "PLQK50",
+            "KEBM50",
+            "LINW50"
           ]
         }
       ]
@@ -213,19 +184,19 @@
   "upcoming_promotions": [
     {
       "name": "7월 프로모션 세일 (Vacation Sale)",
-      "description": "여름 휴가 시즌을 겨냥한 수영복, 캠핑 및 물놀이 용품, 계절 가전 등 바캉스 아이템을 대상으로 진행되는 메가 세일 이벤트입니다.",
+      "description": "여름 휴가 시즌을 맞이하여 수영복, 물놀이 용품, 캠핑 장비 및 냉방 가전 등 바캉스 필수 아이템을 대상으로 진행되는 대규모 할인 행사입니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
       "valid_until": "2026-07-19T23:59:59+09:00"
     },
     {
       "name": "7월 브랜드 특가전 (Brand Day)",
-      "description": "글로벌 주요 브랜드의 IT 기기, 가전 및 베스트셀러 상품을 단독 특가로 제공하는 브랜드 집중 할인 주간입니다.",
+      "description": "국내외 주요 인기 브랜드의 IT 기기, 생활 가전 및 패션 베스트셀러 상품을 단독 특가와 전용 쿠폰 혜택으로 만나볼 수 있는 브랜드 집중 할인 주간입니다.",
       "valid_from": "2026-07-20T00:00:00+09:00",
       "valid_until": "2026-07-24T23:59:59+09:00"
     },
     {
       "name": "7월 알급날 (AliExpress Pay Day)",
-      "description": "한국 사용자를 위해 매달 진행되는 정기 행사로, K-Venue 및 국내 배송 상품에 대한 결제 할인과 포인트 혜택이 강화됩니다.",
+      "description": "직장인들의 월급날에 맞춰 진행되는 한국 전용 정기 세일로, K-Venue 상품 할인 및 국내 카드사 결제 혜택이 극대화되는 기간입니다.",
       "valid_from": "2026-07-26T00:00:00+09:00",
       "valid_until": "2026-07-29T23:59:59+09:00"
     }
