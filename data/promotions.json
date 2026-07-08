@@ -1,137 +1,54 @@
 {
-  "last_updated": "2026-07-07T23:49:00+09:00",
+  "last_updated": "2026-07-08T12:23:00+09:00",
   "active_code_promotions": [
     {
-      "name": "7월 초이스 데이 (Choice Day) - 쿨-다운 위크",
-      "valid_from": "2026-07-01T00:00:00+09:00",
-      "valid_until": "2026-07-07T23:59:59+09:00",
+      "name": "7월 브랜드 특가전 (AliExpress Brand Day)",
+      "valid_from": "2026-07-08T00:00:00+09:00",
+      "valid_until": "2026-07-10T23:59:59+09:00",
       "codes": [
-        {
-          "min_purchase": "$21",
-          "discount_amount": "$3",
-          "codes": [
-            "PLQK03",
-            "KEBM03",
-            "TUIK03"
-          ]
-        },
         {
           "min_purchase": "$29",
           "discount_amount": "$3",
           "codes": [
-            "CDKR03",
-            "AEKS03",
-            "KRHOT03",
-            "ALICOUPON0703",
-            "CLIEN0703",
-            "PPOM0703",
-            "LINW03"
-          ]
-        },
-        {
-          "min_purchase": "$35",
-          "discount_amount": "$5",
-          "codes": [
-            "PLQK05",
-            "KEBM05",
-            "PLGS05"
-          ]
-        },
-        {
-          "min_purchase": "$52",
-          "discount_amount": "$7",
-          "codes": [
-            "PLQK07",
-            "KEBM07",
-            "LXJS07"
+            "BD0703",
+            "BRAND0703",
+            "KR70803"
           ]
         },
         {
           "min_purchase": "$69",
           "discount_amount": "$8",
           "codes": [
-            "CDKR08",
-            "AEKS08",
-            "KRHOT08",
-            "ALICOUPON0708",
-            "CLIEN0708",
-            "PPOM0708",
-            "LINW08"
-          ]
-        },
-        {
-          "min_purchase": "$86",
-          "discount_amount": "$12",
-          "codes": [
-            "PLQK12",
-            "KEBM12",
-            "USHD12"
+            "BD0708",
+            "BRAND0708",
+            "KR70808"
           ]
         },
         {
           "min_purchase": "$129",
           "discount_amount": "$15",
           "codes": [
-            "CDKR15",
-            "AEKS15",
-            "KRHOT15",
-            "ALICOUPON0715",
-            "CLIEN0715",
-            "PPOM0715",
-            "LINW15"
-          ]
-        },
-        {
-          "min_purchase": "$131",
-          "discount_amount": "$16",
-          "codes": [
-            "PLQK16",
-            "KEBM16",
-            "AQPK16"
+            "BD0715",
+            "BRAND0715",
+            "KR70815"
           ]
         },
         {
           "min_purchase": "$239",
           "discount_amount": "$30",
           "codes": [
-            "CDKR30",
-            "AEKS30",
-            "KRHOT30",
-            "ALICOUPON0730",
-            "CLIEN0730",
-            "PPOM0730",
-            "LINW30"
-          ]
-        },
-        {
-          "min_purchase": "$260",
-          "discount_amount": "$29",
-          "codes": [
-            "PLQK29",
-            "KEBM29",
-            "OQSM29"
-          ]
-        },
-        {
-          "min_purchase": "$325",
-          "discount_amount": "$36",
-          "codes": [
-            "PLQK36",
-            "KEBM36",
-            "ELJF36"
+            "BD0730",
+            "BRAND0730",
+            "KR70830"
           ]
         },
         {
           "min_purchase": "$369",
           "discount_amount": "$50",
           "codes": [
-            "CDKR50",
-            "AEKS50",
-            "KRHOT50",
-            "ALICOUPON0750",
-            "CLIEN0750",
-            "PPOM0750",
-            "LINW50"
+            "BD0750",
+            "BRAND0750",
+            "KR70850"
           ]
         }
       ]
@@ -235,12 +152,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "7월 브랜드 특가전 (AliExpress Brand Day)",
-      "description": "삼성, LG, 샤오미 등 인기 브랜드 가전과 디지털 기기를 단독 특가로 제공하며 전용 코드를 통해 추가 할인을 받을 수 있는 이벤트입니다.",
-      "valid_from": "2026-07-08T00:00:00+09:00",
-      "valid_until": "2026-07-10T23:59:59+09:00"
-    },
     {
       "name": "7월 프로모션 세일 (Vacation Sale / Summer Savings)",
       "description": "여름 휴가 시즌 필수템인 바캉스 용품과 물놀이 가전을 대규모 할인하는 7월의 메인 세일입니다.",
