@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T12:50:00+09:00",
+  "last_updated": "2026-07-10T00:22:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 브랜드 특가전 (AliExpress Brand Day)",
@@ -10,13 +10,7 @@
           "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
-            "BDARN"
-          ]
-        },
-        {
-          "min_purchase": "$29",
-          "discount_amount": "$3",
-          "codes": [
+            "BDARN",
             "BD0703",
             "BRAND0703",
             "KR70803"
@@ -105,13 +99,6 @@
           ]
         },
         {
-          "min_purchase": "$59",
-          "discount_amount": "$6",
-          "codes": [
-            "IFPDNIRN"
-          ]
-        },
-        {
           "min_purchase": "$69",
           "discount_amount": "$8",
           "codes": [
@@ -196,7 +183,7 @@
   "upcoming_promotions": [
     {
       "name": "7월 프로모션 세일 (Vacation Sale / Summer Savings)",
-      "description": "여름 휴가 시즌을 겨냥한 바캉스 용품 및 냉방 가전 대규모 할인 행사로 전용 프로모션 코드와 카드 결제 할인이 제공됩니다.",
+      "description": "여름 휴가 시즌을 겨냥한 바캉스 용품 및 냉방 가전 대규모 할인 행사로 전용 프로모션 코드와 카드 결제 할인이 제공될 예정입니다.",
       "valid_from": "2026-07-13T00:00:00+09:00",
       "valid_until": "2026-07-19T23:59:59+09:00"
     },
