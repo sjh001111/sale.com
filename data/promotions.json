@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T00:22:00+09:00",
+  "last_updated": "2026-07-10T12:51:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 브랜드 특가전 (AliExpress Brand Day)",
@@ -20,64 +20,38 @@
           "min_purchase": "$45",
           "discount_amount": "$6",
           "codes": [
-            "NABRD"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "BD0708",
-            "BRAND0708",
-            "KR70808"
+            "NABRD",
+            "BD0706",
+            "BRAND0706"
           ]
         },
         {
           "min_purchase": "$78",
           "discount_amount": "$10",
           "codes": [
-            "DRANB"
-          ]
-        },
-        {
-          "min_purchase": "$129",
-          "discount_amount": "$15",
-          "codes": [
-            "BD0715",
-            "BRAND0715",
-            "KR70815"
+            "DRANB",
+            "BD0710",
+            "BRAND0710",
+            "KR70810"
           ]
         },
         {
           "min_purchase": "$150",
           "discount_amount": "$20",
           "codes": [
-            "RADNB"
+            "RADNB",
+            "BD0720",
+            "BRAND0720",
+            "KR70820"
           ]
         },
         {
           "min_purchase": "$200",
           "discount_amount": "$25",
           "codes": [
-            "BRNDA"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$30",
-          "codes": [
-            "BD0730",
-            "BRAND0730",
-            "KR70830"
-          ]
-        },
-        {
-          "min_purchase": "$369",
-          "discount_amount": "$50",
-          "codes": [
-            "BD0750",
-            "BRAND0750",
-            "KR70850"
+            "BRNDA",
+            "BD0725",
+            "BRAND0725"
           ]
         }
       ]
