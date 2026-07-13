@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-07-12T22:39:00+09:00",
+  "last_updated": "2026-07-13T12:32:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "7월 여름아 반가워 세일 (Summer Savings)",
+      "valid_from": "2026-07-13T00:00:00+09:00",
+      "valid_until": "2026-07-19T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "KR2203",
+            "SJSF03",
+            "SSV2203",
+            "ALI2203",
+            "CL2203"
+          ]
+        },
+        {
+          "min_purchase": "$35",
+          "discount_amount": "$5",
+          "codes": [
+            "KR3505",
+            "JOCI05",
+            "SSV3505",
+            "ALI3505",
+            "CL3505"
+          ]
+        },
+        {
+          "min_purchase": "$52",
+          "discount_amount": "$7",
+          "codes": [
+            "KR5207",
+            "SSV5207",
+            "ALI5207",
+            "CL5207"
+          ]
+        },
+        {
+          "min_purchase": "$84",
+          "discount_amount": "$11",
+          "codes": [
+            "KR8411",
+            "KMXT07",
+            "SSV8411",
+            "ALI8411",
+            "CL8411"
+          ]
+        },
+        {
+          "min_purchase": "$136",
+          "discount_amount": "$17",
+          "codes": [
+            "KR13617",
+            "WKCQ11",
+            "SSV13617",
+            "ALI13617",
+            "CL13617"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$24",
+          "codes": [
+            "KR20924",
+            "SSV20924",
+            "ALI20924",
+            "CL20924"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$40",
+          "codes": [
+            "KR34940",
+            "AMDC17",
+            "SSV34940",
+            "ALI34940",
+            "CL34940"
+          ]
+        }
+      ]
+    },
     {
       "name": "7월 월간 상시 프로모션 코드",
       "valid_from": "2026-07-01T00:00:00+09:00",
@@ -128,14 +210,8 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "7월 여름아 반가워 세일 (Summer Savings)",
-      "description": "7월의 메인 여름 정기 세일로 바캉스 용품 및 여름 가전 최대 60% 할인이 적용됩니다. $22/$3, $35/$5, $52/$7, $84/$11, $136/$17, $209/$24, $349/$40 등 세부 구간별 전용 코드가 제공되며, 네이버페이($100 구매 시 $6 할인) 등 결제사 혜택이 함께 진행될 예정입니다.",
-      "valid_from": "2026-07-13T00:00:00+09:00",
-      "valid_until": "2026-07-19T23:59:59+09:00"
-    },
-    {
       "name": "7월 브랜드 위크 (Brand Week)",
-      "description": "가전 및 인기 브랜드 상품 대상 기획전으로, 브랜드 전용 할인 코드와 스토어 쿠폰 중복 적용을 통해 최대 $25 이상의 할인을 받을 수 있습니다.",
+      "description": "가전 및 인기 브랜드 상품 대상 기획전으로, 브랜드 전용 할인 코드와 스토어 쿠폰 중복 적용을 통해 최대 $25 이상의 할인을 받을 수 있는 행사입니다.",
       "valid_from": "2026-07-20T00:00:00+09:00",
       "valid_until": "2026-07-24T23:59:59+09:00"
     },
