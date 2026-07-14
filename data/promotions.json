@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T23:47:00+09:00",
+  "last_updated": "2026-07-14T11:54:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 여름아 반가워 (Summer Savings / Vacation Sale)",
@@ -15,7 +15,8 @@
             "ALI2203",
             "CL2203",
             "SJSF03",
-            "GXHP03"
+            "GXHP03",
+            "KJDS03"
           ]
         },
         {
@@ -27,7 +28,8 @@
             "ALI3505",
             "CL3505",
             "JOCI05",
-            "GXHP05"
+            "GXHP05",
+            "KJDS05"
           ]
         },
         {
@@ -39,7 +41,8 @@
             "ALI5207",
             "CL5207",
             "KMXT07",
-            "GXHP07"
+            "GXHP07",
+            "KJDS07"
           ]
         },
         {
@@ -51,7 +54,8 @@
             "ALI8411",
             "CL8411",
             "WKCQ11",
-            "GXHP11"
+            "GXHP11",
+            "KJDS11"
           ]
         },
         {
@@ -63,7 +67,8 @@
             "ALI13617",
             "CL13617",
             "AMDC17",
-            "GXHP17"
+            "GXHP17",
+            "KJDS17"
           ]
         },
         {
@@ -74,7 +79,8 @@
             "SSV20924",
             "ALI20924",
             "CL20924",
-            "GXHP24"
+            "GXHP24",
+            "KJDS24"
           ]
         },
         {
@@ -85,7 +91,8 @@
             "SSV34940",
             "ALI34940",
             "CL34940",
-            "GXHP40"
+            "GXHP40",
+            "KJDS40"
           ]
         }
       ]
