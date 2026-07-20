@@ -1,98 +1,45 @@
 {
-  "last_updated": "2026-07-19T22:36:00+09:00",
+  "last_updated": "2026-07-20T12:39:00+09:00",
   "active_code_promotions": [
     {
-      "name": "7월 여름아 반가워 (Summer Savings / Vacation Sale)",
-      "valid_from": "2026-07-13T00:00:00+09:00",
-      "valid_until": "2026-07-19T23:59:59+09:00",
+      "name": "7월 알리's Pick (Brand Week)",
+      "valid_from": "2026-07-20T00:00:00+09:00",
+      "valid_until": "2026-07-24T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$22",
-          "discount_amount": "$3",
+          "min_purchase": "$21",
+          "discount_amount": "$2.6",
           "codes": [
-            "KR2203",
-            "SSV2203",
-            "ALI2203",
-            "CL2203",
-            "SJSF03",
-            "GXHP03",
-            "KJDS03"
+            "GASP2",
+            "BDNAR",
+            "LNOT2"
           ]
         },
         {
-          "min_purchase": "$35",
-          "discount_amount": "$5",
+          "min_purchase": "$45",
+          "discount_amount": "$5.4",
           "codes": [
-            "KR3505",
-            "SSV3505",
-            "ALI3505",
-            "CL3505",
-            "JOCI05",
-            "GXHP05",
-            "KJDS05"
+            "GASP5",
+            "ABNAR",
+            "LNOT5"
           ]
         },
         {
-          "min_purchase": "$52",
-          "discount_amount": "$7",
+          "min_purchase": "$78",
+          "discount_amount": "$9.4",
           "codes": [
-            "KR5207",
-            "SSV5207",
-            "ALI5207",
-            "CL5207",
-            "KMXT07",
-            "GXHP07",
-            "KJDS07"
+            "GASP9",
+            "BADAH",
+            "LNOT9"
           ]
         },
         {
-          "min_purchase": "$84",
-          "discount_amount": "$11",
+          "min_purchase": "$150",
+          "discount_amount": "$18.1",
           "codes": [
-            "KR8411",
-            "SSV8411",
-            "ALI8411",
-            "CL8411",
-            "WKCQ11",
-            "GXHP11",
-            "KJDS11"
-          ]
-        },
-        {
-          "min_purchase": "$136",
-          "discount_amount": "$17",
-          "codes": [
-            "KR13617",
-            "SSV13617",
-            "ALI13617",
-            "CL13617",
-            "AMDC17",
-            "GXHP17",
-            "KJDS17"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$24",
-          "codes": [
-            "KR20924",
-            "SSV20924",
-            "ALI20924",
-            "CL20924",
-            "GXHP24",
-            "KJDS24"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$40",
-          "codes": [
-            "KR34940",
-            "SSV34940",
-            "ALI34940",
-            "CL34940",
-            "GXHP40",
-            "KJDS40"
+            "GASP18",
+            "BNADM",
+            "LNOT18"
           ]
         }
       ]
@@ -224,14 +171,8 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "7월 알리's Pick (Brand Week)",
-      "description": "알리익스프레스 MD와 인플루언서들이 엄선한 인기 IT 기기, 가전, 캠핑 용품 등을 특별 할인가로 제공하는 브랜드 위크 행사입니다. 매일 오후 4시 선착순 타임딜과 전용 프로모션 코드가 제공될 예정입니다.",
-      "valid_from": "2026-07-20T00:00:00+09:00",
-      "valid_until": "2026-07-24T23:59:59+09:00"
-    },
-    {
       "name": "7월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 한국 사용자를 대상으로 진행되는 정기 할인 행사로, 국내 배송 상품 할인 및 주요 간편 결제(토스페이, 네이버페이, 카카오페이 등) 추가 할인 혜택이 집중적으로 제공됩니다.",
+      "description": "매월 말 한국 사용자를 대상으로 진행되는 정기 할인 행사로, 국내 배송 상품 할인 및 주요 간편 결제 추가 할인 혜택이 집중적으로 제공되는 페이데이 프로모션입니다.",
       "valid_from": "2026-07-26T00:00:00+09:00",
       "valid_until": "2026-07-29T23:59:59+09:00"
     },
