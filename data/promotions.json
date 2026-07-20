@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:39:00+09:00",
+  "last_updated": "2026-07-20T23:19:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 알리's Pick (Brand Week)",
@@ -12,7 +12,9 @@
           "codes": [
             "GASP2",
             "BDNAR",
-            "LNOT2"
+            "LNOT2",
+            "ALIPICK26",
+            "KRSALE21"
           ]
         },
         {
@@ -21,7 +23,9 @@
           "codes": [
             "GASP5",
             "ABNAR",
-            "LNOT5"
+            "LNOT5",
+            "ALIPICK54",
+            "KRSALE45"
           ]
         },
         {
@@ -30,7 +34,9 @@
           "codes": [
             "GASP9",
             "BADAH",
-            "LNOT9"
+            "LNOT9",
+            "ALIPICK94",
+            "KRSALE78"
           ]
         },
         {
@@ -39,7 +45,9 @@
           "codes": [
             "GASP18",
             "BNADM",
-            "LNOT18"
+            "LNOT18",
+            "ALIPICK181",
+            "KRSALE150"
           ]
         }
       ]
@@ -60,7 +68,8 @@
             "PPOM0703",
             "AELP0703",
             "CD0703",
-            "KRA701"
+            "KRA701",
+            "KRFASHION3"
           ]
         },
         {
@@ -74,7 +83,8 @@
             "PPOM0708",
             "AELP0708",
             "CD0708",
-            "KRA702"
+            "KRA702",
+            "KRFASHION8"
           ]
         },
         {
@@ -88,7 +98,8 @@
             "PPOM0715",
             "AELP0715",
             "CD0715",
-            "KRA703"
+            "KRA703",
+            "KRFASHION15"
           ]
         },
         {
@@ -102,7 +113,8 @@
             "PPOM0730",
             "AELP0730",
             "CD0730",
-            "KRA704"
+            "KRA704",
+            "KRFASHION30"
           ]
         },
         {
@@ -116,7 +128,8 @@
             "PPOM0750",
             "AELP0750",
             "CD0750",
-            "KRA705"
+            "KRA705",
+            "KRFASHION50"
           ]
         }
       ]
@@ -133,7 +146,8 @@
             "AEKR2C",
             "AELP02",
             "CHOICE02",
-            "JULYCH02"
+            "JULYCH02",
+            "FSKR02"
           ]
         },
         {
@@ -143,7 +157,8 @@
             "AEKR6C",
             "AELP06",
             "CHOICE06",
-            "JULYCH06"
+            "JULYCH06",
+            "FSKR06"
           ]
         },
         {
@@ -153,7 +168,8 @@
             "AEKR14C",
             "AELP14",
             "CHOICE14",
-            "JULYCH14"
+            "JULYCH14",
+            "FSKR14"
           ]
         },
         {
@@ -163,7 +179,8 @@
             "AEKR35C",
             "AELP35",
             "CHOICE35",
-            "JULYCH35"
+            "JULYCH35",
+            "FSKR35"
           ]
         }
       ]
