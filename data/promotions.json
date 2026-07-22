@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T23:06:00+09:00",
+  "last_updated": "2026-07-22T12:18:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 알리's Pick (Brand Week)",
@@ -14,7 +14,8 @@
             "BDNAR",
             "LNOT2",
             "ALIPICK26",
-            "KRSALE21"
+            "KRSALE21",
+            "BDARN"
           ]
         },
         {
@@ -25,7 +26,8 @@
             "ABNAR",
             "LNOT5",
             "ALIPICK54",
-            "KRSALE45"
+            "KRSALE45",
+            "NABRD"
           ]
         },
         {
@@ -36,7 +38,8 @@
             "BADAH",
             "LNOT9",
             "ALIPICK94",
-            "KRSALE78"
+            "KRSALE78",
+            "DRANB"
           ]
         },
         {
@@ -47,7 +50,8 @@
             "BNADM",
             "LNOT18",
             "ALIPICK181",
-            "KRSALE150"
+            "KRSALE150",
+            "RADNB"
           ]
         }
       ]
@@ -200,7 +204,7 @@
       "valid_until": "2026-08-07T23:59:59+09:00"
     },
     {
-      "name": "8월 메가 썸머 세일 (Summer Clearance / Back to School)",
+      "name": "8월 메가 썸머 세일 (Mega Summer Sale / Back to School)",
       "description": "여름 시즌을 마무리하는 대규모 창고 정리 세일 및 가을 신학기 준비 프로모션입니다. 가을 패션, 학습용 전자기기 등 계절성 상품에 대해 높은 할인율을 제공합니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-23T23:59:59+09:00"
