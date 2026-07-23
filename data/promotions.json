@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T12:25:00+09:00",
+  "last_updated": "2026-07-23T23:16:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 알리's Pick (Brand Week)",
@@ -11,10 +11,11 @@
           "discount_amount": "$2.6",
           "codes": [
             "GASP2",
-            "BDNAR",
             "LNOT2",
             "ALIPICK26",
             "KRSALE21",
+            "KBSD2",
+            "BDNAR",
             "BDARN"
           ]
         },
@@ -23,10 +24,10 @@
           "discount_amount": "$5.4",
           "codes": [
             "GASP5",
-            "ABNAR",
             "LNOT5",
             "ALIPICK54",
             "KRSALE45",
+            "ABNAR",
             "NABRD"
           ]
         },
@@ -35,10 +36,10 @@
           "discount_amount": "$9.4",
           "codes": [
             "GASP9",
-            "BADAH",
             "LNOT9",
             "ALIPICK94",
             "KRSALE78",
+            "BADAH",
             "DRANB"
           ]
         },
@@ -47,10 +48,10 @@
           "discount_amount": "$18.1",
           "codes": [
             "GASP18",
-            "BNADM",
             "LNOT18",
             "ALIPICK181",
             "KRSALE150",
+            "BNADM",
             "RADNB"
           ]
         }
@@ -193,19 +194,19 @@
   "upcoming_promotions": [
     {
       "name": "7월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 한국 사용자를 대상으로 진행되는 정기 할인 행사입니다. 국내 배송 상품(K-Venue)에 대한 대규모 할인 및 카카오페이, 네이버페이, 토스페이 등 주요 간편 결제 수단별 추가 즉시 할인 혜택이 집중적으로 제공됩니다.",
+      "description": "매월 말 한국 사용자를 대상으로 진행되는 정기 할인 행사입니다. K-Venue 입점 상품을 포함한 국내 배송 상품에 대한 대규모 할인과 주요 간편 결제(카카오페이, 네이버페이, 토스페이 등) 추가 즉시 할인 혜택이 제공됩니다.",
       "valid_from": "2026-07-26T00:00:00+09:00",
       "valid_until": "2026-07-29T23:59:59+09:00"
     },
     {
       "name": "8월 초이스 데이 (August Choice Day)",
-      "description": "매월 초 7일간 진행되는 정기 세일로 초이스(Choice) 로고가 부착된 인기 상품에 대해 5일 무료 배송 보장 및 구매 금액대별 전용 할인 혜택을 제공하는 프로모션입니다.",
+      "description": "매월 초 진행되는 정기 세일로 초이스(Choice) 상품군에 대해 5일 배송 보장 및 전용 프로모션 코드 혜택을 제공합니다.",
       "valid_from": "2026-08-01T00:00:00+09:00",
       "valid_until": "2026-08-07T23:59:59+09:00"
     },
     {
-      "name": "8월 메가 썸머 세일 (Mega Summer Sale / Back to School)",
-      "description": "여름 시즌을 마무리하는 대규모 세일 및 가을 신학기 준비를 위한 프로모션입니다. 전자제품, 학습 기기, 가을 패션 카테고리에서 높은 할인율의 코드와 결제 혜택이 제공됩니다.",
+      "name": "8월 메가 썸머 세일 (Summer Clearance)",
+      "description": "여름 시즌 종료를 앞두고 진행되는 대규모 클리어런스 세일입니다. 바캉스 용품, 여름 패션, 계절 가전 등 여름 관련 상품을 시즌 오프 가격으로 구매할 수 있는 기회입니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-23T23:59:59+09:00"
     }
