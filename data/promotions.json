@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T12:17:00+09:00",
+  "last_updated": "2026-07-25T22:47:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 월간 상시 프로모션 코드",
@@ -130,6 +130,45 @@
             "CHOICE35",
             "JULYCH35",
             "FSKR35"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "7월 알급날 (AliExpress Pay Day) 프로모션 코드",
+      "valid_from": "2026-07-26T00:00:00+09:00",
+      "valid_until": "2026-07-29T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$25",
+          "discount_amount": "$3",
+          "codes": [
+            "GBAK03",
+            "KAFE03",
+            "JDMV88"
+          ]
+        },
+        {
+          "min_purchase": "$41",
+          "discount_amount": "$5",
+          "codes": [
+            "GBAK05",
+            "KAFE05",
+            "WDSR21"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "XZHO56"
+          ]
+        },
+        {
+          "min_purchase": "$131",
+          "discount_amount": "$16",
+          "codes": [
+            "CYJH34"
           ]
         }
       ]
