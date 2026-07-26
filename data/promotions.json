@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-07-26T12:31:00+09:00",
+  "last_updated": "2026-07-26T22:40:00+09:00",
   "active_code_promotions": [
+    {
+      "name": "7월 알급날 (AliExpress Pay Day) 프로모션 코드",
+      "valid_from": "2026-07-26T00:00:00+09:00",
+      "valid_until": "2026-07-29T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$25",
+          "discount_amount": "$3",
+          "codes": [
+            "GBAK03",
+            "KAFE03",
+            "JDMV88",
+            "PAYDAY03",
+            "AEPD03"
+          ]
+        },
+        {
+          "min_purchase": "$41",
+          "discount_amount": "$5",
+          "codes": [
+            "GBAK05",
+            "KAFE05",
+            "WDSR21"
+          ]
+        },
+        {
+          "min_purchase": "$50",
+          "discount_amount": "$6",
+          "codes": [
+            "PAYDAY06",
+            "AEPD06"
+          ]
+        },
+        {
+          "min_purchase": "$56",
+          "discount_amount": "$7",
+          "codes": [
+            "XZHO56"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$12",
+          "codes": [
+            "PAYDAY12",
+            "AEPD12"
+          ]
+        },
+        {
+          "min_purchase": "$131",
+          "discount_amount": "$16",
+          "codes": [
+            "CYJH34"
+          ]
+        },
+        {
+          "min_purchase": "$150",
+          "discount_amount": "$20",
+          "codes": [
+            "PAYDAY20",
+            "AEPD20"
+          ]
+        }
+      ]
+    },
     {
       "name": "7월 월간 상시 프로모션 코드",
       "valid_from": "2026-07-01T00:00:00+09:00",
@@ -133,63 +198,24 @@
           ]
         }
       ]
-    },
-    {
-      "name": "7월 알급날 (AliExpress Pay Day) 프로모션 코드",
-      "valid_from": "2026-07-26T00:00:00+09:00",
-      "valid_until": "2026-07-29T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$25",
-          "discount_amount": "$3",
-          "codes": [
-            "GBAK03",
-            "KAFE03",
-            "JDMV88"
-          ]
-        },
-        {
-          "min_purchase": "$41",
-          "discount_amount": "$5",
-          "codes": [
-            "GBAK05",
-            "KAFE05",
-            "WDSR21"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$7",
-          "codes": [
-            "XZHO56"
-          ]
-        },
-        {
-          "min_purchase": "$131",
-          "discount_amount": "$16",
-          "codes": [
-            "CYJH34"
-          ]
-        }
-      ]
     }
   ],
   "upcoming_promotions": [
     {
       "name": "8월 초이스 데이 (August Choice Day)",
-      "description": "매월 초 진행되는 초이스 상품 전용 정기 세일입니다. 초이스 엠블럼 상품에 대해 무료 배송 및 5일 배송 보장 혜택과 전용 프로모션 코드가 제공됩니다.",
+      "description": "매월 초 진행되는 초이스 상품 전용 정기 세일입니다. 초이스 엠블럼이 붙은 가성비 상품들에 대해 무료 배송 및 빠른 배송 혜택과 전용 프로모션 코드가 제공됩니다.",
       "valid_from": "2026-08-01T00:00:00+09:00",
       "valid_until": "2026-08-07T23:59:59+09:00"
     },
     {
-      "name": "8월 메가 썸머 세일 (Summer Clearance & Back to School)",
-      "description": "여름 시즌을 마무리하는 대규모 클리어런스 세일이자 신학기 준비 세일입니다. 가전, 디지털 기기 및 가을 패션 아이템에 대한 높은 할인율이 적용됩니다.",
+      "name": "8월 메가 썸머 세일 (Summer Clearance)",
+      "description": "여름 시즌의 대미를 장식하는 대규모 창고 정리 세일입니다. 가전, 여름 의류, 휴가 용품 등을 포함한 전 카테고리 품목에 높은 할인율과 카드사 결제 할인이 적용됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-23T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 한국 사용자를 대상으로 진행되는 월말 정기 프로모션입니다. K-Venue 상품을 포함한 국내 인기 상품에 대해 결제 할인과 전용 코드를 제공합니다.",
+      "description": "한국 사용자를 위해 월말 급여일에 맞춰 진행되는 정기 프로모션입니다. 국내 직배송 상품(K-Venue)을 중심으로 강력한 할인 혜택과 결제 수단별 추가 할인을 제공합니다.",
       "valid_from": "2026-08-25T00:00:00+09:00",
       "valid_until": "2026-08-28T23:59:59+09:00"
     }
