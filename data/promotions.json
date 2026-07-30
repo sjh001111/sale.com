@@ -1,73 +1,6 @@
 {
-  "last_updated": "2026-07-29T23:21:00+09:00",
+  "last_updated": "2026-07-30T11:47:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "7월 알급날 (AliExpress Pay Day) 프로모션 코드",
-      "valid_from": "2026-07-26T00:00:00+09:00",
-      "valid_until": "2026-07-29T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$25",
-          "discount_amount": "$3",
-          "codes": [
-            "JDMV88",
-            "LMPR03",
-            "GBAK03",
-            "KAFE03",
-            "PAYDAY03",
-            "AEPD03"
-          ]
-        },
-        {
-          "min_purchase": "$41",
-          "discount_amount": "$5",
-          "codes": [
-            "WDSR21",
-            "LMPR05",
-            "GBAK05",
-            "KAFE05"
-          ]
-        },
-        {
-          "min_purchase": "$50",
-          "discount_amount": "$6",
-          "codes": [
-            "PAYDAY06",
-            "AEPD06"
-          ]
-        },
-        {
-          "min_purchase": "$56",
-          "discount_amount": "$7",
-          "codes": [
-            "XZHO56"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$12",
-          "codes": [
-            "PAYDAY12",
-            "AEPD12"
-          ]
-        },
-        {
-          "min_purchase": "$131",
-          "discount_amount": "$16",
-          "codes": [
-            "CYJH34"
-          ]
-        },
-        {
-          "min_purchase": "$150",
-          "discount_amount": "$20",
-          "codes": [
-            "PAYDAY20",
-            "AEPD20"
-          ]
-        }
-      ]
-    },
     {
       "name": "7월 월간 상시 프로모션 코드",
       "valid_from": "2026-07-01T00:00:00+09:00",
@@ -205,25 +138,25 @@
   "upcoming_promotions": [
     {
       "name": "8월 초이스 데이 (August Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 알리익스프레스의 대표 할인 행사입니다. Choice 상품에 대한 전용 코드와 무료 배송 혜택이 제공됩니다.",
+      "description": "8월의 첫 대규모 정기 세일로 Choice 상품 대상 최대 60% 할인과 전용 프로모션 코드가 제공됩니다. 카드사(네이버페이, 카카오페이, 토스페이 등) 결제 할인이 함께 진행될 예정입니다.",
       "valid_from": "2026-08-01T00:00:00+09:00",
       "valid_until": "2026-08-07T23:59:59+09:00"
     },
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "여름 시즌의 대규모 브랜드 할인 행사로, 주요 글로벌 브랜드의 인기 상품에 대해 높은 할인율과 카드사 결제 혜택이 적용됩니다.",
+      "description": "주요 글로벌 브랜드 및 K-Venue 인기 브랜드가 참여하는 중순 대형 프로모션입니다. 높은 할인율과 더불어 한정 수량 브랜드 전용 쿠폰이 발급됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
     {
       "name": "8월 신학기 세일 (Back to School)",
-      "description": "가을 학기 개강을 준비하는 학생들을 위한 프로모션입니다. 노트북, 태블릿 등 IT 기기와 학용품 카테고리에 할인이 집중됩니다.",
+      "description": "가을 학기 개강 시즌에 맞춘 전자기기, 문구류 및 의류 특가 행사입니다. 노트북, 태블릿, 모니터 등 고가 IT 제품에 대한 카드사 혜택이 강화됩니다.",
       "valid_from": "2026-08-19T00:00:00+09:00",
       "valid_until": "2026-08-25T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "한국 사용자들을 위해 월말 급여일에 맞춰 진행되는 정기 프로모션으로, K-Venue 및 인기 직구 상품 전용 코드와 결제 할인을 제공합니다.",
+      "description": "매월 말 한국 사용자들을 위해 진행되는 정기 할인 행사입니다. K-Venue(국내 배송) 상품에 특화된 할인 코드와 함께 월말 쇼핑 지원 혜택이 제공됩니다.",
       "valid_from": "2026-08-25T00:00:00+09:00",
       "valid_until": "2026-08-28T23:59:59+09:00"
     }
