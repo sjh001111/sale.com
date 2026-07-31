@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T23:16:00+09:00",
+  "last_updated": "2026-07-31T12:30:00+09:00",
   "active_code_promotions": [
     {
       "name": "7월 월간 상시 프로모션 코드",
@@ -133,30 +133,99 @@
           ]
         }
       ]
+    },
+    {
+      "name": "8월 초이스 데이 (Choice Day) 프로모션 코드",
+      "valid_from": "2026-08-01T00:00:00+09:00",
+      "valid_until": "2026-08-07T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "KBDE03",
+            "GLST03",
+            "LAPO03",
+            "DJXZ03"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "KBDE04",
+            "GLST04",
+            "LAPO04",
+            "TFPS04"
+          ]
+        },
+        {
+          "min_purchase": "$55",
+          "discount_amount": "$7",
+          "codes": [
+            "KBDE07",
+            "GLST07",
+            "LAPO07",
+            "SORL07"
+          ]
+        },
+        {
+          "min_purchase": "$89",
+          "discount_amount": "$10",
+          "codes": [
+            "KBDE10",
+            "GLST10"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$16",
+          "codes": [
+            "KBDE16",
+            "GLST16"
+          ]
+        },
+        {
+          "min_purchase": "$207",
+          "discount_amount": "$22",
+          "codes": [
+            "KBDE22",
+            "GLST22"
+          ]
+        },
+        {
+          "min_purchase": "$345",
+          "discount_amount": "$37",
+          "codes": [
+            "KBDE37",
+            "GLST37"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
       "name": "8월 초이스 데이 (August Choice Day)",
-      "description": "8월의 첫 대규모 정기 세일로 Choice 상품 대상 최대 60% 할인 혜택이 제공됩니다. 네이버페이, 카카오페이 등 주요 결제 수단별 추가 할인이 함께 진행될 예정입니다.",
+      "description": "8월의 첫 대규모 정기 세일로 '할인에 파도타기' 테마와 함께 Choice 상품 대상 최대 60% 할인 및 카드사 결제 할인이 제공됩니다.",
       "valid_from": "2026-08-01T00:00:00+09:00",
       "valid_until": "2026-08-07T23:59:59+09:00"
     },
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "글로벌 인기 브랜드 상품에 대해 높은 할인율이 적용되는 중순 정기 프로모션입니다. 한정 수량 브랜드 전용 쿠폰과 중복 할인이 가능합니다.",
+      "description": "글로벌 인기 브랜드 상품에 대해 높은 할인율이 적용되는 중순 정기 프로모션입니다. 한정 수량 브랜드 전용 쿠폰이 제공됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
     {
       "name": "8월 신학기 세일 (Back to School)",
-      "description": "가을 학기를 대비한 노트북, 태블릿, 학용품 및 의류 카테고리 특화 행사입니다. 고가 IT 제품에 대한 카드사 결제 혜택이 강화됩니다.",
-      "valid_from": "2026-08-19T00:00:00+09:00",
-      "valid_until": "2026-08-25T23:59:59+09:00"
+      "description": "가을 학기를 대비한 전자기기, 학용품 및 의류 카테고리 특화 행사입니다. 태블릿 및 노트북 등 고가 IT 제품 혜택이 강화됩니다.",
+      "valid_from": "2026-08-18T00:00:00+09:00",
+      "valid_until": "2026-08-27T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 한국 사용자를 대상으로 진행되는 월말 결산 세일입니다. K-Venue 국내 배송 상품 할인 및 전용 프로모션 코드가 제공됩니다.",
+      "description": "매월 말 한국 사용자를 대상으로 진행되는 월말 결산 세일입니다. K-Venue 국내 배송 상품 할인 및 전용 코드가 제공될 예정입니다.",
       "valid_from": "2026-08-25T00:00:00+09:00",
       "valid_until": "2026-08-28T23:59:59+09:00"
     }
