@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T12:13:00+09:00",
+  "last_updated": "2026-08-06T23:24:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 초이스 데이 (Choice Day) - 할인에 파도타기",
@@ -10,11 +10,11 @@
           "min_purchase": "$22",
           "discount_amount": "$3",
           "codes": [
-            "AEKR3C",
-            "AEOKR03",
             "GLST03",
             "KBDE03",
             "DJXZ03",
+            "AEKR3C",
+            "AEOKR03",
             "KR2601",
             "CL0803",
             "PPOM0803",
@@ -29,8 +29,8 @@
           "codes": [
             "GLST04",
             "KBDE04",
-            "LAPO04",
-            "TFPS04"
+            "TFPS04",
+            "LAPO04"
           ]
         },
         {
@@ -39,21 +39,8 @@
           "codes": [
             "GLST07",
             "KBDE07",
-            "LAPO07",
-            "SORL07"
-          ]
-        },
-        {
-          "min_purchase": "$69",
-          "discount_amount": "$8",
-          "codes": [
-            "AEKR8C",
-            "AEOKR08",
-            "KR2602",
-            "CL0808",
-            "PPOM0808",
-            "ALI0808",
-            "KRA802"
+            "SORL07",
+            "LAPO07"
           ]
         },
         {
@@ -64,19 +51,6 @@
             "KBDE10",
             "RVUX10",
             "LAPO10"
-          ]
-        },
-        {
-          "min_purchase": "$129",
-          "discount_amount": "$15",
-          "codes": [
-            "AEKR15C",
-            "AEOKR15",
-            "KR2603",
-            "CL0815",
-            "PPOM0815",
-            "ALI0815",
-            "KRA803"
           ]
         },
         {
@@ -100,19 +74,6 @@
           ]
         },
         {
-          "min_purchase": "$239",
-          "discount_amount": "$30",
-          "codes": [
-            "AEKR30C",
-            "AEOKR30",
-            "KR2604",
-            "CL0830",
-            "PPOM0830",
-            "ALI0830",
-            "KRA804"
-          ]
-        },
-        {
           "min_purchase": "$345",
           "discount_amount": "$37",
           "codes": [
@@ -120,19 +81,6 @@
             "KBDE37",
             "PFAH37",
             "LAPO37"
-          ]
-        },
-        {
-          "min_purchase": "$369",
-          "discount_amount": "$50",
-          "codes": [
-            "AEKR50C",
-            "AEOKR50",
-            "KR2605",
-            "CL0850",
-            "PPOM0850",
-            "ALI0850",
-            "KRA805"
           ]
         }
       ]
@@ -187,20 +135,20 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "8월 알리's Pick 공동구매 (Ali's Pick)",
-      "description": "인기 유튜버 및 인플루언서가 추천하는 아이템을 선별하여 진행하는 공동구매 프로모션입니다. 기간 한정 타임딜과 공동구매 전용 추가 할인 혜택이 제공됩니다.",
+      "name": "8월 알리's Pick 공동구매",
+      "description": "인기 인플루언서 추천 아이템을 중심으로 진행되는 공동구매 프로모션입니다. 타임딜과 전용 추가 할인 혜택이 제공됩니다.",
       "valid_from": "2026-08-10T00:00:00+09:00",
       "valid_until": "2026-08-16T23:59:59+09:00"
     },
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "가전, 디지털 기기, 캠핑 용품 등 주요 카테고리의 브랜드 상품을 대대적으로 할인하는 행사입니다. 카드사 결제 할인과 전용 프로모션 코드가 동시에 발행되는 하반기 주요 세일입니다.",
+      "description": "가전, 디지털, 캠핑 등 주요 카테고리 브랜드 상품을 대규모로 할인하는 행사입니다. 카드사 결제 할인과 전용 프로모션 코드가 함께 발행됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 정기적으로 진행되는 한국 전용 세일로, 국내 발송 상품(K-Venue)에 대한 강력한 혜택과 결제 수단별 추가 할인이 특징입니다.",
+      "description": "매월 말 정기적으로 진행되는 한국 전용 세일로, 국내 발송 상품(K-Venue) 및 인기 품목에 대한 강력한 결제 할인과 코드 혜택이 특징입니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
       "valid_until": "2026-08-29T23:59:59+09:00"
     }
