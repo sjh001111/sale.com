@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T11:54:00+09:00",
+  "last_updated": "2026-08-07T22:15:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 초이스 데이 (Choice Day) - 할인에 파도타기",
@@ -40,7 +40,9 @@
             "GLST07",
             "KBDE07",
             "SORL07",
-            "LAPO07"
+            "LAPO07",
+            "AEKR7C",
+            "AEOKR07"
           ]
         },
         {
@@ -50,7 +52,9 @@
             "GLST10",
             "KBDE10",
             "RVUX10",
-            "LAPO10"
+            "LAPO10",
+            "AEKR10C",
+            "AEOKR10"
           ]
         },
         {
@@ -60,7 +64,9 @@
             "GLST16",
             "KBDE16",
             "MKGW16",
-            "LAPO16"
+            "LAPO16",
+            "AEKR16C",
+            "AEOKR16"
           ]
         },
         {
@@ -70,7 +76,9 @@
             "GLST22",
             "KBDE22",
             "TTRQ22",
-            "LAPO22"
+            "LAPO22",
+            "AEKR22C",
+            "AEOKR22"
           ]
         },
         {
@@ -80,7 +88,9 @@
             "GLST37",
             "KBDE37",
             "PFAH37",
-            "LAPO37"
+            "LAPO37",
+            "AEKR37C",
+            "AEOKR37"
           ]
         }
       ]
@@ -142,7 +152,7 @@
     },
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "가전, 디지털, 캠핑 등 주요 카테고리 인기 브랜드 상품을 대규모로 할인하는 행사입니다. 카드사 결제 할인 혜택이 함께 제공됩니다.",
+      "description": "가전, 디지털, 캠핑 등 주요 카테고리 인기 브랜드 상품을 대규모로 할인하는 행사입니다. 카드사 결제 할인 및 시즌 오프 클리어런스 혜택이 포함됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
