@@ -1,100 +1,6 @@
 {
-  "last_updated": "2026-08-07T22:15:00+09:00",
+  "last_updated": "2026-08-08T10:59:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "8월 초이스 데이 (Choice Day) - 할인에 파도타기",
-      "valid_from": "2026-08-01T00:00:00+09:00",
-      "valid_until": "2026-08-07T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$22",
-          "discount_amount": "$3",
-          "codes": [
-            "GLST03",
-            "KBDE03",
-            "DJXZ03",
-            "AEKR3C",
-            "AEOKR03",
-            "KR2601",
-            "CL0803",
-            "PPOM0803",
-            "ALI0803",
-            "KRA801",
-            "LAPO03"
-          ]
-        },
-        {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "GLST04",
-            "KBDE04",
-            "TFPS04",
-            "LAPO04"
-          ]
-        },
-        {
-          "min_purchase": "$55",
-          "discount_amount": "$7",
-          "codes": [
-            "GLST07",
-            "KBDE07",
-            "SORL07",
-            "LAPO07",
-            "AEKR7C",
-            "AEOKR07"
-          ]
-        },
-        {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
-          "codes": [
-            "GLST10",
-            "KBDE10",
-            "RVUX10",
-            "LAPO10",
-            "AEKR10C",
-            "AEOKR10"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$16",
-          "codes": [
-            "GLST16",
-            "KBDE16",
-            "MKGW16",
-            "LAPO16",
-            "AEKR16C",
-            "AEOKR16"
-          ]
-        },
-        {
-          "min_purchase": "$207",
-          "discount_amount": "$22",
-          "codes": [
-            "GLST22",
-            "KBDE22",
-            "TTRQ22",
-            "LAPO22",
-            "AEKR22C",
-            "AEOKR22"
-          ]
-        },
-        {
-          "min_purchase": "$345",
-          "discount_amount": "$37",
-          "codes": [
-            "GLST37",
-            "KBDE37",
-            "PFAH37",
-            "LAPO37",
-            "AEKR37C",
-            "AEOKR37"
-          ]
-        }
-      ]
-    },
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
       "valid_from": "2026-08-01T00:00:00+09:00",
@@ -107,7 +13,10 @@
             "AEKR2C",
             "CHOICE02",
             "FSKR02",
-            "CDKR02"
+            "CDKR02",
+            "ALICL02",
+            "PPOM02",
+            "ALIBOX02"
           ]
         },
         {
@@ -117,7 +26,10 @@
             "AEKR6C",
             "CHOICE06",
             "FSKR06",
-            "CDKR06"
+            "CDKR06",
+            "ALICL06",
+            "PPOM06",
+            "ALIBOX06"
           ]
         },
         {
@@ -127,7 +39,10 @@
             "AEKR14C",
             "CHOICE14",
             "FSKR14",
-            "CDKR14"
+            "CDKR14",
+            "ALICL14",
+            "PPOM14",
+            "ALIBOX14"
           ]
         },
         {
@@ -137,7 +52,10 @@
             "AEKR35C",
             "CHOICE35",
             "FSKR35",
-            "CDKR35"
+            "CDKR35",
+            "ALICL35",
+            "PPOM35",
+            "ALIBOX35"
           ]
         }
       ]
