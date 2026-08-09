@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T11:06:00+09:00",
+  "last_updated": "2026-08-09T22:01:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
@@ -7,52 +7,93 @@
       "valid_until": "2026-08-31T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$20",
+          "min_purchase": "$19",
           "discount_amount": "$2",
           "codes": [
+            "CDKR02",
             "AEKR2C",
             "CHOICE02",
             "FSKR02",
-            "CDKR02",
             "ALICL02",
             "PPOM02",
-            "ALIBOX02"
+            "ALIBOX02",
+            "KRPD02"
           ]
         },
         {
-          "min_purchase": "$56",
+          "min_purchase": "$29",
+          "discount_amount": "$3",
+          "codes": [
+            "CDKR03",
+            "AEKR3C",
+            "CHOICE03",
+            "FSKR03",
+            "ALICL03",
+            "PPOM03",
+            "ALIBOX03",
+            "KRPD03"
+          ]
+        },
+        {
+          "min_purchase": "$59",
           "discount_amount": "$6",
           "codes": [
+            "CDKR06",
             "AEKR6C",
             "CHOICE06",
             "FSKR06",
-            "CDKR06",
             "ALICL06",
             "PPOM06",
             "ALIBOX06"
           ]
         },
         {
-          "min_purchase": "$135",
-          "discount_amount": "$14",
+          "min_purchase": "$89",
+          "discount_amount": "$10",
           "codes": [
+            "CDKR10",
+            "AEKR10C",
+            "CHOICE10",
+            "FSKR10",
+            "ALICL10",
+            "PPOM10",
+            "ALIBOX10"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "CDKR15",
             "AEKR14C",
             "CHOICE14",
             "FSKR14",
-            "CDKR14",
             "ALICL14",
             "PPOM14",
             "ALIBOX14"
           ]
         },
         {
-          "min_purchase": "$348",
-          "discount_amount": "$35",
+          "min_purchase": "$239",
+          "discount_amount": "$26",
           "codes": [
+            "CDKR26",
+            "AEKR26C",
+            "CHOICE26",
+            "FSKR26",
+            "ALICL26",
+            "PPOM26",
+            "ALIBOX26"
+          ]
+        },
+        {
+          "min_purchase": "$359",
+          "discount_amount": "$40",
+          "codes": [
+            "CDKR40",
             "AEKR35C",
             "CHOICE35",
             "FSKR35",
-            "CDKR35",
             "ALICL35",
             "PPOM35",
             "ALIBOX35"
@@ -64,19 +105,19 @@
   "upcoming_promotions": [
     {
       "name": "8월 알리's Pick (Ali's Pick Returns)",
-      "description": "알리익스프레스 MD와 인플루언서가 선별한 인기 아이템을 특별 할인가에 제공하는 프로모션입니다. 매일 0시에 업데이트되는 일일 특가 상품과 오후 4시 한정 수량 타임딜, 그리고 한국 주요 카드사(토스페이, NH농협카드 등) 결제 할인 혜택이 함께 제공됩니다.",
+      "description": "알리익스프레스 MD와 인플루언서가 직접 엄선한 인기 상품들을 특별 할인가에 제공하는 프로모션입니다. 매일 오전 7시와 오후 4시 30분에 업데이트되는 한정 수량 타임딜과 함께, 높은 할인율의 전용 프로모션 코드가 발행될 예정입니다. 한국 주요 카드사 결제 할인 혜택이 동시 적용됩니다.",
       "valid_from": "2026-08-10T00:00:00+09:00",
       "valid_until": "2026-08-13T23:59:59+09:00"
     },
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "가전, 디지털, 캠핑 등 주요 카테고리의 글로벌 인기 브랜드를 대상으로 하는 대규모 브랜드 세일입니다. 브랜드 전용 추가 쿠폰과 시즌 오프 클리어런스 혜택을 통해 평소보다 저렴하게 브랜드 제품을 구매할 수 있습니다.",
+      "description": "삼성, 샤오미, 로보락 등 국내외 주요 브랜드 제품을 대상으로 하는 대규모 할인 행사입니다. 브랜드별 전용 추가 쿠폰과 더불어 시즌 오프 클리어런스 혜택이 제공되어 가전 및 디지털 기기를 가장 저렴하게 구매할 수 있는 기회입니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 시장 전용 정기 프로모션입니다. K-Venue 국내 발송 상품을 포함한 전 품목에 적용 가능한 대규모 결제 할인 및 전용 프로모션 코드가 발행됩니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일로, K-Venue 입점 국내 발송 상품에 대해 강력한 혜택을 제공합니다. 전 품목 적용 가능한 고정 할인 코드와 카드사 결제 할인이 결합되어 월말 쇼핑에 최적화된 프로모션입니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
       "valid_until": "2026-08-29T23:59:59+09:00"
     }
