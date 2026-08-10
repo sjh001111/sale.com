@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T22:01:00+09:00",
+  "last_updated": "2026-08-10T11:11:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
@@ -100,15 +100,43 @@
           ]
         }
       ]
+    },
+    {
+      "name": "8월 알리's Pick (Ali's Pick Returns)",
+      "valid_from": "2026-08-10T00:00:00+09:00",
+      "valid_until": "2026-08-13T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$50",
+          "discount_amount": "$9",
+          "codes": [
+            "ALIPICK50",
+            "KBDY09",
+            "GBAP09"
+          ]
+        },
+        {
+          "min_purchase": "$100",
+          "discount_amount": "$17",
+          "codes": [
+            "ALIPICK100",
+            "KBDY17",
+            "GBAP17"
+          ]
+        },
+        {
+          "min_purchase": "$150",
+          "discount_amount": "$24",
+          "codes": [
+            "ALIPICK150",
+            "KBDY24",
+            "GBAP24"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "8월 알리's Pick (Ali's Pick Returns)",
-      "description": "알리익스프레스 MD와 인플루언서가 직접 엄선한 인기 상품들을 특별 할인가에 제공하는 프로모션입니다. 매일 오전 7시와 오후 4시 30분에 업데이트되는 한정 수량 타임딜과 함께, 높은 할인율의 전용 프로모션 코드가 발행될 예정입니다. 한국 주요 카드사 결제 할인 혜택이 동시 적용됩니다.",
-      "valid_from": "2026-08-10T00:00:00+09:00",
-      "valid_until": "2026-08-13T23:59:59+09:00"
-    },
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
       "description": "삼성, 샤오미, 로보락 등 국내외 주요 브랜드 제품을 대상으로 하는 대규모 할인 행사입니다. 브랜드별 전용 추가 쿠폰과 더불어 시즌 오프 클리어런스 혜택이 제공되어 가전 및 디지털 기기를 가장 저렴하게 구매할 수 있는 기회입니다.",
