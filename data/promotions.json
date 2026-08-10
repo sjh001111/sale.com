@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T11:11:00+09:00",
+  "last_updated": "2026-08-10T22:20:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
@@ -112,7 +112,8 @@
           "codes": [
             "ALIPICK50",
             "KBDY09",
-            "GBAP09"
+            "GBAP09",
+            "AEPICK09"
           ]
         },
         {
@@ -121,7 +122,8 @@
           "codes": [
             "ALIPICK100",
             "KBDY17",
-            "GBAP17"
+            "GBAP17",
+            "AEPICK17"
           ]
         },
         {
@@ -130,7 +132,8 @@
           "codes": [
             "ALIPICK150",
             "KBDY24",
-            "GBAP24"
+            "GBAP24",
+            "AEPICK24"
           ]
         }
       ]
