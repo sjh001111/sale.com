@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T22:20:00+09:00",
+  "last_updated": "2026-08-11T11:05:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
@@ -111,8 +111,8 @@
           "discount_amount": "$9",
           "codes": [
             "ALIPICK50",
-            "KBDY09",
             "GBAP09",
+            "KBDY09",
             "AEPICK09"
           ]
         },
@@ -121,8 +121,8 @@
           "discount_amount": "$17",
           "codes": [
             "ALIPICK100",
-            "KBDY17",
             "GBAP17",
+            "KBDY17",
             "AEPICK17"
           ]
         },
@@ -131,8 +131,8 @@
           "discount_amount": "$24",
           "codes": [
             "ALIPICK150",
-            "KBDY24",
             "GBAP24",
+            "KBDY24",
             "AEPICK24"
           ]
         }
@@ -151,6 +151,12 @@
       "description": "매월 말 진행되는 한국 전용 정기 세일로, K-Venue 입점 국내 발송 상품에 대해 강력한 혜택을 제공합니다. 전 품목 적용 가능한 고정 할인 코드와 카드사 결제 할인이 결합되어 월말 쇼핑에 최적화된 프로모션입니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
       "valid_until": "2026-08-29T23:59:59+09:00"
+    },
+    {
+      "name": "9월 초이스 데이 (September Choice Day)",
+      "description": "매월 초 진행되는 초이스 데이 행사로, 가성비 높은 Choice 상품들에 대해 무료 배송 및 전용 할인 코드가 제공되는 정기 세일입니다.",
+      "valid_from": "2026-09-01T00:00:00+09:00",
+      "valid_until": "2026-09-07T23:59:59+09:00"
     }
   ]
 }
