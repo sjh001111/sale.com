@@ -1,11 +1,27 @@
 {
-  "last_updated": "2026-08-12T22:21:00+09:00",
+  "last_updated": "2026-08-13T11:25:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 알리's Pick (Ali's Pick Returns)",
       "valid_from": "2026-08-10T00:00:00+09:00",
       "valid_until": "2026-08-13T23:59:59+09:00",
       "codes": [
+        {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "GLST03",
+            "DJXZ03",
+            "KBDE03"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "GLST04"
+          ]
+        },
         {
           "min_purchase": "$50",
           "discount_amount": "$9",
@@ -14,7 +30,9 @@
             "GBAP09",
             "KBDY09",
             "AEPICK09",
-            "PPOM09"
+            "PPOM09",
+            "MD0809",
+            "CL0809"
           ]
         },
         {
@@ -25,7 +43,9 @@
             "GBAP17",
             "KBDY17",
             "AEPICK17",
-            "PPOM17"
+            "PPOM17",
+            "MD0817",
+            "CL0817"
           ]
         },
         {
@@ -36,7 +56,9 @@
             "GBAP24",
             "KBDY24",
             "AEPICK24",
-            "PPOM24"
+            "PPOM24",
+            "MD0824",
+            "CL0824"
           ]
         }
       ]
@@ -57,7 +79,8 @@
             "ALICL02",
             "PPOM02",
             "ALIBOX02",
-            "KRPD02"
+            "KRPD02",
+            "AEKS02"
           ]
         },
         {
