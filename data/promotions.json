@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T11:23:00+09:00",
+  "last_updated": "2026-08-14T22:17:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
@@ -22,6 +22,13 @@
           ]
         },
         {
+          "min_purchase": "$22",
+          "discount_amount": "$3",
+          "codes": [
+            "GLST03"
+          ]
+        },
+        {
           "min_purchase": "$29",
           "discount_amount": "$3",
           "codes": [
@@ -33,6 +40,13 @@
             "PPOM03",
             "ALIBOX03",
             "KRPD03"
+          ]
+        },
+        {
+          "min_purchase": "$34",
+          "discount_amount": "$4",
+          "codes": [
+            "GLST04"
           ]
         },
         {
@@ -113,24 +127,94 @@
           ]
         }
       ]
+    },
+    {
+      "name": "8월 한국 전용 특별 선착순 할인 코드 (DOUBLEKR)",
+      "valid_from": "2026-08-14T00:00:00+09:00",
+      "valid_until": "2026-08-31T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$25",
+          "discount_amount": "$4",
+          "codes": [
+            "DOUBLEKR04"
+          ]
+        },
+        {
+          "min_purchase": "$38",
+          "discount_amount": "$6",
+          "codes": [
+            "DOUBLEKR06"
+          ]
+        },
+        {
+          "min_purchase": "$54",
+          "discount_amount": "$8",
+          "codes": [
+            "DOUBLEKR08"
+          ]
+        },
+        {
+          "min_purchase": "$89",
+          "discount_amount": "$13",
+          "codes": [
+            "DOUBLEKR13"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$20",
+          "codes": [
+            "DOUBLEKR20"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$31",
+          "codes": [
+            "DOUBLEKR31"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$52",
+          "codes": [
+            "DOUBLEKR52"
+          ]
+        },
+        {
+          "min_purchase": "$559",
+          "discount_amount": "$83",
+          "codes": [
+            "DOUBLEKR83"
+          ]
+        },
+        {
+          "min_purchase": "$679",
+          "discount_amount": "$102",
+          "codes": [
+            "DOUBLEKR102"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
       "name": "8월 메가 브랜드 세일 (Mega Brand Sale / Back to School)",
-      "description": "8월 하반기 최대 규모의 정기 프로모션으로, 글로벌 'Back to School' 시즌과 연계되어 삼성, 샤오미, 로보락 등 주요 브랜드 제품에 대해 최대 80% 할인 및 대규모 프로모션 코드가 제공됩니다. 8월 16일부터 3일간의 장바구니 예열 기간을 거쳐 본격적인 세일이 시작됩니다.",
+      "description": "8월 하반기 최대 규모의 정기 프로모션입니다. 글로벌 'Back to School' 시즌과 연계되어 주요 브랜드 제품에 대해 높은 할인율과 대규모 전용 프로모션 코드가 제공됩니다. 8월 17일부터 본격적인 세일이 시작됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 발송 K-Venue 상품을 대상으로 강력한 카드사 할인과 전용 결제 혜택 및 전용 프로모션 코드를 제공합니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일입니다. K-Venue 상품을 포함한 국내 인기 상품에 대해 카드사 결제 할인과 전용 코드가 제공됩니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
       "valid_until": "2026-08-29T23:59:59+09:00"
     },
     {
       "name": "9월 초이스 데이 (September Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 가성비 중심의 세일입니다. 초이스 엠블럼 상품 무료 배송 혜택과 함께 9월 상시 할인 코드가 새롭게 업데이트될 예정입니다.",
+      "description": "매월 초 정기적으로 진행되는 가성비 중심의 세일입니다. 초이스 상품 무료 배송 및 9월 상시 할인 코드가 새롭게 업데이트될 예정입니다.",
       "valid_from": "2026-09-01T00:00:00+09:00",
       "valid_until": "2026-09-07T23:59:59+09:00"
     }
