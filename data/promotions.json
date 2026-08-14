@@ -1,68 +1,6 @@
 {
-  "last_updated": "2026-08-13T22:23:00+09:00",
+  "last_updated": "2026-08-14T11:23:00+09:00",
   "active_code_promotions": [
-    {
-      "name": "8월 알리's Pick (Ali's Pick Returns)",
-      "valid_from": "2026-08-10T00:00:00+09:00",
-      "valid_until": "2026-08-13T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$22",
-          "discount_amount": "$3",
-          "codes": [
-            "GLST03",
-            "DJXZ03",
-            "KBDE03"
-          ]
-        },
-        {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
-          "codes": [
-            "GLST04"
-          ]
-        },
-        {
-          "min_purchase": "$50",
-          "discount_amount": "$9",
-          "codes": [
-            "ALIPICK50",
-            "GBAP09",
-            "KBDY09",
-            "AEPICK09",
-            "PPOM09",
-            "MD0809",
-            "CL0809"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$17",
-          "codes": [
-            "ALIPICK100",
-            "GBAP17",
-            "KBDY17",
-            "AEPICK17",
-            "PPOM17",
-            "MD0817",
-            "CL0817"
-          ]
-        },
-        {
-          "min_purchase": "$150",
-          "discount_amount": "$24",
-          "codes": [
-            "ALIPICK150",
-            "GBAP24",
-            "KBDY24",
-            "AEPICK24",
-            "PPOM24",
-            "MD0824",
-            "CL0824"
-          ]
-        }
-      ]
-    },
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
       "valid_from": "2026-08-01T00:00:00+09:00",
@@ -125,15 +63,21 @@
         },
         {
           "min_purchase": "$139",
-          "discount_amount": "$15",
+          "discount_amount": "$14",
           "codes": [
-            "CDKR15",
             "AEKR14C",
             "CHOICE14",
             "FSKR14",
             "ALICL14",
             "PPOM14",
             "ALIBOX14"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$15",
+          "codes": [
+            "CDKR15"
           ]
         },
         {
@@ -151,9 +95,8 @@
         },
         {
           "min_purchase": "$359",
-          "discount_amount": "$40",
+          "discount_amount": "$35",
           "codes": [
-            "CDKR40",
             "AEKR35C",
             "CHOICE35",
             "FSKR35",
@@ -161,26 +104,33 @@
             "PPOM35",
             "ALIBOX35"
           ]
+        },
+        {
+          "min_purchase": "$359",
+          "discount_amount": "$40",
+          "codes": [
+            "CDKR40"
+          ]
         }
       ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "삼성, 샤오미, 로보락 등 국내외 주요 브랜드 제품을 대상으로 하는 8월의 메인 프로모션입니다. 글로벌 'Back to School' 시즌과 연계되어 최대 80% 할인 및 브랜드별 독점 혜택이 제공됩니다.",
+      "name": "8월 메가 브랜드 세일 (Mega Brand Sale / Back to School)",
+      "description": "8월 하반기 최대 규모의 정기 프로모션으로, 글로벌 'Back to School' 시즌과 연계되어 삼성, 샤오미, 로보락 등 주요 브랜드 제품에 대해 최대 80% 할인 및 대규모 프로모션 코드가 제공됩니다. 8월 16일부터 3일간의 장바구니 예열 기간을 거쳐 본격적인 세일이 시작됩니다.",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00"
     },
     {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 발송 K-Venue 상품에 대해 강력한 카드사 할인과 전용 결제 혜택을 제공하는 프로모션입니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 발송 K-Venue 상품을 대상으로 강력한 카드사 할인과 전용 결제 혜택 및 전용 프로모션 코드를 제공합니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
       "valid_until": "2026-08-29T23:59:59+09:00"
     },
     {
       "name": "9월 초이스 데이 (September Choice Day)",
-      "description": "매월 초 정기적으로 진행되는 가성비 중심의 세일입니다. 초이스 엠블럼 상품 무료 배송 및 상시 할인 코드가 업데이트될 예정입니다.",
+      "description": "매월 초 정기적으로 진행되는 가성비 중심의 세일입니다. 초이스 엠블럼 상품 무료 배송 혜택과 함께 9월 상시 할인 코드가 새롭게 업데이트될 예정입니다.",
       "valid_from": "2026-09-01T00:00:00+09:00",
       "valid_until": "2026-09-07T23:59:59+09:00"
     }
