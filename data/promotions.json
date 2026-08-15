@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T22:17:00+09:00",
+  "last_updated": "2026-08-15T10:35:00+09:00",
   "active_code_promotions": [
     {
       "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
@@ -197,20 +197,70 @@
           ]
         }
       ]
+    },
+    {
+      "name": "8월 메가 브랜드 세일 전용 코드 (브랜드에 ALL-IN)",
+      "valid_from": "2026-08-17T00:00:00+09:00",
+      "valid_until": "2026-08-26T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$21",
+          "discount_amount": "$3",
+          "codes": [
+            "KFSL03"
+          ]
+        },
+        {
+          "min_purchase": "$36",
+          "discount_amount": "$5",
+          "codes": [
+            "KFSL05"
+          ]
+        },
+        {
+          "min_purchase": "$52",
+          "discount_amount": "$7",
+          "codes": [
+            "KFSL07"
+          ]
+        },
+        {
+          "min_purchase": "$92",
+          "discount_amount": "$12",
+          "codes": [
+            "KFSL12"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$17",
+          "codes": [
+            "KFSL17"
+          ]
+        },
+        {
+          "min_purchase": "$209",
+          "discount_amount": "$25",
+          "codes": [
+            "KFSL25"
+          ]
+        },
+        {
+          "min_purchase": "$349",
+          "discount_amount": "$40",
+          "codes": [
+            "KFSL40"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "8월 메가 브랜드 세일 (Mega Brand Sale / Back to School)",
-      "description": "8월 하반기 최대 규모의 정기 프로모션입니다. 글로벌 'Back to School' 시즌과 연계되어 주요 브랜드 제품에 대해 높은 할인율과 대규모 전용 프로모션 코드가 제공됩니다. 8월 17일부터 본격적인 세일이 시작됩니다.",
-      "valid_from": "2026-08-17T00:00:00+09:00",
-      "valid_until": "2026-08-26T23:59:59+09:00"
-    },
-    {
       "name": "8월 알급날 (AliExpress Pay Day)",
       "description": "매월 말 진행되는 한국 전용 정기 세일입니다. K-Venue 상품을 포함한 국내 인기 상품에 대해 카드사 결제 할인과 전용 코드가 제공됩니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
-      "valid_until": "2026-08-29T23:59:59+09:00"
+      "valid_until": "2026-08-30T23:59:59+09:00"
     },
     {
       "name": "9월 초이스 데이 (September Choice Day)",
