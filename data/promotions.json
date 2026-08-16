@@ -1,129 +1,142 @@
 {
-  "last_updated": "2026-08-16T10:42:00+09:00",
+  "last_updated": "2026-08-16T21:49:00+09:00",
   "active_code_promotions": [
     {
-      "name": "8월 꽁돈대첩 및 Choice 전용 상시 할인 코드",
-      "valid_from": "2026-08-01T00:00:00+09:00",
-      "valid_until": "2026-08-31T23:59:59+09:00",
+      "name": "8월 메가 브랜드 세일 전용 할인 코드 (Mega Brands Sale)",
+      "valid_from": "2026-08-17T00:00:00+09:00",
+      "valid_until": "2026-08-26T23:59:59+09:00",
       "codes": [
         {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "CDKR02",
-            "AEKR2C",
-            "CHOICE02",
-            "FSKR02",
-            "ALICL02",
-            "PPOM02",
-            "ALIBOX02",
-            "KRPD02",
-            "AEKS02"
-          ]
-        },
-        {
-          "min_purchase": "$22",
+          "min_purchase": "$21",
           "discount_amount": "$3",
           "codes": [
-            "GLST03"
+            "PLOK03",
+            "FRLK03",
+            "LIEW03",
+            "KFSL03"
           ]
         },
         {
-          "min_purchase": "$29",
-          "discount_amount": "$3",
+          "min_purchase": "$36",
+          "discount_amount": "$5",
           "codes": [
-            "CDKR03",
-            "AEKR3C",
-            "CHOICE03",
-            "FSKR03",
-            "ALICL03",
-            "PPOM03",
-            "ALIBOX03",
-            "KRPD03"
+            "PLOK05",
+            "WLDU05",
+            "LIEW05",
+            "KFSL05"
           ]
         },
         {
-          "min_purchase": "$34",
-          "discount_amount": "$4",
+          "min_purchase": "$52",
+          "discount_amount": "$7",
           "codes": [
-            "GLST04"
+            "PLOK07",
+            "RBCA07",
+            "LIEW07",
+            "KFSL07"
           ]
         },
         {
-          "min_purchase": "$59",
-          "discount_amount": "$6",
+          "min_purchase": "$92",
+          "discount_amount": "$12",
           "codes": [
-            "CDKR06",
-            "AEKR6C",
-            "CHOICE06",
-            "FSKR06",
-            "ALICL06",
-            "PPOM06",
-            "ALIBOX06"
-          ]
-        },
-        {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
-          "codes": [
-            "CDKR10",
-            "AEKR10C",
-            "CHOICE10",
-            "FSKR10",
-            "ALICL10",
-            "PPOM10",
-            "ALIBOX10"
+            "PLOK12",
+            "QJHT12",
+            "LIEW12",
+            "KFSL12"
           ]
         },
         {
           "min_purchase": "$139",
-          "discount_amount": "$14",
+          "discount_amount": "$17",
           "codes": [
-            "AEKR14C",
-            "CHOICE14",
-            "FSKR14",
-            "ALICL14",
-            "PPOM14",
-            "ALIBOX14"
+            "PLOK17",
+            "SLXZ17",
+            "LIEW17",
+            "KFSL17"
           ]
         },
         {
-          "min_purchase": "$139",
-          "discount_amount": "$15",
+          "min_purchase": "$209",
+          "discount_amount": "$25",
           "codes": [
-            "CDKR15"
+            "PLOK25",
+            "SGDK25",
+            "LIEW25",
+            "KFSL25"
           ]
         },
         {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
-          "codes": [
-            "CDKR26",
-            "AEKR26C",
-            "CHOICE26",
-            "FSKR26",
-            "ALICL26",
-            "PPOM26",
-            "ALIBOX26"
-          ]
-        },
-        {
-          "min_purchase": "$359",
-          "discount_amount": "$35",
-          "codes": [
-            "AEKR35C",
-            "CHOICE35",
-            "FSKR35",
-            "ALICL35",
-            "PPOM35",
-            "ALIBOX35"
-          ]
-        },
-        {
-          "min_purchase": "$359",
+          "min_purchase": "$349",
           "discount_amount": "$40",
           "codes": [
-            "CDKR40"
+            "PLOK40",
+            "WKHR40",
+            "LIEW40",
+            "KFSL40"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "8월 인플루언서 및 슈퍼 브랜드위크 특별 코드",
+      "valid_from": "2026-08-17T00:00:00+09:00",
+      "valid_until": "2026-08-26T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$60",
+          "discount_amount": "$11",
+          "codes": [
+            "ALIKOL11"
+          ]
+        },
+        {
+          "min_purchase": "$120",
+          "discount_amount": "$21",
+          "codes": [
+            "ALIKOL21"
+          ]
+        },
+        {
+          "min_purchase": "$150",
+          "discount_amount": "$24",
+          "codes": [
+            "ALIKOL24"
+          ]
+        },
+        {
+          "min_purchase": "$220",
+          "discount_amount": "$35",
+          "codes": [
+            "ALIKOL35"
+          ]
+        },
+        {
+          "min_purchase": "$68",
+          "discount_amount": "$10",
+          "codes": [
+            "POFX10"
+          ]
+        },
+        {
+          "min_purchase": "$157",
+          "discount_amount": "$23",
+          "codes": [
+            "PITD23"
+          ]
+        },
+        {
+          "min_purchase": "$249",
+          "discount_amount": "$33",
+          "codes": [
+            "PLRM35"
+          ]
+        },
+        {
+          "min_purchase": "$380",
+          "discount_amount": "$50",
+          "codes": [
+            "PEWK49"
           ]
         }
       ]
@@ -197,24 +210,117 @@
           ]
         }
       ]
+    },
+    {
+      "name": "8월 상시 할인 코드 (Choice/꽁돈대첩)",
+      "valid_from": "2026-08-01T00:00:00+09:00",
+      "valid_until": "2026-08-31T23:59:59+09:00",
+      "codes": [
+        {
+          "min_purchase": "$19",
+          "discount_amount": "$2",
+          "codes": [
+            "CDKR02",
+            "AEKR2C",
+            "CHOICE02",
+            "FSKR02",
+            "ALICL02",
+            "PPOM02",
+            "ALIBOX02",
+            "KRPD02",
+            "AEKS02"
+          ]
+        },
+        {
+          "min_purchase": "$29",
+          "discount_amount": "$3",
+          "codes": [
+            "CDKR03",
+            "AEKR3C",
+            "CHOICE03",
+            "FSKR03",
+            "ALICL03",
+            "PPOM03",
+            "ALIBOX03",
+            "KRPD03"
+          ]
+        },
+        {
+          "min_purchase": "$59",
+          "discount_amount": "$6",
+          "codes": [
+            "CDKR06",
+            "AEKR6C",
+            "CHOICE06",
+            "FSKR06",
+            "ALICL06",
+            "PPOM06",
+            "ALIBOX06"
+          ]
+        },
+        {
+          "min_purchase": "$89",
+          "discount_amount": "$10",
+          "codes": [
+            "CDKR10",
+            "AEKR10C",
+            "CHOICE10",
+            "FSKR10",
+            "ALICL10",
+            "PPOM10",
+            "ALIBOX10"
+          ]
+        },
+        {
+          "min_purchase": "$139",
+          "discount_amount": "$14",
+          "codes": [
+            "AEKR14C",
+            "CHOICE14",
+            "FSKR14",
+            "ALICL14",
+            "PPOM14",
+            "ALIBOX14"
+          ]
+        },
+        {
+          "min_purchase": "$239",
+          "discount_amount": "$26",
+          "codes": [
+            "CDKR26",
+            "AEKR26C",
+            "CHOICE26",
+            "FSKR26",
+            "ALICL26",
+            "PPOM26",
+            "ALIBOX26"
+          ]
+        },
+        {
+          "min_purchase": "$359",
+          "discount_amount": "$35",
+          "codes": [
+            "AEKR35C",
+            "CHOICE35",
+            "FSKR35",
+            "ALICL35",
+            "PPOM35",
+            "ALIBOX35"
+          ]
+        }
+      ]
     }
   ],
   "upcoming_promotions": [
     {
-      "name": "8월 메가 브랜드 세일 (Mega Brand Sale)",
-      "description": "연중 최대 규모의 브랜드 할인 행사로, 테크, 패션, 가전 등 인기 카테고리의 브랜드 제품을 대상으로 대규모 할인 코드와 카드사 결제 혜택이 제공됩니다.",
-      "valid_from": "2026-08-17T00:00:00+09:00",
-      "valid_until": "2026-08-26T23:59:59+09:00"
-    },
-    {
       "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일입니다. K-Venue 상품 및 국내 인기 브랜드 제품에 대해 높은 할인율의 전용 코드와 결제 혜택이 집중 제공됩니다.",
+      "description": "매월 말 진행되는 한국 전용 정기 세일입니다. K-Venue 입점 상품 및 국내 인기 브랜드 제품을 대상으로 전용 코드와 카드사 결제 혜택이 집중 제공됩니다.",
       "valid_from": "2026-08-27T00:00:00+09:00",
       "valid_until": "2026-08-29T23:59:59+09:00"
     },
     {
       "name": "9월 초이스 데이 (September Choice Day)",
-      "description": "9월의 시작과 함께 진행되는 가성비 중심 정기 세일입니다. 초이스 상품군 무료 배송 및 9월 신학기 테마에 맞춘 전용 할인 코드가 제공될 예정입니다.",
+      "description": "9월의 시작을 알리는 정기 할인 행사입니다. 초이스 상품군 무료 배송 혜택과 함께 가을 신학기 대비 가성비 아이템들을 위한 전용 할인 코드가 제공됩니다.",
       "valid_from": "2026-09-01T00:00:00+09:00",
       "valid_until": "2026-09-07T23:59:59+09:00"
     }
