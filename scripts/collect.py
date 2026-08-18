@@ -53,6 +53,33 @@ class Collection(BaseModel):
     upcoming_promotions: list[Upcoming]
 
 
+class CandidateTier(BaseModel):
+    minimum_usd: float = Field(alias="min")
+    discount_usd: float = Field(alias="off")
+    codes: list[str]
+
+
+class CandidatePromotion(BaseModel):
+    name: str
+    valid_from: datetime = Field(alias="from")
+    valid_until: datetime = Field(alias="until")
+    source_urls: list[str] = Field(alias="sources")
+    tiers: list[CandidateTier]
+
+
+class CandidateUpcoming(BaseModel):
+    name: str
+    description: str
+    valid_from: datetime = Field(alias="from")
+    valid_until: datetime = Field(alias="until")
+    source_urls: list[str] = Field(alias="sources")
+
+
+class CandidateCollection(BaseModel):
+    active_promotions: list[CandidatePromotion] = Field(alias="active")
+    upcoming_promotions: list[CandidateUpcoming] = Field(alias="upcoming")
+
+
 def prompt_discovery(now: datetime) -> str:
     return f"""현재 시각은 {now.isoformat()} (KST)이다.
 
@@ -67,40 +94,22 @@ def prompt_discovery(now: datetime) -> str:
 - 코드 이름의 패턴을 보고 같은 계열 코드를 추측하거나 완성하지 않는다.
 - 한국 적용이 불명확한 코드, 신규·첫 구매·선별 계정 전용 코드, 이미 만료된 코드는 제외한다.
 - 같은 할인 구간의 서로 다른 공개 코드를 모두 찾는다.
-- 각 코드의 source_urls에는 해당 코드와 조건을 실제로 명시한 직접 페이지 URL만 넣는다.
-- 앞으로 예정된 행사는 신뢰할 수 있는 날짜 근거가 있을 때만 upcoming_promotions에 넣고 source_urls를 남기며 코드는 미리 추측하지 않는다.
+- 각 행사의 sources에는 그 행사의 코드와 조건을 실제로 명시한 직접 페이지 URL만 넣는다. 코드마다 URL을 반복하지 않는다.
+- 앞으로 예정된 행사는 신뢰할 수 있는 날짜 근거가 있을 때만 upcoming에 넣고 sources를 남기며 코드는 미리 추측하지 않는다.
+- 예정 행사 description은 한국어 60자 이내로 쓴다.
 - 모든 날짜는 +09:00 시간대를 포함한 ISO 8601로 반환한다.
 
 결과에는 현재 활성 코드와 확인 가능한 다음 행사만 포함하라."""
 
 
-def prompt_verification(now: datetime, candidates: Collection) -> str:
-    payload = candidates.model_dump_json(indent=2)
-    return f"""현재 시각은 {now.isoformat()} (KST)이다.
-
-아래 후보를 만든 조사자와 독립된 검증자처럼 행동하라. 후보를 사실로 가정하지 말고 웹을 다시 검색한다.
-
-게시 기준:
-- 정확한 코드 문자열과 구매 조건, 한국 적용 여부, 현재 유효 기간이 확인되어야 한다.
-- AliExpress 공식 출처, 코드 전문 최신 한국 출처, 또는 서로 독립된 최신 출처들이 같은 내용을 뒷받침해야 한다.
-- source_urls에는 검증에 실제 사용한 직접 URL만 남긴다.
-- 검색 스니펫만 모호하게 언급하거나 날짜가 과거인 페이지는 근거가 아니다.
-- 코드 패턴에서 파생한 값, 출처에 없는 값, 첫 구매·선별 계정 전용 코드는 제거한다.
-- 검증되지 않은 후보를 살리기보다 제거한다.
-- 누락된 현재 코드를 새로 발견하면 같은 기준으로 검증한 뒤 추가할 수 있다.
-- 후보에 한 행사만 있더라도 메인 세일, 브랜드위크, Ali's Pick, Choice Day, 월급날 등 다른 동시 행사가 없는지 별도로 확인한다.
-- 모든 날짜는 +09:00 시간대를 포함한 ISO 8601로 반환한다.
-
-후보:
-{payload}
-"""
-
-
-def ask(client: genai.Client, prompt: str) -> Collection:
+def ask(client: genai.Client, prompt: str) -> CandidateCollection:
     config = types.GenerateContentConfig(
         response_mime_type="application/json",
-        response_schema=Collection.model_json_schema(),
+        response_schema=CandidateCollection.model_json_schema(by_alias=True),
         tools=[types.Tool(google_search=types.GoogleSearch())],
+        thinking_config=types.ThinkingConfig(thinking_level="low"),
+        max_output_tokens=4096,
+        temperature=0.1,
     )
     error = None
     for attempt in range(3):
@@ -111,12 +120,46 @@ def ask(client: genai.Client, prompt: str) -> Collection:
             usage = response.usage_metadata
             if usage:
                 print(f"Gemini tokens: input={usage.prompt_token_count or 0}, output={usage.candidates_token_count or 0}, thinking={usage.thoughts_token_count or 0}, total={usage.total_token_count or 0}")
-            return Collection.model_validate_json(response.text)
+            return CandidateCollection.model_validate_json(response.text)
         except Exception as exc:  # API and schema errors are retried together.
             error = exc
             if attempt < 2:
                 time.sleep(4 * (attempt + 1))
     raise RuntimeError(f"Gemini request failed after 3 attempts: {error}")
+
+
+def expand_candidates(result: CandidateCollection) -> Collection:
+    active = [
+        Promotion(
+            name=promotion.name,
+            valid_from=promotion.valid_from,
+            valid_until=promotion.valid_until,
+            tiers=[
+                Tier(
+                    minimum_usd=tier.minimum_usd,
+                    discount_usd=tier.discount_usd,
+                    codes=[Coupon(value=value, source_urls=promotion.source_urls) for value in tier.codes],
+                )
+                for tier in promotion.tiers
+            ],
+        )
+        for promotion in result.active_promotions
+    ]
+    upcoming = [
+        Upcoming(
+            name=event.name,
+            description=event.description,
+            valid_from=event.valid_from,
+            valid_until=event.valid_until,
+            source_urls=event.source_urls,
+        )
+        for event in result.upcoming_promotions
+    ]
+    return Collection(active_promotions=active, upcoming_promotions=upcoming)
+
+
+def candidate_count(collection: CandidateCollection) -> int:
+    return sum(len(tier.codes) for promotion in collection.active_promotions for tier in promotion.tiers)
 
 
 def domain(url: str) -> str | None:
@@ -349,11 +392,11 @@ def main() -> None:
 
     print(f"Discovering current Korean coupons with {MODEL}...")
     candidates = ask(client, prompt_discovery(now))
-    print(f"Discovered {code_count(candidates)} candidates; verifying independently...")
-    fresh = canonicalize(ask(client, prompt_verification(now, candidates)), now)
+    print(f"Discovered {candidate_count(candidates)} candidates; checking source pages...")
+    fresh = canonicalize(expand_candidates(candidates), now)
     verified = canonicalize(merge_verified(previous, fresh), now)
     if code_count(verified) == 0:
-        raise RuntimeError("Safety stop: verification returned no active coupon codes")
+        raise RuntimeError("Safety stop: source verification returned no active coupon codes")
     changed = save_if_changed(verified, now)
     print(f"Verified {code_count(verified)} codes across {len(verified.active_promotions)} promotions. Changed={changed}")
 
