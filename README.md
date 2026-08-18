@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 세일닷컴
 
-## Getting Started
+한국에서 현재 사용할 수 있는 AliExpress 프로모션 코드를 보여주는 작은 Next.js 사이트입니다.
 
-First, run the development server:
+## 운영 방식
+
+- `scripts/collect.py`가 Gemini 3.7 Flash로 후보를 찾고, 같은 모델의 독립된 두 번째 호출로 다시 검증합니다.
+- 공식·지정 전문 출처에서 코드 원문이 확인되거나, 그 밖의 독립된 최신 출처 두 곳 이상이 일치할 때만 `data/promotions.json`에 저장합니다.
+- GitHub Actions가 KST 기준 6시간마다 확인하며, 실제 내용이 바뀔 때만 커밋합니다.
+- 수집에 실패하면 기존 데이터를 덮어쓰지 않고, 프런트엔드는 만료된 코드를 자동으로 숨깁니다.
+
+GitHub 저장소의 Actions secret에는 `GEMINI_API_KEY` 하나만 필요합니다.
+
+## 확인
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm ci
+npm run check
+npm run build
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

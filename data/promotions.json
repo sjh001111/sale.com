@@ -1,367 +1,265 @@
 {
-  "last_updated": "2026-08-18T21:55:00+09:00",
-  "active_code_promotions": [
+  "schema_version": 2,
+  "last_updated": "2026-08-19T07:57:31+09:00",
+  "model": "gemini-3.7-flash",
+  "active_promotions": [
     {
-      "name": "8월 메가 브랜드 세일 전용 할인 코드 (Mega Brands Sale)",
+      "name": "알리's Pick (브랜드에 ALL-IN)",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00",
-      "codes": [
+      "tiers": [
         {
-          "min_purchase": "$21",
-          "discount_amount": "$3",
+          "minimum_usd": 60.0,
+          "discount_usd": 11.0,
           "codes": [
-            "PLOK03",
-            "FRLK03",
-            "LIEW03",
-            "KFSL03",
-            "AFKR03",
-            "SSKR03"
+            {
+              "value": "ALIKOL11",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$36",
-          "discount_amount": "$5",
+          "minimum_usd": 120.0,
+          "discount_usd": 21.0,
           "codes": [
-            "PLOK05",
-            "WLDU05",
-            "LIEW05",
-            "KFSL05",
-            "AFKR05",
-            "SSKR05"
+            {
+              "value": "ALIKOL21",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$52",
-          "discount_amount": "$7",
+          "minimum_usd": 150.0,
+          "discount_usd": 24.0,
           "codes": [
-            "PLOK07",
-            "RBCA07",
-            "LIEW07",
-            "KFSL07",
-            "AFKR07",
-            "SSKR07"
+            {
+              "value": "ALIKOL24",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$92",
-          "discount_amount": "$12",
+          "minimum_usd": 220.0,
+          "discount_usd": 35.0,
           "codes": [
-            "PLOK12",
-            "QJHT12",
-            "LIEW12",
-            "KFSL12",
-            "AFKR12",
-            "SSKR12"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$17",
-          "codes": [
-            "PLOK17",
-            "SLXZ17",
-            "LIEW17",
-            "KFSL17",
-            "AFKR17",
-            "SSKR17"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$25",
-          "codes": [
-            "PLOK25",
-            "SGDK25",
-            "LIEW25",
-            "KFSL25",
-            "AFKR25",
-            "SSKR25"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$40",
-          "codes": [
-            "PLOK40",
-            "WKHR40",
-            "LIEW40",
-            "KFSL40",
-            "AFKR40",
-            "SSKR40"
+            {
+              "value": "ALIKOL35",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
           ]
         }
       ]
     },
     {
-      "name": "8월 인플루언서 및 슈퍼 브랜드위크 특별 코드",
+      "name": "브랜드에 ALL-IN (Mega Brands Sale)",
       "valid_from": "2026-08-17T00:00:00+09:00",
       "valid_until": "2026-08-26T23:59:59+09:00",
-      "codes": [
+      "tiers": [
         {
-          "min_purchase": "$60",
-          "discount_amount": "$11",
+          "minimum_usd": 21.0,
+          "discount_usd": 3.0,
           "codes": [
-            "ALIKOL11",
-            "AEPPOM11",
-            "AECL11",
-            "AEBOX11",
-            "DABA11"
+            {
+              "value": "FRLK03",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "PLOK03",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$120",
-          "discount_amount": "$21",
+          "minimum_usd": 36.0,
+          "discount_usd": 5.0,
           "codes": [
-            "ALIKOL21",
-            "AEPPOM21",
-            "AECL21",
-            "AEBOX21",
-            "DABA21"
+            {
+              "value": "PLOK05",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "WLDU05",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$150",
-          "discount_amount": "$24",
+          "minimum_usd": 52.0,
+          "discount_usd": 7.0,
           "codes": [
-            "ALIKOL24",
-            "AEPPOM24",
-            "AECL24",
-            "AEBOX24",
-            "DABA24"
+            {
+              "value": "PLOK07",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "RBCA07",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$220",
-          "discount_amount": "$35",
+          "minimum_usd": 92.0,
+          "discount_usd": 12.0,
           "codes": [
-            "ALIKOL35",
-            "AEPPOM35",
-            "AECL35",
-            "AEBOX35",
-            "DABA35"
+            {
+              "value": "PLOK12",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "QJHT12",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$68",
-          "discount_amount": "$10",
+          "minimum_usd": 139.0,
+          "discount_usd": 17.0,
           "codes": [
-            "POFX10"
+            {
+              "value": "PLOK17",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "SLXZ17",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$157",
-          "discount_amount": "$23",
+          "minimum_usd": 209.0,
+          "discount_usd": 25.0,
           "codes": [
-            "PITD23"
+            {
+              "value": "PLOK25",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "SGDK25",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$249",
-          "discount_amount": "$33",
+          "minimum_usd": 349.0,
+          "discount_usd": 40.0,
           "codes": [
-            "PLRM35"
-          ]
-        },
-        {
-          "min_purchase": "$380",
-          "discount_amount": "$50",
-          "codes": [
-            "PEWK49"
+            {
+              "value": "PLOK40",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "WKHR40",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         }
       ]
     },
     {
-      "name": "8월 한국 전용 특별 선착순 할인 코드 (DOUBLEKR)",
-      "valid_from": "2026-08-14T00:00:00+09:00",
-      "valid_until": "2026-08-31T23:59:59+09:00",
-      "codes": [
+      "name": "슈퍼 브랜드위크",
+      "valid_from": "2026-08-17T00:00:00+09:00",
+      "valid_until": "2026-08-26T23:59:59+09:00",
+      "tiers": [
         {
-          "min_purchase": "$25",
-          "discount_amount": "$4",
+          "minimum_usd": 68.0,
+          "discount_usd": 10.0,
           "codes": [
-            "DOUBLEKR04"
+            {
+              "value": "POFX10",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$38",
-          "discount_amount": "$6",
+          "minimum_usd": 157.0,
+          "discount_usd": 23.0,
           "codes": [
-            "DOUBLEKR06"
+            {
+              "value": "PITD23",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$54",
-          "discount_amount": "$8",
+          "minimum_usd": 249.0,
+          "discount_usd": 33.0,
           "codes": [
-            "DOUBLEKR08"
+            {
+              "value": "PLRM35",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         },
         {
-          "min_purchase": "$89",
-          "discount_amount": "$13",
+          "minimum_usd": 380.0,
+          "discount_usd": 50.0,
           "codes": [
-            "DOUBLEKR13"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$20",
-          "codes": [
-            "DOUBLEKR20"
-          ]
-        },
-        {
-          "min_purchase": "$209",
-          "discount_amount": "$31",
-          "codes": [
-            "DOUBLEKR31"
-          ]
-        },
-        {
-          "min_purchase": "$349",
-          "discount_amount": "$52",
-          "codes": [
-            "DOUBLEKR52"
-          ]
-        },
-        {
-          "min_purchase": "$559",
-          "discount_amount": "$83",
-          "codes": [
-            "DOUBLEKR83"
-          ]
-        },
-        {
-          "min_purchase": "$679",
-          "discount_amount": "$102",
-          "codes": [
-            "DOUBLEKR102"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "8월 상시 할인 코드 (Choice/꽁돈대첩)",
-      "valid_from": "2026-08-01T00:00:00+09:00",
-      "valid_until": "2026-08-31T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$19",
-          "discount_amount": "$2",
-          "codes": [
-            "CDKR02",
-            "AEKR2C",
-            "CHOICE02",
-            "FSKR02",
-            "ALICL02",
-            "PPOM02",
-            "ALIBOX02",
-            "KRPD02",
-            "AEKS02"
-          ]
-        },
-        {
-          "min_purchase": "$29",
-          "discount_amount": "$3",
-          "codes": [
-            "CDKR03",
-            "AEKR3C",
-            "CHOICE03",
-            "FSKR03",
-            "ALICL03",
-            "PPOM03",
-            "ALIBOX03",
-            "KRPD03"
-          ]
-        },
-        {
-          "min_purchase": "$59",
-          "discount_amount": "$6",
-          "codes": [
-            "CDKR06",
-            "AEKR6C",
-            "CHOICE06",
-            "FSKR06",
-            "ALICL06",
-            "PPOM06",
-            "ALIBOX06",
-            "KRPD06"
-          ]
-        },
-        {
-          "min_purchase": "$89",
-          "discount_amount": "$10",
-          "codes": [
-            "CDKR10",
-            "AEKR10C",
-            "CHOICE10",
-            "FSKR10",
-            "ALICL10",
-            "PPOM10",
-            "ALIBOX10",
-            "KRPD10"
-          ]
-        },
-        {
-          "min_purchase": "$139",
-          "discount_amount": "$14",
-          "codes": [
-            "AEKR14C",
-            "CHOICE14",
-            "FSKR14",
-            "ALICL14",
-            "PPOM14",
-            "ALIBOX14",
-            "KRPD14"
-          ]
-        },
-        {
-          "min_purchase": "$239",
-          "discount_amount": "$26",
-          "codes": [
-            "CDKR26",
-            "AEKR26C",
-            "CHOICE26",
-            "FSKR26",
-            "ALICL26",
-            "PPOM26",
-            "ALIBOX26",
-            "KRPD26"
-          ]
-        },
-        {
-          "min_purchase": "$359",
-          "discount_amount": "$35",
-          "codes": [
-            "AEKR35C",
-            "CHOICE35",
-            "FSKR35",
-            "ALICL35",
-            "PPOM35",
-            "ALIBOX35",
-            "KRPD35"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "8월 K-Venue 한국 브랜드 전용 선착순 코드",
-      "valid_from": "2026-08-18T00:00:00+09:00",
-      "valid_until": "2026-08-25T23:59:59+09:00",
-      "codes": [
-        {
-          "min_purchase": "$30",
-          "discount_amount": "$4",
-          "codes": [
-            "KVENUE04"
-          ]
-        },
-        {
-          "min_purchase": "$100",
-          "discount_amount": "$15",
-          "codes": [
-            "KVENUE15"
+            {
+              "value": "PEWK49",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
           ]
         }
       ]
@@ -369,22 +267,15 @@
   ],
   "upcoming_promotions": [
     {
-      "name": "8월 알급날 (AliExpress Pay Day)",
-      "description": "매월 말 진행되는 한국 전용 정기 세일로, 국내 인기 브랜드 제품과 K-Venue 상품을 대상으로 강력한 코드 및 결제 혜택이 제공됩니다.",
+      "name": "8월 알급날 세일",
+      "description": "8월 말 정기 알급날 할인 프로모션",
       "valid_from": "2026-08-27T00:00:00+09:00",
-      "valid_until": "2026-08-29T23:59:59+09:00"
-    },
-    {
-      "name": "9월 초이스 데이 (September Choice Day)",
-      "description": "매월 초 진행되는 정기 행사로, 초이스 상품 무료 배송 및 가을 시즌 대비 가성비 아이템을 위한 할인 코드가 제공됩니다.",
-      "valid_from": "2026-09-01T00:00:00+09:00",
-      "valid_until": "2026-09-07T23:59:59+09:00"
-    },
-    {
-      "name": "9월 가을 맞이 특별 기획전",
-      "description": "가을 학기 개강 및 추석 시즌을 대비한 대규모 세일로 패션, 가구, IT 기기 카테고리 중심의 할인이 예정되어 있습니다.",
-      "valid_from": "2026-09-14T00:00:00+09:00",
-      "valid_until": "2026-09-20T23:59:59+09:00"
+      "valid_until": "2026-08-29T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com",
+        "https://alicouponkorea.com/",
+        "https://kk-code.com/"
+      ]
     }
   ]
 }

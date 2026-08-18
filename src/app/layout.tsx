@@ -1,37 +1,28 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { headers } from "next/headers";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
+export async function generateMetadata(): Promise<Metadata> {
+  const requestHeaders = await headers();
+  const host = requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host") ?? "localhost:3000";
+  const protocol = requestHeaders.get("x-forwarded-proto") ?? (host.startsWith("localhost") ? "http" : "https");
+  const image = `${protocol}://${host}/og.png`;
+  const title = "세일닷컴 | 지금 되는 알리익스프레스 할인코드";
+  const description = "한국에서 지금 사용할 수 있는 알리익스프레스 프로모션 코드만 찾아 교차 확인합니다.";
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+  return {
+    title,
+    description,
+    icons: { icon: "/favicon.svg" },
+    openGraph: { title, description, type: "website", locale: "ko_KR", images: [image] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
+  };
+}
 
-export const metadata: Metadata = {
-  title: "세일닷컴 - 알리익스프레스 프로모션 코드 & 할인 정보",
-  description: "알리익스프레스 최신 프로모션 코드, 할인 쿠폰, 세일 일정을 한눈에 확인하세요.",
-  icons: {
-    icon: "/favicon.svg",
-  },
-};
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="ko">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
