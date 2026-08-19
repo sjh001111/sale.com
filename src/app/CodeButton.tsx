@@ -22,7 +22,7 @@ export default function CodeButton({ code, href }: { code: string; href: string 
       aria-label={`${code} 복사하고 알리익스프레스 열기`}
     >
       <span>{code}</span>
-      <span className="copyState" aria-live="polite">{copied ? "복사됨" : "복사·열기"}</span>
+      <span className="copyState" aria-live="polite">{copied ? "복사됨" : "복사"}</span>
     </a>
   );
 }

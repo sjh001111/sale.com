@@ -75,7 +75,7 @@ export default function Home() {
           <div className="overview">
             <p className="liveSummary"><span /> 한국 적용 코드 확인 중</p>
             <h1 id="page-title">지금 되는 할인코드 <strong>{codeCount}개</strong></h1>
-            <p><b>{active.length}개 행사</b> · 코드 클릭 시 복사 + 알리 열기</p>
+            <p><b>{active.length}개 행사</b> · 코드를 누르면 자동 복사</p>
           </div>
         </section>
 
