@@ -116,6 +116,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   color: var(--ink);
   cursor: pointer;
   font: inherit;
+  text-decoration: none;
   transition: border-color .15s, background .15s;
 }
 .codeButton > span:first-child { min-width: 0; overflow-wrap: anywhere; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 13px; font-weight: 850; letter-spacing: .01em; }
@@ -170,7 +171,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .cardHeader { min-height: auto; padding: 15px; }
   .cardHeader h2 { font-size: 19px; }
   .tierRow { min-height: 62px; grid-template-columns: 90px 1fr; padding-inline: 10px; gap: 8px; }
-  .codeButton { min-height: 40px; flex: 1 1 112px; }
+  .codeButton { min-height: 40px; padding-inline: 5px; flex: 1 1 118px; gap: 4px; }
   .nextSale { margin-bottom: 10px; grid-template-columns: auto 1fr; gap: 7px 10px; }
   .nextSale time { grid-column: 2; }
   .footer { padding-bottom: 22px; flex-direction: column; gap: 5px; }

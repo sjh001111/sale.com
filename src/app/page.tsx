@@ -75,7 +75,7 @@ export default function Home() {
           <div className="overview">
             <p className="liveSummary"><span /> 한국 적용 코드 확인 중</p>
             <h1 id="page-title">지금 되는 할인코드 <strong>{codeCount}개</strong></h1>
-            <p><b>{active.length}개 행사</b> · 구매 조건별 코드 클릭 복사</p>
+            <p><b>{active.length}개 행사</b> · 코드 클릭 시 복사 + 알리 열기</p>
           </div>
         </section>
 
@@ -102,7 +102,9 @@ export default function Home() {
                         <small>${tier.minimum_usd} 이상</small>
                       </div>
                       <div className="codes">
-                        {tier.codes.map((code) => <CodeButton code={code.value} key={code.value} />)}
+                        {tier.codes.map((code) => (
+                          <CodeButton code={code.value} href={AFFILIATE_URL} key={code.value} />
+                        ))}
                       </div>
                     </section>
                   ))}
@@ -129,7 +131,7 @@ export default function Home() {
 
       <footer className="shell footer">
         <p>© {new Date(now).getFullYear()} 세일닷컴</p>
-        <p>코드는 소진되거나 계정별 조건이 다를 수 있습니다. 일부 링크를 통해 수수료를 받을 수 있습니다.</p>
+        <p>코드는 소진되거나 계정별 조건이 다를 수 있습니다. 코드 버튼은 제휴 링크로 열리며, 구매 시 수수료를 받을 수 있습니다.</p>
       </footer>
     </>
   );

@@ -2,19 +2,27 @@
 
 import { useState } from "react";
 
-export default function CodeButton({ code }: { code: string }) {
+export default function CodeButton({ code, href }: { code: string; href: string }) {
   const [copied, setCopied] = useState(false);
 
-  async function copy() {
-    await navigator.clipboard.writeText(code);
-    setCopied(true);
-    window.setTimeout(() => setCopied(false), 1600);
+  function copy() {
+    void navigator.clipboard.writeText(code).then(() => {
+      setCopied(true);
+      window.setTimeout(() => setCopied(false), 1600);
+    }).catch(() => undefined);
   }
 
   return (
-    <button className="codeButton" onClick={copy} aria-label={`${code} 복사`} type="button">
+    <a
+      className="codeButton"
+      href={href}
+      target="_blank"
+      rel="sponsored noopener noreferrer"
+      onClick={copy}
+      aria-label={`${code} 복사하고 알리익스프레스 열기`}
+    >
       <span>{code}</span>
-      <span className="copyState" aria-live="polite">{copied ? "복사됨" : "복사"}</span>
-    </button>
+      <span className="copyState" aria-live="polite">{copied ? "복사됨" : "복사·열기"}</span>
+    </a>
   );
 }
