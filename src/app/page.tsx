@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import Image from "next/image";
 import CodeButton from "./CodeButton";
 
 export const dynamic = "force-dynamic";
@@ -54,19 +55,28 @@ export default function Home() {
           <div className="headerActions">
             <p>변경 {updatedAt.format(new Date(data.last_updated))}</p>
             <a href={AFFILIATE_URL} target="_blank" rel="sponsored noopener noreferrer">
-              알리 열기 <span aria-hidden="true">↗</span>
+              알리 열기
             </a>
           </div>
         </div>
       </header>
 
       <main className="shell" id="top">
-        <section className="overview" aria-labelledby="page-title">
-          <div>
+        <section className="intro" aria-labelledby="page-title">
+          <div className="brandVisual">
+            <Image
+              src="/og.png"
+              alt="세일닷컴, 할인코드 되는 것만"
+              fill
+              priority
+              sizes="(max-width: 760px) 100vw, 62vw"
+            />
+          </div>
+          <div className="overview">
             <p className="liveSummary"><span /> 한국 적용 코드 확인 중</p>
             <h1 id="page-title">지금 되는 할인코드 <strong>{codeCount}개</strong></h1>
+            <p><b>{active.length}개 행사</b> · 구매 조건별 코드 클릭 복사</p>
           </div>
-          <p><b>{active.length}개 행사</b> · 구매 조건별 코드 클릭 복사</p>
         </section>
 
         {active.length > 0 ? (
@@ -75,8 +85,11 @@ export default function Home() {
               <article className="promotionCard" key={`${promotion.name}-${promotion.valid_until}`}>
                 <header className="cardHeader">
                   <div className="cardMeta">
-                    <span>LIVE</span>
-                    <time>{shortDate.format(new Date(promotion.valid_from))}–{shortDate.format(new Date(promotion.valid_until))}</time>
+                    <span>확인 완료</span>
+                    <div className="cardMetaRight">
+                      <time>{shortDate.format(new Date(promotion.valid_from))}–{shortDate.format(new Date(promotion.valid_until))}</time>
+                      <strong>{countCodes(promotion)}개</strong>
+                    </div>
                   </div>
                   <h2>{promotion.name}</h2>
                 </header>
