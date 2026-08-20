@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-08-19T07:57:31+09:00",
+  "last_updated": "2026-08-20T12:54:52+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -70,15 +70,13 @@
             {
               "value": "FRLK03",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "PLOK03",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -90,15 +88,13 @@
             {
               "value": "PLOK05",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "WLDU05",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -110,15 +106,13 @@
             {
               "value": "PLOK07",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "RBCA07",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -130,15 +124,13 @@
             {
               "value": "PLOK12",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "QJHT12",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -150,15 +142,13 @@
             {
               "value": "PLOK17",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "SLXZ17",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -170,15 +160,13 @@
             {
               "value": "PLOK25",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "SGDK25",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -190,15 +178,13 @@
             {
               "value": "PLOK40",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "WKHR40",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -217,8 +203,7 @@
             {
               "value": "POFX10",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -230,8 +215,7 @@
             {
               "value": "PITD23",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -243,8 +227,7 @@
             {
               "value": "PLRM35",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -256,8 +239,7 @@
             {
               "value": "PEWK49",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
