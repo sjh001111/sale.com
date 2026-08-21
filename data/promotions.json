@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-08-20T18:46:52+09:00",
+  "last_updated": "2026-08-22T00:44:37+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -9,6 +9,18 @@
       "valid_until": "2026-08-26T23:59:59+09:00",
       "tiers": [
         {
+          "minimum_usd": 50.0,
+          "discount_usd": 9.0,
+          "codes": [
+            {
+              "value": "ALIPICK50",
+              "source_urls": [
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
           "minimum_usd": 60.0,
           "discount_usd": 11.0,
           "codes": [
@@ -16,6 +28,18 @@
               "value": "ALIKOL11",
               "source_urls": [
                 "https://alicouponkorea.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 100.0,
+          "discount_usd": 17.0,
+          "codes": [
+            {
+              "value": "ALIPICK100",
+              "source_urls": [
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -40,6 +64,12 @@
               "value": "ALIKOL24",
               "source_urls": [
                 "https://alicouponkorea.com/"
+              ]
+            },
+            {
+              "value": "ALIPICK150",
+              "source_urls": [
+                "https://kk-code.com/"
               ]
             }
           ]
