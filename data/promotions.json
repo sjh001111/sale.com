@@ -1,113 +1,20 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-08-22T00:44:37+09:00",
+  "last_updated": "2026-08-27T01:32:41+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
-      "name": "알리's Pick (브랜드에 ALL-IN)",
-      "valid_from": "2026-08-17T00:00:00+09:00",
-      "valid_until": "2026-08-26T23:59:59+09:00",
+      "name": "알리익스프레스 8월 알급날 (AliExpress Pay Day)",
+      "valid_from": "2026-08-27T00:00:00+09:00",
+      "valid_until": "2026-08-29T23:59:59+09:00",
       "tiers": [
         {
-          "minimum_usd": 50.0,
-          "discount_usd": 9.0,
+          "minimum_usd": 19.0,
+          "discount_usd": 2.0,
           "codes": [
             {
-              "value": "ALIPICK50",
+              "value": "GBAP02",
               "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 60.0,
-          "discount_usd": 11.0,
-          "codes": [
-            {
-              "value": "ALIKOL11",
-              "source_urls": [
-                "https://alicouponkorea.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 100.0,
-          "discount_usd": 17.0,
-          "codes": [
-            {
-              "value": "ALIPICK100",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 120.0,
-          "discount_usd": 21.0,
-          "codes": [
-            {
-              "value": "ALIKOL21",
-              "source_urls": [
-                "https://alicouponkorea.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 150.0,
-          "discount_usd": 24.0,
-          "codes": [
-            {
-              "value": "ALIKOL24",
-              "source_urls": [
-                "https://alicouponkorea.com/"
-              ]
-            },
-            {
-              "value": "ALIPICK150",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 220.0,
-          "discount_usd": 35.0,
-          "codes": [
-            {
-              "value": "ALIKOL35",
-              "source_urls": [
-                "https://alicouponkorea.com/"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "브랜드에 ALL-IN (Mega Brands Sale)",
-      "valid_from": "2026-08-17T00:00:00+09:00",
-      "valid_until": "2026-08-26T23:59:59+09:00",
-      "tiers": [
-        {
-          "minimum_usd": 21.0,
-          "discount_usd": 3.0,
-          "codes": [
-            {
-              "value": "FRLK03",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "PLOK03",
-              "source_urls": [
-                "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
             }
@@ -115,178 +22,11 @@
         },
         {
           "minimum_usd": 36.0,
-          "discount_usd": 5.0,
+          "discount_usd": 4.0,
           "codes": [
             {
-              "value": "PLOK05",
+              "value": "GBAP04",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "WLDU05",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 52.0,
-          "discount_usd": 7.0,
-          "codes": [
-            {
-              "value": "PLOK07",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "RBCA07",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 92.0,
-          "discount_usd": 12.0,
-          "codes": [
-            {
-              "value": "PLOK12",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "QJHT12",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 139.0,
-          "discount_usd": 17.0,
-          "codes": [
-            {
-              "value": "PLOK17",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "SLXZ17",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 209.0,
-          "discount_usd": 25.0,
-          "codes": [
-            {
-              "value": "PLOK25",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "SGDK25",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 349.0,
-          "discount_usd": 40.0,
-          "codes": [
-            {
-              "value": "PLOK40",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "WKHR40",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "슈퍼 브랜드위크",
-      "valid_from": "2026-08-17T00:00:00+09:00",
-      "valid_until": "2026-08-26T23:59:59+09:00",
-      "tiers": [
-        {
-          "minimum_usd": 68.0,
-          "discount_usd": 10.0,
-          "codes": [
-            {
-              "value": "POFX10",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 157.0,
-          "discount_usd": 23.0,
-          "codes": [
-            {
-              "value": "PITD23",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 249.0,
-          "discount_usd": 33.0,
-          "codes": [
-            {
-              "value": "PLRM35",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 380.0,
-          "discount_usd": 50.0,
-          "codes": [
-            {
-              "value": "PEWK49",
-              "source_urls": [
-                "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
             }
@@ -295,17 +35,5 @@
       ]
     }
   ],
-  "upcoming_promotions": [
-    {
-      "name": "8월 알급날 세일",
-      "description": "8월 말 정기 알급날 할인 프로모션",
-      "valid_from": "2026-08-27T00:00:00+09:00",
-      "valid_until": "2026-08-29T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com",
-        "https://alicouponkorea.com/",
-        "https://kk-code.com/"
-      ]
-    }
-  ]
+  "upcoming_promotions": []
 }
