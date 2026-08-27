@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-08-27T09:44:34+09:00",
+  "last_updated": "2026-08-27T23:05:12+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -12,12 +12,6 @@
           "minimum_usd": 19.0,
           "discount_usd": 2.0,
           "codes": [
-            {
-              "value": "GBAP02",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            },
             {
               "value": "PLCVV01",
               "source_urls": [
@@ -35,12 +29,6 @@
               "value": "FPOUO02",
               "source_urls": [
                 "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "GBAP04",
-              "source_urls": [
                 "https://kk-code.com/"
               ]
             }
@@ -122,6 +110,15 @@
       "valid_until": "2026-09-07T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "알리익스프레스 9월 프로모션 세일",
+      "description": "9월 메인 프로모션, 최대 60% 할인 및 프로모션 코드 혜택",
+      "valid_from": "2026-09-14T00:00:00+09:00",
+      "valid_until": "2026-09-20T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-sep-2026/"
       ]
     }
   ]
