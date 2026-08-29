@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-08-29T12:09:00+09:00",
+  "last_updated": "2026-08-29T18:59:21+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,7 +15,8 @@
             {
               "value": "PLCVV01",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -27,7 +28,8 @@
             {
               "value": "FPOUO02",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -39,7 +41,8 @@
             {
               "value": "STPGT03",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -51,7 +54,8 @@
             {
               "value": "RRFGZ04",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -63,7 +67,8 @@
             {
               "value": "BHDNB01",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -75,7 +80,8 @@
             {
               "value": "FTQXJ05",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -87,7 +93,8 @@
             {
               "value": "CPDNA02",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
