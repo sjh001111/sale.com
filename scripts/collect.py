@@ -395,10 +395,12 @@ def main() -> None:
     print(f"Discovered {candidate_count(candidates)} candidates; checking source pages...")
     fresh = canonicalize(expand_candidates(candidates), now)
     verified = canonicalize(merge_verified(previous, fresh), now)
-    if code_count(verified) == 0:
-        raise RuntimeError("Safety stop: source verification returned no active coupon codes")
     changed = save_if_changed(verified, now)
-    print(f"Verified {code_count(verified)} codes across {len(verified.active_promotions)} promotions. Changed={changed}")
+    verified_count = code_count(verified)
+    if verified_count == 0:
+        print(f"No active coupon codes are currently verified. Changed={changed}")
+    else:
+        print(f"Verified {verified_count} codes across {len(verified.active_promotions)} promotions. Changed={changed}")
 
 
 if __name__ == "__main__":
