@@ -1,18 +1,82 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-08-30T23:23:54+09:00",
+  "last_updated": "2026-09-01T05:47:38+09:00",
   "model": "gemini-3.7-flash",
-  "active_promotions": [],
-  "upcoming_promotions": [
+  "active_promotions": [
     {
-      "name": "9월 초이스 데이",
-      "description": "매월 초 진행되는 초이스 데이 할인 프로모션",
+      "name": "9월 초이스 데이 (Choice Day)",
       "valid_from": "2026-09-01T00:00:00+09:00",
       "valid_until": "2026-09-07T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
+      "tiers": [
+        {
+          "minimum_usd": 28.0,
+          "discount_usd": 3.5,
+          "codes": [
+            {
+              "value": "GONG03",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 56.0,
+          "discount_usd": 7.0,
+          "codes": [
+            {
+              "value": "GONG07",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 90.0,
+          "discount_usd": 10.0,
+          "codes": [
+            {
+              "value": "GONG10",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 139.0,
+          "discount_usd": 15.0,
+          "codes": [
+            {
+              "value": "GONG15",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 349.0,
+          "discount_usd": 35.0,
+          "codes": [
+            {
+              "value": "GONG35",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        }
       ]
-    },
+    }
+  ],
+  "upcoming_promotions": [
     {
       "name": "알리익스프레스 9월 프로모션 세일",
       "description": "9월 메인 프로모션, 최대 60% 할인 및 프로모션 코드 혜택",
