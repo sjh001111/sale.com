@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-02T03:25:08+09:00",
+  "last_updated": "2026-09-02T08:15:37+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -117,6 +117,15 @@
       "description": "9월 메인 프로모션, 최대 60% 할인 및 프로모션 코드 혜택",
       "valid_from": "2026-09-14T00:00:00+09:00",
       "valid_until": "2026-09-20T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-sep-2026/"
+      ]
+    },
+    {
+      "name": "9월 알리's Pick",
+      "description": "알리 MD와 인플루언서가 엄선한 추천 아이템 특별 기획전",
+      "valid_from": "2026-09-14T00:00:00+09:00",
+      "valid_until": "2026-09-18T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com/aliexpress-promotion-schedule-sep-2026/"
       ]
