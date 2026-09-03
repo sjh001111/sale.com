@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-03T08:16:28+09:00",
+  "last_updated": "2026-09-03T16:59:08+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -112,6 +112,15 @@
     }
   ],
   "upcoming_promotions": [
+    {
+      "name": "9월 카테고리 데이",
+      "description": "카테고리별 특가 프로모션 행사",
+      "valid_from": "2026-09-08T00:00:00+09:00",
+      "valid_until": "2026-09-11T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-sep-2026/"
+      ]
+    },
     {
       "name": "알리익스프레스 9월 프로모션 세일",
       "description": "9월 메인 프로모션, 최대 60% 할인 및 프로모션 코드 혜택",
