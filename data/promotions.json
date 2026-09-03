@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-03T16:59:08+09:00",
+  "last_updated": "2026-09-04T03:34:31+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -17,6 +17,12 @@
               "source_urls": [
                 "https://alicouponkorea.com/",
                 "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "KBGY03",
+              "source_urls": [
+                "https://alicouponkorea.com/aliexpress-choice-day-september-2026/"
               ]
             },
             {
@@ -37,6 +43,12 @@
               "source_urls": [
                 "https://alicouponkorea.com/",
                 "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "KBGY07",
+              "source_urls": [
+                "https://alicouponkorea.com/aliexpress-choice-day-september-2026/"
               ]
             },
             {
@@ -65,6 +77,12 @@
                 "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
+            },
+            {
+              "value": "KBGY10",
+              "source_urls": [
+                "https://alicouponkorea.com/aliexpress-choice-day-september-2026/"
+              ]
             }
           ]
         },
@@ -77,6 +95,12 @@
               "source_urls": [
                 "https://alicouponkorea.com/",
                 "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "KBGY15",
+              "source_urls": [
+                "https://alicouponkorea.com/aliexpress-choice-day-september-2026/"
               ]
             },
             {
@@ -97,6 +121,12 @@
               "source_urls": [
                 "https://alicouponkorea.com/",
                 "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "KBGY35",
+              "source_urls": [
+                "https://alicouponkorea.com/aliexpress-choice-day-september-2026/"
               ]
             },
             {
