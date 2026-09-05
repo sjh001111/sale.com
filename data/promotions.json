@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-05T21:38:04+09:00",
+  "last_updated": "2026-09-06T07:50:12+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,8 +15,7 @@
             {
               "value": "GONG03",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
@@ -28,8 +27,7 @@
             {
               "value": "YUAG03",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -41,8 +39,7 @@
             {
               "value": "GONG07",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
@@ -54,8 +51,7 @@
             {
               "value": "KJHF07",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -67,15 +63,13 @@
             {
               "value": "DSAE10",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "GONG10",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
@@ -87,32 +81,13 @@
           ]
         },
         {
-          "minimum_usd": 92.0,
-          "discount_usd": 12.0,
-          "codes": [
-            {
-              "value": "PLOK12",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "QJHT12",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
           "minimum_usd": 139.0,
           "discount_usd": 15.0,
           "codes": [
             {
               "value": "GONG15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
@@ -124,8 +99,7 @@
             {
               "value": "KLHG15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -137,8 +111,7 @@
             {
               "value": "GONG35",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
@@ -150,8 +123,7 @@
             {
               "value": "MGFD35",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
