@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-15T00:51:59+09:00",
+  "last_updated": "2026-09-15T08:50:22+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -121,6 +121,15 @@
       "description": "인기 브랜드 대상 특별 할인 프로모션",
       "valid_from": "2026-09-21T00:00:00+09:00",
       "valid_until": "2026-09-23T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "9월 알급날 프로모션",
+      "description": "K-Venue 국내 배송 상품 전용 정기 할인 프로모션",
+      "valid_from": "2026-09-25T00:00:00+09:00",
+      "valid_until": "2026-09-27T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
       ]
