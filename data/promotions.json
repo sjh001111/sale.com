@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-16T03:55:40+09:00",
+  "last_updated": "2026-09-19T03:22:00+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -9,45 +9,19 @@
       "valid_until": "2026-09-20T23:59:59+09:00",
       "tiers": [
         {
-          "minimum_usd": 28.0,
-          "discount_usd": 3.0,
-          "codes": [
-            {
-              "value": "JCLKA18",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
           "minimum_usd": 34.0,
           "discount_usd": 4.0,
           "codes": [
             {
               "value": "GCAP04",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "ZXHL04",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 66.0,
-          "discount_usd": 7.0,
-          "codes": [
-            {
-              "value": "FYBJJ55",
-              "source_urls": [
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -59,15 +33,13 @@
             {
               "value": "GCAP09",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "YEPG09",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -79,15 +51,13 @@
             {
               "value": "GCAP15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "SRMG15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -99,58 +69,13 @@
             {
               "value": "BTCW36",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "GCAP36",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "추석맞이 감사기획전 (AliExpress Fall Sale)",
-      "valid_from": "2026-09-15T00:00:00+09:00",
-      "valid_until": "2026-09-21T23:59:59+09:00",
-      "tiers": [
-        {
-          "minimum_usd": 19.0,
-          "discount_usd": 2.0,
-          "codes": [
-            {
-              "value": "AEKA02",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 29.0,
-          "discount_usd": 3.0,
-          "codes": [
-            {
-              "value": "AEKA03",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 89.0,
-          "discount_usd": 11.0,
-          "codes": [
-            {
-              "value": "AEKA11",
-              "source_urls": [
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
