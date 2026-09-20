@@ -1,113 +1,69 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-20T22:33:41+09:00",
+  "last_updated": "2026-09-21T03:11:00+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
-      "name": "Fall in 추석 세일 (AliExpress Fall Sale 2026)",
-      "valid_from": "2026-09-14T00:00:00+09:00",
-      "valid_until": "2026-09-20T23:59:59+09:00",
+      "name": "알리익스프레스 브랜드 특가전 (9월)",
+      "valid_from": "2026-09-21T00:00:00+09:00",
+      "valid_until": "2026-09-23T23:59:59+09:00",
       "tiers": [
         {
-          "minimum_usd": 28.0,
-          "discount_usd": 3.0,
-          "codes": [
-            {
-              "value": "JCLKA18",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 34.0,
+          "minimum_usd": 36.0,
           "discount_usd": 4.0,
           "codes": [
             {
-              "value": "GCAP04",
+              "value": "GONA04",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "ZXHL04",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 66.0,
-          "discount_usd": 7.0,
-          "codes": [
-            {
-              "value": "FYBJJ55",
-              "source_urls": [
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 75.0,
+          "minimum_usd": 73.0,
           "discount_usd": 9.0,
           "codes": [
             {
-              "value": "GCAP09",
+              "value": "GONA09",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "YEPG09",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 142.0,
+          "minimum_usd": 125.0,
           "discount_usd": 15.0,
           "codes": [
             {
-              "value": "GCAP15",
+              "value": "GONA15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            },
-            {
-              "value": "SRMG15",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 358.0,
-          "discount_usd": 36.0,
+          "minimum_usd": 168.0,
+          "discount_usd": 20.0,
           "codes": [
             {
-              "value": "BTCW36",
+              "value": "GONA20",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
-            },
+            }
+          ]
+        },
+        {
+          "minimum_usd": 220.0,
+          "discount_usd": 26.0,
+          "codes": [
             {
-              "value": "GCAP36",
+              "value": "GONA26",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -116,15 +72,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "9월 브랜드 특가전",
-      "description": "인기 브랜드 대상 특별 할인 프로모션",
-      "valid_from": "2026-09-21T00:00:00+09:00",
-      "valid_until": "2026-09-23T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
-      ]
-    },
     {
       "name": "9월 알급날 프로모션",
       "description": "알리익스프레스 9월 월급날 맞이 국내 배송 및 직구 할인 행사",
