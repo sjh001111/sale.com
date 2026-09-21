@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-21T03:11:00+09:00",
+  "last_updated": "2026-09-21T17:50:27+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,7 +15,15 @@
             {
               "value": "GONA04",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "XQKV06",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -27,7 +35,15 @@
             {
               "value": "GONA09",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "ZMWF6",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -39,7 +55,15 @@
             {
               "value": "GONA15",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "JPLG15",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -51,7 +75,15 @@
             {
               "value": "GONA20",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "RYBX27",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -63,7 +95,15 @@
             {
               "value": "GONA26",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "VTND36",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
