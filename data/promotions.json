@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-22T17:27:39+09:00",
+  "last_updated": "2026-09-23T03:48:41+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -112,15 +112,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "9월 알급날 프로모션",
-      "description": "알리익스프레스 9월 월급날 맞이 국내 배송 및 직구 할인 행사",
-      "valid_from": "2026-09-23T00:00:00+09:00",
-      "valid_until": "2026-09-28T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
-      ]
-    },
     {
       "name": "9월 알급날 프로모션",
       "description": "K-Venue 국내 배송 상품 전용 정기 할인 프로모션",
