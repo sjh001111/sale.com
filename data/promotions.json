@@ -1,23 +1,23 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-24T04:00:22+09:00",
+  "last_updated": "2026-09-25T04:04:26+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [],
   "upcoming_promotions": [
-    {
-      "name": "9월 알급날 프로모션",
-      "description": "K-Venue 국내 배송 상품 전용 정기 할인 프로모션",
-      "valid_from": "2026-09-25T00:00:00+09:00",
-      "valid_until": "2026-09-27T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
-      ]
-    },
     {
       "name": "9월 알급날 세일",
       "description": "월말 급여일 맞이 국내 이용자 대상 알급날 할인 프로모션",
       "valid_from": "2026-09-26T00:00:00+09:00",
       "valid_until": "2026-09-28T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "10월 초이스 데이 (Choice Day)",
+      "description": "매월 초 진행되는 초이스 데이 기획전 및 프로모션 할인",
+      "valid_from": "2026-10-01T00:00:00+09:00",
+      "valid_until": "2026-10-07T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
       ]
