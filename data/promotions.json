@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-25T04:04:26+09:00",
+  "last_updated": "2026-09-25T23:34:09+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [],
   "upcoming_promotions": [
@@ -20,6 +20,24 @@
       "valid_until": "2026-10-07T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "10월 브랜드 특가전 (Brand Day)",
+      "description": "유명 브랜드 가을맞이 특가전 및 최대 60% 할인",
+      "valid_from": "2026-10-09T00:00:00+09:00",
+      "valid_until": "2026-10-11T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-oct-2026/"
+      ]
+    },
+    {
+      "name": "윈터 오퍼스 (Winter Offers)",
+      "description": "알리익스프레스 10월 시즌 맞이 윈터 오퍼스 프로모션",
+      "valid_from": "2026-10-14T00:00:00+09:00",
+      "valid_until": "2026-10-16T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-oct-2026/"
       ]
     },
     {
