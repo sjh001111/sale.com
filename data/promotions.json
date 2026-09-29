@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-29T18:43:47+09:00",
+  "last_updated": "2026-09-30T04:57:06+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -70,6 +70,15 @@
       ]
     },
     {
+      "name": "10월 초이스 데이 (Choice Day)",
+      "description": "매월 초 진행되는 초이스 데이 할인 프로모션",
+      "valid_from": "2026-10-01T00:00:00+09:00",
+      "valid_until": "2026-10-07T23:59:00+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
+      ]
+    },
+    {
       "name": "10월 초이스데이",
       "description": "매월 초 진행되는 초이스데이 특가 및 전용 할인 혜택 행사",
       "valid_from": "2026-10-01T04:00:00+09:00",
@@ -85,6 +94,15 @@
       "valid_until": "2026-10-11T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com/aliexpress-promotion-schedule-oct-2026/"
+      ]
+    },
+    {
+      "name": "10월 브랜드 특가전",
+      "description": "인기 브랜드 상품 대상 특가 할인 프로모션",
+      "valid_from": "2026-10-09T00:00:00+09:00",
+      "valid_until": "2026-10-11T23:59:00+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
       ]
     },
     {
