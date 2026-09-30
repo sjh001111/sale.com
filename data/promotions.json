@@ -1,56 +1,88 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-09-30T04:57:06+09:00",
+  "last_updated": "2026-10-01T04:57:31+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
-      "name": "알리익스프레스 9월 상시 할인코드",
-      "valid_from": "2026-09-01T00:00:00+09:00",
-      "valid_until": "2026-09-30T23:59:59+09:00",
+      "name": "10월 초이스 데이 (가을바람 혜택쏠쏠 세일)",
+      "valid_from": "2026-10-01T00:00:00+09:00",
+      "valid_until": "2026-10-07T23:59:59+09:00",
       "tiers": [
         {
-          "minimum_usd": 50000.0,
-          "discount_usd": 6000.0,
+          "minimum_usd": 34.0,
+          "discount_usd": 4.0,
           "codes": [
             {
-              "value": "ZXHL04",
+              "value": "GCAP04",
               "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "JHGF04",
+              "source_urls": [
+                "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 100000.0,
-          "discount_usd": 12000.0,
+          "minimum_usd": 76.0,
+          "discount_usd": 9.0,
           "codes": [
             {
-              "value": "YEPG09",
+              "value": "GCAP09",
               "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "YULF09",
+              "source_urls": [
+                "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 200000.0,
-          "discount_usd": 21000.0,
+          "minimum_usd": 142.0,
+          "discount_usd": 15.0,
           "codes": [
             {
-              "value": "SRMG15",
+              "value": "GCAP15",
               "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "HGLH15",
+              "source_urls": [
+                "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 500000.0,
-          "discount_usd": 50000.0,
+          "minimum_usd": 359.0,
+          "discount_usd": 36.0,
           "codes": [
             {
-              "value": "BTCW36",
+              "value": "BKLP36",
               "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "GCAP36",
+              "source_urls": [
+                "https://alicouponkorea.com/",
                 "https://kk-code.com/"
               ]
             }
@@ -60,33 +92,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "10월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 초이스 데이 기획전 및 프로모션 할인",
-      "valid_from": "2026-10-01T00:00:00+09:00",
-      "valid_until": "2026-10-07T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
-      ]
-    },
-    {
-      "name": "10월 초이스 데이 (Choice Day)",
-      "description": "매월 초 진행되는 초이스 데이 할인 프로모션",
-      "valid_from": "2026-10-01T00:00:00+09:00",
-      "valid_until": "2026-10-07T23:59:00+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
-      ]
-    },
-    {
-      "name": "10월 초이스데이",
-      "description": "매월 초 진행되는 초이스데이 특가 및 전용 할인 혜택 행사",
-      "valid_from": "2026-10-01T04:00:00+09:00",
-      "valid_until": "2026-10-08T03:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com/"
-      ]
-    },
     {
       "name": "10월 브랜드 특가전 (Brand Day)",
       "description": "유명 브랜드 가을맞이 특가전 및 최대 60% 할인",
@@ -103,6 +108,16 @@
       "valid_until": "2026-10-11T23:59:00+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "10월 多반사 세일 (겨울 준비 프로모션)",
+      "description": "시즌 인기 상품과 겨울 대비 추천 아이템 할인 프로모션",
+      "valid_from": "2026-10-13T00:00:00+09:00",
+      "valid_until": "2026-10-16T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com",
+        "https://herbcode-korea.com"
       ]
     },
     {
