@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-02T09:42:30+09:00",
+  "last_updated": "2026-10-06T06:58:07+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,15 +15,13 @@
             {
               "value": "GCAP04",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "JHGF04",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -35,15 +33,13 @@
             {
               "value": "GCAP09",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "YULF09",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -55,15 +51,13 @@
             {
               "value": "GCAP15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "HGLH15",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
@@ -75,15 +69,13 @@
             {
               "value": "BKLP36",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             },
             {
               "value": "GCAP36",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
