@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-06T06:58:07+09:00",
+  "last_updated": "2026-10-06T19:07:58+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,13 +15,15 @@
             {
               "value": "GCAP04",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             },
             {
               "value": "JHGF04",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -33,13 +35,15 @@
             {
               "value": "GCAP09",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             },
             {
               "value": "YULF09",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -51,13 +55,15 @@
             {
               "value": "GCAP15",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             },
             {
               "value": "HGLH15",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -69,13 +75,15 @@
             {
               "value": "BKLP36",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             },
             {
               "value": "GCAP36",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -122,6 +130,15 @@
       ]
     },
     {
+      "name": "10월 알급날",
+      "description": "매월 말 진행되는 알리익스프레스 정기 월급날 할인 프로모션",
+      "valid_from": "2026-10-25T00:00:00+09:00",
+      "valid_until": "2026-10-27T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/"
+      ]
+    },
+    {
       "name": "11.11 광군제 메가 세일",
       "description": "연중 최대 규모의 글로벌 할인 행사 및 전용 프로모션 코드 제공",
       "valid_from": "2026-11-11T00:00:00+09:00",
@@ -129,6 +146,15 @@
       "source_urls": [
         "https://alitools.io",
         "https://www.techradar.com"
+      ]
+    },
+    {
+      "name": "11.11 광군제 메인 세일",
+      "description": "연중 최대 규모로 진행되는 글로벌 쇼핑 페스티벌 프로모션",
+      "valid_from": "2026-11-11T00:00:00+09:00",
+      "valid_until": "2026-11-19T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/"
       ]
     }
   ]
