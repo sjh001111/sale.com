@@ -1,27 +1,95 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-08T05:34:22+09:00",
+  "last_updated": "2026-10-09T05:40:03+09:00",
   "model": "gemini-3.7-flash",
-  "active_promotions": [],
-  "upcoming_promotions": [
+  "active_promotions": [
     {
-      "name": "10월 브랜드 특가전 (Brand Day)",
-      "description": "유명 브랜드 가을맞이 특가전 및 최대 60% 할인",
-      "valid_from": "2026-10-09T00:00:00+09:00",
-      "valid_until": "2026-10-11T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com/aliexpress-promotion-schedule-oct-2026/"
-      ]
-    },
-    {
-      "name": "10월 브랜드 특가전",
-      "description": "인기 브랜드 상품 대상 특가 할인 프로모션",
+      "name": "브랜드 특가전 (슈퍼브랜드위크)",
       "valid_from": "2026-10-09T00:00:00+09:00",
       "valid_until": "2026-10-11T23:59:00+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
+      "tiers": [
+        {
+          "minimum_usd": 35.0,
+          "discount_usd": 3.8,
+          "codes": [
+            {
+              "value": "GONI03",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 50.0,
+          "discount_usd": 5.5,
+          "codes": [
+            {
+              "value": "GONI05",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 71.0,
+          "discount_usd": 7.8,
+          "codes": [
+            {
+              "value": "GONI07",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 121.0,
+          "discount_usd": 13.0,
+          "codes": [
+            {
+              "value": "GONI13",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 164.0,
+          "discount_usd": 18.0,
+          "codes": [
+            {
+              "value": "GONI18",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 214.0,
+          "discount_usd": 24.0,
+          "codes": [
+            {
+              "value": "GONI24",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        }
       ]
-    },
+    }
+  ],
+  "upcoming_promotions": [
     {
       "name": "10월 多반사 세일 (겨울 준비 프로모션)",
       "description": "시즌 인기 상품과 겨울 대비 추천 아이템 할인 프로모션",
@@ -30,6 +98,15 @@
       "source_urls": [
         "https://alicouponkorea.com",
         "https://herbcode-korea.com"
+      ]
+    },
+    {
+      "name": "10월 多반사 세일",
+      "description": "10월 중순 진행 예정인 알리익스프레스 프로모션 세일 행사",
+      "valid_from": "2026-10-13T00:00:00+09:00",
+      "valid_until": "2026-10-16T23:59:00+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
       ]
     },
     {
