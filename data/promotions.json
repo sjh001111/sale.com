@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-10T09:44:05+09:00",
+  "last_updated": "2026-10-11T04:14:52+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -176,16 +176,6 @@
       "valid_until": "2026-11-18T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
-      ]
-    },
-    {
-      "name": "11.11 광군제 메가 세일",
-      "description": "연중 최대 규모의 글로벌 할인 행사 및 전용 프로모션 코드 제공",
-      "valid_from": "2026-11-11T00:00:00+09:00",
-      "valid_until": "2026-11-18T23:59:59+09:00",
-      "source_urls": [
-        "https://alitools.io",
-        "https://www.techradar.com"
       ]
     },
     {
