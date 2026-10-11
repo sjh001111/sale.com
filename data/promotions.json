@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-11T04:14:52+09:00",
+  "last_updated": "2026-10-11T18:54:41+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -185,6 +185,15 @@
       "valid_until": "2026-11-19T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com/"
+      ]
+    },
+    {
+      "name": "블랙프라이데이",
+      "description": "연말 해외직구 블랙프라이데이 특별 프로모션 및 특가전",
+      "valid_from": "2026-11-19T00:00:00+09:00",
+      "valid_until": "2026-11-30T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
       ]
     }
   ]
