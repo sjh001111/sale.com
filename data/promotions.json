@@ -1,28 +1,97 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-12T04:29:46+09:00",
+  "last_updated": "2026-10-13T07:28:27+09:00",
   "model": "gemini-3.7-flash",
-  "active_promotions": [],
-  "upcoming_promotions": [
-    {
-      "name": "10월 多반사 세일 (겨울 준비 프로모션)",
-      "description": "시즌 인기 상품과 겨울 대비 추천 아이템 할인 프로모션",
-      "valid_from": "2026-10-13T00:00:00+09:00",
-      "valid_until": "2026-10-16T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com",
-        "https://herbcode-korea.com"
-      ]
-    },
+  "active_promotions": [
     {
       "name": "10월 多반사 세일",
-      "description": "10월 중순 진행 예정인 알리익스프레스 프로모션 세일 행사",
       "valid_from": "2026-10-13T00:00:00+09:00",
-      "valid_until": "2026-10-16T23:59:00+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com"
+      "valid_until": "2026-10-16T23:59:59+09:00",
+      "tiers": [
+        {
+          "minimum_usd": 28.0,
+          "discount_usd": 3.0,
+          "codes": [
+            {
+              "value": "EJOWK21",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "GONG03",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 37.0,
+          "discount_usd": 4.0,
+          "codes": [
+            {
+              "value": "GONG04",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "JDBBA33",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 66.0,
+          "discount_usd": 7.0,
+          "codes": [
+            {
+              "value": "GONG07",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "MEOAN98",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 106.0,
+          "discount_usd": 11.0,
+          "codes": [
+            {
+              "value": "GONG11",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            },
+            {
+              "value": "LECXQ29",
+              "source_urls": [
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
+              ]
+            }
+          ]
+        }
       ]
-    },
+    }
+  ],
+  "upcoming_promotions": [
     {
       "name": "윈터 오퍼스 (Winter Offers)",
       "description": "알리익스프레스 10월 시즌 맞이 윈터 오퍼스 프로모션",
