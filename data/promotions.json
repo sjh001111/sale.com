@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-13T07:28:27+09:00",
+  "last_updated": "2026-10-14T05:37:12+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -92,15 +92,6 @@
     }
   ],
   "upcoming_promotions": [
-    {
-      "name": "윈터 오퍼스 (Winter Offers)",
-      "description": "알리익스프레스 10월 시즌 맞이 윈터 오퍼스 프로모션",
-      "valid_from": "2026-10-14T00:00:00+09:00",
-      "valid_until": "2026-10-16T23:59:59+09:00",
-      "source_urls": [
-        "https://alicouponkorea.com/aliexpress-promotion-schedule-oct-2026/"
-      ]
-    },
     {
       "name": "10월 알급날",
       "description": "매월 말 진행되는 알리익스프레스 정기 월급날 할인 프로모션",
