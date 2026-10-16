@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-14T05:37:12+09:00",
+  "last_updated": "2026-10-16T17:04:51+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -99,6 +99,15 @@
       "valid_until": "2026-10-27T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com/"
+      ]
+    },
+    {
+      "name": "2026 광군제 (11.11 Sale)",
+      "description": "최대 80% 할인 및 대규모 프로모션 코드와 카드사 결제 혜택 제공",
+      "valid_from": "2026-10-29T00:00:00+09:00",
+      "valid_until": "2026-11-18T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
       ]
     },
     {
