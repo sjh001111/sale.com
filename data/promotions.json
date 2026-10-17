@@ -1,8 +1,40 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-17T03:45:47+09:00",
+  "last_updated": "2026-10-18T08:03:36+09:00",
   "model": "gemini-3.7-flash",
-  "active_promotions": [],
+  "active_promotions": [
+    {
+      "name": "알리익스프레스 슈퍼 브랜드 위크",
+      "valid_from": "2026-10-18T00:00:00+09:00",
+      "valid_until": "2026-10-20T23:59:00+09:00",
+      "tiers": [
+        {
+          "minimum_usd": 46.0,
+          "discount_usd": 5.0,
+          "codes": [
+            {
+              "value": "YNDS01",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 152.0,
+          "discount_usd": 17.0,
+          "codes": [
+            {
+              "value": "XFQA02",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "upcoming_promotions": [
     {
       "name": "10월 알급날",
@@ -29,6 +61,15 @@
       "valid_until": "2026-11-18T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "알리익스프레스 11.11 광군제 세일",
+      "description": "최대 80% 할인과 전용 코드 및 결제 할인이 제공되는 대규모 행사",
+      "valid_from": "2026-11-01T00:00:00+09:00",
+      "valid_until": "2026-11-18T23:59:00+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/"
       ]
     },
     {
