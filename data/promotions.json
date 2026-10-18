@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-18T08:03:36+09:00",
+  "last_updated": "2026-10-18T22:12:12+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,7 +15,8 @@
             {
               "value": "YNDS01",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -27,7 +28,8 @@
             {
               "value": "XFQA02",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
