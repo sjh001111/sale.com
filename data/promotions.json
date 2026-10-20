@@ -1,32 +1,19 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-20T17:25:44+09:00",
+  "last_updated": "2026-10-21T04:10:24+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
-      "name": "알리익스프레스 슈퍼 브랜드 위크",
-      "valid_from": "2026-10-18T00:00:00+09:00",
-      "valid_until": "2026-10-20T23:59:00+09:00",
+      "name": "10월 알급날 세일 (AliExpress Pay Day)",
+      "valid_from": "2026-10-21T00:00:00+09:00",
+      "valid_until": "2026-10-23T23:59:59+09:00",
       "tiers": [
         {
-          "minimum_usd": 46.0,
-          "discount_usd": 5.0,
+          "minimum_usd": 19.0,
+          "discount_usd": 2.0,
           "codes": [
             {
-              "value": "YNDS01",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 80.0,
-          "discount_usd": 9.0,
-          "codes": [
-            {
-              "value": "BPAS03",
+              "value": "OSPPD01",
               "source_urls": [
                 "https://alicouponkorea.com/"
               ]
@@ -34,24 +21,35 @@
           ]
         },
         {
-          "minimum_usd": 152.0,
-          "discount_usd": 17.0,
+          "minimum_usd": 36.0,
+          "discount_usd": 4.0,
           "codes": [
             {
-              "value": "XFQA02",
+              "value": "HPDOO02",
               "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
+                "https://alicouponkorea.com/"
               ]
             }
           ]
         },
         {
-          "minimum_usd": 225.0,
-          "discount_usd": 25.0,
+          "minimum_usd": 47.0,
+          "discount_usd": 5.0,
           "codes": [
             {
-              "value": "KLWC04",
+              "value": "MADRR03",
+              "source_urls": [
+                "https://alicouponkorea.com/"
+              ]
+            }
+          ]
+        },
+        {
+          "minimum_usd": 112.0,
+          "discount_usd": 12.0,
+          "codes": [
+            {
+              "value": "SPOHP04",
               "source_urls": [
                 "https://alicouponkorea.com/"
               ]
