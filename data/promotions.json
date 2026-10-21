@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-22T04:15:55+09:00",
+  "last_updated": "2026-10-22T08:58:36+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -88,6 +88,15 @@
       ]
     },
     {
+      "name": "2026 광군제 (11.11 세일)",
+      "description": "최대 80% 할인과 결제 혜택이 제공되는 연중 최대 할인 행사",
+      "valid_from": "2026-10-29T00:00:00+09:00",
+      "valid_until": "2026-11-18T23:59:00+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
+      ]
+    },
+    {
       "name": "11.11 세일 광군제",
       "description": "알리익스프레스 연중 최대 규모의 글로벌 11.11 광군제 쇼핑 페스티벌",
       "valid_from": "2026-11-01T00:00:00+09:00",
@@ -119,6 +128,15 @@
       "description": "연말 해외직구 블랙프라이데이 특별 프로모션 및 특가전",
       "valid_from": "2026-11-19T00:00:00+09:00",
       "valid_until": "2026-11-30T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "블랙프라이데이",
+      "description": "블랙프라이데이 및 사이버먼데이 맞이 연말 대형 프로모션",
+      "valid_from": "2026-11-19T00:00:00+09:00",
+      "valid_until": "2026-11-30T23:59:00+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
       ]
