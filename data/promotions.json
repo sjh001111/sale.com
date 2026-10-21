@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-21T04:10:24+09:00",
+  "last_updated": "2026-10-22T04:15:55+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -76,6 +76,15 @@
       "valid_until": "2026-11-18T23:59:59+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "알리익스프레스 11.11 광군제 (예열 기간)",
+      "description": "광군제 사전 장바구니 담기 및 예열 프로모션",
+      "valid_from": "2026-10-29T00:00:00+09:00",
+      "valid_until": "2026-10-31T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-november-2026/"
       ]
     },
     {
