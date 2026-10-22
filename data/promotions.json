@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-22T08:58:36+09:00",
+  "last_updated": "2026-10-23T04:10:52+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -15,7 +15,8 @@
             {
               "value": "OSPPD01",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -27,7 +28,8 @@
             {
               "value": "HPDOO02",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -39,7 +41,8 @@
             {
               "value": "MADRR03",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -51,7 +54,8 @@
             {
               "value": "SPOHP04",
               "source_urls": [
-                "https://alicouponkorea.com/"
+                "https://alicouponkorea.com/",
+                "https://kk-code.com/"
               ]
             }
           ]
@@ -92,6 +96,15 @@
       "description": "최대 80% 할인과 결제 혜택이 제공되는 연중 최대 할인 행사",
       "valid_from": "2026-10-29T00:00:00+09:00",
       "valid_until": "2026-11-18T23:59:00+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com"
+      ]
+    },
+    {
+      "name": "2026 광군제 예열 (Warm-up)",
+      "description": "2026년 광군제 본세일 직전 장바구니 담기 및 쿠폰 사전 발급 기간",
+      "valid_from": "2026-10-29T00:00:00+09:00",
+      "valid_until": "2026-10-31T23:59:00+09:00",
       "source_urls": [
         "https://alicouponkorea.com"
       ]
