@@ -1,68 +1,8 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-23T17:27:15+09:00",
+  "last_updated": "2026-10-24T04:07:14+09:00",
   "model": "gemini-3.7-flash",
-  "active_promotions": [
-    {
-      "name": "10월 알급날 세일 (AliExpress Pay Day)",
-      "valid_from": "2026-10-21T00:00:00+09:00",
-      "valid_until": "2026-10-23T23:59:59+09:00",
-      "tiers": [
-        {
-          "minimum_usd": 19.0,
-          "discount_usd": 2.0,
-          "codes": [
-            {
-              "value": "OSPPD01",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 36.0,
-          "discount_usd": 4.0,
-          "codes": [
-            {
-              "value": "HPDOO02",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 47.0,
-          "discount_usd": 5.0,
-          "codes": [
-            {
-              "value": "MADRR03",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        },
-        {
-          "minimum_usd": 112.0,
-          "discount_usd": 12.0,
-          "codes": [
-            {
-              "value": "SPOHP04",
-              "source_urls": [
-                "https://alicouponkorea.com/",
-                "https://kk-code.com/"
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "active_promotions": [],
   "upcoming_promotions": [
     {
       "name": "10월 알급날",
