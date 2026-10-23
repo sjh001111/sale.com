@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-10-23T08:57:20+09:00",
+  "last_updated": "2026-10-23T17:27:15+09:00",
   "model": "gemini-3.7-flash",
   "active_promotions": [
     {
@@ -159,6 +159,15 @@
       "description": "블랙프라이데이 및 사이버먼데이 맞이 연말 특별 할인전",
       "valid_from": "2026-11-19T00:00:00+09:00",
       "valid_until": "2026-12-03T23:59:59+09:00",
+      "source_urls": [
+        "https://alicouponkorea.com/aliexpress-promotion-schedule-nov-2026/"
+      ]
+    },
+    {
+      "name": "2026년 블랙프라이데이 (AliExpress Black Friday)",
+      "description": "세일 대상 상품 최대 70% 할인 및 연말 결제 혜택 프로모션",
+      "valid_from": "2026-11-19T00:00:00+09:00",
+      "valid_until": "2026-12-03T23:59:00+09:00",
       "source_urls": [
         "https://alicouponkorea.com/aliexpress-promotion-schedule-nov-2026/"
       ]
