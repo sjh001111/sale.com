@@ -5,7 +5,7 @@ import CodeButton from "./CodeButton";
 
 export const dynamic = "force-dynamic";
 
-const AFFILIATE_URL = "https://www.aliexpress.com/";
+const ALIEXPRESS_URL = "https://www.aliexpress.com/";
 
 type Coupon = { value: string };
 type Tier = { minimum_usd: number; discount_usd: number; codes: Coupon[] };
@@ -53,8 +53,8 @@ export default function Home() {
         <div className="shell topBarInner">
           <a className="brand" href="#top" aria-label="세일닷컴 홈">세일닷컴<span>.</span></a>
           <div className="headerActions">
-            <p>변경 {updatedAt.format(new Date(data.last_updated))}</p>
-            <a href={AFFILIATE_URL} target="_blank" rel="sponsored noopener noreferrer">
+            <p>마지막 수집 {updatedAt.format(new Date(data.last_updated))}</p>
+            <a href={ALIEXPRESS_URL} target="_blank" rel="noopener noreferrer">
               알리 열기
             </a>
           </div>
@@ -73,8 +73,8 @@ export default function Home() {
             />
           </div>
           <div className="overview">
-            <p className="liveSummary"><span /> 한국 적용 코드 확인 중</p>
-            <h1 id="page-title">지금 되는 할인코드 <strong>{codeCount}개</strong></h1>
+            <p className="liveSummary"><span /> 자동 수집 종료 · 보관용</p>
+            <h1 id="page-title">등록된 유효기간 내 코드 <strong>{codeCount}개</strong></h1>
             <p><b>{active.length}개 행사</b> · 코드를 누르면 자동 복사</p>
           </div>
         </section>
@@ -85,7 +85,7 @@ export default function Home() {
               <article className="promotionCard" key={`${promotion.name}-${promotion.valid_until}`}>
                 <header className="cardHeader">
                   <div className="cardMeta">
-                    <span>확인 완료</span>
+                    <span>마지막 수집 기록</span>
                     <div className="cardMetaRight">
                       <time>{shortDate.format(new Date(promotion.valid_from))}–{shortDate.format(new Date(promotion.valid_until))}</time>
                       <strong>{countCodes(promotion)}개</strong>
@@ -103,7 +103,7 @@ export default function Home() {
                       </div>
                       <div className="codes">
                         {tier.codes.map((code) => (
-                          <CodeButton code={code.value} href={AFFILIATE_URL} key={code.value} />
+                          <CodeButton code={code.value} href={ALIEXPRESS_URL} key={code.value} />
                         ))}
                       </div>
                     </section>
@@ -114,14 +114,14 @@ export default function Home() {
           </section>
         ) : (
           <section className="emptyState">
-            <h2>현재 확인된 공개 코드가 없습니다.</h2>
-            <p>새 코드가 확인되는 대로 자동으로 표시됩니다.</p>
+            <h2>등록된 유효기간이 남은 코드가 없습니다.</h2>
+            <p>자동 수집이 종료된 보관용 프로젝트입니다.</p>
           </section>
         )}
 
         {upcoming.length > 0 && (
           <aside className="nextSale" aria-label="다음 할인 일정">
-            <span>다음 할인</span>
+            <span>수집 당시 예정된 할인</span>
             <strong>{upcoming[0].name}</strong>
             <time>{shortDate.format(new Date(upcoming[0].valid_from))}–{shortDate.format(new Date(upcoming[0].valid_until))}</time>
             <p>{upcoming[0].description}</p>
@@ -131,7 +131,7 @@ export default function Home() {
 
       <footer className="shell footer">
         <p>© {new Date(now).getFullYear()} 세일닷컴</p>
-        <p>코드는 소진되거나 계정별 조건이 다를 수 있습니다. 코드 버튼은 제휴 링크로 열리며, 구매 시 수수료를 받을 수 있습니다.</p>
+        <p>자동 수집이 종료되었습니다. 표시된 정보는 마지막 수집 당시의 기록이며, 현재 유효성을 보장하지 않습니다.</p>
       </footer>
     </>
   );

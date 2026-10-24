@@ -17,7 +17,7 @@ export default function CodeButton({ code, href }: { code: string; href: string 
       className="codeButton"
       href={href}
       target="_blank"
-      rel="sponsored noopener noreferrer"
+      rel="noopener noreferrer"
       onClick={copy}
       aria-label={`${code} 복사하고 알리익스프레스 열기`}
     >
